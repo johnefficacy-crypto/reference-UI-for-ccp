@@ -10,7 +10,7 @@
     "question_text": "What can be inferred about the economy of the world from the passage?",
     "language": null,
     "correct_option_id": "227df5b1-130c-40d3-b877-1b09f2b4464f",
-    "reviewer_status": "pending"
+    "reviewer_status": "needs_correction"
   },
   {
     "id": "ef384cab-d616-4299-8b68-78568d1dca8c",
@@ -23,7 +23,7 @@
     "question_text": "Which of the following was/were the objectives of the off -cycle meeting by RBI?",
     "language": null,
     "correct_option_id": "6af81c5c-8f28-42e6-88fb-8200ac0a8b57",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "352bd671-f233-4053-8a94-f5cce5050c70",
@@ -36,7 +36,7 @@
     "question_text": "Which of the following come(s) under the changes introduced by the RBI’s new policies?",
     "language": null,
     "correct_option_id": "9928eba3-ef54-414f-864c-dec67227309f",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "b6c1b177-a3d2-4ed8-8ae3-245e80d9fe1f",
@@ -49,7 +49,7 @@
     "question_text": "Which of the following if correct, most invalidates the arguments in the third passage?",
     "language": null,
     "correct_option_id": "51ebbf4a-a756-4d1d-9751-a89538984c7c",
-    "reviewer_status": "pending"
+    "reviewer_status": "needs_correction"
   },
   {
     "id": "b3de135a-e124-4dec-a1aa-90585abbdb45",
@@ -62,7 +62,7 @@
     "question_text": "Which of the following is true according to the data in the passage?",
     "language": null,
     "correct_option_id": "a2eed86b-be7a-448e-8d62-36754cd88845",
-    "reviewer_status": "pending"
+    "reviewer_status": "needs_correction"
   },
   {
     "id": "75123782-9979-4c2d-8a7d-73120c797eef",
@@ -75,7 +75,7 @@
     "question_text": "What is the primary focus of the author in the passage?",
     "language": null,
     "correct_option_id": "60406fce-76f4-4659-ae69-57b57e5283b6",
-    "reviewer_status": "pending"
+    "reviewer_status": "needs_correction"
   },
   {
     "id": "df63317c-bdab-4271-9c5a-1b2c2982830c",
@@ -88,7 +88,7 @@
     "question_text": "From among the following given options, choose the word most similar in meaning to the highlighted word “gradual”, as used in the context of the passage.",
     "language": null,
     "correct_option_id": "99fca269-f138-45bd-a36d-bc8194ffa87b",
-    "reviewer_status": "pending"
+    "reviewer_status": "needs_correction"
   },
   {
     "id": "c6e7a666-52f0-4cd0-b42c-4d3c78066736",
@@ -101,7 +101,7 @@
     "question_text": "Which of the following words is most opposite in meaning to the highlighted word “deleterious”?",
     "language": null,
     "correct_option_id": "0897be21-8572-43c0-b9b7-a2cf3e5cb007",
-    "reviewer_status": "pending"
+    "reviewer_status": "needs_correction"
   },
   {
     "id": "25a6d571-f42d-4421-af84-c420f787c889",
@@ -114,7 +114,7 @@
     "question_text": "Which is the fourth sentence after rearrangement?",
     "language": null,
     "correct_option_id": "996a984d-2bfd-4862-8394-173b5c0573c7",
-    "reviewer_status": "pending"
+    "reviewer_status": "needs_correction"
   },
   {
     "id": "a59096b1-7614-42ee-a16c-069d2091d0a7",
@@ -127,7 +127,7 @@
     "question_text": "What is the correct rearrangement of the given sentences?",
     "language": null,
     "correct_option_id": "6bc6b03f-dfd4-4635-b6ae-728c5fff04e4",
-    "reviewer_status": "pending"
+    "reviewer_status": "needs_correction"
   },
   {
     "id": "8f4ab2bf-629d-461f-a66d-94cb6dbeef27",
@@ -140,7 +140,7 @@
     "question_text": "Out of the given statements, only one is grammatically correct. Choose that statement as the answer. If all the sentences are incorrect, then choose option (e) as the answer. [Option a: The Union Cabin et recently approved the auction of airwaves...]",
     "language": null,
     "correct_option_id": "d19eb332-bf6c-40bf-ac78-13de2fa4a622",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "f5d5e91c-af19-4a46-971e-1988f5728f83",
@@ -153,7 +153,7 @@
     "question_text": "Out of the given statements, only one is grammatically correct. Choose that statement as the answer. If all the sentences are incorrect, then choose option (e) as the answer. [Option a: Despite India’s open willingness to take part in the develop...]",
     "language": null,
     "correct_option_id": "7efabbf5-fb0d-44f2-b433-a27e61d227ec",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "6d965160-493e-4b9f-ba41-eba323d0624c",
@@ -166,7 +166,7 @@
     "question_text": "Out of the given statements, only one is grammatically correct. Choose that statement as the answer. If all the sentences are incorrect, then choose option (e) as the answer. [Option a: Banksia canei , commonly known as the mountain banksia, is a...]",
     "language": null,
     "correct_option_id": "87d5e92a-ebfb-42a4-8b62-b6cd2317510d",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "25c14b8a-2690-493f-b413-f37607227515",
@@ -179,7 +179,7 @@
     "question_text": "The king released the lion from its cage into the arena where the champion stood, and by t he end, the champion ultimately turned out to be _______________.",
     "language": null,
     "correct_option_id": "36861659-6803-4f44-93e1-21f32c67bfe0",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "e68143e6-4333-414e-bf1c-493ff2df62f7",
@@ -192,7 +192,7 @@
     "question_text": "Observing all the reports, the supervisor noted that the productivity of the wareho use was _____________ for the company’s needs.",
     "language": null,
     "correct_option_id": "4ebacad8-9f57-46f6-81e1-23f39fe0bb73",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "8bf962d0-59b7-4432-9b0b-ed8cc1c4d8fd",
@@ -205,7 +205,7 @@
     "question_text": "As soon as he entered the room, he was unable to see anything due to the stark ____________ inside.",
     "language": null,
     "correct_option_id": "36436840-358f-4aab-896e-61970190b016",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "5d56b020-e123-4f86-9b50-0838afcb3334",
@@ -218,7 +218,7 @@
     "question_text": "Noticing how the dimensions of the bridge were different than that of others in the city, my guest asked me why the bridg e was so _____________________.",
     "language": null,
     "correct_option_id": "0f222db8-ae38-4b9e-b7cb-a84c9cddf914",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "82f16a8f-5894-446b-b16c-b2a82a0f8697",
@@ -231,7 +231,7 @@
     "question_text": "(i) BIMSTEC has, finally, taken measures to strengthen the Secretariat, (ii) some members are yet to extend adequate personnel support to it.",
     "language": null,
     "correct_option_id": "689c4c5a-2bd2-4887-87a6-87257961eccb",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "4ff3c2c3-6c64-4d6c-bf0f-447aa3183c49",
@@ -244,7 +244,7 @@
     "question_text": "(i) Earlier in March, Musk said he would put the deal \"temporarily on hold\", (ii) he waits for the social media company to provide more of its data.",
     "language": null,
     "correct_option_id": "a5db2680-1690-4d11-aa00-188d9c67b9b9",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "36910d92-0e20-4d02-ab04-dd07dd6b1852",
@@ -257,7 +257,7 @@
     "question_text": "(i) There are nearly 500 plus heritage buildings dotting the skyline of Mysuru, (ii) only about 150 are notified while the rest are not declared as heritage buildings.",
     "language": null,
     "correct_option_id": "f1ffa97e-dd4c-42cb-90cc-a23f1469bb3d",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "dcdc4a16-21c3-4d49-a088-92378686f825",
@@ -270,7 +270,7 @@
     "question_text": "Which of the following is not a benefit of adopting a vegetarian diet?",
     "language": null,
     "correct_option_id": "662d5822-48de-4991-acc7-d4666c75f52f",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "7eabd9c3-f15e-4950-84e7-44ecee473a60",
@@ -283,7 +283,7 @@
     "question_text": "Which of the following qualifies as a difference between a vegetarian and a non -vegetarian diet?",
     "language": null,
     "correct_option_id": "60c18955-2ae6-4076-b320-8ed560a1001a",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "3446de24-1e14-47eb-852f-b83170f6e897",
@@ -296,7 +296,7 @@
     "question_text": "How is proper planning important for a vegetarian li festyle?",
     "language": null,
     "correct_option_id": "93468bf0-0d13-41e3-9682-040259bc5532",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "4c028d7f-9b33-4086-9d43-8d2b5958f84d",
@@ -309,7 +309,7 @@
     "question_text": "Which of the following ways can help in making vegetarian diets more interesting to adopt according to the passage?",
     "language": null,
     "correct_option_id": "3b4c1bdc-7db6-4cce-a368-bcc5b87e7b5e",
-    "reviewer_status": "pending"
+    "reviewer_status": "needs_correction"
   },
   {
     "id": "4a897f7b-647b-4708-b709-ff7943bb62e7",
@@ -322,7 +322,7 @@
     "question_text": "Which of the following words can most appropriately be substituted in the blank in the passage?",
     "language": null,
     "correct_option_id": "98e1183b-deb1-4db4-a270-fbf91f56fb88",
-    "reviewer_status": "pending"
+    "reviewer_status": "needs_correction"
   },
   {
     "id": "b89cbee0-e42a-4a66-9ac5-eaac6d4fefde",
@@ -335,7 +335,7 @@
     "question_text": "Which of the following words is the most similar in its definition as the highlighted word adequate , the definition corresponding to its usage in the passage?",
     "language": null,
     "correct_option_id": "f3b58510-ed99-4088-961b-6f63493de820",
-    "reviewer_status": "pending"
+    "reviewer_status": "needs_correction"
   },
   {
     "id": "bd2f12fb-9d9d-4946-ae38-8b2eba66a396",
@@ -348,7 +348,7 @@
     "question_text": "Choose the word from the following options which most aptly acts as an antonym to the highlighted word beneficial as it is used in the context of the passage.",
     "language": null,
     "correct_option_id": "29c9aab0-1261-4d74-9337-c93e6686de18",
-    "reviewer_status": "pending"
+    "reviewer_status": "needs_correction"
   },
   {
     "id": "a1a30432-cf3f-47d5-9900-91e0ac1f0f86",
@@ -361,7 +361,7 @@
     "question_text": "Get a second wind (i) Even after dissatisfactory reports on his work, his manager decided to give him anoth er chanc e. (ii) After reaching a halt in his work, he found himself able to work again after taking a break. (iii) He disinvested from the stocks after he saw another stock’s prices going up at an exciting rate.",
     "language": null,
     "correct_option_id": "3f025c4b-c0d7-48a9-8b52-f1e76fda313d",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "fd00b58b-f3ee-492a-b26b-bdb0f165c293",
@@ -374,7 +374,7 @@
     "question_text": "Like two peas in a pod (i) Tim left the party immediately after John did, following in his footsteps. (ii) As soon as the waves subsided, they both realised they were lost and stranded in the open sea. (iii) The two employees joined the firm at the same time can always be found hanging out together.",
     "language": null,
     "correct_option_id": "5de8fbbb-2406-4282-abd8-ca89cb50b1ff",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "c3ee47ea-1cd0-47fa-bd3f-a457807458d6",
@@ -387,7 +387,7 @@
     "question_text": "Once bitten, twice shy (i) He’s very cautious while cr ossing the road after just having recovered from a road accident injury. (ii) After failing the test, he decided to study diligently, but very soon went back to his old habits. (iii) The firm has refrained from actively investing in stocks ever since suffe ring losses in the recent financial crisis.",
     "language": null,
     "correct_option_id": "da718b48-6feb-464e-9c38-d68dbb2891fa",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "9b27fd99-4311-42aa-a347-9e9f5bd3044d",
@@ -400,7 +400,7 @@
     "question_text": "Which of the following time for Chemistry class is scheduled?",
     "language": null,
     "correct_option_id": "a0cf0460-4f58-4c5c-8dd2-a84d5bd5bae1",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "1118459d-a10b-4e04-b24e-7274fdb65766",
@@ -413,7 +413,7 @@
     "question_text": "Which of the following subject is scheduled at last?",
     "language": null,
     "correct_option_id": "d0551995-030f-4357-b583-8327ae36de9d",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "e91fd683-367a-4eef-be0f-113ca19135b6",
@@ -426,7 +426,7 @@
     "question_text": "How many classes scheduled between Chemistry and Maths?",
     "language": null,
     "correct_option_id": "7c4466cf-4028-4d21-a8c0-9cc6da075956",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "a7f11e47-0c7a-428b-8762-34b6f61c6a00",
@@ -439,7 +439,7 @@
     "question_text": "____ class is scheduled 150 minutes after Maths clas s?",
     "language": null,
     "correct_option_id": "9acc32a4-1371-4591-a44f-59787cdb0859",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "9f5e7f68-7f12-4b78-8917-1f38f8ed8ff9",
@@ -452,7 +452,7 @@
     "question_text": "The number of classes scheduled between Physics and Chemistry is same as the number of classes scheduled before ____ class .",
     "language": null,
     "correct_option_id": "df2ed105-d885-4654-8a93-99dbfbae92b3",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "bd2ec363-02ba-4d19-b1a5-23ed5ff724b1",
@@ -465,7 +465,7 @@
     "question_text": "Which among the following word is third from the right end in step III?",
     "language": null,
     "correct_option_id": "8648e0ab-f9dc-496b-8400-b2c89c622e8f",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "28000881-0b35-44be-9d28-486f0137e417",
@@ -478,7 +478,7 @@
     "question_text": "How many letters are there between third letter of the second word from the left end in step II and second letter of the fourth word from the right end in step III according to the English alphabetical series?",
     "language": null,
     "correct_option_id": "f99b9ea7-7390-4a40-9f4b-a4bedf5c6cdf",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "fcb6316e-4b7f-48cd-ac43-40f6cb97bc9f",
@@ -491,7 +491,7 @@
     "question_text": "What is the sum of the even numbers appeared in step IV?",
     "language": null,
     "correct_option_id": "15a8b53a-40a3-4e1e-a227-8d4c14c02776",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "a100c4ea-6496-4532-a977-21775de40e48",
@@ -504,7 +504,7 @@
     "question_text": "What is the difference between the numbers which are second from the right end in step IV and third from the left end in step V?",
     "language": null,
     "correct_option_id": "4028cf87-6986-40e1-8a1b-16457c6ef851",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "db6b34e4-2de1-44c4-a7d1-02ea70d4d773",
@@ -517,7 +517,7 @@
     "question_text": "Which among the following word is second to the left of third word from the right end in step II?",
     "language": null,
     "correct_option_id": "b691aa52-832e-4b16-a934-9d7c3d5cd365",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "5a5fb576-c115-485b-87ac-7474820b7a0f",
@@ -530,7 +530,7 @@
     "question_text": "What could be the fallout of the new excise policy approved by Delhi government?",
     "language": null,
     "correct_option_id": "b9184775-a695-4832-bf4b-38998945dbeb",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "968c25b2-48d1-4bf7-901c-3c25b66ee02b",
@@ -543,7 +543,7 @@
     "question_text": "Which of the following can be postulated from the above statement? (I) Central government is not in the favour of move by Delhi Government. (II) Delhi government wants to increase their revenue (III) Annual revenue of states who has forbidden the liquor is less in compare to Delhi.",
     "language": null,
     "correct_option_id": "11cb5742-1a3e-4304-a380-f33737f8b43a",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "ba757446-3ab6-48c0-ac54-19be7814be16",
@@ -556,7 +556,7 @@
     "question_text": "Who among the following goes to Korea?",
     "language": null,
     "correct_option_id": "608d07fa-f74f-401f-a5dd-9a9f0ea2b91f",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "e17365e5-a70d-453d-8339-f4b26bdad071",
@@ -569,7 +569,7 @@
     "question_text": "Four of the following five are alike in a certain way and thus form a group. Who among the following does not belong to the group? [Option a: A...]",
     "language": null,
     "correct_option_id": "f88488b9-cbf3-4fe6-8986-ef7d849c7392",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "96a1ecb9-6049-4f9d-a048-203f7566ff19",
@@ -582,7 +582,7 @@
     "question_text": "Which among the following statement(s) is/are not true?",
     "language": null,
     "correct_option_id": "9de6ab92-0dd4-4a22-8be3-253c38abd62d",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "84c15ec6-0735-48a9-a993-16c0638ba83d",
@@ -595,7 +595,7 @@
     "question_text": "In which among the following floor and flat does G live?",
     "language": null,
     "correct_option_id": "c44d86d3-6ce4-4504-ab08-826c9cd85589",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "a27e98ac-8a2d-4f74-8148-ea86944c341c",
@@ -608,7 +608,7 @@
     "question_text": "Which a mong the following pair of persons live to the south west of G?",
     "language": null,
     "correct_option_id": "42cb2831-4889-4f50-8cc8-cab4b8de2717",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "72689e64-4cf2-4018-a7d7-b24399d16027",
@@ -621,7 +621,7 @@
     "question_text": "How X is related to W?",
     "language": null,
     "correct_option_id": "02990ca8-8994-4fe7-83d1-82b699fb1328",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "de4707c8-6deb-4b4f-8909-71cb7ab75688",
@@ -634,7 +634,7 @@
     "question_text": "What is the sum of the ages of X mother’s and K?",
     "language": null,
     "correct_option_id": "2b303f00-451a-4768-a5f7-3e348127f898",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "9f53ba44-75bf-4b06-8d6d-31704a74b8b8",
@@ -647,7 +647,7 @@
     "question_text": "Who among the following is the child of T?",
     "language": null,
     "correct_option_id": "edf8ee66-fbac-452b-a881-c083397a64dc",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "ba379d86-f144-4f63-8d83-91ba55e1f6fe",
@@ -660,7 +660,7 @@
     "question_text": "What is the ratio of the ages of P’s uncle and S’s daughter?",
     "language": null,
     "correct_option_id": "1c7a2440-8a75-4c9e-9c63-d24c1a46bd6c",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "b9e533b6-c5b1-4c68-944e-cc65f179abc5",
@@ -673,7 +673,7 @@
     "question_text": "Seven persons i.e. P , Q, R, S, T , U and V attend the business meeting on different consecutive days starts from Tuesday but not necessarily in the same order. Find how many persons attend the meeting between U and T? Statement I: Three persons attend the meeting between P and T . U attends the meeting one of the days before T but not the first one to attend the meeting. Statement II: Two persons attend the meeting between T and S. The number of persons attends the meeting after T is two less than the number of persons attends the meeting before P . Statement III: More than two persons attend the meeting between U and V. V attends the meeting after S.",
     "language": null,
     "correct_option_id": "72e69962-9057-48ac-ab7c-6769761c12c1",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "26ba4ad5-c8ad-41d9-a6bf-ab2d724a4538",
@@ -686,7 +686,7 @@
     "question_text": "Eight persons - A, B, C, D, E, F, G and H sit around a square table such that four of them sit at the corner of the table and the remaining four sit at the middle of the side of the table but not necessarily in the same order . All of them face towards the centre. Find who among the following sits third to the right of H? Statement I: E is an immediate neighbour of G who sits second to the left of H. A sits to the immediate left of E. Statement II: The number of persons sits between H and C when counted to the left of H is same as the number of persons sits between F and B when counted to the right of F. Statement III: F and D both didn’t sit at the middle of the side. F sits second to the left of D. F doesn’t sit adjacent to G.",
     "language": null,
     "correct_option_id": "9d6d2808-72e9-49b8-8326-66f1aada533d",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "5f0e89ac-cbef-4269-9dbd-f8ead0485fcb",
@@ -699,7 +699,7 @@
     "question_text": "Seven persons i.e., P, Q, R, S, T, U and V have different weight but not necessarily in the same order. Find the third heaviest person among all? Statement I: R is heavier than at least two persons. S is heavier than R but lighter than U. Statement II: Three persons have weight between P and U. Q is just lighter than U. Statement III: Neither T nor V is the heaviest persons. R is not heavier than U.",
     "language": null,
     "correct_option_id": "b90f6ee1-72fb-41d1-bec0-096c35f560a4",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "d95a77e4-ea60-498c-882c-213296987918",
@@ -712,7 +712,7 @@
     "question_text": "Healthy diet, Regular exercise and Meditation are three key points to maintain your immunity level -Statement given by Health Ministry after cases of corona has been increased rapidly. Uses of mask, sanitizer has been encouraged. Washing hands with soaps and social distancing has been advised. Which of the following diminish the advisory by Health Ministry?",
     "language": null,
     "correct_option_id": "aafb4c62-0008-4f8b-8f78-88d74739509d",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "6c83ff93-4acf-431a-b5d8-fe071032554c",
@@ -725,7 +725,7 @@
     "question_text": "Statement: The Supreme Court said the government’s new rules to regulate OTT (over -the-top) platforms lacked teeth to punish violators or to screen offensive content. There is no provision for punishment or fine. What is the mechanism to control and regulate these platforms?” Justice Ashok Bhushan, heading a Bench, asked Solicitor General Tushar Mehta. Mr. Mehta agreed and said, “We can come out with a draft and place it before the court,” he stated. Which of the following can be assumed from the above statement? (I) Youth generations are diverting to wrong direction after watching web series released on OTT containing abusive content. (II) Producer and Director of a recently launched web series are sitting on a strike after Government puts a ban on its further telecast. (III) Government should regulate the OTT and it must be screened by a panel member before release.",
     "language": null,
     "correct_option_id": "26559333-e312-4e36-9925-e69ba518e8d5",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "2e037f61-62d7-4a96-974d-40d57a6515c2",
@@ -738,7 +738,7 @@
     "question_text": "Statements: All Dunzo are Zepto. All Zepto are Zomato. Some Zomato is not Otipy. No Otipy is a Drink prime. Conclusions:",
     "language": null,
     "correct_option_id": "77924823-34d5-4873-ac6f-8bba32aff155",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "7b759139-4b87-49c7-85c1-3671f710b30c",
@@ -751,7 +751,7 @@
     "question_text": "Statements: Some Laptop are Grey. All Grey are User. Some User are Wi-fi. All User are Internet. Conclusions:",
     "language": null,
     "correct_option_id": "eb24b344-d3d3-4f70-a487-b9bf6634b1db",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "2dfb7b54-56c1-41f7-883a-e7f253e9c9fd",
@@ -764,7 +764,7 @@
     "question_text": "Statements: Only Paytm is G-pay. Only a few Paytm is UPI. Only a few Phone pe are UPI. All Phone pe are Bharat pay. Conclusions:",
     "language": null,
     "correct_option_id": "22af23ac-589b-46d9-a0d5-39ede17781f2",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "60a1f453-cef4-4839-af1f-63c611f5cee9",
@@ -777,7 +777,7 @@
     "question_text": "Statements: Only a few Wicket is Ball. Only a few Ground is Ball. All Ground are Baller. No Wicket is Baller. Conclusions:",
     "language": null,
     "correct_option_id": "5f886455-e1e3-48d1-8031-7e6d5e7b7076",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "363b8de2-c8d7-4f27-a0fc-497e34520773",
@@ -790,7 +790,7 @@
     "question_text": "What is the sum of the ages of F and the person who was born in 2002?",
     "language": null,
     "correct_option_id": "e0900290-9d83-4189-abed-f2f25d0721c4",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "78ff4c39-1788-44e7-a4ec-9b40bec2718d",
@@ -803,7 +803,7 @@
     "question_text": "How many persons were born between C and the one whose age is 11 years?",
     "language": null,
     "correct_option_id": "f6cda20f-a07d-4ec4-83ba-774dafc4d62d",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "204bc12b-6f9f-4786-8c25-02cb317724f8",
@@ -816,7 +816,7 @@
     "question_text": "Who among the following is the youngest person?",
     "language": null,
     "correct_option_id": "398cbc14-2828-49cb-91a9-4f694e84c7c5",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "61555adb-23c8-4bdb-9dc9-1e324d9d5732",
@@ -829,7 +829,7 @@
     "question_text": "Which among the following statement(s) is/are true?",
     "language": null,
     "correct_option_id": "21784e62-4fd7-493e-8769-b1f7d6e2f1ff",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "a098a433-3c0b-44e1-a08e-9cd9830e5228",
@@ -842,7 +842,7 @@
     "question_text": "Four of the following five are alike in a certain way and thus form a group. Who among the following does not belong to the group? [Option a: F...]",
     "language": null,
     "correct_option_id": "ccf6b42f-d69f-4c56-8f6a-eb087efe1d68",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "d4f02165-e9e3-495e-ae45-b253ea65e79b",
@@ -855,7 +855,7 @@
     "question_text": "What is the code for “Public Health” in the given code language?",
     "language": null,
     "correct_option_id": "7082f0ea-0e43-4361-8a70-e43d8ec2ab93",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "1dcf7b49-d44c-473f-88d4-2b50e939334f",
@@ -868,7 +868,7 @@
     "question_text": "The code “9RR 28VI” is coded for which of the following word?",
     "language": null,
     "correct_option_id": "733df7b5-20c2-4e23-a40c-e5b2e96c0426",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "f54d5545-3b91-4480-a7af-c71a5282ec84",
@@ -881,7 +881,7 @@
     "question_text": "What is the code for “German language” in the given code language?",
     "language": null,
     "correct_option_id": "cc4679d7-c67b-4331-bb44-3dd1b871d3df",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "55db1819-1aba-4cd7-b3f5-80e6de631ad6",
@@ -894,7 +894,7 @@
     "question_text": "Find the sum of the distance walk by W and F?",
     "language": null,
     "correct_option_id": "a82d19b8-67bf-47af-b095-846df5c2da44",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "aec19373-d886-4a49-a548-de39a939ca2a",
@@ -907,7 +907,7 @@
     "question_text": "In which direction is point C with respect to point Q?",
     "language": null,
     "correct_option_id": "aa600bba-9555-425c-b9e1-9d1b7940b1f2",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "5fc97189-e9a9-45f6-9b13-41ec20ebb0b8",
@@ -920,7 +920,7 @@
     "question_text": "What is the total distance between S and the one who sits immediate right of D?",
     "language": null,
     "correct_option_id": "ccea7f96-36a8-41d8-9760-3bece8b4f7c5",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "36376d88-1522-44db-99e7-6616dc1a4464",
@@ -933,7 +933,7 @@
     "question_text": "Four of the following five are alike in a certain way and hence form a group. Which of the following does not belong to that group? [Option a: W...]",
     "language": null,
     "correct_option_id": "e8d0286c-7a33-4b71-a0b5-4097ac65910f",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "91fc50b0-807a-4cf2-85e5-9143c05e5b1b",
@@ -946,7 +946,7 @@
     "question_text": "Which of the following statement is not true?",
     "language": null,
     "correct_option_id": "34e31734-5612-46fe-a8c1-f28c86f1ca0b",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "fdc1b6a2-370f-46ea-9a69-be4714bcac2b",
@@ -959,7 +959,7 @@
     "question_text": "It is a well -known fact that one can learn and remember things easily if it has got both audio and visual aids instead of just audio. Keeping this thing in mind, many study sessions are taken where students are taught with the help of videos. Cinema has been popular since its inception. People came to realize that students can remember more through videos than just from verbal sessions as they observed kids remembering dialogue of the movie, they watched a week ago but nothing from the lecture they attended in the morning. Which of the following weakens the concept discussed in above statement?",
     "language": null,
     "correct_option_id": "60452cf3-924a-4cce-976c-094c35c70a72",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "f0bc42b4-e2c9-428f-88a9-a547d7d0b055",
@@ -972,7 +972,7 @@
     "question_text": "Obesity is a medical condition in which excess body fat has accumulated to the extent that it may have an adverse effect on a person's health, leading to reduced life expectancy and/or increased health problems. In other words, it means to be dangerously overweight. Obesity is a leading preventable cause of death worldwide, with increasing prevalence in adults and children, and authorities view it as one of the most serious public health problems of the 21st century. Which of the following can be concluded from the above statement?",
     "language": null,
     "correct_option_id": "80cd0842-8e59-422b-9041-2ce3d2f8c744",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "38540584-0931-46b3-829e-f936aa1ca8c8",
@@ -985,7 +985,7 @@
     "question_text": "I. The central government has started to build 500 beds with the help of DRDO in Mumbai after 5000 covid cases come in a single day. II. Amid surge in covid cases two players of RCB have withdrawn their name form ongoing IPL cricket match.",
     "language": null,
     "correct_option_id": "da45acd9-5be6-45a8-8a0b-11a6d1f512ba",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "0dc8f7f3-eb01-4163-a56e-d171d886aa50",
@@ -998,7 +998,7 @@
     "question_text": "Study the following digit -letter -symbol sequence carefully and answer the question given below: @ 7 F 6 G © Z J L 2 € D ¥ M # 8C % B K 1 & A W 5 P E 4 Q How many such symbols are there in the above sequence, each of which is immediately preceded by a consonant and immediately followed by a number?",
     "language": null,
     "correct_option_id": "82869e44-069e-4f3c-bcf7-5a0cc3d0cc23",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "c90b371c-7326-4e74-b939-16a6203df5d7",
@@ -1011,7 +1011,7 @@
     "question_text": "Who among the following sits 8th to the right of T?",
     "language": null,
     "correct_option_id": "0ed271d0-0e2f-4ff6-aba4-4cb69cafb4db",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "73d7b2e7-b70b-4b1d-92fd-469b9bdb14cb",
@@ -1024,7 +1024,7 @@
     "question_text": "___ faces to the one who likes ____ colour?",
     "language": null,
     "correct_option_id": "12befd1f-c81d-4349-b220-bf27a10d29e0",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "bd057ce1-3655-49e3-adb0-bd67a87ded45",
@@ -1037,7 +1037,7 @@
     "question_text": "How many persons sit around the table?",
     "language": null,
     "correct_option_id": "9f76eba6-e153-4b81-9d68-d7c11bb34348",
-    "reviewer_status": "pending"
+    "reviewer_status": "needs_correction"
   },
   {
     "id": "cb89b7e1-d510-4bb1-a569-2611e0b7c168",
@@ -1050,7 +1050,7 @@
     "question_text": "Four of the following five are alike in a certain way and hence form a group. Which of the following does not belong to that group? [Option a: T-W...]",
     "language": null,
     "correct_option_id": "770e865c-5b8b-4e20-8513-b3b9390ccf9b",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "0fd67a89-e782-4ad3-b314-4f7cf27dc191",
@@ -1063,7 +1063,7 @@
     "question_text": "If T and Q interchanged their position then, how many persons sit between Q and A when counted to the right of Q?",
     "language": null,
     "correct_option_id": "1cf220a4-ecbd-44ff-9d40-f74af9513ac6",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "7e8fc847-9e2e-4925-8856-3142fe780b5e",
@@ -1076,7 +1076,7 @@
     "question_text": "I. This year Bihar has record result of 98% in Intermediate Board Examination. II. Transport facility has been improved in Bihar in recent years.",
     "language": null,
     "correct_option_id": "e8c57084-7522-4e76-88d2-1533e475bcd8",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "55de6b49-300e-4690-8476-ef74c9eeafbf",
@@ -1089,7 +1089,7 @@
     "question_text": "In which direction is point P with respect to point A?",
     "language": null,
     "correct_option_id": "ddfb659e-f62b-4df2-b653-75af71b27f69",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "1e3f9176-70fd-4b4e-bd2d-6192f383b72e",
@@ -1102,7 +1102,7 @@
     "question_text": "Four of the following five are alike in a certain way and hence form a group. Which of the following does not belong to that group? [Option a: Q-C...]",
     "language": null,
     "correct_option_id": "e5f80a2d-f0e9-4848-80f4-3df3a4a0418a",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "76ca1621-f5a0-4484-a457-d2ac85385c2e",
@@ -1115,7 +1115,7 @@
     "question_text": "Which among the following combination is correct?",
     "language": null,
     "correct_option_id": "5965ea23-8494-423c-afeb-b804102743aa",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "14424d63-fb6b-44e7-a752-46cd178d3f17",
@@ -1128,7 +1128,7 @@
     "question_text": "How many boxes are kept between box S and the box which contains clothes?",
     "language": null,
     "correct_option_id": "88277547-8986-4d6f-a252-00d2feeafea0",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "0dc05cfa-a1a9-4d82-991d-1221b354acde",
@@ -1141,7 +1141,7 @@
     "question_text": "Which among the following box contains marker?",
     "language": null,
     "correct_option_id": "bff2f256-57fe-4ae6-bcf5-1cc227dfe2d7",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "75b80d7a-d622-4d6f-ab3c-883f57c814cb",
@@ -1154,7 +1154,7 @@
     "question_text": "If all the boxes are arranged from top to bottom in an alphabetical order then the position of how many boxes remains unchanged?",
     "language": null,
     "correct_option_id": "963a8b9f-0262-450e-9cea-f819816d64bb",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "8ad554e3-a31b-497c-825d-d07e6e65acd2",
@@ -1167,7 +1167,7 @@
     "question_text": "In which of the following shelf does the box contain pen is kept?",
     "language": null,
     "correct_option_id": "371e268b-9047-4348-a38c-c404b9d161a8",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "490c0eff-f63b-4928-98f8-3176fe8dca41",
@@ -1180,7 +1180,7 @@
     "question_text": "The lateral surface area of a cube is 420 cm2 less than lateral surface area of a cylinder and the height of cylinder is 2x cm. If radius of the cylinder is x cm and side of the cube is equal to the radius of cylinder, then find the area (approximate) of a circle which radius is (x+3) cm.",
     "language": null,
     "correct_option_id": "c257ad59-006b-4cf0-93c5-b28d193fb480",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "cd0e108c-bb6c-4bd3-8b8f-c4724df07cc0",
@@ -1193,7 +1193,7 @@
     "question_text": "The marked price of an article is 1.45 times its cost price and the selling price of the article is Rs. 750. If profit percentage of shopkeeper on the article is 25%, then find the discount (in %) allowed by the shopkeeper.",
     "language": null,
     "correct_option_id": "141d29ce-c0c7-4267-8ef7-af4a03ccdd3c",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "1ce8b89d-e728-47d5-af18-ee5ae22669eb",
@@ -1206,7 +1206,7 @@
     "question_text": "Vessel A contains 80 liter milk and 12 liters water, while vessel B contains 156 liters mixture of milk and water are in the ratio of 10 : 3 respectively. If vessel A and B mixed into another vessel C which already contains 12 liters waters, then find the percentage of water in vessel C.",
     "language": null,
     "correct_option_id": "3e53c7a6-bb13-490a-a761-b54d17cb7948",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "6de53194-4ecd-47e4-9d26-6e63e8a645b3",
@@ -1219,7 +1219,7 @@
     "question_text": "P and Q started a business together and investment of P is Rs. 2000 more than that of Q. After eight months, P left the business. At the end of a year, they get total profit of Rs. 6800 and profit share of P is Rs. 400X . Find the investment of Q (Given, 6X3 = 3090 – √324 ).",
     "language": null,
     "correct_option_id": "52ad6c8f-a062-4f64-b350-0f728205bcdf",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "30c89a30-c9ef-4e22-80d3-d879ec4de1f3",
@@ -1232,7 +1232,7 @@
     "question_text": "A man invested Rs. 6500 on compound interest at the rate of 10% p.a. for two years in scheme A. Find the total interest (approximate) received by man on investing the amount he received from scheme A again in the same scheme for two years .",
     "language": null,
     "correct_option_id": "cf8978c1-8e92-4968-8c18-fe1ca5c2dce5",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "9d9dae9c-3c86-4be2-ba19-7b5477b51a14",
@@ -1245,7 +1245,7 @@
     "question_text": "If total amount spends by A on EMI and house rent is 50% of his total monthly income and total amount pay by B for EMI is Rs. 15000, then find total saving of A (Given, A and B had only two expanses from their monthly income i.e., EMI and house rent).",
     "language": null,
     "correct_option_id": "b3aefe1a-edc8-43fc-83ea-67dae5bcd6e4",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "a69e7586-f670-45ed-80f1-9aff4dab7a3a",
@@ -1258,7 +1258,7 @@
     "question_text": "The amount spends on house rent by A is Rs. 5000 more than that of B and total amount spends on house rent paid by A is Rs. 3000 more than total amount pays by him for EMI. If house rend paid by B is 1 3rd of the amount pays by A for EMI, then which of the following possible monthly income (in Rs.) of A.",
     "language": null,
     "correct_option_id": "f889467c-b939-4923-8a44-7679c2f35e05",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "d0307cd2-4509-44d8-b799-445bdb5366d6",
@@ -1271,7 +1271,7 @@
     "question_text": "Quantity I: Value of ‘ x’ for equation ( √px)2 = p4 √p16 Quantity II: Value of ‘ y’ for equation √y4 = √256",
     "language": null,
     "correct_option_id": "69b54e2a-4b24-4852-a34d-6dce2bdd1d17",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "3d527df2-33c0-4f23-8215-bf08d26dde71",
@@ -1284,7 +1284,7 @@
     "question_text": "Given, p > 1 > q > 0. Quantity I: Value of p3−q3 p−q −3pq. Quantity II: Value of (1 −1 q)",
     "language": null,
     "correct_option_id": "7c70cb87-a4bc-4aae-8839-54621e31b643",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "81da5343-1342-42b1-a837-0a61072d7e5f",
@@ -1297,7 +1297,7 @@
     "question_text": "Find the ratio of smallest root of equation I to the smallest root of equation II. (a) 1 : 2",
     "language": null,
     "correct_option_id": "8b59716b-31ab-4356-b8c0-41267df12315",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "114145a9-20b4-47ab-9dba-0d5996458b97",
@@ -1310,7 +1310,7 @@
     "question_text": "Find the value of (p + q).",
     "language": null,
     "correct_option_id": "e9da09b3-5714-46f6-8e75-caa45f4f0880",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "3e0ea7d9-2960-421b-a530-d917f5e1e89a",
@@ -1323,7 +1323,7 @@
     "question_text": "Find the both roots of equation (p+q)2a2 + (3pq +1) a −6=0.",
     "language": null,
     "correct_option_id": "6926d58c-b009-40ea-984d-f8dc48525787",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "832ace4c-c6ec-4777-ab01-10682992d04a",
@@ -1336,7 +1336,7 @@
     "question_text": "If X is the correct number which replace the wrong number of the series 229, 256, 320, 441, 661, 1004, then which of following statement/s is or are correct. I. X is completely divisible by 15. II. (X+2) is a prime number.",
     "language": null,
     "correct_option_id": "7c22a465-59cd-4b2d-9253-1d0645d4420c",
-    "reviewer_status": "pending"
+    "reviewer_status": "needs_correction"
   },
   {
     "id": "afdbacce-c588-48f8-af3d-1e991d407e80",
@@ -1349,7 +1349,7 @@
     "question_text": "Series (A): 1332, 612, 492, Y, 462, 460 If Y−18 5 is a fourth term of series (B) and follow same pattern as of the series (A), then find the first term of series (B).",
     "language": null,
     "correct_option_id": "424f4105-6e3f-4196-a5db-3225e08375f5",
-    "reviewer_status": "pending"
+    "reviewer_status": "needs_correction"
   },
   {
     "id": "14db0b2a-abb3-4f19-9dd9-bcc1756ffe66",
@@ -1362,7 +1362,7 @@
     "question_text": "49, ?, 82, 145, 269, 484, 826 If ?=A+6, then find the nearest square of A.",
     "language": null,
     "correct_option_id": "8e793bec-6417-42cf-9e97-93a6122eb16a",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "b0b87e84-1199-46b5-a526-78ce90bcc022",
@@ -1375,7 +1375,7 @@
     "question_text": "P , Q and R entered into a partnership. After ten months, P and Q left the business. Find the total profit at the end of year. Statement I. The profit share of P & R together is 55% more than that of Q. Statement II. Annual profit of R is Rs. 450 less than that of P and annual profit of Q is 80% of R. Statement III. Total amount invested by R & Q are in the ratio of 5:4 respectively.",
     "language": null,
     "correct_option_id": "87ce4236-3d1a-4cd0-8a84-cbe5f5c209e0",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "7a26a874-b51b-4003-aca0-e253586b721e",
@@ -1388,7 +1388,7 @@
     "question_text": "Find the downstream speed of boat. Statement I . Difference between downstream speed of boat and speed of the boat in still water is 12 km/hr. Statement II . Ratio of upstream speed of boat to speed of boat in still water is 4:7 respectively. Statement III . The sum of time taken by the boat to cover 280 km in downstream and upstream is 24.5 hours.",
     "language": null,
     "correct_option_id": "8e05f519-1157-40c8-b137-271666909f6c",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "6360db00-bbc5-461b-9585-e90019f525cb",
@@ -1401,7 +1401,7 @@
     "question_text": "Two train A and B running in same direction and cross each other i n 32X seconds. Find the value of X. Statement I. Train B crosses a 140 meters bridge in 22.4 seconds. Statement II. Train A can cross a tree in 19 seconds. Statement III. Length of train A is equal to length of train B.",
     "language": null,
     "correct_option_id": "e0a09849-c240-40cd-a0d6-a20bd50d4c34",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "fd0e12e3-98ba-4aaf-a620-412fe21144a4",
@@ -1414,7 +1414,7 @@
     "question_text": "Find the difference between age of Z five years hence to age of X seven years ago. Statement I. Age of Z eight years hence will be eight years Statement II. Twelve years hence, the age of Y will be 52 years. Ratio of present age of X to Y is 3:5 respectively. Statement III. The age of X of 50% more than that of Z.",
     "language": null,
     "correct_option_id": "56e28a4e-b8c5-43dc-9b7d-efab7a5bbed4",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "257b64c1-8b8f-45d3-ae06-aae308be4295",
@@ -1427,7 +1427,7 @@
     "question_text": "Find the ratio of people who like only car C to people who like car B.",
     "language": null,
     "correct_option_id": "0f77d666-aac8-4e88-b7bf-6dca2ff507ae",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "77751b6a-81ac-4de8-8eee-6c35b9e3969d",
@@ -1440,7 +1440,7 @@
     "question_text": "People like only car A&C together is what percentage people like at least two cars?",
     "language": null,
     "correct_option_id": "340c13b5-0610-4261-81ea-4391a10cc53b",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "9e362d9c-3625-4cfe-803d-21b35bf97570",
@@ -1453,7 +1453,7 @@
     "question_text": "Ratio of males to females who like only car A is 11:6 respectively. Find the people who like only car B&C together is how much more/less than males who like only car A?",
     "language": null,
     "correct_option_id": "384698cf-875e-466c-9d6f-3f2e0852f829",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "101f8b0b-71ec-48e8-aa11-f3c7aab5871a",
@@ -1466,7 +1466,7 @@
     "question_text": "If 550 people living in the society, then find the people who do not like any of the three cars.",
     "language": null,
     "correct_option_id": "5c33f599-7997-4945-927d-826b6fc14b56",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "44055e09-b61b-47bb-9db5-b40ba7fb91f5",
@@ -1479,7 +1479,7 @@
     "question_text": "People who like only car A and only car B together is how much percentage more/less than sum of the people who like only car A&B together and people who like only car C?",
     "language": null,
     "correct_option_id": "80232de3-356b-4c7d-8831-c287b9bae0b2",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "732c0d4a-a43a-426c-b1a2-f08229aa177e",
@@ -1492,6 +1492,6 @@
     "question_text": "Length of train A is 60 meters less than train B and they cross a pole in 24 secs & 108 7 secs respectively. If speed of train B is 126 km/hr and length of a bridge is 5/9th of length of train B, then find the time taken by train A to cross the bridge.",
     "language": null,
     "correct_option_id": "2b7153df-aa6f-4f38-9458-c113a22c2b04",
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   }
 ]
