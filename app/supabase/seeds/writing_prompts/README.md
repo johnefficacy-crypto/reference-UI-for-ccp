@@ -56,6 +56,17 @@ UUID, the live IDs differ and `cms_bulk_upsert_writing_prompts` fails
 subject/topic/microtopic ID is the live, active, correctly-parented row — and
 fails otherwise. Re-map the IDs to the live values if it fails.
 
+**Re-map at import, never in the repo.** The re-map applies to the operator's
+copy of the rows being POSTed. The committed JSON stays baked, because it is the
+canonical artifact every test and every migration-built database (CI included)
+resolves against — `grammar` there is `md5('ewp:topic:grammar')`
+(`54adbabc-…`), whatever a given live database happens to carry. `f93c32b`
+re-mapped the committed `03_grammar.json` to a live value and turned `main` red
+for everyone: two seed tests plus both PG-gated import tests. A live/baked
+divergence that preflight reports is resolved on the live side — an operator
+re-map now, or a forward migration that aligns the live taxonomy — not by
+editing this file.
+
 ```bash
 EWP_PG_DSN=postgres://... python3 preflight_ids.py
 ```
