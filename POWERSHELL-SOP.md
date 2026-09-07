@@ -213,3 +213,43 @@ partially written.
 5. If the work changed tags or difficulty on a projected paper, re-sync the
    projection. The content hash changed, so the bank row is now stale and
    demoted to draft.
+## Per-paper review sequence
+
+Questions and their primary tags are TWO separate review gates. The
+projection counts only verified primary tags, so verifying questions
+alone leaves everything blocked.
+
+1. Read the paper, fill `decision` on question rows
+2. apply
+3. Re-export — tags now reflect the verified questions
+4. Sweep, fill `decision=verified` on tag rows whose question verified
+5. apply
+6. Promote the paper (POST .../pyq-papers/{id}/review)
+7. Project (POST .../projection/sync)
+
+## Traps found 2026-09-06/07
+
+`Set-Content -Encoding utf8` writes a BOM. In a generated .sql file it
+breaks the first statement — two `begin;` wrappers were silently
+dropped this way. Use:
+  [System.IO.File]::WriteAllText($path, $text, (New-Object System.Text.UTF8Encoding $false))
+
+`.venv` has `requests`; `.venv-graphify` does not. Export and apply
+fail from the wrong one.
+
+`sweep` overwrites a filled worksheet — writes blank by design, never
+merges. Copy before re-sweeping. Cost 181 applied grades once.
+
+The direct DB host is IPv6-only and unreachable. Use the Session
+pooler URI from the dashboard Connect panel, verbatim.
+
+Direct SQL bypasses the 10-minute exam cache; an is_active change
+won't surface in the API until the TTL expires.
+
+CMS list routes cap limit at 200; above that they 422.
+
+Nested quotes in `python -c` fail on PS 5.1. Write to a .py file.
+
+Agent artifacts exist only in the agent's container. "Shipped" in a
+report means written there, not committed. Require the commit before
+the report — the NABARD extraction was lost this way once.
