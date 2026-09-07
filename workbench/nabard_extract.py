@@ -423,15 +423,16 @@ def parse_questions(segment: str) -> list[dict]:
         paren_opts, paren_flags = _finalise_options(paren)
         alt_opts, alt_flags = _finalise_options(alt)
         if len(paren_opts) >= len(alt_opts) or len(alt_opts) < 2:
-            options, option_flags = paren_opts, paren_flags
+            options, option_flags, chosen, raw = paren_opts, paren_flags, "paren", paren
         else:
-            options, option_flags = alt_opts, alt_flags
+            options, option_flags, chosen, raw = alt_opts, alt_flags, "alt", alt
         if len(options) < 2 and _is_complete_numeric_run(numeric):
             # Last resort: "1) ... 5)" WAS the option list (1|ESI|2020 Q.134/138).
             options = {_NUM_TO_ALPHA[k]: v for k, v in sorted(numeric.items())}
             # Those lines were provisionally kept as stem text; drop them again.
             stem_lines = [ln for ln in stem_lines if not RE_OPTION_NUM.match(ln)]
             option_flags = []
+            chosen, raw = "numeric", [(k, v) for k, v in sorted(numeric.items())]
         stem = " ".join(" ".join(stem_lines).split())
         if kind == "I":
             contexts.append({"q_no": num, "text": stem})
@@ -463,6 +464,12 @@ def parse_questions(segment: str) -> list[dict]:
                 # Marker offset within the segment; used by the shift split to
                 # give each half a real char_span. Stripped before writing.
                 "_off": off,
+                # The option labels EXACTLY as printed, in reading order, before
+                # any repair, plus which shape was chosen. Stripped before
+                # writing; audit_options.py reads it from this same code path so
+                # the audit can never drift from the parser.
+                "_raw_labels": [k for k, _ in raw],
+                "_raw_shape": chosen,
             }
         )
     # Attach each context paragraph to the question it introduces.
@@ -508,6 +515,8 @@ def extract() -> dict:
         b.pop("_offset", None)
         for q in b["questions"]:
             q.pop("_off", None)
+            q.pop("_raw_labels", None)
+            q.pop("_raw_shape", None)
 
     return {
         "source_pdf": str(PDF.relative_to(ROOT)),
