@@ -45,8 +45,8 @@ def _build_app(sb, role="super_admin"):
 
 
 # Relative to "now" so the fixture never rots past the 14-day staleness boundary.
-from datetime import datetime as _dt, timedelta as _td, timezone as _tz  # noqa: E402
-_RECENT = (_dt.now(_tz.utc) - _td(days=2)).isoformat()
+from datetime import timedelta as _td  # noqa: E402
+_RECENT = (_FIXED_NOW - _td(days=2)).isoformat()
 
 
 class _Seed:
@@ -448,7 +448,7 @@ def test_competition_selected_row_on_later_page(monkeypatch):
 
 # ── Blocked coverage preserves pending/stale reasons + evidence ─────────────
 
-_STALE = (_dt.now(_tz.utc) - _td(days=90)).isoformat()  # relative; well past the staleness boundary
+_STALE = (_FIXED_NOW - _td(days=90)).isoformat()  # anchored to _FIXED_NOW; well past the staleness boundary
 _CLASSIFIER_AREAS = {"setup", "topic_coverage", "pyq", "syllabus", "updates"}
 
 
