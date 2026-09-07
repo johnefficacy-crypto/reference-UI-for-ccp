@@ -1,0 +1,82 @@
+﻿year | question_number | left
+2022 | 1 | Write an essay on any one of the following topics in about 600 Words. (40 Marks)
+• “Peace cannot be 
+2022 | 2 | Write a precis from the given paragraph in about 180 words. (30 Marks)
+
+As controversies swirl about
+2022 | 3 | Read the following comprehension and answer the questions that follow (5X6 = 30 Marks)
+
+Financial de
+2022 | 4 | Despite spread of urbanization in villages, challenges such as race, caste, gender discrimination st
+2022 | 5 | What is meant by economic reforms? Discuss the Economic reforms in India from 1990s till date.
+2022 | 6 | “Financial stability is essential to any financial institution/business.” Discuss in the light of fi
+2022 | 7 | What are the challenges associated with rural entrepreneurship? How young enterprises can solve thes
+2022 | 8 | Write a short note on current monetary policy framework in India
+2022 | 9 | What is NBFC? How is it different from banks? What are the five types of NBFCs registered with RBI?
+2022 | 10 | What is communication? What are the common barriers to interpersonal communication in an organizatio
+2022 | 11 | Why is change resisted in an organization? What can the management do to overcome it?
+2022 | 12 | What do you understand by blockchain technology. In the current era, where blockchain is at its peak
+2022 | 13 | What is targeted long-term repo operations (TLTRO)?
+2022 | 14 | Describe India’s response to the Global Financial Crisis 2008.
+2022 | 15 | What is the importance of ethical behaviour in society and throw some light on the manager’s role in
+2023 | 1 | Write an essay on any one of the following topics in about 600 Words. (40 Marks)
+• In every organiza
+2023 | 2 | Write a precis from the given paragraph in about 180 words. (30 Marks)
+
+In the contemporary era, the
+2023 | 3 | Read the following comprehension and answer the questions that follow (10x3 = 30 Marks)
+
+In the cont
+2023 | 4 | In the light of RBI’s report on currency and finance FY 2022-23, explain
+• Macroeconomic effect of c
+2023 | 5 | World bank has released its World Development Report 2023: Migrants, Refugees and Societies. Discuss
+2023 | 6 | UNDP’s new strategy for Gender Equality was mentioned in UNDP’s report. Taking reference of this rep
+2023 | 7 | Explain any 3 schemes of the government of India working towards employment generation and poverty a
+2023 | 8 | What are the Direct and indirect monetary policy measures and briefly explain at least 8 of them.
+2023 | 9 | What are the various challenges faced by start-ups in tier 2 and tier 3 cities?
+2023 | 10 | Explain in detail, RBI’s Retail Direct Scheme including the scope, applicability, charges, fees, etc
+2023 | 11 | Explain the Big 5 Personality Model of Personality. Also, explain how other traits of personality af
+2023 | 12 | What was Henri Fayol’s contribution to management? Also, explained his 14 principles of management.
+2023 | 13 | What is a code of conduct? How is it implemented in the organisation?
+2023 | 14 | Describe ONDC. How it will impact companies like Flipkart, Amazon, Walmart etc.
+2023 | 15 | What are pre-sanctioned credit lines at banks through the UPI? How is it going to help in furthering
+2024 | 1 | Write an essay on any one of the following topics in 600-620 words. (40 marks)
+a) Discuss the social
+2024 | 2 | Write a precis of the following passage in 180-200 words and also give a suitable title. (30 marks)
+
+2024 | 3 | Read the following comprehension and answer the questions that follow (5x6 = 30 marks)
+
+In today’s c
+2024 | 4 | How can rural India prioritize and promote women-led development?
+2024 | 5 | Discuss the Pros and Cons of usage of AI in the Banking Sector.
+2024 | 6 | What are the objectives and significance of the National Industrial Corridor Development Program in 
+2024 | 7 | Discuss the tussle between sustainable development and economic growth. How can we create the right 
+2024 | 8 | Discuss the challenges of youth unemployment. How can it be mitigated?
+2024 | 9 | a) What are the 5 key digital initiatives introduced in Budget 2024-25? How will they impact India’s
+2024 | 10 | Differentiate between trait and behavioural approaches of leadership.
+2024 | 11 | What are derivatives? Discuss its different types. Who are the key market participants in derivative
+2024 | 12 | Discuss the different types of communication channels. Also discuss their importance in an organizat
+2024 | 13 | What is the Difference between growth investing and value investing? What should an investor know be
+2024 | 14 | What are the key Factors that influence Ethics in business?
+2024 | 15 | What are AT 1 Bonds? Discuss their features and also describe how do they differ from other types of
+2025 | 1 | Write an Essay of about 600-620 words on any one of the following topics: (40 Marks)
+A. India commit
+2025 | 1 | There is a need for high-quality welfare, as these standards are outlined in the World Development R
+2025 | 1 | Discuss how the Capital market is seen as the growth engine of India. Also, list the steps taken by 
+2025 | 2 | Why do employees resist organisational change? What is the systematic approach for bringing organisa
+2025 | 2 | Make a precis based on the given passage in 180 – 200 words: - (30 Marks)
+
+The Amazon rainforest is 
+2025 | 2 | As the world approaches the 30th anniversary of the Beijing Declaration and the final five years of 
+2025 | 3 | Read the given comprehension and answer the questions that follow: - (30 Marks)
+
+In the Middle East,
+2025 | 3 | Recently released Sustainable development report marks India's first-time entry in the top 100 with 
+2025 | 3 | What is the advantage of Non-Verbal communication in an organisation? List its usage for leadership,
+2025 | 4 | Define various concepts related to the Union Budget. Explain how monetary and fiscal policy is used 
+2025 | 4 | Urban India is witnessing rapid growth, and the Smart Cities Mission seeks to harness this transform
+2025 | 5 | Explain the role of the RBI in the supervision and regulation of financial markets.
+2025 | 5 | The RBI’s recent monetary policy assessment highlights sustained consumer demand and a resilient eco
+2025 | 6 | State the risks and challenges associated with use of AI - it's new dimensions and Ethical standards
+2025 | 6 | Multiculturalism plays a crucial role in fostering cultural diversity, promoting tolerance, and stre
+(60 rows)
