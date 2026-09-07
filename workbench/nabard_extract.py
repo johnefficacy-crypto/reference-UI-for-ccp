@@ -68,6 +68,11 @@ RE_OPTION_ALT = re.compile(r"^[ \t]*([A-E])[.)][ \t]+(.*)$")
 # STATEMENTS "1) ... 2) ..." and then print real "(a)-(e)" options underneath
 # (1|ESI|2020 Q.139 does exactly this), and those must keep the paren options.
 RE_OPTION_NUM = re.compile(r"^[ \t]*([1-5])\)[ \t]+(.*)$")
+# "(i) ... (ii) ... (iii) ..." lists STATEMENTS, not options -- but "(i)" alone
+# is a single letter and so matches the a-j option shape (1|English|2022 Q.40
+# prints three such statements above its real "(a)-(e)" options). Presence of a
+# "(ii)" line in the same chunk is what proves the "(i)" is a roman numeral.
+RE_ROMAN_II = re.compile(r"^[ \t]*[(\[]i{2,3}[)\]]", re.M)
 _NUM_TO_ALPHA = {"1": "a", "2": "b", "3": "c", "4": "d", "5": "e"}
 # "Answer" and "Solution" are both used, with -, –, — or : as the separator.
 RE_ANSWER = re.compile(
@@ -99,13 +104,19 @@ TEXT_REPAIRS: list[tuple[str, str, int]] = [
 ]
 
 # --- Blocks printed under one heading that hold two shifts -------------------
-# 1|Reasoning|2022 prints a single "(Q.1 to Q.20)" heading but contains two
-# complete 1..20 runs -- every other 2022 subject prints separate Morning/
-# Evening headings. Split on the numbering restart into the same
-# "<key>|morning" / "<key>|evening" shape the rest of the file uses.
-# The shift NAMES are an inference from document order (the source prints no
-# shift label here); 4 of the 5 other 2022 subjects print Morning first.
-SPLIT_ON_RESTART = {"1|Reasoning|2022": ("morning", "evening")}
+# 1|Reasoning|2022 carries a single "(Q.1 to Q.20)" TOC heading but contains two
+# complete 1..20 runs. The shift is NOT inferred from document order: the body
+# prints "Morning Shift:" directly under the heading and "Evening Shift:"
+# immediately before the second run, so each half is labelled from the source
+# and the provenance is recorded on the block as shift_source="body_label".
+SPLIT_ON_RESTART = {"1|Reasoning|2022"}
+RE_BODY_SHIFT = re.compile(r"(?im)^[ \t]*(morning|evening)[ \t]*shift[ \t]*:")
+
+# Flip to False to publish a split block with shift=None and let paper_code
+# alone distinguish the two papers. Kept as a switch because the choice is a
+# data-governance call, not a parsing one; True is correct while the source
+# labels the halves, which for 1|Reasoning|2022 it does.
+USE_BODY_SHIFT_LABELS = True
 
 PHASE1_SUBJECTS = [
     "Reasoning",
@@ -291,22 +302,61 @@ def _is_complete_numeric_run(num: dict[str, str]) -> bool:
     return len(keys) >= 4 and keys == [str(i) for i in range(1, len(keys) + 1)]
 
 
-def _relabel_positionally(options: dict[str, str]) -> tuple[dict[str, str], bool]:
-    """Re-letter a contiguous option run that does not start at "a".
+def _finalise_options(pairs: list[tuple[str, str]]) -> tuple[dict[str, str], list[str]]:
+    """Turn the raw (label, text) option lines into a clean a.. set.
 
-    2|ARD|2021 Q.14 prints its five options as (f)-(j) while its answer key
-    still reads (a). The labels are a source typo, the ORDER is intact, so the
-    run is mapped positionally back onto "a".. -- which is what makes the
-    printed answer resolvable. Only a contiguous run is remapped; a gapped set
-    is left alone so a genuine parse defect stays visible.
+    Four source defects are repaired here, each leaving a flag so the repair is
+    auditable rather than silent. All of them were found producing WRONG data,
+    not merely missing data, which is why they are repaired and not just flagged:
+
+    1. Empty option text -- 1|Reasoning|2022 prints a bare "(f)" with nothing
+       after it. Dropped (`empty_option_dropped`).
+    2. Column-restart relabelling -- 1|English|2023 Q.30 prints five options in
+       two columns, and the text layer reads them "A. B. A. B. C.". Read as a
+       map the second column OVERWRITES the first, which silently changed the
+       answer: "Answer - B" resolved to the 4th option instead of the 2nd. A
+       restart re-letters the whole run positionally in reading order
+       (`options_resequenced_from_columns`).
+    3. Stray non-option labels -- 1|English|2022 Q.40 lists its statements as
+       "(i) (ii) (iii)" above real "(a)-(e)" options, and "(i)" matched the
+       a-j option shape. Only the maximal contiguous run starting at the first
+       label is kept; anything outside it is not an option
+       (`stray_option_dropped`).
+    4. A contiguous run that does not start at "a" -- 2|ARD|2021 Q.14 prints
+       (f)-(j) against an (a) answer key. The labels are a typo, the ORDER is
+       intact, so the run is mapped positionally back onto "a".."
+       (`options_relabelled_positionally`). A GAPPED set is left alone so a
+       genuine parse defect stays visible.
     """
-    keys = sorted(options)
-    if not keys or keys[0] == "a":
-        return options, False
-    codes = [ord(k) for k in keys]
-    if codes != list(range(codes[0], codes[0] + len(codes))):
-        return options, False
-    return {chr(ord("a") + i): options[k] for i, k in enumerate(keys)}, True
+    flags: list[str] = []
+
+    kept = [(k, v) for k, v in pairs if v.strip()]
+    if len(kept) != len(pairs):
+        flags.append("empty_option_dropped")
+    if not kept:
+        return {}, flags
+
+    labels = [k for k, _ in kept]
+    restarts = any(labels[i] <= labels[i - 1] for i in range(1, len(labels)))
+    if restarts:
+        # Reading order is the authority; the printed letters are not.
+        flags.append("options_resequenced_from_columns")
+        return {chr(ord("a") + i): v for i, (_, v) in enumerate(kept)}, flags
+
+    # Keep the maximal contiguous alphabetical run starting at the first label.
+    run = [kept[0]]
+    for k, v in kept[1:]:
+        if ord(k) == ord(run[-1][0]) + 1:
+            run.append((k, v))
+        else:
+            break
+    if len(run) != len(kept):
+        flags.append("stray_option_dropped")
+
+    if run[0][0] != "a":
+        flags.append("options_relabelled_positionally")
+        return {chr(ord("a") + i): v for i, (_, v) in enumerate(run)}, flags
+    return dict(run), flags
 
 
 def parse_questions(segment: str) -> list[dict]:
@@ -327,12 +377,17 @@ def parse_questions(segment: str) -> list[dict]:
     for i, (off, num, kind) in enumerate(deduped):
         end = deduped[i + 1][0] if i + 1 < len(deduped) else len(segment)
         chunk = segment[off:end]
-        paren: dict[str, str] = {}
-        alt: dict[str, str] = {}
+        paren: list[tuple[str, str]] = []
+        alt: list[tuple[str, str]] = []
         numeric: dict[str, str] = {}
         answer = None
         stem_lines: list[str] = []
         in_options = False
+        # "(i)" opens a roman-numeral STATEMENT list whenever a "(ii)" line
+        # follows in the same chunk. Recognised up front so the "(i)" line never
+        # flips in_options -- otherwise the "(ii)"/"(iii)" lines that follow it
+        # are swallowed and the stem loses the statements the options refer to.
+        roman_list = bool(RE_ROMAN_II.search(chunk))
         for line in chunk.splitlines():
             if RE_EXPLANATION.match(line):
                 break
@@ -341,13 +396,13 @@ def parse_questions(segment: str) -> list[dict]:
                 answer = am.group(1).lower()
                 continue
             om = RE_OPTION.match(line)
-            if om:
+            if om and not (roman_list and om.group(1) == "i"):
                 in_options = True
-                paren[om.group(1)] = om.group(2).strip()
+                paren.append((om.group(1), om.group(2).strip()))
                 continue
             am2 = RE_OPTION_ALT.match(line)
             if am2:
-                alt[am2.group(1).lower()] = am2.group(2).strip()
+                alt.append((am2.group(1).lower(), am2.group(2).strip()))
                 if len(alt) >= 2:
                     in_options = True
                 continue
@@ -365,15 +420,18 @@ def parse_questions(segment: str) -> list[dict]:
                 stem_lines.append(line)
         # The alternate "A." shape is only trusted when it produced a real set,
         # so a stray sentence beginning "A. " cannot masquerade as an option.
-        options = paren if len(paren) >= len(alt) or len(alt) < 2 else alt
-        relabelled = False
+        paren_opts, paren_flags = _finalise_options(paren)
+        alt_opts, alt_flags = _finalise_options(alt)
+        if len(paren_opts) >= len(alt_opts) or len(alt_opts) < 2:
+            options, option_flags = paren_opts, paren_flags
+        else:
+            options, option_flags = alt_opts, alt_flags
         if len(options) < 2 and _is_complete_numeric_run(numeric):
             # Last resort: "1) ... 5)" WAS the option list (1|ESI|2020 Q.134/138).
             options = {_NUM_TO_ALPHA[k]: v for k, v in sorted(numeric.items())}
             # Those lines were provisionally kept as stem text; drop them again.
             stem_lines = [ln for ln in stem_lines if not RE_OPTION_NUM.match(ln)]
-        elif options:
-            options, relabelled = _relabel_positionally(options)
+            option_flags = []
         stem = " ".join(" ".join(stem_lines).split())
         if kind == "I":
             contexts.append({"q_no": num, "text": stem})
@@ -390,8 +448,7 @@ def parse_questions(segment: str) -> list[dict]:
             flags.append("no_options")
         if answer is None:
             flags.append("no_answer")
-        if relabelled:
-            flags.append("options_relabelled_positionally")
+        flags.extend(option_flags)
         if answer is not None and options and answer not in options:
             flags.append("answer_label_not_in_options")
         if len(stem) < 15:
@@ -442,7 +499,10 @@ def extract() -> dict:
             b["questions"], b["parsed"], b["char_span"] = [], 0, None
             b["context_blocks"] = b["context_unattached"] = 0
 
-    blocks = split_shift_blocks(blocks)
+    for b in blocks:
+        b.setdefault("shift_source", "heading" if b.get("shift") else None)
+    blocks = split_shift_blocks(blocks, full)
+    blocks = assign_paper_codes(blocks)
 
     for b in blocks:
         b.pop("_offset", None)
@@ -456,18 +516,22 @@ def extract() -> dict:
     }
 
 
-def split_shift_blocks(blocks: list[dict]) -> list[dict]:
-    """Split each SPLIT_ON_RESTART block into its two shifts at the numbering
-    restart, producing the "<key>|<shift>" shape the rest of the file uses.
+def split_shift_blocks(blocks: list[dict], full: str) -> list[dict]:
+    """Split each SPLIT_ON_RESTART block into two papers at the numbering restart.
 
     The restart is the split point: the first question whose number is not
     greater than its predecessor's. A block that does not restart exactly once
     raises -- the split is a claim about the source, not a best effort.
+
+    Each half's shift is read from the body's own "Morning Shift:" /
+    "Evening Shift:" line (the TOC heading carries none), and shift_source
+    records that provenance. If the source does not label a half, that half
+    gets shift=None and shift_source=None rather than a guess -- the two papers
+    are still distinguishable by paper_code.
     """
     out: list[dict] = []
     for b in blocks:
-        shifts = SPLIT_ON_RESTART.get(b["key"])
-        if not shifts or not b["questions"]:
+        if b["key"] not in SPLIT_ON_RESTART or not b["questions"]:
             out.append(b)
             continue
         qs = b["questions"]
@@ -478,22 +542,66 @@ def split_shift_blocks(blocks: list[dict]) -> list[dict]:
                 f"found {len(restarts)}"
             )
         cut = restarts[0]
-        halves = (qs[:cut], qs[cut:])
         span_start, span_end = b["char_span"]
-        boundary = span_start + halves[1][0]["_off"]
-        for shift, half, (lo, hi) in zip(
-            shifts, halves, ((span_start, boundary), (boundary, span_end))
-        ):
+        boundary = span_start + qs[cut]["_off"]
+        halves = ((qs[:cut], span_start, boundary), (qs[cut:], boundary, span_end))
+
+        # Body shift labels, with the absolute offset each one governs from.
+        labels = [
+            (span_start + m.start(), m.group(1).lower())
+            for m in RE_BODY_SHIFT.finditer(full[span_start:span_end])
+        ]
+        for idx, (half, lo, hi) in enumerate(halves):
+            shift = None
+            if USE_BODY_SHIFT_LABELS and labels:
+                # A shift label sits just ABOVE the run it introduces, so the
+                # label governing a half is the last one at or before that
+                # half's first question -- not one bounded by the half's span
+                # ("Evening Shift:" precedes the boundary it announces).
+                first_q = span_start + half[0]["_off"]
+                prior = [name for off, name in labels if off <= first_q]
+                if prior:
+                    shift = prior[-1]
             nb = dict(b)
-            nb["key"] = f"{b['key']}|{shift}"
+            nb["key"] = f"{b['key']}|{shift}" if shift else f"{b['key']}|p{idx + 1}"
             nb["shift"] = shift
-            nb["label"] = f"{b['label']} [{shift.capitalize()} Shift — inferred, "
-            nb["label"] += "source prints one heading for both shifts]"
+            nb["shift_source"] = "body_label" if shift else None
+            note = (
+                f"[{shift.capitalize()} Shift — from the body label; the TOC "
+                "heading covers both shifts]"
+                if shift
+                else "[paper %d of 2 under one heading; source carries no shift "
+                     "label for this half — ordered as it appears in the document]"
+                     % (idx + 1)
+            )
+            nb["label"] = f"{b['label']} {note}"
             nb["questions"] = half
             nb["parsed"] = len(half)
             nb["char_span"] = [lo, hi]
             out.append(nb)
     return out
+
+
+def assign_paper_codes(blocks: list[dict]) -> list[dict]:
+    """Give every block a stable, unique paper_code.
+
+    This is the identity the load keys on, and the only thing distinguishing the
+    two 1|Reasoning|2022 papers if their shift is ever published as NULL.
+    """
+    seen: dict[str, int] = {}
+    for b in blocks:
+        subject = re.sub(r"[^A-Za-z0-9]+", "-", (b["subject"] or "unknown")).strip("-")
+        parts = ["NABARD", f"P{b['phase']}", subject.upper(), str(b["year"])]
+        if b.get("shift"):
+            parts.append(b["shift"].upper())
+        code = "-".join(parts)
+        if code in seen:
+            seen[code] += 1
+            code = f"{code}-{seen[code]}"
+        else:
+            seen[code] = 1
+        b["paper_code"] = code
+    return blocks
 
 
 def report(data: dict) -> None:

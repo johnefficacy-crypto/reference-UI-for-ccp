@@ -280,7 +280,9 @@
    "char_span": [
     8451,
     19024
-   ]
+   ],
+   "shift_source": null,
+   "paper_code": "NABARD-P1-REASONING-2020"
   },
   {
    "key": "1|Reasoning|2021",
@@ -560,11 +562,13 @@
    "char_span": [
     19024,
     28538
-   ]
+   ],
+   "shift_source": null,
+   "paper_code": "NABARD-P1-REASONING-2021"
   },
   {
    "key": "1|Reasoning|2022|morning",
-   "label": "2022 (Q.1 to Q.20) [Morning Shift — inferred, source prints one heading for both shifts]",
+   "label": "2022 (Q.1 to Q.20) [Morning Shift — from the body label; the TOC heading covers both shifts]",
    "phase": 1,
    "subject": "Reasoning",
    "year": 2022,
@@ -594,11 +598,12 @@
       "b": "Only II and III follow",
       "c": "Only I follows",
       "d": "Only I and III follow",
-      "e": "None follows",
-      "f": ""
+      "e": "None follows"
      },
      "answer_label": "d",
-     "flags": []
+     "flags": [
+      "empty_option_dropped"
+     ]
     },
     {
      "q_no": 3,
@@ -841,11 +846,13 @@
    "char_span": [
     28538,
     40827
-   ]
+   ],
+   "shift_source": "body_label",
+   "paper_code": "NABARD-P1-REASONING-2022-MORNING"
   },
   {
    "key": "1|Reasoning|2022|evening",
-   "label": "2022 (Q.1 to Q.20) [Evening Shift — inferred, source prints one heading for both shifts]",
+   "label": "2022 (Q.1 to Q.20) [Evening Shift — from the body label; the TOC heading covers both shifts]",
    "phase": 1,
    "subject": "Reasoning",
    "year": 2022,
@@ -1121,7 +1128,9 @@
    "char_span": [
     40827,
     50654
-   ]
+   ],
+   "shift_source": "body_label",
+   "paper_code": "NABARD-P1-REASONING-2022-EVENING"
   },
   {
    "key": "1|Reasoning|2023",
@@ -1402,7 +1411,9 @@
    "char_span": [
     50654,
     61626
-   ]
+   ],
+   "shift_source": null,
+   "paper_code": "NABARD-P1-REASONING-2023"
   },
   {
    "key": "1|English|2020",
@@ -1942,7 +1953,9 @@
    "char_span": [
     61626,
     110132
-   ]
+   ],
+   "shift_source": null,
+   "paper_code": "NABARD-P1-ENGLISH-2020"
   },
   {
    "key": "1|English|2021",
@@ -2352,7 +2365,9 @@
    "char_span": [
     110132,
     146650
-   ]
+   ],
+   "shift_source": null,
+   "paper_code": "NABARD-P1-ENGLISH-2021"
   },
   {
    "key": "1|English|2022|evening",
@@ -2766,7 +2781,9 @@
    "char_span": [
     146650,
     171877
-   ]
+   ],
+   "shift_source": "heading",
+   "paper_code": "NABARD-P1-ENGLISH-2022-EVENING"
   },
   {
    "key": "1|English|2022|morning",
@@ -3028,9 +3045,8 @@
     },
     {
      "q_no": 40,
-     "stem": "Q.40) Identify the correct statement about the use of AI in education, as mentioned in the passage.",
+     "stem": "Q.40) Identify the correct statement about the use of AI in education, as mentioned in the passage. (i) It adapts itself according to the student’s interest (ii) It executes the process of skill mapping (iii) It helps in setting question paper according to curriculum",
      "options": {
-      "i": "It adapts itself according to the student’s interest",
       "a": "Only I and II",
       "b": "Only II",
       "c": "Only I, II, and III",
@@ -3177,7 +3193,9 @@
    "char_span": [
     171877,
     194524
-   ]
+   ],
+   "shift_source": "heading",
+   "paper_code": "NABARD-P1-ENGLISH-2022-MORNING"
   },
   {
    "key": "1|English|2023",
@@ -3571,12 +3589,16 @@
      "q_no": 30,
      "stem": "Q.30. What is the correct synonym for the highlighted word “steep”?",
      "options": {
-      "a": "Moderate",
-      "b": "Void",
-      "c": "None of the above"
+      "a": "Deprived",
+      "b": "Excessive",
+      "c": "Moderate",
+      "d": "Void",
+      "e": "None of the above"
      },
      "answer_label": "b",
-     "flags": []
+     "flags": [
+      "options_resequenced_from_columns"
+     ]
     }
    ],
    "context_blocks": 0,
@@ -3585,7 +3607,9 @@
    "char_span": [
     194524,
     207480
-   ]
+   ],
+   "shift_source": null,
+   "paper_code": "NABARD-P1-ENGLISH-2023"
   },
   {
    "key": "1|Computer Knowledge|2020",
@@ -3865,7 +3889,9 @@
    "char_span": [
     207480,
     215479
-   ]
+   ],
+   "shift_source": null,
+   "paper_code": "NABARD-P1-COMPUTER-KNOWLEDGE-2020"
   },
   {
    "key": "1|Computer Knowledge|2021",
@@ -4145,7 +4171,9 @@
    "char_span": [
     215479,
     223260
-   ]
+   ],
+   "shift_source": null,
+   "paper_code": "NABARD-P1-COMPUTER-KNOWLEDGE-2021"
   },
   {
    "key": "1|Computer Knowledge|2022|morning",
@@ -4425,7 +4453,9 @@
    "char_span": [
     223260,
     232111
-   ]
+   ],
+   "shift_source": "heading",
+   "paper_code": "NABARD-P1-COMPUTER-KNOWLEDGE-2022-MORNING"
   },
   {
    "key": "1|Computer Knowledge|2022|evening",
@@ -4705,7 +4735,9 @@
    "char_span": [
     232111,
     240301
-   ]
+   ],
+   "shift_source": "heading",
+   "paper_code": "NABARD-P1-COMPUTER-KNOWLEDGE-2022-EVENING"
   },
   {
    "key": "1|Computer Knowledge|2023",
@@ -4985,7 +5017,9 @@
    "char_span": [
     240301,
     245485
-   ]
+   ],
+   "shift_source": null,
+   "paper_code": "NABARD-P1-COMPUTER-KNOWLEDGE-2023"
   },
   {
    "key": "1|Quantitative Aptitude|2020",
@@ -5265,7 +5299,9 @@
    "char_span": [
     245485,
     255040
-   ]
+   ],
+   "shift_source": null,
+   "paper_code": "NABARD-P1-QUANTITATIVE-APTITUDE-2020"
   },
   {
    "key": "1|Quantitative Aptitude|2021",
@@ -5545,7 +5581,9 @@
    "char_span": [
     255040,
     264778
-   ]
+   ],
+   "shift_source": null,
+   "paper_code": "NABARD-P1-QUANTITATIVE-APTITUDE-2021"
   },
   {
    "key": "1|Quantitative Aptitude|2022|morning",
@@ -5825,7 +5863,9 @@
    "char_span": [
     264778,
     275024
-   ]
+   ],
+   "shift_source": "heading",
+   "paper_code": "NABARD-P1-QUANTITATIVE-APTITUDE-2022-MORNING"
   },
   {
    "key": "1|Quantitative Aptitude|2022|evening",
@@ -6105,7 +6145,9 @@
    "char_span": [
     275024,
     284883
-   ]
+   ],
+   "shift_source": "heading",
+   "paper_code": "NABARD-P1-QUANTITATIVE-APTITUDE-2022-EVENING"
   },
   {
    "key": "1|Quantitative Aptitude|2023",
@@ -6386,7 +6428,9 @@
    "char_span": [
     284883,
     298533
-   ]
+   ],
+   "shift_source": null,
+   "paper_code": "NABARD-P1-QUANTITATIVE-APTITUDE-2023"
   },
   {
    "key": "1|Decision Making|2021",
@@ -6536,7 +6580,9 @@
    "char_span": [
     298533,
     304750
-   ]
+   ],
+   "shift_source": null,
+   "paper_code": "NABARD-P1-DECISION-MAKING-2021"
   },
   {
    "key": "1|Decision Making|2022|morning",
@@ -6686,7 +6732,9 @@
    "char_span": [
     304750,
     310907
-   ]
+   ],
+   "shift_source": "heading",
+   "paper_code": "NABARD-P1-DECISION-MAKING-2022-MORNING"
   },
   {
    "key": "1|Decision Making|2022|evening",
@@ -6836,7 +6884,9 @@
    "char_span": [
     310907,
     316555
-   ]
+   ],
+   "shift_source": "heading",
+   "paper_code": "NABARD-P1-DECISION-MAKING-2022-EVENING"
   },
   {
    "key": "1|Decision Making|2023",
@@ -6986,7 +7036,9 @@
    "char_span": [
     316555,
     324912
-   ]
+   ],
+   "shift_source": null,
+   "paper_code": "NABARD-P1-DECISION-MAKING-2023"
   },
   {
    "key": "1|General Awareness|2020",
@@ -7266,7 +7318,9 @@
    "char_span": [
     324912,
     333869
-   ]
+   ],
+   "shift_source": null,
+   "paper_code": "NABARD-P1-GENERAL-AWARENESS-2020"
   },
   {
    "key": "1|General Awareness|2021",
@@ -7546,7 +7600,9 @@
    "char_span": [
     333869,
     342304
-   ]
+   ],
+   "shift_source": null,
+   "paper_code": "NABARD-P1-GENERAL-AWARENESS-2021"
   },
   {
    "key": "1|General Awareness|2022|morning",
@@ -7826,7 +7882,9 @@
    "char_span": [
     342304,
     351410
-   ]
+   ],
+   "shift_source": "heading",
+   "paper_code": "NABARD-P1-GENERAL-AWARENESS-2022-MORNING"
   },
   {
    "key": "1|General Awareness|2022|evening",
@@ -8106,7 +8164,9 @@
    "char_span": [
     351410,
     359721
-   ]
+   ],
+   "shift_source": "heading",
+   "paper_code": "NABARD-P1-GENERAL-AWARENESS-2022-EVENING"
   },
   {
    "key": "1|General Awareness|2023",
@@ -8386,7 +8446,9 @@
    "char_span": [
     359721,
     377169
-   ]
+   ],
+   "shift_source": null,
+   "paper_code": "NABARD-P1-GENERAL-AWARENESS-2023"
   },
   {
    "key": "1|ESI|2020",
@@ -8926,7 +8988,9 @@
    "char_span": [
     377169,
     396473
-   ]
+   ],
+   "shift_source": null,
+   "paper_code": "NABARD-P1-ESI-2020"
   },
   {
    "key": "1|ESI|2021",
@@ -9466,7 +9530,9 @@
    "char_span": [
     396473,
     416059
-   ]
+   ],
+   "shift_source": null,
+   "paper_code": "NABARD-P1-ESI-2021"
   },
   {
    "key": "1|ESI|2022|morning",
@@ -10006,7 +10072,9 @@
    "char_span": [
     416059,
     427138
-   ]
+   ],
+   "shift_source": "heading",
+   "paper_code": "NABARD-P1-ESI-2022-MORNING"
   },
   {
    "key": "1|ESI|2022|evening",
@@ -10546,7 +10614,9 @@
    "char_span": [
     427138,
     438584
-   ]
+   ],
+   "shift_source": "heading",
+   "paper_code": "NABARD-P1-ESI-2022-EVENING"
   },
   {
    "key": "1|ESI|2023",
@@ -11086,7 +11156,9 @@
    "char_span": [
     438584,
     467367
-   ]
+   ],
+   "shift_source": null,
+   "paper_code": "NABARD-P1-ESI-2023"
   },
   {
    "key": "1|ARD|2020",
@@ -11626,7 +11698,9 @@
    "char_span": [
     467367,
     481313
-   ]
+   ],
+   "shift_source": null,
+   "paper_code": "NABARD-P1-ARD-2020"
   },
   {
    "key": "1|ARD|2021",
@@ -12166,7 +12240,9 @@
    "char_span": [
     481313,
     493732
-   ]
+   ],
+   "shift_source": null,
+   "paper_code": "NABARD-P1-ARD-2021"
   },
   {
    "key": "1|ARD|2022|morning",
@@ -12706,7 +12782,9 @@
    "char_span": [
     493732,
     504526
-   ]
+   ],
+   "shift_source": "heading",
+   "paper_code": "NABARD-P1-ARD-2022-MORNING"
   },
   {
    "key": "1|ARD|2022|evening",
@@ -13246,7 +13324,9 @@
    "char_span": [
     504526,
     516287
-   ]
+   ],
+   "shift_source": "heading",
+   "paper_code": "NABARD-P1-ARD-2022-EVENING"
   },
   {
    "key": "1|ARD|2023",
@@ -13786,7 +13866,9 @@
    "char_span": [
     516287,
     531654
-   ]
+   ],
+   "shift_source": null,
+   "paper_code": "NABARD-P1-ARD-2023"
   },
   {
    "key": "2|ARD|2020",
@@ -14200,7 +14282,9 @@
    "char_span": [
     531654,
     545530
-   ]
+   ],
+   "shift_source": null,
+   "paper_code": "NABARD-P2-ARD-2020"
   },
   {
    "key": "2|ARD|2021",
@@ -14420,7 +14504,9 @@
    "char_span": [
     545530,
     552868
-   ]
+   ],
+   "shift_source": null,
+   "paper_code": "NABARD-P2-ARD-2021"
   },
   {
    "key": "2|ARD|2022",
@@ -14638,7 +14724,9 @@
    "char_span": [
     552868,
     559788
-   ]
+   ],
+   "shift_source": null,
+   "paper_code": "NABARD-P2-ARD-2022"
   },
   {
    "key": "2|ARD|2023",
@@ -15048,7 +15136,9 @@
    "char_span": [
     559788,
     578057
-   ]
+   ],
+   "shift_source": null,
+   "paper_code": "NABARD-P2-ARD-2023"
   },
   {
    "key": "2|ESI|2020",
@@ -15528,7 +15618,9 @@
    "char_span": [
     578057,
     600352
-   ]
+   ],
+   "shift_source": null,
+   "paper_code": "NABARD-P2-ESI-2020"
   },
   {
    "key": "2|ESI|2021",
@@ -15749,7 +15841,9 @@
    "char_span": [
     600352,
     611755
-   ]
+   ],
+   "shift_source": null,
+   "paper_code": "NABARD-P2-ESI-2021"
   },
   {
    "key": "2|ESI|2022",
@@ -15967,7 +16061,9 @@
    "char_span": [
     611755,
     621037
-   ]
+   ],
+   "shift_source": null,
+   "paper_code": "NABARD-P2-ESI-2022"
   },
   {
    "key": "3|ESI/ARD|2021",
@@ -16047,7 +16143,9 @@
    "char_span": [
     621037,
     621823
-   ]
+   ],
+   "shift_source": null,
+   "paper_code": "NABARD-P3-ESI-ARD-2021"
   },
   {
    "key": "3|ESI/ARD|2022",
@@ -16127,7 +16225,9 @@
    "char_span": [
     621823,
     622517
-   ]
+   ],
+   "shift_source": null,
+   "paper_code": "NABARD-P3-ESI-ARD-2022"
   },
   {
    "key": "3|ESI/ARD|2023",
@@ -16207,7 +16307,9 @@
    "char_span": [
     622517,
     623731
-   ]
+   ],
+   "shift_source": null,
+   "paper_code": "NABARD-P3-ESI-ARD-2023"
   }
  ]
 }
