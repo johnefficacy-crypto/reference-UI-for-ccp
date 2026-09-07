@@ -1,0 +1,886 @@
+﻿Q81  []
+replaced by blanks. Choose the best combination of words that can fit into the blanks in the same order to make a grammatically and logically correct statement. The committee's final report on corporate governance was widely criticized as a mere ________ effort, failing to address the deep-rooted systemic malpractices and ultimately serving to ________ the public's worst anxieties about regulatory collusion.
+   * (a) perfunctory, exacerbate
+     (b) meticulous, assuage
+     (c) redundant, palliate
+     (d) contentious, obfuscate
+     (e) dilatory, vindicate
+
+Q82  []
+replaced by blanks. Choose the best combination of words that can fit into the blanks in the same order to make a grammatically and logically correct statement. Though the central bankâ€™s initial interventions were hailed as ________ measures designed to insulate the domestic market from external volatility, they eventually proved to be ________ by failing to prevent capital flight.
+   * (a) proactive, ineffectual
+     (b) regressive, counterproductive
+     (c) transient, indispensable
+     (d) preliminary, hypercritical
+     (e) radical, redundant
+
+Q83  []
+replaced by blanks. Choose the best combination of words that can fit into the blanks in the same order to make a grammatically and logically correct statement. The whistleblowerâ€™s primary motive remains highly ________ among political analysts, as his sudden and unprompted disclosure of classified state logs was both ________ and poorly synchronized with legislative schedules.
+     (a) unverified, strategic
+   * (b) debatable, anomalous
+     (c) certain, coordinated
+     (d) trivial, impulsive
+     (e) transparent, premeditated
+
+Q84  []
+replaced by blanks. Choose the best combination of words that can fit into the blanks in the same order to make a grammatically and logically correct statement. The legal defense counselâ€™s cross-examination of the primary forensic expert was so ________ that it left the prosecution's key arguments completely ________ before the jury could even retire for deliberation.
+     (a) scathing, unassailable
+   * (b) incisive, eviscerated
+     (c) superficial, undermined
+     (d) listless, validated
+     (e) convoluted, reinforced
+
+Q85  []
+replaced by blanks. Choose the best combination of words that can fit into the blanks in the same order to make a grammatically and logically correct statement. While the newly discovered historical manuscript was initially celebrated as a ________ account of the pre-war diplomatic negotiations, subsequent carbon-dating analysis met the find with skepticism, forcing researchers to ________ its chronological validity.
+   * (a) definitive, scrutinize
+     (b) spurious, ratify
+     (c) tangential, question
+     (d) canonical, authenticate
+     (e) fragmented, disregard
+
+Q86  []
+and III) are given. One or more of these sentences may contain a grammatical, idiomatic, or syntactic error. Read them carefully and select the option that correctly identifies the sentence(s) that contain an error. I. The panel of macroeconomic adjudicators was fundamentally split, rendering them entirely unable to reach a cohesive consensus regarding the fiscal bailout package during the midnight emergency session. II. The lead research scientist barely managed to avoid from making a catastrophic analytical error while calibrating the highly sensitive cryogenic equipment in the laboratory. III. Despite being repeatedly cautioned against the volatile market conditions, the aggressive retail investor persisted in allocating a substantial portion of his portfolio to unhedged derivative instruments.
+     (a) Only I
+   * (b) Only II
+     (c) Both I and II
+     (d) Both II and III
+     (e) All I, II, and III contain errors
+
+Q87  []
+and III) are given. One or more of these sentences may contain a grammatical, idiomatic, or syntactic error. Read them carefully and select the option that correctly identifies the sentence(s) that contain an error. I. The seasoned diplomat subtly insinuated during his speech that he understands absolutely nothing about the classified protocol leaked to the international press. II. Not only did she completely disregard the explicit safety mandates issued by the regulatory body, but she also actively encouraged her subordinates to do the same. III. The chief architect was pleasantly surprised to discover a unique structural blueprint for the zero-emission commercial skyscraper project in the archives.
+   * (a) Only I
+     (b) Only II
+     (c) Both I and III
+     (d) Both II and III
+     (e) No error in any of the statements
+
+Q88  []
+and III) are given. One or more of these sentences may contain a grammatical, idiomatic, or syntactic error. Read them carefully and select the option that correctly identifies the sentence(s) that contain an error. I. The dissident faction explicitly conspired to blow out the central telecommunications tower before the municipal security forces could deploy reinforcements. II. Scarcely had the central bank adjusted the prime lending rate when the domestic currency began its volatile downward spiral against foreign valuations. III. The committee insisted that the executive director resigns from his post immediately following the exposure of the corporate accounting discrepancies.
+     (a) Only I
+     (b) Only III
+     (c) Both I and II
+   * (d) Both I and III
+     (e) All I, II, and III contain errors
+
+Q89  []
+sentence has been segregated into five parts designated as (A), (B), (C), (D), and (E). These parts are jumbled. Choose the option that provides the most grammatically accurate and contextually coherent alignment of these segments. (A) structural fissures within the domestic distributive network continue to (B) systematically marginalize significant cohorts of the population, leaving them highly vulnerable (C) despite anchoring an agrarian infrastructure characterized by unparalleled capital intensity, (D) to sudden, unpredictable macroeconomic contractions and commodity price spirals (E) structural integration, and technological sophistication,
+     (a) CABED
+   * (b) CEABD
+     (c) ACEBD
+     (d) CAEBD
+     (e) CEBDA
+
+Q90  []
+sentence has been segregated into five parts designated as (A), (B), (C), (D), and (E). These parts are jumbled. Choose the option that provides the most grammatically accurate and contextually coherent alignment of these segments. [Option a: CBDAE...]
+   * (a) CBDAE
+     (b) CBAED
+     (c) CADEB
+     (d) CBADE
+     (e) DBACE
+
+Q91  []
+sentence has been segregated into five parts designated as (A), (B), (C), (D), and (E). These parts are jumbled. Choose the option that provides the most grammatically accurate and contextually coherent alignment of these segments. [Option a: DEACB...]
+   * (a) DEACB
+     (b) DEABC
+     (c) EDACB
+     (d) DABCE
+     (e) EADCB
+
+Q92  []
+Read the following statements and identify which of them contains a grammatical error: I. Not only did the committee approve the foundational budget for the upcoming fiscal year, but they also fast-tracked the infrastructure grants. II. The implementation of the new structural guidelines have generated significant friction among the departmental heads who prefer the legacy protocols. III. He spoke about the impending corporate restructuring as if he were completely oblivious to the massive layoffs planned for next month.
+     (a) Only I
+   * (b) Only II
+     (c) Both I and II
+     (d) Both II and III
+     (e) No error
+
+Q93  []
+below it. In the contemporary macroeconomic discourse surrounding post-industrial vulnerabilities, the persistence of food insecurity within the United States presents a profound operational paradox. Despite anchoring an agrarian infrastructure characterized by unparalleled capital intensity, structural integration, and technological sophistication, deep systemic fissures within the domestic distributive network systematically marginalize significant cohorts of the populace. This phenomenon cannot be reduced to a simplistic manifestation of absolute agricultural scarcity; rather, it represents an intricate, self-perpetuating systemic malfunction driven by acute socioeconomic stratification, deliberate geographic segregation (manifested as "food deserts"), and the volatile cascading effects of inflationary shocks on staple commodities. Historically, federal interventions such as the Supplemental Nutrition Assistance Program (SNAP) have served as the primary legislative bulwark against outright caloric deficiency. However, progressive socio-economists argue that these institutional frameworks are fundamentally reactionary, architected to temporarily alleviate transient poverty rather than structurally dismantle the entrenched, cyclical dynamics of systemic deprivation. The programmatic architecture of such safety nets often relies on antiquated, monolithic bureaucratic metrics that fail to account for acute regional disparities in cost-of-living indexations or the insidious expansion of "food mirages"â€”urban spaces where nutritious provisions are physically accessible but economically prohibitive to the surrounding low- income enclave. Furthermore, the hyper-politicization of budgetary appropriations frequently subjects these essential welfare mechanisms to fiscal austerity measures, thereby compounding the precarity of vulnerable households during periods of macroeconomic contraction. The structural vulnerability of the American food distribution apparatus was explicitly laid bare during recent global supply chain disruptions, which exposed the dangerous hyper- centralization of processing facilities and meat-packing monopolies. When systemic shocks fractured these brittle logistical vectors, the resultant inflationary spiral disproportionately impacted low-income demographics, forcing a regressive substitution toward energy-dense, shelf-stable, and nutrient-poor alimentary options. This dietary shift carries profound long- term public health implications, perpetuating a cruel irony where food-insecure populations simultaneously exhibit disproportionate rates of metabolic syndromes, diabetes, and clinical obesityâ€”a complex clinical state that scholars term the "food-insecurity-obesity paradox." Moreover, the corporate consolidation of the agrarian retail sector has structurally disincentivized the establishment of community-centric distribution nodes. Major retail monopolies consistently prioritize high-margin suburban supermarkets over low-yield urban or isolated rural markets, creating vast zones of corporate abandonment. Beyond the immediate socioeconomic indicators, the intersection of environmental degradation and agricultural policy further exacerbates this domestic precarity. The entrenched reliance on monocultural farming practices, heavily subsidized by federal frameworks, privileges the overproduction of industrial commodities like corn and soy at the expense of localized, diversified specialty crops. This ecological imbalance renders the food supply chain highly fragile to climate-induced anomalies, where localized droughts or extreme weather events trigger cascading failures in supply elasticity. Consequently, addressing this crisis necessitates an ontological shift in policy formulation: moving away from mere emergency caloric supplementation toward the institutionalization of food sovereignty, aggressive supply chain decentralization, and the rigorous statutory regulation of predatory retail cartels. Which of the following statements is/are correct according to the passage? (I) The systemic failure of food security in the United States is primarily caused by an absolute shortage of domestic agricultural production. (II) "Food mirages" represent geographic locations where high-quality food is physically present but financially out of reach for nearby low-income populations. (III) Corporate consolidation within the grocery retail sector has led to a strategic focus on suburban markets over low-yield urban areas.
+     (a) Only (II)
+     (b) Both (I) and (II)
+     (c) Only (III)
+   * (d) Both (II) and (III)
+     (e) All (I), (II), and (III)
+
+Q94  []
+below it. In the contemporary macroeconomic discourse surrounding post-industrial vulnerabilities, the persistence of food insecurity within the United States presents a profound operational paradox. Despite anchoring an agrarian infrastructure characterized by unparalleled capital intensity, structural integration, and technological sophistication, deep systemic fissures within the domestic distributive network systematically marginalize significant cohorts of the populace. This phenomenon cannot be reduced to a simplistic manifestation of absolute agricultural scarcity; rather, it represents an intricate, self-perpetuating systemic malfunction driven by acute socioeconomic stratification, deliberate geographic segregation (manifested as "food deserts"), and the volatile cascading effects of inflationary shocks on staple commodities. Historically, federal interventions such as the Supplemental Nutrition Assistance Program (SNAP) have served as the primary legislative bulwark against outright caloric deficiency. However, progressive socio-economists argue that these institutional frameworks are fundamentally reactionary, architected to temporarily alleviate transient poverty rather than structurally dismantle the entrenched, cyclical dynamics of systemic deprivation. The programmatic architecture of such safety nets often relies on antiquated, monolithic bureaucratic metrics that fail to account for acute regional disparities in cost-of-living indexations or the insidious expansion of "food mirages"â€”urban spaces where nutritious provisions are physically accessible but economically prohibitive to the surrounding low- income enclave. Furthermore, the hyper-politicization of budgetary appropriations frequently subjects these essential welfare mechanisms to fiscal austerity measures, thereby compounding the precarity of vulnerable households during periods of macroeconomic contraction. The structural vulnerability of the American food distribution apparatus was explicitly laid bare during recent global supply chain disruptions, which exposed the dangerous hyper- centralization of processing facilities and meat-packing monopolies. When systemic shocks fractured these brittle logistical vectors, the resultant inflationary spiral disproportionately impacted low-income demographics, forcing a regressive substitution toward energy-dense, shelf-stable, and nutrient-poor alimentary options. This dietary shift carries profound long- term public health implications, perpetuating a cruel irony where food-insecure populations simultaneously exhibit disproportionate rates of metabolic syndromes, diabetes, and clinical obesityâ€”a complex clinical state that scholars term the "food-insecurity-obesity paradox." Moreover, the corporate consolidation of the agrarian retail sector has structurally disincentivized the establishment of community-centric distribution nodes. Major retail monopolies consistently prioritize high-margin suburban supermarkets over low-yield urban or isolated rural markets, creating vast zones of corporate abandonment. Beyond the immediate socioeconomic indicators, the intersection of environmental degradation and agricultural policy further exacerbates this domestic precarity. The entrenched reliance on monocultural farming practices, heavily subsidized by federal frameworks, privileges the overproduction of industrial commodities like corn and soy at the expense of localized, diversified specialty crops. This ecological imbalance renders the food supply chain highly fragile to climate-induced anomalies, where localized droughts or extreme weather events trigger cascading failures in supply elasticity. Consequently, addressing this crisis necessitates an ontological shift in policy formulation: moving away from mere emergency caloric supplementation toward the institutionalization of food sovereignty, aggressive supply chain decentralization, and the rigorous statutory regulation of predatory retail cartels. Which of the following is highlighted as a consequence of global supply chain disruptions on low-income demographics?
+     (a) A rapid transition toward localized urban farming initiatives and food sovereignty.
+     (b) An increased financial reliance on non-governmental agrarian retail cartels.
+   * (c) A forced, regressive shift toward consuming affordable, nutrient-poor, and energy-dense food alternatives.
+     (d) The total obsolescence of federal programmatic architectures like SNAP.
+     (e) A structural decentralization of national meat-packing monopolies.
+
+Q95  []
+below it. In the contemporary macroeconomic discourse surrounding post-industrial vulnerabilities, the persistence of food insecurity within the United States presents a profound operational paradox. Despite anchoring an agrarian infrastructure characterized by unparalleled capital intensity, structural integration, and technological sophistication, deep systemic fissures within the domestic distributive network systematically marginalize significant cohorts of the populace. This phenomenon cannot be reduced to a simplistic manifestation of absolute agricultural scarcity; rather, it represents an intricate, self-perpetuating systemic malfunction driven by acute socioeconomic stratification, deliberate geographic segregation (manifested as "food deserts"), and the volatile cascading effects of inflationary shocks on staple commodities. Historically, federal interventions such as the Supplemental Nutrition Assistance Program (SNAP) have served as the primary legislative bulwark against outright caloric deficiency. However, progressive socio-economists argue that these institutional frameworks are fundamentally reactionary, architected to temporarily alleviate transient poverty rather than structurally dismantle the entrenched, cyclical dynamics of systemic deprivation. The programmatic architecture of such safety nets often relies on antiquated, monolithic bureaucratic metrics that fail to account for acute regional disparities in cost-of-living indexations or the insidious expansion of "food mirages"â€”urban spaces where nutritious provisions are physically accessible but economically prohibitive to the surrounding low- income enclave. Furthermore, the hyper-politicization of budgetary appropriations frequently subjects these essential welfare mechanisms to fiscal austerity measures, thereby compounding the precarity of vulnerable households during periods of macroeconomic contraction. The structural vulnerability of the American food distribution apparatus was explicitly laid bare during recent global supply chain disruptions, which exposed the dangerous hyper- centralization of processing facilities and meat-packing monopolies. When systemic shocks fractured these brittle logistical vectors, the resultant inflationary spiral disproportionately impacted low-income demographics, forcing a regressive substitution toward energy-dense, shelf-stable, and nutrient-poor alimentary options. This dietary shift carries profound long- term public health implications, perpetuating a cruel irony where food-insecure populations simultaneously exhibit disproportionate rates of metabolic syndromes, diabetes, and clinical obesityâ€”a complex clinical state that scholars term the "food-insecurity-obesity paradox." Moreover, the corporate consolidation of the agrarian retail sector has structurally disincentivized the establishment of community-centric distribution nodes. Major retail monopolies consistently prioritize high-margin suburban supermarkets over low-yield urban or isolated rural markets, creating vast zones of corporate abandonment. Beyond the immediate socioeconomic indicators, the intersection of environmental degradation and agricultural policy further exacerbates this domestic precarity. The entrenched reliance on monocultural farming practices, heavily subsidized by federal frameworks, privileges the overproduction of industrial commodities like corn and soy at the expense of localized, diversified specialty crops. This ecological imbalance renders the food supply chain highly fragile to climate-induced anomalies, where localized droughts or extreme weather events trigger cascading failures in supply elasticity. Consequently, addressing this crisis necessitates an ontological shift in policy formulation: moving away from mere emergency caloric supplementation toward the institutionalization of food sovereignty, aggressive supply chain decentralization, and the rigorous statutory regulation of predatory retail cartels. Identify the INCORRECT statement based on the information provided in the passage.
+     (a) Monoculture farming practices, backed by federal subsidies, decrease the food chain's resilience to climate-induced anomalies.
+     (b) The "food-insecurity-obesity paradox" captures the link between nutritional deprivation and heightened rates of metabolic syndromes.
+   * (c) Traditional federal welfare programs like SNAP are designed to proactively dismantle the structural roots of cyclical poverty.
+     (d) Budgetary allocations for nutritional safety nets are frequently vulnerable to political negotiations and fiscal austerity.
+     (e) Processing facilities and meat-packing entities in the US are highly centralized.
+
+Q96  []
+below it. In the contemporary macroeconomic discourse surrounding post-industrial vulnerabilities, the persistence of food insecurity within the United States presents a profound operational paradox. Despite anchoring an agrarian infrastructure characterized by unparalleled capital intensity, structural integration, and technological sophistication, deep systemic fissures within the domestic distributive network systematically marginalize significant cohorts of the populace. This phenomenon cannot be reduced to a simplistic manifestation of absolute agricultural scarcity; rather, it represents an intricate, self-perpetuating systemic malfunction driven by acute socioeconomic stratification, deliberate geographic segregation (manifested as "food deserts"), and the volatile cascading effects of inflationary shocks on staple commodities. Historically, federal interventions such as the Supplemental Nutrition Assistance Program (SNAP) have served as the primary legislative bulwark against outright caloric deficiency. However, progressive socio-economists argue that these institutional frameworks are fundamentally reactionary, architected to temporarily alleviate transient poverty rather than structurally dismantle the entrenched, cyclical dynamics of systemic deprivation. The programmatic architecture of such safety nets often relies on antiquated, monolithic bureaucratic metrics that fail to account for acute regional disparities in cost-of-living indexations or the insidious expansion of "food mirages"â€”urban spaces where nutritious provisions are physically accessible but economically prohibitive to the surrounding low- income enclave. Furthermore, the hyper-politicization of budgetary appropriations frequently subjects these essential welfare mechanisms to fiscal austerity measures, thereby compounding the precarity of vulnerable households during periods of macroeconomic contraction. The structural vulnerability of the American food distribution apparatus was explicitly laid bare during recent global supply chain disruptions, which exposed the dangerous hyper- centralization of processing facilities and meat-packing monopolies. When systemic shocks fractured these brittle logistical vectors, the resultant inflationary spiral disproportionately impacted low-income demographics, forcing a regressive substitution toward energy-dense, shelf-stable, and nutrient-poor alimentary options. This dietary shift carries profound long- term public health implications, perpetuating a cruel irony where food-insecure populations simultaneously exhibit disproportionate rates of metabolic syndromes, diabetes, and clinical obesityâ€”a complex clinical state that scholars term the "food-insecurity-obesity paradox." Moreover, the corporate consolidation of the agrarian retail sector has structurally disincentivized the establishment of community-centric distribution nodes. Major retail monopolies consistently prioritize high-margin suburban supermarkets over low-yield urban or isolated rural markets, creating vast zones of corporate abandonment. Beyond the immediate socioeconomic indicators, the intersection of environmental degradation and agricultural policy further exacerbates this domestic precarity. The entrenched reliance on monocultural farming practices, heavily subsidized by federal frameworks, privileges the overproduction of industrial commodities like corn and soy at the expense of localized, diversified specialty crops. This ecological imbalance renders the food supply chain highly fragile to climate-induced anomalies, where localized droughts or extreme weather events trigger cascading failures in supply elasticity. Consequently, addressing this crisis necessitates an ontological shift in policy formulation: moving away from mere emergency caloric supplementation toward the institutionalization of food sovereignty, aggressive supply chain decentralization, and the rigorous statutory regulation of predatory retail cartels. Identify the correct synonym for "prohibitive" based on its contextual usage in the second paragraph of the passage.
+   * (a) Exorbitant
+     (b) Restrictive
+     (c) Permissive
+     (d) Imperative
+     (e) Inaccessible
+
+Q97  []
+below it. In the contemporary macroeconomic discourse surrounding post-industrial vulnerabilities, the persistence of food insecurity within the United States presents a profound operational paradox. Despite anchoring an agrarian infrastructure characterized by unparalleled capital intensity, structural integration, and technological sophistication, deep systemic fissures within the domestic distributive network systematically marginalize significant cohorts of the populace. This phenomenon cannot be reduced to a simplistic manifestation of absolute agricultural scarcity; rather, it represents an intricate, self-perpetuating systemic malfunction driven by acute socioeconomic stratification, deliberate geographic segregation (manifested as "food deserts"), and the volatile cascading effects of inflationary shocks on staple commodities. Historically, federal interventions such as the Supplemental Nutrition Assistance Program (SNAP) have served as the primary legislative bulwark against outright caloric deficiency. However, progressive socio-economists argue that these institutional frameworks are fundamentally reactionary, architected to temporarily alleviate transient poverty rather than structurally dismantle the entrenched, cyclical dynamics of systemic deprivation. The programmatic architecture of such safety nets often relies on antiquated, monolithic bureaucratic metrics that fail to account for acute regional disparities in cost-of-living indexations or the insidious expansion of "food mirages"â€”urban spaces where nutritious provisions are physically accessible but economically prohibitive to the surrounding low- income enclave. Furthermore, the hyper-politicization of budgetary appropriations frequently subjects these essential welfare mechanisms to fiscal austerity measures, thereby compounding the precarity of vulnerable households during periods of macroeconomic contraction. The structural vulnerability of the American food distribution apparatus was explicitly laid bare during recent global supply chain disruptions, which exposed the dangerous hyper- centralization of processing facilities and meat-packing monopolies. When systemic shocks fractured these brittle logistical vectors, the resultant inflationary spiral disproportionately impacted low-income demographics, forcing a regressive substitution toward energy-dense, shelf-stable, and nutrient-poor alimentary options. This dietary shift carries profound long- term public health implications, perpetuating a cruel irony where food-insecure populations simultaneously exhibit disproportionate rates of metabolic syndromes, diabetes, and clinical obesityâ€”a complex clinical state that scholars term the "food-insecurity-obesity paradox." Moreover, the corporate consolidation of the agrarian retail sector has structurally disincentivized the establishment of community-centric distribution nodes. Major retail monopolies consistently prioritize high-margin suburban supermarkets over low-yield urban or isolated rural markets, creating vast zones of corporate abandonment. Beyond the immediate socioeconomic indicators, the intersection of environmental degradation and agricultural policy further exacerbates this domestic precarity. The entrenched reliance on monocultural farming practices, heavily subsidized by federal frameworks, privileges the overproduction of industrial commodities like corn and soy at the expense of localized, diversified specialty crops. This ecological imbalance renders the food supply chain highly fragile to climate-induced anomalies, where localized droughts or extreme weather events trigger cascading failures in supply elasticity. Consequently, addressing this crisis necessitates an ontological shift in policy formulation: moving away from mere emergency caloric supplementation toward the institutionalization of food sovereignty, aggressive supply chain decentralization, and the rigorous statutory regulation of predatory retail cartels. Based on the text, how does the overproduction of industrial commodities like corn and soy impact the broader food supply matrix?
+     (a) It buffers low-income enclaves against macroeconomic contraction by keeping shelf- stable food cheap.
+   * (b) It creates an ecological imbalance that compromises the supply chainâ€™s elasticity against weather anomalies.
+     (c) It encourages major retail monopolies to establish more community-centric nodes in rural areas.
+     (d) It acts as the primary programmatic metric used by federal frameworks to adjust regional cost-of-living indexations.
+     (e) It reverses the expansion of food mirages across post-industrial economies.
+
+Q98  []
+below it. In the contemporary macroeconomic discourse surrounding post-industrial vulnerabilities, the persistence of food insecurity within the United States presents a profound operational paradox. Despite anchoring an agrarian infrastructure characterized by unparalleled capital intensity, structural integration, and technological sophistication, deep systemic fissures within the domestic distributive network systematically marginalize significant cohorts of the populace. This phenomenon cannot be reduced to a simplistic manifestation of absolute agricultural scarcity; rather, it represents an intricate, self-perpetuating systemic malfunction driven by acute socioeconomic stratification, deliberate geographic segregation (manifested as "food deserts"), and the volatile cascading effects of inflationary shocks on staple commodities. Historically, federal interventions such as the Supplemental Nutrition Assistance Program (SNAP) have served as the primary legislative bulwark against outright caloric deficiency. However, progressive socio-economists argue that these institutional frameworks are fundamentally reactionary, architected to temporarily alleviate transient poverty rather than structurally dismantle the entrenched, cyclical dynamics of systemic deprivation. The programmatic architecture of such safety nets often relies on antiquated, monolithic bureaucratic metrics that fail to account for acute regional disparities in cost-of-living indexations or the insidious expansion of "food mirages"â€”urban spaces where nutritious provisions are physically accessible but economically prohibitive to the surrounding low- income enclave. Furthermore, the hyper-politicization of budgetary appropriations frequently subjects these essential welfare mechanisms to fiscal austerity measures, thereby compounding the precarity of vulnerable households during periods of macroeconomic contraction. The structural vulnerability of the American food distribution apparatus was explicitly laid bare during recent global supply chain disruptions, which exposed the dangerous hyper- centralization of processing facilities and meat-packing monopolies. When systemic shocks fractured these brittle logistical vectors, the resultant inflationary spiral disproportionately impacted low-income demographics, forcing a regressive substitution toward energy-dense, shelf-stable, and nutrient-poor alimentary options. This dietary shift carries profound long- term public health implications, perpetuating a cruel irony where food-insecure populations simultaneously exhibit disproportionate rates of metabolic syndromes, diabetes, and clinical obesityâ€”a complex clinical state that scholars term the "food-insecurity-obesity paradox." Moreover, the corporate consolidation of the agrarian retail sector has structurally disincentivized the establishment of community-centric distribution nodes. Major retail monopolies consistently prioritize high-margin suburban supermarkets over low-yield urban or isolated rural markets, creating vast zones of corporate abandonment. Beyond the immediate socioeconomic indicators, the intersection of environmental degradation and agricultural policy further exacerbates this domestic precarity. The entrenched reliance on monocultural farming practices, heavily subsidized by federal frameworks, privileges the overproduction of industrial commodities like corn and soy at the expense of localized, diversified specialty crops. This ecological imbalance renders the food supply chain highly fragile to climate-induced anomalies, where localized droughts or extreme weather events trigger cascading failures in supply elasticity. Consequently, addressing this crisis necessitates an ontological shift in policy formulation: moving away from mere emergency caloric supplementation toward the institutionalization of food sovereignty, aggressive supply chain decentralization, and the rigorous statutory regulation of predatory retail cartels. What core risk associated with the current federal nutrition safety net architecture does the author place the most emphasis on?
+     (a) The widespread fraudulent usage of EBT cards within urban settings.
+   * (b) The operational reliance on rigid, antiquated metrics that fail to map localized economic stress and cost variations.
+     (c) The absolute financial drain it places on agricultural technology research and development budgets.
+     (d) Its inability to handle sudden spikes in suburban population distributions.
+     (e) The direct role it plays in accelerating the consolidation of meat-packing monopolies.
+
+Q99  []
+below it. In the contemporary macroeconomic discourse surrounding post-industrial vulnerabilities, the persistence of food insecurity within the United States presents a profound operational paradox. Despite anchoring an agrarian infrastructure characterized by unparalleled capital intensity, structural integration, and technological sophistication, deep systemic fissures within the domestic distributive network systematically marginalize significant cohorts of the populace. This phenomenon cannot be reduced to a simplistic manifestation of absolute agricultural scarcity; rather, it represents an intricate, self-perpetuating systemic malfunction driven by acute socioeconomic stratification, deliberate geographic segregation (manifested as "food deserts"), and the volatile cascading effects of inflationary shocks on staple commodities. Historically, federal interventions such as the Supplemental Nutrition Assistance Program (SNAP) have served as the primary legislative bulwark against outright caloric deficiency. However, progressive socio-economists argue that these institutional frameworks are fundamentally reactionary, architected to temporarily alleviate transient poverty rather than structurally dismantle the entrenched, cyclical dynamics of systemic deprivation. The programmatic architecture of such safety nets often relies on antiquated, monolithic bureaucratic metrics that fail to account for acute regional disparities in cost-of-living indexations or the insidious expansion of "food mirages"â€”urban spaces where nutritious provisions are physically accessible but economically prohibitive to the surrounding low- income enclave. Furthermore, the hyper-politicization of budgetary appropriations frequently subjects these essential welfare mechanisms to fiscal austerity measures, thereby compounding the precarity of vulnerable households during periods of macroeconomic contraction. The structural vulnerability of the American food distribution apparatus was explicitly laid bare during recent global supply chain disruptions, which exposed the dangerous hyper- centralization of processing facilities and meat-packing monopolies. When systemic shocks fractured these brittle logistical vectors, the resultant inflationary spiral disproportionately impacted low-income demographics, forcing a regressive substitution toward energy-dense, shelf-stable, and nutrient-poor alimentary options. This dietary shift carries profound long- term public health implications, perpetuating a cruel irony where food-insecure populations simultaneously exhibit disproportionate rates of metabolic syndromes, diabetes, and clinical obesityâ€”a complex clinical state that scholars term the "food-insecurity-obesity paradox." Moreover, the corporate consolidation of the agrarian retail sector has structurally disincentivized the establishment of community-centric distribution nodes. Major retail monopolies consistently prioritize high-margin suburban supermarkets over low-yield urban or isolated rural markets, creating vast zones of corporate abandonment. Beyond the immediate socioeconomic indicators, the intersection of environmental degradation and agricultural policy further exacerbates this domestic precarity. The entrenched reliance on monocultural farming practices, heavily subsidized by federal frameworks, privileges the overproduction of industrial commodities like corn and soy at the expense of localized, diversified specialty crops. This ecological imbalance renders the food supply chain highly fragile to climate-induced anomalies, where localized droughts or extreme weather events trigger cascading failures in supply elasticity. Consequently, addressing this crisis necessitates an ontological shift in policy formulation: moving away from mere emergency caloric supplementation toward the institutionalization of food sovereignty, aggressive supply chain decentralization, and the rigorous statutory regulation of predatory retail cartels. Which of the following words is the closest in meaning to the opposite of the word "precarity" as used in the passage?
+     (a) Vulnerability
+     (b) Instability
+   * (c) Stability
+     (d) Peril
+     (e) Resilience
+
+Q100  []
+below it. In the contemporary macroeconomic discourse surrounding post-industrial vulnerabilities, the persistence of food insecurity within the United States presents a profound operational paradox. Despite anchoring an agrarian infrastructure characterized by unparalleled capital intensity, structural integration, and technological sophistication, deep systemic fissures within the domestic distributive network systematically marginalize significant cohorts of the populace. This phenomenon cannot be reduced to a simplistic manifestation of absolute agricultural scarcity; rather, it represents an intricate, self-perpetuating systemic malfunction driven by acute socioeconomic stratification, deliberate geographic segregation (manifested as "food deserts"), and the volatile cascading effects of inflationary shocks on staple commodities. Historically, federal interventions such as the Supplemental Nutrition Assistance Program (SNAP) have served as the primary legislative bulwark against outright caloric deficiency. However, progressive socio-economists argue that these institutional frameworks are fundamentally reactionary, architected to temporarily alleviate transient poverty rather than structurally dismantle the entrenched, cyclical dynamics of systemic deprivation. The programmatic architecture of such safety nets often relies on antiquated, monolithic bureaucratic metrics that fail to account for acute regional disparities in cost-of-living indexations or the insidious expansion of "food mirages"â€”urban spaces where nutritious provisions are physically accessible but economically prohibitive to the surrounding low- income enclave. Furthermore, the hyper-politicization of budgetary appropriations frequently subjects these essential welfare mechanisms to fiscal austerity measures, thereby compounding the precarity of vulnerable households during periods of macroeconomic contraction. The structural vulnerability of the American food distribution apparatus was explicitly laid bare during recent global supply chain disruptions, which exposed the dangerous hyper- centralization of processing facilities and meat-packing monopolies. When systemic shocks fractured these brittle logistical vectors, the resultant inflationary spiral disproportionately impacted low-income demographics, forcing a regressive substitution toward energy-dense, shelf-stable, and nutrient-poor alimentary options. This dietary shift carries profound long- term public health implications, perpetuating a cruel irony where food-insecure populations simultaneously exhibit disproportionate rates of metabolic syndromes, diabetes, and clinical obesityâ€”a complex clinical state that scholars term the "food-insecurity-obesity paradox." Moreover, the corporate consolidation of the agrarian retail sector has structurally disincentivized the establishment of community-centric distribution nodes. Major retail monopolies consistently prioritize high-margin suburban supermarkets over low-yield urban or isolated rural markets, creating vast zones of corporate abandonment. Beyond the immediate socioeconomic indicators, the intersection of environmental degradation and agricultural policy further exacerbates this domestic precarity. The entrenched reliance on monocultural farming practices, heavily subsidized by federal frameworks, privileges the overproduction of industrial commodities like corn and soy at the expense of localized, diversified specialty crops. This ecological imbalance renders the food supply chain highly fragile to climate-induced anomalies, where localized droughts or extreme weather events trigger cascading failures in supply elasticity. Consequently, addressing this crisis necessitates an ontological shift in policy formulation: moving away from mere emergency caloric supplementation toward the institutionalization of food sovereignty, aggressive supply chain decentralization, and the rigorous statutory regulation of predatory retail cartels. Which of the following statements is/are correct regarding the "food-insecurity- obesity paradox"? (I) It highlights the coexistence of metabolic disorders and clinical obesity within households facing food insecurity. (II) It is directly exacerbated by supply chain disruptions that drive up the cost of premium, nutrient-dense foods. (III) It proves that low-income demographics choose energy-dense food items primarily due to a total lack of health awareness. Only (I)
+     (a) Both (I) and (II)
+   * (b) Both (II) and (III)
+     (c) All (I), (II), and (III)
+     (d) Only (III)
+
+Q101  []
+below it. In the contemporary macroeconomic discourse surrounding post-industrial vulnerabilities, the persistence of food insecurity within the United States presents a profound operational paradox. Despite anchoring an agrarian infrastructure characterized by unparalleled capital intensity, structural integration, and technological sophistication, deep systemic fissures within the domestic distributive network systematically marginalize significant cohorts of the populace. This phenomenon cannot be reduced to a simplistic manifestation of absolute agricultural scarcity; rather, it represents an intricate, self-perpetuating systemic malfunction driven by acute socioeconomic stratification, deliberate geographic segregation (manifested as "food deserts"), and the volatile cascading effects of inflationary shocks on staple commodities. Historically, federal interventions such as the Supplemental Nutrition Assistance Program (SNAP) have served as the primary legislative bulwark against outright caloric deficiency. However, progressive socio-economists argue that these institutional frameworks are fundamentally reactionary, architected to temporarily alleviate transient poverty rather than structurally dismantle the entrenched, cyclical dynamics of systemic deprivation. The programmatic architecture of such safety nets often relies on antiquated, monolithic bureaucratic metrics that fail to account for acute regional disparities in cost-of-living indexations or the insidious expansion of "food mirages"â€”urban spaces where nutritious provisions are physically accessible but economically prohibitive to the surrounding low- income enclave. Furthermore, the hyper-politicization of budgetary appropriations frequently subjects these essential welfare mechanisms to fiscal austerity measures, thereby compounding the precarity of vulnerable households during periods of macroeconomic contraction. The structural vulnerability of the American food distribution apparatus was explicitly laid bare during recent global supply chain disruptions, which exposed the dangerous hyper- centralization of processing facilities and meat-packing monopolies. When systemic shocks fractured these brittle logistical vectors, the resultant inflationary spiral disproportionately impacted low-income demographics, forcing a regressive substitution toward energy-dense, shelf-stable, and nutrient-poor alimentary options. This dietary shift carries profound long- term public health implications, perpetuating a cruel irony where food-insecure populations simultaneously exhibit disproportionate rates of metabolic syndromes, diabetes, and clinical obesityâ€”a complex clinical state that scholars term the "food-insecurity-obesity paradox." Moreover, the corporate consolidation of the agrarian retail sector has structurally disincentivized the establishment of community-centric distribution nodes. Major retail monopolies consistently prioritize high-margin suburban supermarkets over low-yield urban or isolated rural markets, creating vast zones of corporate abandonment. Beyond the immediate socioeconomic indicators, the intersection of environmental degradation and agricultural policy further exacerbates this domestic precarity. The entrenched reliance on monocultural farming practices, heavily subsidized by federal frameworks, privileges the overproduction of industrial commodities like corn and soy at the expense of localized, diversified specialty crops. This ecological imbalance renders the food supply chain highly fragile to climate-induced anomalies, where localized droughts or extreme weather events trigger cascading failures in supply elasticity. Consequently, addressing this crisis necessitates an ontological shift in policy formulation: moving away from mere emergency caloric supplementation toward the institutionalization of food sovereignty, aggressive supply chain decentralization, and the rigorous statutory regulation of predatory retail cartels. Which of the following words is closest in meaning to "dismantle" as used in the second paragraph?
+   * (a) Deconstruct
+     (b) Obliterate
+     (c) Subvert
+     (d) Reconfigure
+     (e) Reinforce
+
+Q102  []
+words are underlined. Choose the option which gives the correct sequence of these words to make the sentence grammatically and contextually correct. The prosecutor's elaborate (A) analysis of the financial records provided a scathing (B) link that unravelled the defendant's conclusive (C) corporate fraud scheme.
+     (a) ACB
+     (b) CAB
+   * (c) BCA
+     (d) BAC
+     (e) No rearrangement required
+
+Q103  []
+words are underlined. Choose the option which gives the correct sequence of these words to make the sentence grammatically and contextually correct. The diplomat's unfolding (A) to sign the treaty at midnight cost the nation a pivotal (B) strategic alliance in the reluctance (C) geopolitical conflict.
+   * (a) CBA
+     (b) ACB
+     (c) BAC
+     (d) CAB
+     (e) No rearrangement required
+
+Q104  []
+words are underlined. Choose the option which gives the correct sequence of these words to make the sentence grammatically and contextually correct. The defence team's invalidated (A) cross-examination exposed an astute (B) contradiction that crucial (C) the key witness's testimony.
+     (a) CAB
+   * (b) BCA
+     (c) BAC
+     (d) ACB
+     (e) No rearrangement required
+
+Q105  []
+words are underlined. Choose the option which gives the correct sequence of these words to make the sentence grammatically and contextually correct. The team's unwavering (A) performance during the financial crisis allowed the firm to navigate market resilient (B) with adversity (C) focus.
+   * (a) BCA
+     (b) CAB
+     (c) ACB
+     (d) BAC
+     (e) No rearrangement required Directions Read the following statements and identify which of them contains a grammatical error:
+
+Q106  []
+I. Not only did the compliance team flag the discrepancies in the audit report, but they also recommended a complete overhaul of the accounting software. II. The introduction of the stringent environmental regulations have caused considerable anxiety among the manufacturing firms operating in the industrial corridor. III. The chief executive addressed the sudden drop in quarterly revenue as though she were entirely unconcerned by the growing skepticism of the board members.
+     (a) Only I
+   * (b) Only II
+     (c) Both I and II
+     (d) Both II and III
+     (e) No error
+
+Q107  []
+Read the following statements and identify which of them contains an incorrect usage or grammatical application of the idiom: I. With the regulatory compliance deadline looming in early Q4, the newly appointed chief of risk management was expected to hit the ground running, bypassing the usual orientation protocols to immediately overhaul the framework. II. Though the project had been stalled for nearly a academic semester due to bureaucratic gridlock, the research team hit the ground running as soon as the funding tranche was disbursed, delivering the initial prototype within a fortnight. III. Having analyzed the historical market contractions, the portfolio strategist advised the board that hitting the ground running into volatile equities without a hedging mechanism would inevitably trigger a margin call.
+     (a) Only I
+   * (b) Only III
+     (c) Both I and II
+     (d) Both II and III
+     (e) No error
+
+Q108  []
+Read the following statements and identify which of them contains an incorrect usage or grammatical application of the idiom: I. Faced with an aggressive, undercutting pricing strategy from its primary digital competitor, the legacy retail conglomerate decided to fight fire with fire by slashing its own margins and launching a predatory marketing campaign. II. Rather than escalating the diplomatic standoff by fighting fire with fire, the mediator urged both nation-states to de-escalate through bilateral trade concessions and mutual disarmament pacts. III. The IT security division managed to fight fire with fire, deploying advanced algorithmic encryption protocols that successfully neutralized the malware before it could compromise the core data servers.
+     (a) Only I
+   * (b) Only III
+     (c) Both I and II
+     (d) Both II and III
+     (e) No error
+
+Q109  []
+Read the following statements and identify which of them contains an incorrect usage or grammatical application of the idiom: I. Following weeks of speculative press coverage regarding his sudden resignation, the former managing director issued a comprehensive press release to set the record straight regarding his future professional ventures. II. The compliance officer meticulously audited the ledger, determined to set the record straight and rectify the accounting anomalies introduced by the legacy software patch. III. Because the financial statements were deliberately falsified by the executives, the regulatory tribunal intervened to set the record straight by imposing severe administrative penalties on the firm.
+     (a) Only I
+   * (b) Only III
+     (c) Both I and II
+     (d) Both II and III
+     (e) No error
+
+Q110  []
+Read the following statements and identify which of them contains an incorrect usage or grammatical application of the idiom: I. After a tumultuous six-month hiatus caused by a sudden lack of capital, the production team returned to the facility, eager to pick up the threads of their disrupted research project. II. The lead detective spent hours reviewing the cold case files, hoping to pick up the threads left behind by the initial investigative team before the inquiry was abruptly abandoned. III. Realizing that the negotiation had completely collapsed due to mutual distrust, the envoy decided to pick up the threads by introducing an entirely new, unrelated treaty proposal.
+     (a) Only I
+   * (b) Only III
+     (c) Both I and II
+     (d) Both II and III
+     (e) No error
+
+Q111  []
+An empty cylindrical tank has a radius of 21 cm and height of 36 cm. It is filled using a conical vessel whose radius is 7 cm and height is 18 cm. Till the tank becomes half-filled, no water is lost during transfer. After that, due to spillage, only 90% of the water carried in the conical vessel reaches the tank each time. How many times should the conical vessel be filled completely to fill the cylindrical tank?
+     (a) 54
+     (b) 55
+     (c) 56
+   * (d) 57
+     (e) 58
+
+Q112  []
+Babu spends 20% of his salary on travelling. From the remaining salary, he spends 70% on miscellaneous activities and saves the rest. If the difference between the amount spent on travelling and the amount saved is â‚¹1600, then what is Babuâ€™s salary?
+     (a) â‚¹32,000
+     (b) â‚¹36,000
+     (c) â‚¹38,000
+     (d) â‚¹42,000
+   * (e) â‚¹40,000
+
+Q117  []
+Information: Ram invests â‚¹X for 2 year in the scheme of Compound Interest at 20% per annum. Had he invested â‚¹3000 in the same scheme for 2 year, the amount would be â‚¹2160 more than actual. Match the Column Column I Column II (A). Difference between â‚¹3000 - â‚¹ X P. â‚¹ X (B). Actual Interest earned by Ram Q. â‚¹660 (C). Sum of â‚¹636 & amount received had R. â‚¹ 1200 Ram invested â‚¹600 in the scheme
+   * (a) A-P, B-Q, C-P
+     (b) A-Q, B-P, C-R
+     (c) A-R, B-Q, C-P
+     (d) A-P, B-R, C-Q
+     (e) A-Q, B-R, C-P
+
+Q123  []
+Ram invests â‚¹3600 in a scheme for x years at a certain rate of simple interest. Shyam invests â‚¹4000 in the same scheme for (x + 4) years at the same rate of interest. If the interest earned by Ram is 0.45 times the interest earned by Shyam, then find the value of x.
+     (a) 2 years
+     (b) 3 years
+   * (c) 4 years
+     (d) 5 years
+     (e) 6 years
+
+Q124  []
+given below. Three stores A, B and C sold two types of products: Bags and Shirts. The total number of shirts sold by Stores A, B and C together is 240.The ratio of shirts sold by Store A to Store B is 4: 5. The number of shirts sold by Store C is 20% more than the number of shirts sold by Store B. The number of bags sold by Store A is 25% less than the number of shirts sold by Store A. The ratio of bags sold by Store B to Store C is 5: 6. The total number of bags sold by Store B and Store C together is 132. If 25% of the shirts sold by Store B and of the bags sold by Store C were returned, ðŸðŸ then find the total number of valid products sold by Stores B and C together. ðŸ‘ðŸ‘
+     (a) 252
+     (b) 260
+     (c) 268
+   * (d) 264
+     (e) 272
+
+Q125  []
+given below. Three stores A, B and C sold two types of products: Bags and Shirts. The total number of shirts sold by Stores A, B and C together is 240.The ratio of shirts sold by Store A to Store B is 4: 5. The number of shirts sold by Store C is 20% more than the number of shirts sold by Store B. The number of bags sold by Store A is 25% less than the number of shirts sold by Store A. The ratio of bags sold by Store B to Store C is 5: 6. The total number of bags sold by Store B and Store C together is 132. The total number of bags sold by Stores A and B together is what percentage less than the total number of shirts sold by Stores B and C together?
+     (a) 35.25%
+     (b) 36.50%
+   * (c) 38.64%
+     (d) 40.25%
+     (e) 42.50%
+
+Q126  []
+given below. Three stores A, B and C sold two types of products: Bags and Shirts. The total number of shirts sold by Stores A, B and C together is 240.The ratio of shirts sold by Store A to Store B is 4: 5. The number of shirts sold by Store C is 20% more than the number of shirts sold by Store B. The number of bags sold by Store A is 25% less than the number of shirts sold by Store A. The ratio of bags sold by Store B to Store C is 5: 6. The total number of bags sold by Store B and Store C together is 132. If each shirt is sold for â‚¹500 and each bag is sold for â‚¹800, then the revenue earned by Store C is what percentage more than the revenue earned by Store A?
+     (a) 40%
+     (b) 45%
+     (c) 60%
+     (d) 55%
+   * (e) 50%
+
+Q127  []
+given below. Three stores A, B and C sold two types of products: Bags and Shirts. The total number of shirts sold by Stores A, B and C together is 240.The ratio of shirts sold by Store A to Store B is 4: 5. The number of shirts sold by Store C is 20% more than the number of shirts sold by Store B. The number of bags sold by Store A is 25% less than the number of shirts sold by Store A. The ratio of bags sold by Store B to Store C is 5: 6. The total number of bags sold by Store B and Store C together is 132. If the number of shirts sold by Store B decreases by 10% and the number of bags sold by Store B increases by 20%, then find the new ratio of shirts to bags sold by Store B.
+     (a) 5: 6
+   * (b) 1: 1
+     (c) 6: 5
+     (d) 4: 5
+     (e) 3: 4
+
+Q128  []
+The cost price of Article A is â‚¹1500 and the cost price of Article B is â‚¹2500. Article A and Article B are marked up by 80% and 60%, respectively. Article A is sold for â‚¹1880. The selling price of Article B is â‚¹520 more than the selling price of Article A. Based on the above information, which of the following statements is/are true? P. The selling price of Article B is greater than the marked price of Article A. Q. The discount allowed on Article B is 40%. R. The profit earned on Article B is 40% of its selling price.
+     (a) Only P
+   * (b) Only Q
+     (c) Only R
+     (d) Both P and Q
+     (e) Both Q and R
+
+Q129  []
+Q129. Train A of length 280 metres crosses a platform of length 420 metres in 35 seconds. Train B crosses the same platform in 32 seconds. When Train A and Train B run in opposite directions, they cross each other completely in 16 seconds. Another Train C of length 220 metres runs at a speed of 36 km/hr in the same direction as Train A. Quantity I: Time taken by Train B to cross a platform of length 650 metres Quantity II: Time taken by Train A to cross Train C completely A. Quantity I > Quantity II B. Quantity I < Quantity II C. Quantity I â‰¥ Quantity II D. Quantity I â‰¤ Quantity II E. Quantity I = Quantity II or relationship cannot be established Train A of length 280 metres crosses a platform of length 420 metres in 35 seconds. Train B crosses the same platform in 32 seconds. When Train A and Train B run in opposite directions, they cross each other completely in 16 seconds. Another Train C of length 220 metres runs at a speed of 36 km/hr in the same direction as Train A. Quantity I: Time taken by Train B to cross a platform of length 650 metres Quantity II: Time taken by Train A to cross Train C completely
+     (a) Quantity I > Quantity II
+   * (b) Quantity I < Quantity II
+     (c) Quantity I â‰¥ Quantity II
+     (d) Quantity I â‰¤ Quantity II
+     (e) Quantity I = Quantity II or relationship cannot be established
+
+Q130  []
+Q129. Train A of length 280 metres crosses a platform of length 420 metres in 35 seconds. Train B crosses the same platform in 32 seconds. When Train A and Train B run in opposite directions, they cross each other completely in 16 seconds. Another Train C of length 220 metres runs at a speed of 36 km/hr in the same direction as Train A. Quantity I: Time taken by Train B to cross a platform of length 650 metres Quantity II: Time taken by Train A to cross Train C completely A. Quantity I > Quantity II B. Quantity I < Quantity II C. Quantity I â‰¥ Quantity II D. Quantity I â‰¤ Quantity II E. Quantity I = Quantity II or relationship cannot be established A rectangular plot has length 20% more than its breadth. A square lawn is constructed inside the plot such that the side of the square lawn is equal to the breadth of the rectangular plot. The area of the remaining part of the rectangular plot is 180 sq. m. Quantity I: Perimeter of the rectangular plot Quantity II: Perimeter of a square whose area is 21% more than the area of the square lawn
+     (a) Quantity I > Quantity II
+     (b) Quantity I < Quantity II
+     (c) Quantity I â‰¥ Quantity II
+     (d) Quantity I â‰¤ Quantity II
+   * (e) Quantity I = Quantity II or relationship cannot be established
+
+Q131  []
+Quantity III. Compare the three quantities and choose the correct option. Set X contains all prime numbers greater than 20 and less than 100 which leave a remainder of 1 when divided by 6. Set Y contains all positive factors of 360 which are not divisible by 3. Set Z contains all two-digit multiples of 7 which are not divisible by 5. Quantity I: Average of all elements of Set X + Number of elements in Set Z + Largest prime factor of 91 Quantity II: Sum of composite elements of Set Y + Smallest element of Set X - Number of elements in Set X Quantity III: Difference between the sum of all elements of Set Z and the sum of all elements of Set X
+     (a) Quantity I > Quantity II > Quantity III
+   * (b) Quantity III > Quantity II > Quantity I
+     (c) Quantity II > Quantity III > Quantity I
+     (d) Quantity III > Quantity I > Quantity II
+     (e) Quantity II = Quantity III > Quantity I
+
+Q132  []
+A container contains 80 litres of a mixture of milk and water in the ratio 5 : 3. From the container, 20 litres of the mixture is withdrawn and replaced with 20 litres of water. Find the ratio of milk to water in the final mixture.
+   * (a) 15: 17
+     (b) 25: 23
+     (c) 15: 11
+     (d) 25: 39
+     (e) 20: 31
+
+Q133  []
+the following questions? 74.99 Ã— 3.02 + 44.99 Ã— 3.99 - 150.03 = ?
+     (a) 245
+   * (b) 255
+     (c) 250
+     (d) 260
+     (e) 265
+
+Q134  []
+the following questions? + - = ? ðŸ•ðŸ•ðŸ•ðŸ•.ðŸ—ðŸ—ðŸ—ðŸ—
+     (a) 16 ðŸ–ðŸ–.ðŸ—ðŸ—ðŸ—ðŸ— âˆšðŸ”ðŸ”ðŸ”ðŸ”ðŸ•ðŸ• âˆšðŸ•ðŸ•ðŸ”ðŸ”ðŸ–ðŸ–
+     (b) 18
+     (c) 25
+     (d) 22
+   * (e) 20
+
+Q135  []
+the following questions? 46.03 + 202.01 Ã— 1.99 - (12.01)2 = ?
+     (a) 296
+     (b) 300
+   * (c) 306
+     (d) 312
+     (e) 318
+
+Q136  []
+the following questions? 2.02 Ã— 6.98 - = ? ðŸðŸðŸðŸ.ðŸŽðŸŽðŸŽðŸŽ
+     (a) 8 âˆšðŸðŸðŸ’ðŸ’.ðŸ—ðŸ—ðŸ—ðŸ—
+   * (b) 12
+     (c) 10
+     (d) 14
+     (e) 16
+
+Q137  []
+number series? 999, 1002, 995, 1010, ?, 1042
+     (a) 975
+   * (b) 979
+     (c) 981
+     (d) 985
+     (e) 989
+
+Q138  []
+number series? 15, 31, 79, 271, 1231, ?
+     (a) 5991
+     (b) 6291
+     (c) 6591
+   * (d) 6991
+     (e) 7291
+
+Q139  []
+number series? 8, ?, 28, 103, 628, 5353
+     (a) 11
+   * (b) 13
+     (c) 15
+     (d) 17
+     (e) 19
+
+Q140  []
+number series? 800, ?, 640, 896, 1792, 5017.6
+     (a) 560
+     (b) 600
+     (c) 620
+   * (d) 640
+     (e) 39
+
+Q141  []
+given below. Eleven boxes â€“ M, N, O, P, Q, R, S, T, U, V, and W are kept one above another in a single stack, but not necessarily in the same order. Only one box is kept between M and R. W is kept three boxes above M. The number of boxes kept above W is the same as the number of boxes kept below V. Not more than one box is kept above W. R is not kept seven boxes above V. Only three boxes are kept between M and S, which is not kept immediately above W. The number of boxes kept between T and V is a perfect cube. More than two boxes are kept between T and R. No box is kept between U and Q. Only three boxes are kept between O and Q. The number of boxes kept between N and O is same as the number of boxes kept between M and R. N is placed above P, and there are at least two boxes below P. How many boxes are between N and P?
+   * (a) Three
+     (b) Two
+     (c) One
+     (d) None
+     (e) More than Four
+
+Q142  []
+given below. Eleven boxes â€“ M, N, O, P, Q, R, S, T, U, V, and W are kept one above another in a single stack, but not necessarily in the same order. Only one box is kept between M and R. W is kept three boxes above M. The number of boxes kept above W is the same as the number of boxes kept below V. Not more than one box is kept above W. R is not kept seven boxes above V. Only three boxes are kept between M and S, which is not kept immediately above W. The number of boxes kept between T and V is a perfect cube. More than two boxes are kept between T and R. No box is kept between U and Q. Only three boxes are kept between O and Q. The number of boxes kept between N and O is same as the number of boxes kept between M and R. N is placed above P, and there are at least two boxes below P. Which of the following statements is/are true with respect to the final arrangement?
+     (a) Only one box is above Box N
+     (b) No box between Box P and Box Q
+     (c) Box R is kept at fifth from the bottom
+   * (d) Box P is kept immediately above Box S
+     (e) Box U is kept at second from the top
+
+Q143  []
+given below. Eleven boxes â€“ M, N, O, P, Q, R, S, T, U, V, and W are kept one above another in a single stack, but not necessarily in the same order. Only one box is kept between M and R. W is kept three boxes above M. The number of boxes kept above W is the same as the number of boxes kept below V. Not more than one box is kept above W. R is not kept seven boxes above V. Only three boxes are kept between M and S, which is not kept immediately above W. The number of boxes kept between T and V is a perfect cube. More than two boxes are kept between T and R. No box is kept between U and Q. Only three boxes are kept between O and Q. The number of boxes kept between N and O is same as the number of boxes kept between M and R. N is placed above P, and there are at least two boxes below P. Four of the following five are alike in a certain way as per the given arrangement and hence forms a group. Find the one which doesnâ€™t belong to that group.
+     (a) R â€“ S
+     (b) W â€“ N
+     (c) V â€“ Q
+   * (d) N â€“ U
+     (e) P â€“ O
+
+Q144  []
+given below. Eleven boxes â€“ M, N, O, P, Q, R, S, T, U, V, and W are kept one above another in a single stack, but not necessarily in the same order. Only one box is kept between M and R. W is kept three boxes above M. The number of boxes kept above W is the same as the number of boxes kept below V. Not more than one box is kept above W. R is not kept seven boxes above V. Only three boxes are kept between M and S, which is not kept immediately above W. The number of boxes kept between T and V is a perfect cube. More than two boxes are kept between T and R. No box is kept between U and Q. Only three boxes are kept between O and Q. The number of boxes kept between N and O is same as the number of boxes kept between M and R. N is placed above P, and there are at least two boxes below P. Which among the following box is fifth from the bottom?
+     (a) Box Q
+     (b) Box N
+   * (c) Box P
+     (d) Box R
+     (e) None of these
+
+Q145  []
+given below. Eleven boxes â€“ M, N, O, P, Q, R, S, T, U, V, and W are kept one above another in a single stack, but not necessarily in the same order. Only one box is kept between M and R. W is kept three boxes above M. The number of boxes kept above W is the same as the number of boxes kept below V. Not more than one box is kept above W. R is not kept seven boxes above V. Only three boxes are kept between M and S, which is not kept immediately above W. The number of boxes kept between T and V is a perfect cube. More than two boxes are kept between T and R. No box is kept between U and Q. Only three boxes are kept between O and Q. The number of boxes kept between N and O is same as the number of boxes kept between M and R. N is placed above P, and there are at least two boxes below P. What is the Position of Box N?
+     (a) Third from the bottom
+     (b) Fifth from the bottom
+   * (c) Third from the top
+     (d) Second from the top
+     (e) Sixth from the bottom
+
+Q146  []
+given below. Seven persons, A, B, C, D, E, F and G, were born in different years among 1953, 1961, 1964, 1970, 1975, 1982 and 1990. Each person belongs to a different place among Delhi, Pune, Hyderabad, Chennai, Mumbai, Kolkata and Jaipur. All the information is not necessarily in the same order. The age of each person is calculated from the base year 2026. The one who belongs to Delhi was born immediately after the person whose age is a multiple of 13. Two persons were born between A and the one who belongs to Delhi. No person was born between A and the one who belongs to Jaipur. B was born immediately before the person whose age is a multiple of 17. The sum of the ages of C and the one who belongs to Mumbai is 116. The number of persons born before C is two less than the number of persons born after the one who belongs to Pune. F was born after C but before B. A does not belong to Hyderabad. The number of persons born before the one who belongs to Kolkata is one less than the number of persons born after the one who belongs to Chennai. G was born in a year which is a multiple of 5 but was not born immediately after B. D was born after the one who belongs to Kolkata. Who was born immediately before the person who belongs to Mumbai?
+     (a) The one who belongs to Chennai
+     (b) F
+     (c) G
+   * (d) The one who belongs to Pune
+     (e) The one who was born immediately after C
+
+Q147  []
+given below. Seven persons, A, B, C, D, E, F and G, were born in different years among 1953, 1961, 1964, 1970, 1975, 1982 and 1990. Each person belongs to a different place among Delhi, Pune, Hyderabad, Chennai, Mumbai, Kolkata and Jaipur. All the information is not necessarily in the same order. The age of each person is calculated from the base year 2026. The one who belongs to Delhi was born immediately after the person whose age is a multiple of 13. Two persons were born between A and the one who belongs to Delhi. No person was born between A and the one who belongs to Jaipur. B was born immediately before the person whose age is a multiple of 17. The sum of the ages of C and the one who belongs to Mumbai is 116. The number of persons born before C is two less than the number of persons born after the one who belongs to Pune. F was born after C but before B. A does not belong to Hyderabad. The number of persons born before the one who belongs to Kolkata is one less than the number of persons born after the one who belongs to Chennai. G was born in a year which is a multiple of 5 but was not born immediately after B. D was born after the one who belongs to Kolkata. If Bâ€™s son is 25 years younger than B, in which year was Bâ€™s son born?
+   * (a) 1995
+     (b) 1990
+     (c) 2001
+     (d) 1985
+     (e) 1998
+
+Q148  []
+given below. Seven persons, A, B, C, D, E, F and G, were born in different years among 1953, 1961, 1964, 1970, 1975, 1982 and 1990. Each person belongs to a different place among Delhi, Pune, Hyderabad, Chennai, Mumbai, Kolkata and Jaipur. All the information is not necessarily in the same order. The age of each person is calculated from the base year 2026. The one who belongs to Delhi was born immediately after the person whose age is a multiple of 13. Two persons were born between A and the one who belongs to Delhi. No person was born between A and the one who belongs to Jaipur. B was born immediately before the person whose age is a multiple of 17. The sum of the ages of C and the one who belongs to Mumbai is 116. The number of persons born before C is two less than the number of persons born after the one who belongs to Pune. F was born after C but before B. A does not belong to Hyderabad. The number of persons born before the one who belongs to Kolkata is one less than the number of persons born after the one who belongs to Chennai. G was born in a year which is a multiple of 5 but was not born immediately after B. D was born after the one who belongs to Kolkata. What is the sum of the age of G and the one who belongs to Hyderabad?
+     (a) 95
+   * (b) 101
+     (c) 112
+     (d) 108
+     (e) None of these
+
+Q149  []
+given below. Seven persons, A, B, C, D, E, F and G, were born in different years among 1953, 1961, 1964, 1970, 1975, 1982 and 1990. Each person belongs to a different place among Delhi, Pune, Hyderabad, Chennai, Mumbai, Kolkata and Jaipur. All the information is not necessarily in the same order. The age of each person is calculated from the base year 2026. The one who belongs to Delhi was born immediately after the person whose age is a multiple of 13. Two persons were born between A and the one who belongs to Delhi. No person was born between A and the one who belongs to Jaipur. B was born immediately before the person whose age is a multiple of 17. The sum of the ages of C and the one who belongs to Mumbai is 116. The number of persons born before C is two less than the number of persons born after the one who belongs to Pune. F was born after C but before B. A does not belong to Hyderabad. The number of persons born before the one who belongs to Kolkata is one less than the number of persons born after the one who belongs to Chennai. G was born in a year which is a multiple of 5 but was not born immediately after B. D was born after the one who belongs to Kolkata. Which of the following statements is/are not true? I. A was born immediately before the one who belongs to Jaipur. II. Three persons were born between E and the one who belongs to Pune. III. The one who belongs to Delhi was born just before B.
+     (a) Only I
+   * (b) Only II
+     (c) Both I and III
+     (d) Both II and III
+     (e) All I, II and III
+
+Q150  []
+given below. Seven persons, A, B, C, D, E, F and G, were born in different years among 1953, 1961, 1964, 1970, 1975, 1982 and 1990. Each person belongs to a different place among Delhi, Pune, Hyderabad, Chennai, Mumbai, Kolkata and Jaipur. All the information is not necessarily in the same order. The age of each person is calculated from the base year 2026. The one who belongs to Delhi was born immediately after the person whose age is a multiple of 13. Two persons were born between A and the one who belongs to Delhi. No person was born between A and the one who belongs to Jaipur. B was born immediately before the person whose age is a multiple of 17. The sum of the ages of C and the one who belongs to Mumbai is 116. The number of persons born before C is two less than the number of persons born after the one who belongs to Pune. F was born after C but before B. A does not belong to Hyderabad. The number of persons born before the one who belongs to Kolkata is one less than the number of persons born after the one who belongs to Chennai. G was born in a year which is a multiple of 5 but was not born immediately after B. D was born after the one who belongs to Kolkata. Four of the following five are alike in a certain way as per the given arrangement and hence forms a group. Find the one which doesnâ€™t belong to that group.
+     (a) E - Mumbai
+     (b) G - Delhi
+     (c) C - Chennai
+     (d) F - Jaipur
+   * (e) A â€“ Kolkata
+
+Q151  []
+elements is shown in the statements followed by some conclusions. Find the conclusion which is definitely true. Statements: A > Z > X < Y < O > J; U > R > Y < L < N < T Conclusions: I) A > R II) T < Z III) Z â‰¤ T
+     (a) Only Conclusion II follows
+     (b) Only Conclusion I follows
+     (c) Only Conclusion IIl follows
+   * (d) Either Conclusion II or Ill follows
+     (e) Both I and II follows
+
+Q152  []
+elements is shown in the statements followed by some conclusions. Find the conclusion which is definitely true. Statements: C > F < R = G â‰¤ Y < H = B; H â‰¤ I = M > O = Q Conclusions: I. F > I II. R â‰¤ M III. M > Y
+   * (a) Only conclusion III follows
+     (b) Only conclusion II follows
+     (c) Only conclusions Il and III follow
+     (d) None follow
+     (e) Either conclusion II or III follows
+
+Q153  []
+elements is shown in the statements followed by some conclusions. Find the conclusion which is definitely true. Statements: T â‰¥ U > M > G; G â‰¥ F â‰¤ Y; P < U > V â‰¥ J â‰¥ Y Conclusions: I. U > F II. M > J III. G < V
+   * (a) Only conclusion I follows
+     (b) Only conclusion II follows
+     (c) Only conclusions Il and III follow
+     (d) None follow
+     (e) Only conclusion I and II follows
+
+Q154  []
+given below. Eight persons â€“ A, B, C, D, E, F, G, and H live on eight different floors of an eight-storey building where the lowermost floor is numbered as one, the one above that is numbered as two and so on till the topmost floor is numbered as eight. Only one person lives on each floor. They like different fruits, viz., Grapes, Orange, Mango, Papaya, Banana, Apple, Kiwi and Pineapple. D lives on an odd-numbered floor below floor number six. The one who likes Apple lives two floors above D. Only two people live between the one who likes Apple and the one who likes Papaya. As many persons live below the one who likes Papaya as above H. E, who likes Mango, lives immediately above H. Neither C nor B likes Papaya, and C does not live below B. The one who likes Pineapple lives four floors below the one who likes Grapes. The number of persons living between the one who likes Mango and the one who likes Apple is two less than the number of persons living between C and B. G lives above F, but not immediately above. The one who likes Orange lives above the one who likes Kiwi, but not above the one who likes Banana. Neither the one who likes Orange nor the one who likes Banana lives on an odd- numbered floor. A does not like Apple Four of the following five are alike in a certain way based on the given arrangement and thus form a group. Which one of the following does not belong to the group?
+     (a) C â€“ Mango
+     (b) A â€“ Banana
+     (c) B â€“ Pineapple
+   * (d) G â€“ Papaya
+     (e) H â€“ Apple
+
+Q155  []
+given below. Eight persons â€“ A, B, C, D, E, F, G, and H live on eight different floors of an eight-storey building where the lowermost floor is numbered as one, the one above that is numbered as two and so on till the topmost floor is numbered as eight. Only one person lives on each floor. They like different fruits, viz., Grapes, Orange, Mango, Papaya, Banana, Apple, Kiwi and Pineapple. D lives on an odd-numbered floor below floor number six. The one who likes Apple lives two floors above D. Only two people live between the one who likes Apple and the one who likes Papaya. As many persons live below the one who likes Papaya as above H. E, who likes Mango, lives immediately above H. Neither C nor B likes Papaya, and C does not live below B. The one who likes Pineapple lives four floors below the one who likes Grapes. The number of persons living between the one who likes Mango and the one who likes Apple is two less than the number of persons living between C and B. G lives above F, but not immediately above. The one who likes Orange lives above the one who likes Kiwi, but not above the one who likes Banana. Neither the one who likes Orange nor the one who likes Banana lives on an odd- numbered floor. A does not like Apple As many as the floor above the one who likes Pineapple as below ___?
+     (a) The one who likes Grapes
+   * (b) The one who likes Banana
+     (c) The one who likes Mango
+     (d) The one who likes Kiwi
+     (e) The one who likes Apple
+
+Q156  []
+given below. Eight persons â€“ A, B, C, D, E, F, G, and H live on eight different floors of an eight-storey building where the lowermost floor is numbered as one, the one above that is numbered as two and so on till the topmost floor is numbered as eight. Only one person lives on each floor. They like different fruits, viz., Grapes, Orange, Mango, Papaya, Banana, Apple, Kiwi and Pineapple. D lives on an odd-numbered floor below floor number six. The one who likes Apple lives two floors above D. Only two people live between the one who likes Apple and the one who likes Papaya. As many persons live below the one who likes Papaya as above H. E, who likes Mango, lives immediately above H. Neither C nor B likes Papaya, and C does not live below B. The one who likes Pineapple lives four floors below the one who likes Grapes. The number of persons living between the one who likes Mango and the one who likes Apple is two less than the number of persons living between C and B. G lives above F, but not immediately above. The one who likes Orange lives above the one who likes Kiwi, but not above the one who likes Banana. Neither the one who likes Orange nor the one who likes Banana lives on an odd- numbered floor. A does not like Apple Which of the following statements is/are not correct with respect to the final arrangement? I). D lives two floors above B II). Three people live between C and E III). A likes orange and lives on an even-numbered floor
+     (a) Only I
+   * (b) Only II
+     (c) Only III
+     (d) Both I and II
+     (e) Both I and III
+
+Q157  []
+given below. Eight persons â€“ A, B, C, D, E, F, G, and H live on eight different floors of an eight-storey building where the lowermost floor is numbered as one, the one above that is numbered as two and so on till the topmost floor is numbered as eight. Only one person lives on each floor. They like different fruits, viz., Grapes, Orange, Mango, Papaya, Banana, Apple, Kiwi and Pineapple. D lives on an odd-numbered floor below floor number six. The one who likes Apple lives two floors above D. Only two people live between the one who likes Apple and the one who likes Papaya. As many persons live below the one who likes Papaya as above H. E, who likes Mango, lives immediately above H. Neither C nor B likes Papaya, and C does not live below B. The one who likes Pineapple lives four floors below the one who likes Grapes. The number of persons living between the one who likes Mango and the one who likes Apple is two less than the number of persons living between C and B. G lives above F, but not immediately above. The one who likes Orange lives above the one who likes Kiwi, but not above the one who likes Banana. Neither the one who likes Orange nor the one who likes Banana lives on an odd- numbered floor. A does not like Apple How many people live below the one who likes bananas?
+     (a) Three
+     (b) More than five
+   * (c) Five
+     (d) Six
+     (e) Four
+
+Q158  []
+given below. Eight persons â€“ A, B, C, D, E, F, G, and H live on eight different floors of an eight-storey building where the lowermost floor is numbered as one, the one above that is numbered as two and so on till the topmost floor is numbered as eight. Only one person lives on each floor. They like different fruits, viz., Grapes, Orange, Mango, Papaya, Banana, Apple, Kiwi and Pineapple. D lives on an odd-numbered floor below floor number six. The one who likes Apple lives two floors above D. Only two people live between the one who likes Apple and the one who likes Papaya. As many persons live below the one who likes Papaya as above H. E, who likes Mango, lives immediately above H. Neither C nor B likes Papaya, and C does not live below B. The one who likes Pineapple lives four floors below the one who likes Grapes. The number of persons living between the one who likes Mango and the one who likes Apple is two less than the number of persons living between C and B. G lives above F, but not immediately above. The one who likes Orange lives above the one who likes Kiwi, but not above the one who likes Banana. Neither the one who likes Orange nor the one who likes Banana lives on an odd- numbered floor. A does not like Apple Which of the following statements is true with respect to the final arrangement?
+     (a) The number of people lives above E same number of people lives below D
+     (b) Two floors are between H and F
+   * (c) G lives immediately above the one who lives three floors below the one who likes Grapes
+     (d) F lives on an odd-numbered floor
+     (e) G likes Orange
+
+Q159  []
+given below. Eight persons â€“ A, B, C, D, E, F, G, and H live on eight different floors of an eight-storey building where the lowermost floor is numbered as one, the one above that is numbered as two and so on till the topmost floor is numbered as eight. Only one person lives on each floor. They like different fruits, viz., Grapes, Orange, Mango, Papaya, Banana, Apple, Kiwi and Pineapple. D lives on an odd-numbered floor below floor number six. The one who likes Apple lives two floors above D. Only two people live between the one who likes Apple and the one who likes Papaya. As many persons live below the one who likes Papaya as above H. E, who likes Mango, lives immediately above H. Neither C nor B likes Papaya, and C does not live below B. The one who likes Pineapple lives four floors below the one who likes Grapes. The number of persons living between the one who likes Mango and the one who likes Apple is two less than the number of persons living between C and B. G lives above F, but not immediately above. The one who likes Orange lives above the one who likes Kiwi, but not above the one who likes Banana. Neither the one who likes Orange nor the one who likes Banana lives on an odd- numbered floor. A does not like Apple On which floor does the one who likes Kiwi live?
+     (a) Second Floor
+     (b) Third Floor
+   * (c) First Floor
+     (d) Sixth Floor
+     (e) Fifth Floor
+
+Q160  []
+If in the word PRECAUTIONS, all vowels are changed to the next letter and all consonants are changed to the previous letter as per the English alphabetical series. After that, all repeated letters and vowels are deleted, then how many consonants are there between the letter which is 2nd from the left end and the letter which is 3rd from the right end?
+     (a) 2
+   * (b) 3
+     (c) 4
+     (d) 5
+     (e) None of these
+
+Q161  []
+given below. Maya starts from point A and moves 10 m towards the west to reach point B. From point B, she takes a right turn and moves 8 m to reach point C. Then, she takes a right turn and moves 15 m to reach point D. From point D, she takes a left turn and moves 6 m to reach point E. Finally, she takes a left turn and moves 5 m to reach point F. Priya starts from point L, which is 18 m south of point A. From point L, she moves 12 m towards the west to reach point M. Then, she takes a right turn and moves 15 m to reach point N. After that, she takes a right turn and moves 20 m to reach point O. Finally, she takes a left turn and moves 9 m to reach point P. What is the direction of point F with respect to point O?
+     (a) Northeast
+   * (b) Northwest
+     (c) South
+     (d) North
+     (e) Southwest
+
+Q162  []
+given below. Maya starts from point A and moves 10 m towards the west to reach point B. From point B, she takes a right turn and moves 8 m to reach point C. Then, she takes a right turn and moves 15 m to reach point D. From point D, she takes a left turn and moves 6 m to reach point E. Finally, she takes a left turn and moves 5 m to reach point F. Priya starts from point L, which is 18 m south of point A. From point L, she moves 12 m towards the west to reach point M. Then, she takes a right turn and moves 15 m to reach point N. After that, she takes a right turn and moves 20 m to reach point O. Finally, she takes a left turn and moves 9 m to reach point P. What is the total distance between Point F and Point L?
+     (a) 33m
+     (b) 28m
+     (c) 37m
+   * (d) 32m
+     (e) 24m
+
+Q163  []
+given below. Maya starts from point A and moves 10 m towards the west to reach point B. From point B, she takes a right turn and moves 8 m to reach point C. Then, she takes a right turn and moves 15 m to reach point D. From point D, she takes a left turn and moves 6 m to reach point E. Finally, she takes a left turn and moves 5 m to reach point F. Priya starts from point L, which is 18 m south of point A. From point L, she moves 12 m towards the west to reach point M. Then, she takes a right turn and moves 15 m to reach point N. After that, she takes a right turn and moves 20 m to reach point O. Finally, she takes a left turn and moves 9 m to reach point P. Four of the following five are alike in a certain way based on the given arrangement and thus form a group. Which one of the following does not belong to the group?
+     (a) FP
+     (b) CO
+     (c) NL
+     (d) FD
+   * (e) NA
+
+Q164  []
+given below. Maya starts from point A and moves 10 m towards the west to reach point B. From point B, she takes a right turn and moves 8 m to reach point C. Then, she takes a right turn and moves 15 m to reach point D. From point D, she takes a left turn and moves 6 m to reach point E. Finally, she takes a left turn and moves 5 m to reach point F. Priya starts from point L, which is 18 m south of point A. From point L, she moves 12 m towards the west to reach point M. Then, she takes a right turn and moves 15 m to reach point N. After that, she takes a right turn and moves 20 m to reach point O. Finally, she takes a left turn and moves 9 m to reach point P. What is the shortest distance between O and C?
+   * (a) m
+     (b) âˆš445
+     (c) 21m âˆš442ð‘šð‘š
+     (d) m
+     (e) None of these âˆš458
+
+Q165  []
+conclusion logically follows from the given statements disregarding the commonly known facts. Statements: Some Pen is Copy. Only Copy is Pencil. Only a few Book is Pen. Some Book is Rough. Conclusions:
+     (a) Some Pencil being Book is a possibility
+   * (b) Some Book is not Pen
+     (c) All copies being Pen is a possibility
+     (d) Some Rough is not Pen
+     (e) No Copy is Rough
+
+Q166  []
+conclusion logically follows from the given statements disregarding the commonly known facts. Statements: All Delhi is Goa. Only a few Jaipur is Surat. Only a few Surat is Delhi. Some Shimla is Jaipur. Conclusions:
+     (a) All Shimla is Delhi
+     (b) Some Jaipur is Goa
+     (c) No Delhi is Surat
+   * (d) Some Goa is Delhi
+     (e) Some Surat is not Jaipur
+
+Q167  []
+conclusion logically follows from the given statements disregarding the commonly known facts. Statements: Only a few Laptop is Computer. No Keyboard is Laptop. Some Keyboard is Bottle. Only a few Mobile is Computer. Conclusions:
+     (a) Some Bottle being not Laptop is a possibility
+     (b) No Mobile is Laptop
+     (c) All Computer is Keyboard
+     (d) Some Mobile is Keyboard
+   * (e) Some Keyboard being Computer is a possibility
+
+Q168  []
+given below. Eight persons, namely A, B, C, D, E, F, G and H, are sitting around a circular table facing the centre, but not necessarily in the same order. Each person likes a different natural place among Lake, River, Mountain, Forest, Desert, Valley, Island and Beach. The number of persons sitting between F and C is the same as the number of persons sitting between the one who likes Beach and E. The one who likes Lake sits opposite the one who likes Beach. F sits second to the left of the one who likes Beach. B sits immediately to the left of the one who likes River. The one who likes Mountain sits immediately to the right of the one who likes River. Only one person sits between B and the one who likes Island. C sits immediately to the left of the one who likes Island. G sits immediately to the right of the one who likes Beach. The one who likes Desert sits second to the right of the one who likes Island. The one who likes Valley sits immediately to the right of the one who likes Beach. A sits immediately between the one who likes Mountain and the one who likes Valley. H sits adjacent to the one who likes Forest. Who among the following people likes Forest?
+     (a) G
+     (b) H
+     (c) B
+   * (d) C
+     (e) F
+
+Q169  []
+given below. Eight persons, namely A, B, C, D, E, F, G and H, are sitting around a circular table facing the centre, but not necessarily in the same order. Each person likes a different natural place among Lake, River, Mountain, Forest, Desert, Valley, Island and Beach. The number of persons sitting between F and C is the same as the number of persons sitting between the one who likes Beach and E. The one who likes Lake sits opposite the one who likes Beach. F sits second to the left of the one who likes Beach. B sits immediately to the left of the one who likes River. The one who likes Mountain sits immediately to the right of the one who likes River. Only one person sits between B and the one who likes Island. C sits immediately to the left of the one who likes Island. G sits immediately to the right of the one who likes Beach. The one who likes Desert sits second to the right of the one who likes Island. The one who likes Valley sits immediately to the right of the one who likes Beach. A sits immediately between the one who likes Mountain and the one who likes Valley. H sits adjacent to the one who likes Forest. Four of the following five are alike in a certain way based on the final arrangement and hence form a group. Which one does not belong to that group?
+     (a) A â€“ Lakes
+     (b) D â€“ Island
+     (c) F â€“ Forest
+     (d) B â€“ Valley
+   * (e) H â€“ Lakes
+
+Q170  []
+given below. Eight persons, namely A, B, C, D, E, F, G and H, are sitting around a circular table facing the centre, but not necessarily in the same order. Each person likes a different natural place among Lake, River, Mountain, Forest, Desert, Valley, Island and Beach. The number of persons sitting between F and C is the same as the number of persons sitting between the one who likes Beach and E. The one who likes Lake sits opposite the one who likes Beach. F sits second to the left of the one who likes Beach. B sits immediately to the left of the one who likes River. The one who likes Mountain sits immediately to the right of the one who likes River. Only one person sits between B and the one who likes Island. C sits immediately to the left of the one who likes Island. G sits immediately to the right of the one who likes Beach. The one who likes Desert sits second to the right of the one who likes Island. The one who likes Valley sits immediately to the right of the one who likes Beach. A sits immediately between the one who likes Mountain and the one who likes Valley. H sits adjacent to the one who likes Forest. Which of the following statements is/are not true? I. The one who likes Island sits immediately to the right of the one who likes Forest. II. B sits third to the left of the one who likes Forest. III. The one who likes Mountains sits second to the right of the one who likes Lakes.
+     (a) Only I
+     (b) Only II
+     (c) Only III
+   * (d) Both II and III
+     (e) All I, II and III
+
+Q171  []
+given below. Eight persons, namely A, B, C, D, E, F, G and H, are sitting around a circular table facing the centre, but not necessarily in the same order. Each person likes a different natural place among Lake, River, Mountain, Forest, Desert, Valley, Island and Beach. The number of persons sitting between F and C is the same as the number of persons sitting between the one who likes Beach and E. The one who likes Lake sits opposite the one who likes Beach. F sits second to the left of the one who likes Beach. B sits immediately to the left of the one who likes River. The one who likes Mountain sits immediately to the right of the one who likes River. Only one person sits between B and the one who likes Island. C sits immediately to the left of the one who likes Island. G sits immediately to the right of the one who likes Beach. The one who likes Desert sits second to the right of the one who likes Island. The one who likes Valley sits immediately to the right of the one who likes Beach. A sits immediately between the one who likes Mountain and the one who likes Valley. H sits adjacent to the one who likes Forest. What is the position of the one who likes Desert with respect to D?
+   * (a) Second to the left
+     (b) Third to the right
+     (c) Immediate right
+     (d) Third to the left
+     (e) Opposite
+
+Q172  []
+given below. Eight persons, namely A, B, C, D, E, F, G and H, are sitting around a circular table facing the centre, but not necessarily in the same order. Each person likes a different natural place among Lake, River, Mountain, Forest, Desert, Valley, Island and Beach. The number of persons sitting between F and C is the same as the number of persons sitting between the one who likes Beach and E. The one who likes Lake sits opposite the one who likes Beach. F sits second to the left of the one who likes Beach. B sits immediately to the left of the one who likes River. The one who likes Mountain sits immediately to the right of the one who likes River. Only one person sits between B and the one who likes Island. C sits immediately to the left of the one who likes Island. G sits immediately to the right of the one who likes Beach. The one who likes Desert sits second to the right of the one who likes Island. The one who likes Valley sits immediately to the right of the one who likes Beach. A sits immediately between the one who likes Mountain and the one who likes Valley. H sits adjacent to the one who likes Forest. The number of persons sitting between the one who likes Beach and the one who likes Island, when counted from the right of the one who likes Beach, is the same as the number of persons sitting between which of the following pairs, when counted from the right of the first person?
+   * (a) F and G
+     (b) B and C
+     (c) E and A
+     (d) C and F
+     (e) H and B
+
+Q173  []
+given below. Eight persons, namely A, B, C, D, E, F, G and H, are sitting around a circular table facing the centre, but not necessarily in the same order. Each person likes a different natural place among Lake, River, Mountain, Forest, Desert, Valley, Island and Beach. The number of persons sitting between F and C is the same as the number of persons sitting between the one who likes Beach and E. The one who likes Lake sits opposite the one who likes Beach. F sits second to the left of the one who likes Beach. B sits immediately to the left of the one who likes River. The one who likes Mountain sits immediately to the right of the one who likes River. Only one person sits between B and the one who likes Island. C sits immediately to the left of the one who likes Island. G sits immediately to the right of the one who likes Beach. The one who likes Desert sits second to the right of the one who likes Island. The one who likes Valley sits immediately to the right of the one who likes Beach. A sits immediately between the one who likes Mountain and the one who likes Valley. H sits adjacent to the one who likes Forest. If the one who likes River is related to the one who likes Valley and the one who likes Desert is related to the one who likes Beach in the same manner, then the one who likes Lake is related to which of the following?
+     (a) Beach
+     (b) Island
+     (c) Forest
+     (d) River
+   * (e) Mountain
+
+Q174  []
+questions. The numbers arrangement machine when given an input line of numbers rearranges them following a particular rule in each step. The following is an illustration of input and rearrangement. Input: 245 368 127 492 583 716 639 854 431 Step I: 644 245 127 492 583 716 854 431 365 Step II: 588 644 245 127 716 854 431 365 489 Step III: 436 588 644 245 127 854 365 489 713 Step IV: 250 436 588 644 127 365 489 713 851 Step V: 132 250 436 588 644 365 489 713 851 Step V is the last step Input: 537 684 219 456 795 328 671 942 153 What is the sum of the number which is 3rd from the left end in Step III and the number which is 4th from the right end in Step V?
+   * (a) 1125
+     (b) 1253
+     (c) 1139
+     (d) 242
+     (e) 1281
+
+Q175  []
+questions. The numbers arrangement machine when given an input line of numbers rearranges them following a particular rule in each step. The following is an illustration of input and rearrangement. Input: 245 368 127 492 583 716 639 854 431 Step I: 644 245 127 492 583 716 854 431 365 Step II: 588 644 245 127 716 854 431 365 489 Step III: 436 588 644 245 127 854 365 489 713 Step IV: 250 436 588 644 127 365 489 713 851 Step V: 132 250 436 588 644 365 489 713 851 Step V is the last step Input: 537 684 219 456 795 328 671 942 153 In Step IV, how many numbers are there between the number obtained from 671 and the number obtained from 942?
+     (a) Three
+     (b) Four
+   * (c) Five
+     (d) Six
+     (e) Seven
+
+Q176  []
+questions. The numbers arrangement machine when given an input line of numbers rearranges them following a particular rule in each step. The following is an illustration of input and rearrangement. Input: 245 368 127 492 583 716 639 854 431 Step I: 644 245 127 492 583 716 854 431 365 Step II: 588 644 245 127 716 854 431 365 489 Step III: 436 588 644 245 127 854 365 489 713 Step IV: 250 436 588 644 127 365 489 713 851 Step V: 132 250 436 588 644 365 489 713 851 Step V is the last step Input: 537 684 219 456 795 328 671 942 153 Which of the following statements is/are true? I. In Step III, only two numbers are between 219 and 325. II. In Step V, 158 is placed immediately to the right of 224. III. In Step II, 453 is placed at the extreme right end.
+     (a) Only I
+     (b) Only II
+     (c) Only III
+   * (d) Both I and III
+     (e) All I, II and III
+
+Q177  []
+questions. The numbers arrangement machine when given an input line of numbers rearranges them following a particular rule in each step. The following is an illustration of input and rearrangement. Input: 245 368 127 492 583 716 639 854 431 Step I: 644 245 127 492 583 716 854 431 365 Step II: 588 644 245 127 716 854 431 365 489 Step III: 436 588 644 245 127 854 365 489 713 Step IV: 250 436 588 644 127 365 489 713 851 Step V: 132 250 436 588 644 365 489 713 851 Step V is the last step Input: 537 684 219 456 795 328 671 942 153 Which of the following step is correctly represents step III?
+   * (a) 542 676 800 219 942 153 325 453 681
+     (b) 542 676 800 942 219 153 325 453 681
+     (c) 542 676 800 219 153 325 453 681 942
+     (d) 542 676 800 219 325 942 453 153 681
+     (e) 542 676 800 219 153 453 681 325 942
+
+Q178  []
+questions. The numbers arrangement machine when given an input line of numbers rearranges them following a particular rule in each step. The following is an illustration of input and rearrangement. Input: 245 368 127 492 583 716 639 854 431 Step I: 644 245 127 492 583 716 854 431 365 Step II: 588 644 245 127 716 854 431 365 489 Step III: 436 588 644 245 127 854 365 489 713 Step IV: 250 436 588 644 127 365 489 713 851 Step V: 132 250 436 588 644 365 489 713 851 Step V is the last step Input: 537 684 219 456 795 328 671 942 153 In which of the following steps are the three numbers â€œ684 219 942â€ found in the same sequence?
+     (a) Step I
+   * (b) Step II
+     (c) Step III
+     (d) Step V
+     (e) Step IV
+
+Q179  []
+In the following question, three words are given along with some position numbers. Consider the positions from the left side of each word. From each word, pick the letters as per the given position numbers and rearrange them to form a meaningful English word. Which of the following can form at least one meaningful word? I. SEQUENCE â€“ 2, 4, 6, 7 II. MARKETED â€“ 1, 3, 5, 7 III. COUNTRY â€“ 2, 3, 5, 6g
+     (a) Only I
+     (b) Only II
+     (c) Only III
+     (d) Both I and II
+   * (e) Both II and III
+
+Q180  []
+In the number 36231725618, if 1 is subtracted from each even digit and 2 is added to each odd digit, then all the repeated digits are deleted. What is the sum of all the odd digits in the number thus formed?
+     (a) 7
+     (b) 11
+   * (c) 9
+     (d) 13
+     (e) 15
+
+Q181  []
+Six different digits are to be arranged to form a six-digit number. As many digits are placed to the left of 6 as are placed to the right of 5. Only two digits are placed between 6 and 9. 7 is placed immediately to the left of 6. Only one digit is placed between 3 and 6, and 3 is placed to the left of 6. Digit 2 is adjacent to digit 5. The number formed is an odd number. What is the sum of all the digits placed between 3 and 5?
+     (a) 11
+     (b) 12
+   * (c) 13
+     (d) 14
+     (e) 15
+
+Q182  []
+below. A certain number of persons are sitting in a row. All of them are facing the north. Each of them likes different chocolates. Q is sitting fourth to the right of P. The number of persons sitting between M and Q is equal to the number of persons sitting between Q and G. Q is sitting second to the left of W. Five people are sitting between W and F, who likes Milky Bar. One person is sitting between F and D. Three people are sitting between D and R. The number of persons sitting between Q and F is equal to the number of persons sitting between F and the person sitting at the extreme right end. Z is the second person from one of the extreme ends. Nine people are sitting between Z and E, who like 5-star. The person who likes Dairy milk is sitting ninth from one of the extreme ends. Three people are sitting to the left of M. One person is sitting between M and the person who likes KitKat. Three people are sitting between P and the person who likes KitKat. How many people are sitting in the row?
+     (a) 28
+     (b) 30
+     (c) 32
+   * (d) 26
+     (e) None of these
+
+Q183  []
+below. A certain number of persons are sitting in a row. All of them are facing the north. Each of them likes different chocolates. Q is sitting fourth to the right of P. The number of persons sitting between M and Q is equal to the number of persons sitting between Q and G. Q is sitting second to the left of W. Five people are sitting between W and F, who likes Milky Bar. One person is sitting between F and D. Three people are sitting between D and R. The number of persons sitting between Q and F is equal to the number of persons sitting between F and the person sitting at the extreme right end. Z is the second person from one of the extreme ends. Nine people are sitting between Z and E, who like 5-star. The person who likes Dairy milk is sitting ninth from one of the extreme ends. Three people are sitting to the left of M. One person is sitting between M and the person who likes KitKat. Three people are sitting between P and the person who likes KitKat. What is the position of P with respect to the one who likes Dairy Milk?
+     (a) Third to the right
+     (b) Second to the right
+     (c) Fourth to the left
+     (d) Immediate right
+   * (e) Third to the left
+
+Q184  []
+below. A certain number of persons are sitting in a row. All of them are facing the north. Each of them likes different chocolates. Q is sitting fourth to the right of P. The number of persons sitting between M and Q is equal to the number of persons sitting between Q and G. Q is sitting second to the left of W. Five people are sitting between W and F, who likes Milky Bar. One person is sitting between F and D. Three people are sitting between D and R. The number of persons sitting between Q and F is equal to the number of persons sitting between F and the person sitting at the extreme right end. Z is the second person from one of the extreme ends. Nine people are sitting between Z and E, who like 5-star. The person who likes Dairy milk is sitting ninth from one of the extreme ends. Three people are sitting to the left of M. One person is sitting between M and the person who likes KitKat. Three people are sitting between P and the person who likes KitKat. Who among the following persons sits fourth to the left of the one who sits second to the right of F?
+     (a) The one who likes Milky Bar
+   * (b) G
+     (c) W
+     (d) Q
+     (e) No one
+
+Q185  []
+below. A certain number of persons are sitting in a row. All of them are facing the north. Each of them likes different chocolates. Q is sitting fourth to the right of P. The number of persons sitting between M and Q is equal to the number of persons sitting between Q and G. Q is sitting second to the left of W. Five people are sitting between W and F, who likes Milky Bar. One person is sitting between F and D. Three people are sitting between D and R. The number of persons sitting between Q and F is equal to the number of persons sitting between F and the person sitting at the extreme right end. Z is the second person from one of the extreme ends. Nine people are sitting between Z and E, who like 5-star. The person who likes Dairy milk is sitting ninth from one of the extreme ends. Three people are sitting to the left of M. One person is sitting between M and the person who likes KitKat. Three people are sitting between P and the person who likes KitKat. If P is related to the one who likes Dairy Milk, in the same way W is related to the one who likes 5-star, then who among the following persons is related to the one who likes Milky Bar?
+     (a) W
+     (b) Q
+     (c) P
+     (d) F
+   * (e) E
+
+Q186  []
+below. A certain number of persons are sitting in a row. All of them are facing the north. Each of them likes different chocolates. Q is sitting fourth to the right of P. The number of persons sitting between M and Q is equal to the number of persons sitting between Q and G. Q is sitting second to the left of W. Five people are sitting between W and F, who likes Milky Bar. One person is sitting between F and D. Three people are sitting between D and R. The number of persons sitting between Q and F is equal to the number of persons sitting between F and the person sitting at the extreme right end. Z is the second person from one of the extreme ends. Nine people are sitting between Z and E, who like 5-star. The person who likes Dairy milk is sitting ninth from one of the extreme ends. Three people are sitting to the left of M. One person is sitting between M and the person who likes KitKat. Three people are sitting between P and the person who likes KitKat. Which of the following statements is/are true with respect to the final arrangement?
+     (a) P sits fourth to the right of Q
+     (b) F sits immediate right of W
+   * (c) G sits immediate right of the one who likes 5-star
+     (d) D sits third to the left of R
+     (e) Both C and D
+
+Q187  []
+assumptions numbered I, II and III. An assumption is something supposed or taken for granted. Read the statement carefully and decide which of the given assumptions is/are implicit in the statement. Statement: The bank has advised customers to update their mobile numbers and email IDs in their accounts. This will help them receive transaction alerts, security messages and important account-related updates on time. Assumptions: I. Some customers may not have updated their latest contact details with the bank. II. Customers who update their contact details will get higher interest on deposits. III. Timely alerts can help customers remain informed about account activities. Which of the above assumptions is/are implicit? Only III
+     (a) Only II
+     (b) Both II and III
+     (c) Both I and III
+   * (d) All I, II and III
+
+Q188  []
+assumptions numbered I, II and III. An assumption is something supposed or taken for granted. Read the statement carefully and decide which of the given assumptions is/are implicit in the statement. Statement: The state government has launched a mobile app to help citizens register complaints related to damaged roads, poor street lighting and garbage collection. The complaints will be forwarded directly to the concerned local department. Officials have been instructed to update the complaint status within a fixed time limit. Assumptions: I. Citizens may face civic issues that need timely attention from local departments. II. A mobile app can help in faster reporting and tracking of public complaints. III. All complaints received through the app will be solved immediately. Which of the above assumptions is/are implicit?
+     (a) Only I
+     (b) Only II
+   * (c) Both I and II
+     (d) Both II and III
+     (e) All I, II and III
+
+Q189  []
+assumptions numbered I, II and III. An assumption is something supposed or taken for granted. Read the statement carefully and decide which of the given assumptions is/are implicit in the statement. Statement: A hospital has started an online appointment system to reduce crowding at the registration counter. Patients can book their preferred time slot through the hospital website or mobile app. The hospital has also kept a separate help desk for patients who are unable to use the online system. Assumptions: I. Online appointments can help in reducing crowding at the hospital registration counter. II. Some patients may not be comfortable using the online appointment system. III. Patients booking appointments online will receive free medical consultation. Which of the above assumptions is/are implicit?
+     (a) Only I
+     (b) Only II
+   * (c) Both I and II
+     (d) Both II and III
+     (e) All I, II and III
+
+Q190  []
+numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question. Seven persons â€“ A, B, C, D, E, F, and G are sitting in a row facing north but not necessarily in the same order. How many persons are sitting between C and E? Statement I. C sits on either end. Two persons are sitting between C and G. The person sitting adjacent to G sits fourth to the right of A, who neither sits adjacent to E nor D. Statement II. F sits third to the left of B, who sits third from the end. Two persons are sitting between D and E, who doesnâ€™t sit at the end. C sits third to the right of G, who doesnâ€™t sit adjacent to F.
+     (a) The data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question
+     (b) The data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question
+     (c) The data either in statement I alone or in statement II alone are sufficient to answer the question
+   * (d) The data given in both statements I and II together are not sufficient to answer the question
+     (e) The data in both statements I and II together are necessary to answer the question
+
+Q191  []
+numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question. What is the code for â€œfresh fruitâ€? Statement I: â€œfresh sweet fruitâ€ is coded as â€œka la miâ€ and â€œsweet juice fruitâ€ is coded as â€œla mi paâ€. Statement II: â€œfruit green basketâ€ is coded as â€œmi ro taâ€ and â€œfresh green mangoâ€ is coded as â€œka ro seâ€.
+     (a) The data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question
+     (b) The data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question
+     (c) The data either in statement I alone or in statement II alone are sufficient to answer the question
+     (d) The data given in both statements I and II together are not sufficient to answer the question
+   * (e) The data in both statements I and II together are necessary to answer the question
+
+Q192  []
+numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question. Six persons P, Q, R, S, T and U went to Delhi on six different days of the same week starting from Monday to Saturday. Who went to Delhi on Wednesday? Statement I: Q went immediately before R. Only one person went between R and T. P went immediately after T. S went before Q. U went after R but before T. Statement II: P went immediately after U. Only one person went between Q and T. S went before Q. R went after T but not on Saturday.
+   * (a) The data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question
+     (b) The data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question
+     (c) The data either in statement I alone or in statement II alone are sufficient to answer the question
+     (d) The data given in both statements I and II together are not sufficient to answer the question
+     (e) The data in both statements I and II together are necessary to answer the question
+
+Q193  []
+numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question. Six persons A, B, C, D, E and F hold six different designations in a company, namely Chairman, Managing Director, General Manager, Senior Manager, Assistant Manager and Executive. The designations are given in decreasing order of seniority from Chairman to Executive. Who among the following is the General Manager? Statement I: A is senior to B. C is junior to F. Only one person is between D and E in designation order. B is not the Chairman. Statement II: B is senior to D but junior to A. Only one person is senior to A. E is immediately junior to D. F is senior to C. E is not junior to C.
+     (a) The data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question
+   * (b) The data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question
+     (c) The data either in statement I alone or in statement II alone are sufficient to answer the question
+     (d) The data given in both statements I and II together are not sufficient to answer the question
+     (e) The data in both statements I and II together are necessary to answer the question
+
+Q194  []
+given below. Paragraph: A smartwatch company recently marketed its new smartwatch as a reliable and high- performance product. However, soon after launch, many customers posted negative reviews regarding delayed syncing, inaccurate health readings and sudden device shutdowns. The CEO responded that the complaints were mainly due to a temporary server issue and not because of any defect in the watch. Later, an independent technology analyst reviewed the product and stated that both server instability and hardware-related faults were affecting the smartwatchâ€™s performance. Which of the following should be the most appropriate course of action for the smartwatch company?
+     (a) The company should ignore customer reviews because negative reviews are common after every product launch.
+     (b) The company should only improve its marketing campaign to rebuild customer confidence.
+     (c) The company should accept only the server issue and continue selling the product without any change.
+   * (d) The company should conduct a detailed technical audit, publicly communicate the issue and offer repair, replacement or software support wherever required.
+     (e) The company should stop manufacturing smartwatches permanently.
+
+Q195  []
+given below. Paragraph: A smartwatch company recently marketed its new smartwatch as a reliable and high- performance product. However, soon after launch, many customers posted negative reviews regarding delayed syncing, inaccurate health readings and sudden device shutdowns. The CEO responded that the complaints were mainly due to a temporary server issue and not because of any defect in the watch. Later, an independent technology analyst reviewed the product and stated that both server instability and hardware-related faults were affecting the smartwatchâ€™s performance. Which of the following, if true, would most weaken the CEOâ€™s statement?
+     (a) The smartwatch was launched with a large advertising campaign across digital platforms.
+     (b) Some customers liked the design and display quality of the smartwatch.
+   * (c) Independent testing showed that the smartwatch continued to give inaccurate readings even when it was used offline without server connectivity.
+     (d) The company had faced delivery delays during the first week of the launch.
+     (e) The CEO had earlier worked in another technology company.
+
+Q196  []
+inferences numbered I, II and III. Read the statement carefully and decide which of the given inferences logically follows from the information given in the statement. Statement: Several cities have issued heatwave alerts as temperatures remain unusually high for many days. Hospitals have reported more cases of dehydration and heat exhaustion, especially among elderly people and outdoor workers. Local authorities have advised citizens to avoid direct sunlight during afternoon hours and drink enough water. Inferences: I. All citizens will follow the advisory issued by local authorities. II. Heatwaves can create health risks for vulnerable groups. III. Outdoor workers may be more exposed to heat-related illness than people working indoors.
+     (a) Only I
+     (b) Only II
+     (c) Both I and II
+   * (d) Both II and III
+     (e) All I, II and III
+
+Q197  []
+inferences numbered I, II and III. Read the statement carefully and decide which of the given inferences logically follows from the information given in the statement. Statement: During the Iran-US war, global markets reacted sharply due to fears of disruption in oil supply routes. Several countries appealed for restraint and asked both sides to return to diplomatic talks. Humanitarian agencies also warned that prolonged conflict could affect civilians and regional stability. Inferences: I. The conflict may have an impact beyond the two countries directly involved. II. Diplomatic talks are being viewed as a possible way to reduce tensions. III. The war has already ended because several countries appealed for restraint. Which of the above inferences logically follows?
+     (a) Only I
+     (b) Only II
+   * (c) Both I and II
+     (d) Both I and III
+     (e) All I, II and III
+
+Q198  []
+logically follows from the information given in the statement. Statement: The Reserve Bank of Indiaâ€™s Clean Note Policy aims to ensure that the public receives clean and good-quality currency notes. Banks are expected to sort notes into issuable and non- issuable categories and avoid practices such as stapling or writing on currency notes. Soiled or unfit notes are to be withdrawn from circulation through the banking system. Which of the following conclusions can be drawn from the above statement?
+   * (a) The Clean Note Policy is intended to improve the quality of currency notes available to the public.
+     (b) Banks are allowed to issue soiled notes if customers agree to accept them.
+     (c) Stapling of currency notes helps increase the life of banknotes.
+     (d) The policy applies only to coins and not to currency notes.
+     (e) RBI has stopped the circulation of all physical currency notes.
+
+Q199  []
+reason behind the situation described. Situation: Several customers have complained that their debit card transactions failed even though sufficient balance was available in their accounts. The bank later informed customers that the issue occurred only for a short period and was limited to a few payment channels. The bank also stated that failed transaction amounts, if debited, would be reversed automatically. Which of the following is the most possible reason for the failed transactions?
+     (a) The bank permanently blocked all debit cards of its customers.
+   * (b) There was a temporary technical issue in some payment channels.
+     (c) Customers did not have sufficient balance in their accounts.
+     (d) The bank decided to stop all digital payment services.
+     (e) All failed transactions were caused by incorrect PIN entries.
+
+Q200  []
+supports or strengthens it. Situation: A leading e-commerce company has introduced a same-day delivery service in selected metro cities. The company stated that this service is being launched to meet growing customer demand for faster delivery and to improve customer satisfaction. Which of the following statements supports the given situation?
+   * (a) Many customers in metro cities prefer faster delivery even if limited products are available under the service.
+     (b) Same-day delivery services are not possible in any metro city due to traffic congestion.
+     (c) Customers are no longer interested in online shopping platforms.
+     (d) The company has decided to stop all regular delivery services after launching same-day delivery.
+     (e) Faster delivery has no impact on customer satisfaction.
+

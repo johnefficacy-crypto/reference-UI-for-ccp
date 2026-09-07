@@ -1,0 +1,872 @@
+﻿Q81  []
+Four statements have been mentioned below. One or more statements may contain an error. It may contain a grammatical and/or a contextual error. Identify the INCORRECT statement. 1) The Neoclassical style refers to a movement in art, architecture, and design that emerging in the 18th and early 19th centuries to revive and emulate the ideals of classical antiquity. 2) Restoration comedies were known for their wit, satire, and social commentary. They often portrayed the manners and social mores of the upper class and were characterized by their clever wordplay, risquÃ© humor, and intricate plots. 3) Miracle plays, also known as mystery plays, were a form of medieval drama that emerged in Europe during the Middle Ages. These plays were religious in nature and were performed by members of the clergy and local communities. 4) The term â€œDark Agesâ€ is generally used to refer to a period of cultural, intellectual, and economic decline or stagnation. It is often characterized by a decline in centralized authority, political instability, economic hardships, and a relative lack of cultural and intellectual progress compared to earlier and later periods.
+   * (a) Only 1
+     (b) Only 2 and 3
+     (c) Only 1, 2, and 4
+     (d) Only 2 and 4
+     (e) Only 3
+
+Q82  []
+In the question below, a sentence has been divided into different parts. Rearrange the parts to form a meaningful sentence. P) In the intricate tapestry of human history, traversing vast epochs marked by triumphs and tribulations, the interplay of diverse cultures, ideologies, and Q) knowledge, technological advancements, and collective aspirations continually shape the tapestry of our existence, R) forging intricate connections between past, present, and future, as we navigate the perennial quest for progress, harmony, and understanding amidst the ebb and flow of the human experience S) socio-political systems has engendered multifaceted narratives replete with paradigm shifts, oscillating power dynamics, and profound transformations, wherein the ceaseless pursuit of
+     (a) RPQS
+     (b) SQPR
+     (c) RPSQ
+   * (d) PSQR
+     (e) QSRP
+
+Q83  []
+In the question below, a sentence has been divided into different parts. Rearrange the parts to form a meaningful sentence. (P)through telescopes that pierce the cosmic veil, conducting experiments at particle colliders that reveal the fundamental building blocks of matter, and venturing into the depths of the ocean where ancient (Q)lifeforms hold the keys to understanding our planetâ€™s past and its potential future, as we strive to grasp the essence of our place in the cosmos and the meaning that lies hidden within the fabric of reality. (R)Amidst the vast expanse of the universe, with its swirling galaxies, cosmic phenomena, and enigmatic celestial bodies dancing to the symphony of gravity, electromagnetic forces, and the mysterious dark energy, (S)humanity, driven by an insatiable curiosity and thirst for knowledge, has embarked on a relentless quest to unravel the secrets of existence, delving into the intricate realms of quantum mechanics, exploring the cosmos
+     (a) PRQS
+   * (b) RSPQ
+     (c) QSPR
+     (d) SPQR
+     (e) SQPR
+
+Q84  []
+In the question mentioned below, a paragraph is divided into different sentences. Rearrange the sentences to form a coherent paragraph. 1) With each passing moment, we teeter on the precipice of irreversible consequences, where the ravenous appetite for energy conspires with the existential threat of climate change. The dexterous choreography of this transition demands not only the orchestration of technological advancements and innovative solutions but also the harmonization of political will, economic viability, and societal engagement. 2) As we navigate the treacherous terrain strewn with vested interests, formidable barriers, and divergent perspectives, we must rise above complacency and rally behind the transformative potential that lies dormant within this audacious endeavor. 3) The labyrinthine challenge of shifting from fossil fuels to renewable energy sources requires meticulous planning, colossal investments, and the fortitude to disrupt long-established systems entrenched in the annals of industrialization. 4) The road to an energy transition is arduous, fraught with complexities, but it is through our unwavering resilience and unwavering commitment that we shall pave the path towards a sustainable future, forging a legacy that transcends time, and kindles the embers of hope for generations yet unborn. 5) In the relentless pursuit of a sustainable future, the imperative for an energy transition emerges as an unwavering mandate, demanding audacious action and resolute determination.
+     (a) 14235
+     (b) 25431
+   * (c) 53124
+     (d) 43215
+     (e) 54123
+
+Q85  []
+In the question mentioned below, a paragraph is divided into different sentences. Rearrange the sentences to form a coherent paragraph. 1) Challenging this entrenched paradigm necessitates a paradigm shift in urban planning and design, recognizing the multifaceted dimensions of gender and embracing an inclusive approach that fosters safety, accessibility, and empowerment for all individuals. 2) To forge equitable societies, we must dismantle the gendered infrastructure, rebalancing the scales of spatial justice, and championing an era where every person, irrespective of gender, can flourish and thrive within the architectural fabric of our shared world. 3) The manifestation of gendered infrastructure materializes in the subtle design choices that shape our urban landscapes, reinforcing power dynamics and further marginalizing certain communities. 4) The built environment, often an embodiment of patriarchal norms, has historically perpetuated gender inequities, perpetuating spatial biases and engendering disparities. 5) Gendered infrastructure, a subject of profound socio- cultural significance, demands rigorous examination within the intricate tapestry of societal systems. 6) As the framework of cities and public spaces fails to accommodate diverse needs, it perpetuates a systemic exclusion of women, exacerbating their vulnerability and hindering their access to essential services and opportunities.
+     (a) 123654
+   * (b) 543612
+     (c) 654321
+     (d) 412356
+     (e) 543126
+
+Q86  []
+In the question below, two sentences have been mentioned with a blank in each sentence. Use one of the phrases given in the options to fill in the blanks. 1) Despite his notable contributions to the project, Johnâ€™s colleagues often felt overshadowed as his penchant for self-promotion and desire to _____ during presentations and discussions undermined the collaborative spirit and overshadowed the collective efforts of the team. 2) Amidst the intricate dance of egos and aspirations within the creative industry, certain individuals unabashedly ______, their insatiable hunger for attention overshadowing the collective brilliance of their peers, stifling collaboration, and perpetuating a culture of self- centeredness
+     (a) Hue and Cry
+     (b) Dragging a crate
+   * (c) Hog the limelight
+     (d) Burn the bridge
+     (e) Sleeping like a log
+
+Q87  []
+In the question below, two sentences have been mentioned with a blank in each sentence. Use one of the phrases given in the options to fill in the blanks. 1) In the realm of economic policy, policymakers strive to strike a delicate balance between allocating resources efficiently and maximizing the ________, wherein the optimal utilization of available funds yields the greatest impact and value for the desired outcomes, navigating the fine line between cost-effectiveness, equitable distribution, and long-term sustainability. 2) As consumers increasingly seek value and efficiency in their purchasing decisions, businesses must constantly innovate and refine their offerings to provide a compelling __________, leveraging competitive pricing strategies, product differentiation, and exceptional customer experiences to maximize perceived value and establish long-term customer loyalty.
+   * (a) Bang for the buck
+     (b) Fish rots from the head
+     (c) To bite the dust
+     (d) Elephant in the room
+     (e) Slay your dragon
+
+Q88  []
+In the question below, two sentences have been mentioned with a blank in each sentence. Use one of the phrases given in the options to fill in the blanks. 1) Despite the severity of the crime committed, the lenient sentencing of a mere community service order for a repeat offender can be seen as nothing more than a ______, failing to serve as an adequate deterrent or impart a sense of justice to the victims and society at large. 2) The regulatory agencyâ€™s decision to impose a nominal fine on the corporation found guilty of gross negligence and environmental violations is seen by many as nothing more than a symbolic _______, lacking the teeth to truly hold the company accountable for its actions and ensure meaningful change in their practices.
+     (a) A Taste of Your Own Medicine
+   * (b) Slap on the wrist
+     (c) Back to the Drawing Board
+     (d) All Greek to me
+     (e) Bakerâ€™s Dozen
+
+Q89  []
+Read the given information and answer the below questions. Third world countries, a term that originated during the Cold War era, refer to the developing nations that faced economic, social, and political challenges in the aftermath of colonialism and globalization. These countries have diverse histories and trajectories, shaped by colonization, post-colonial struggles, and attempts at development. The history of third world countries is marked by the exploitation of resources, cultural suppression, and political subjugation by colonial powers. The aftermath of independence brought hopes of progress and self- determination, but many nations grappled with the daunting task of nation-building and overcoming deep-rooted socio-economic disparities. Despite the challenges, third world countries possess considerable growth prospects. Several nations have made significant strides in areas such as education, healthcare, and infrastructure. Economic reforms, investments in human capital, and advancements in technology have opened doors for innovation, entrepreneurship, and foreign investments. The emergence of regional cooperation and trade blocs has also fostered economic integration and increased market opportunities. However, third world countries continue to face a myriad of challenges. Poverty, income inequality, and lack of access to basic services remain persistent issues. Political instability, corruption, and inadequate governance hinder progress and create hurdles for sustainable development. Environmental degradation, climate change, and natural disasters pose additional threats to these nations, affecting their agricultural productivity, water resources, and overall resilience. To overcome these challenges and pave the way forward, third world countries must prioritize inclusive and sustainable development. Strengthening governance structures, promoting transparency, and combating corruption are essential for creating an enabling environment for growth. Investment in education and skills development can empower the workforce and foster innovation. Enhanced access to healthcare, clean water, and sanitation is critical for improving the quality of life. Furthermore, third world countries must leverage technological advancements to bridge the digital divide and foster digital literacy. Sustainable agricultural practices, renewable energy initiatives, and climate resilience strategies should be prioritized to mitigate environmental risks. Collaboration and partnerships with international organizations, developed countries, and the private sector can provide valuable support in terms of finance, technology transfer, and capacity-building. In summary, the history, growth prospects, challenges, and the way forward for third world countries are complex and multifaceted. Achieving sustainable development requires addressing systemic issues, embracing innovation, and fostering inclusive growth. It necessitates a global commitment to promoting equity, justice, and shared prosperity. In addition to economic and social challenges, third world countries also face issues related to population growth and urbanization. Rapid population growth puts immense pressure on limited resources and infrastructure, leading to overcrowded cities, inadequate housing, and strained public services. Urbanization presents both opportunities and challenges, as it can drive economic growth and innovation but also exacerbate income inequality and social disparities if not properly managed. Effective urban planning, investment in sustainable urban infrastructure, and social welfare programs are crucial for creating inclusive and livable cities. Another critical aspect in the development of third world countries is the empowerment and inclusion of women. Gender inequality remains a significant obstacle, limiting womenâ€™s access to education, healthcare, and economic opportunities. By ensuring equal rights, addressing cultural norms, and providing support for womenâ€™s empowerment, third world countries can unlock the full potential of their human capital and foster inclusive growth. Womenâ€™s participation in decision-making processes, entrepreneurship, and leadership roles is key to driving sustainable development and social progress. The way forward for third world countries also necessitates a focus on cultural preservation and promotion. Indigenous knowledge, traditions, and cultural heritage play a vital role in identity formation and community cohesion. Integrating cultural preservation efforts into development strategies can enhance social cohesion, promote cultural diversity, and foster a sense of pride and belonging. Embracing cultural tourism, supporting local artisans and craftsmen, and preserving historical sites contribute to sustainable development while safeguarding cultural heritage for future generations. Moreover, international cooperation and fair global trade are essential for the progress of third world countries. Addressing trade imbalances, promoting fair trade practices, and reducing barriers to market access can create opportunities for economic growth and poverty reduction. Access to affordable finance and technology transfer are crucial for developing industries and fostering innovation. Multilateral institutions and global partnerships should strive to create a level playing field, providing support and resources to ensure the equitable participation of third world countries in the global economy. What are some of the challenges related to population growth and urbanization in third world countries?
+     (a) Limited access to education and healthcare
+   * (b) Overcrowded cities and inadequate infrastructure
+     (c) Political instability and inadequate governance
+     (d) Exploitation of natural resources by colonial powers
+     (e) Strong economic growth and technological advancements
+
+Q90  []
+Read the given information and answer the below questions. Third world countries, a term that originated during the Cold War era, refer to the developing nations that faced economic, social, and political challenges in the aftermath of colonialism and globalization. These countries have diverse histories and trajectories, shaped by colonization, post-colonial struggles, and attempts at development. The history of third world countries is marked by the exploitation of resources, cultural suppression, and political subjugation by colonial powers. The aftermath of independence brought hopes of progress and self- determination, but many nations grappled with the daunting task of nation-building and overcoming deep-rooted socio-economic disparities. Despite the challenges, third world countries possess considerable growth prospects. Several nations have made significant strides in areas such as education, healthcare, and infrastructure. Economic reforms, investments in human capital, and advancements in technology have opened doors for innovation, entrepreneurship, and foreign investments. The emergence of regional cooperation and trade blocs has also fostered economic integration and increased market opportunities. However, third world countries continue to face a myriad of challenges. Poverty, income inequality, and lack of access to basic services remain persistent issues. Political instability, corruption, and inadequate governance hinder progress and create hurdles for sustainable development. Environmental degradation, climate change, and natural disasters pose additional threats to these nations, affecting their agricultural productivity, water resources, and overall resilience. To overcome these challenges and pave the way forward, third world countries must prioritize inclusive and sustainable development. Strengthening governance structures, promoting transparency, and combating corruption are essential for creating an enabling environment for growth. Investment in education and skills development can empower the workforce and foster innovation. Enhanced access to healthcare, clean water, and sanitation is critical for improving the quality of life. Furthermore, third world countries must leverage technological advancements to bridge the digital divide and foster digital literacy. Sustainable agricultural practices, renewable energy initiatives, and climate resilience strategies should be prioritized to mitigate environmental risks. Collaboration and partnerships with international organizations, developed countries, and the private sector can provide valuable support in terms of finance, technology transfer, and capacity-building. In summary, the history, growth prospects, challenges, and the way forward for third world countries are complex and multifaceted. Achieving sustainable development requires addressing systemic issues, embracing innovation, and fostering inclusive growth. It necessitates a global commitment to promoting equity, justice, and shared prosperity. In addition to economic and social challenges, third world countries also face issues related to population growth and urbanization. Rapid population growth puts immense pressure on limited resources and infrastructure, leading to overcrowded cities, inadequate housing, and strained public services. Urbanization presents both opportunities and challenges, as it can drive economic growth and innovation but also exacerbate income inequality and social disparities if not properly managed. Effective urban planning, investment in sustainable urban infrastructure, and social welfare programs are crucial for creating inclusive and livable cities. Another critical aspect in the development of third world countries is the empowerment and inclusion of women. Gender inequality remains a significant obstacle, limiting womenâ€™s access to education, healthcare, and economic opportunities. By ensuring equal rights, addressing cultural norms, and providing support for womenâ€™s empowerment, third world countries can unlock the full potential of their human capital and foster inclusive growth. Womenâ€™s participation in decision-making processes, entrepreneurship, and leadership roles is key to driving sustainable development and social progress. The way forward for third world countries also necessitates a focus on cultural preservation and promotion. Indigenous knowledge, traditions, and cultural heritage play a vital role in identity formation and community cohesion. Integrating cultural preservation efforts into development strategies can enhance social cohesion, promote cultural diversity, and foster a sense of pride and belonging. Embracing cultural tourism, supporting local artisans and craftsmen, and preserving historical sites contribute to sustainable development while safeguarding cultural heritage for future generations. Moreover, international cooperation and fair global trade are essential for the progress of third world countries. Addressing trade imbalances, promoting fair trade practices, and reducing barriers to market access can create opportunities for economic growth and poverty reduction. Access to affordable finance and technology transfer are crucial for developing industries and fostering innovation. Multilateral institutions and global partnerships should strive to create a level playing field, providing support and resources to ensure the equitable participation of third world countries in the global economy. Why is the empowerment and inclusion of women crucial for the development of third world countries?
+     (a) It perpetuates gender inequality and social disparities
+     (b) It leads to overcrowded cities and inadequate housing
+   * (c) It fosters inclusive growth and unlocks human capital
+     (d) It exacerbates income inequality and poverty
+     (e) It promotes corruption and political instability
+
+Q91  []
+Read the given information and answer the below questions. Third world countries, a term that originated during the Cold War era, refer to the developing nations that faced economic, social, and political challenges in the aftermath of colonialism and globalization. These countries have diverse histories and trajectories, shaped by colonization, post-colonial struggles, and attempts at development. The history of third world countries is marked by the exploitation of resources, cultural suppression, and political subjugation by colonial powers. The aftermath of independence brought hopes of progress and self- determination, but many nations grappled with the daunting task of nation-building and overcoming deep-rooted socio-economic disparities. Despite the challenges, third world countries possess considerable growth prospects. Several nations have made significant strides in areas such as education, healthcare, and infrastructure. Economic reforms, investments in human capital, and advancements in technology have opened doors for innovation, entrepreneurship, and foreign investments. The emergence of regional cooperation and trade blocs has also fostered economic integration and increased market opportunities. However, third world countries continue to face a myriad of challenges. Poverty, income inequality, and lack of access to basic services remain persistent issues. Political instability, corruption, and inadequate governance hinder progress and create hurdles for sustainable development. Environmental degradation, climate change, and natural disasters pose additional threats to these nations, affecting their agricultural productivity, water resources, and overall resilience. To overcome these challenges and pave the way forward, third world countries must prioritize inclusive and sustainable development. Strengthening governance structures, promoting transparency, and combating corruption are essential for creating an enabling environment for growth. Investment in education and skills development can empower the workforce and foster innovation. Enhanced access to healthcare, clean water, and sanitation is critical for improving the quality of life. Furthermore, third world countries must leverage technological advancements to bridge the digital divide and foster digital literacy. Sustainable agricultural practices, renewable energy initiatives, and climate resilience strategies should be prioritized to mitigate environmental risks. Collaboration and partnerships with international organizations, developed countries, and the private sector can provide valuable support in terms of finance, technology transfer, and capacity-building. In summary, the history, growth prospects, challenges, and the way forward for third world countries are complex and multifaceted. Achieving sustainable development requires addressing systemic issues, embracing innovation, and fostering inclusive growth. It necessitates a global commitment to promoting equity, justice, and shared prosperity. In addition to economic and social challenges, third world countries also face issues related to population growth and urbanization. Rapid population growth puts immense pressure on limited resources and infrastructure, leading to overcrowded cities, inadequate housing, and strained public services. Urbanization presents both opportunities and challenges, as it can drive economic growth and innovation but also exacerbate income inequality and social disparities if not properly managed. Effective urban planning, investment in sustainable urban infrastructure, and social welfare programs are crucial for creating inclusive and livable cities. Another critical aspect in the development of third world countries is the empowerment and inclusion of women. Gender inequality remains a significant obstacle, limiting womenâ€™s access to education, healthcare, and economic opportunities. By ensuring equal rights, addressing cultural norms, and providing support for womenâ€™s empowerment, third world countries can unlock the full potential of their human capital and foster inclusive growth. Womenâ€™s participation in decision-making processes, entrepreneurship, and leadership roles is key to driving sustainable development and social progress. The way forward for third world countries also necessitates a focus on cultural preservation and promotion. Indigenous knowledge, traditions, and cultural heritage play a vital role in identity formation and community cohesion. Integrating cultural preservation efforts into development strategies can enhance social cohesion, promote cultural diversity, and foster a sense of pride and belonging. Embracing cultural tourism, supporting local artisans and craftsmen, and preserving historical sites contribute to sustainable development while safeguarding cultural heritage for future generations. Moreover, international cooperation and fair global trade are essential for the progress of third world countries. Addressing trade imbalances, promoting fair trade practices, and reducing barriers to market access can create opportunities for economic growth and poverty reduction. Access to affordable finance and technology transfer are crucial for developing industries and fostering innovation. Multilateral institutions and global partnerships should strive to create a level playing field, providing support and resources to ensure the equitable participation of third world countries in the global economy. What role do partnerships with international organizations and developed countries play in the development of third world countries?
+     (a) They contribute to corruption in the government
+     (b) They promote economic dependency and hinder growth
+   * (c) They provide valuable financial and technological support
+     (d) They exacerbate progress in the socio-economic sectors
+     (e) They discourage innovation and entrepreneurship
+
+Q92  []
+Read the given information and answer the below questions. Third world countries, a term that originated during the Cold War era, refer to the developing nations that faced economic, social, and political challenges in the aftermath of colonialism and globalization. These countries have diverse histories and trajectories, shaped by colonization, post-colonial struggles, and attempts at development. The history of third world countries is marked by the exploitation of resources, cultural suppression, and political subjugation by colonial powers. The aftermath of independence brought hopes of progress and self- determination, but many nations grappled with the daunting task of nation-building and overcoming deep-rooted socio-economic disparities. Despite the challenges, third world countries possess considerable growth prospects. Several nations have made significant strides in areas such as education, healthcare, and infrastructure. Economic reforms, investments in human capital, and advancements in technology have opened doors for innovation, entrepreneurship, and foreign investments. The emergence of regional cooperation and trade blocs has also fostered economic integration and increased market opportunities. However, third world countries continue to face a myriad of challenges. Poverty, income inequality, and lack of access to basic services remain persistent issues. Political instability, corruption, and inadequate governance hinder progress and create hurdles for sustainable development. Environmental degradation, climate change, and natural disasters pose additional threats to these nations, affecting their agricultural productivity, water resources, and overall resilience. To overcome these challenges and pave the way forward, third world countries must prioritize inclusive and sustainable development. Strengthening governance structures, promoting transparency, and combating corruption are essential for creating an enabling environment for growth. Investment in education and skills development can empower the workforce and foster innovation. Enhanced access to healthcare, clean water, and sanitation is critical for improving the quality of life. Furthermore, third world countries must leverage technological advancements to bridge the digital divide and foster digital literacy. Sustainable agricultural practices, renewable energy initiatives, and climate resilience strategies should be prioritized to mitigate environmental risks. Collaboration and partnerships with international organizations, developed countries, and the private sector can provide valuable support in terms of finance, technology transfer, and capacity-building. In summary, the history, growth prospects, challenges, and the way forward for third world countries are complex and multifaceted. Achieving sustainable development requires addressing systemic issues, embracing innovation, and fostering inclusive growth. It necessitates a global commitment to promoting equity, justice, and shared prosperity. In addition to economic and social challenges, third world countries also face issues related to population growth and urbanization. Rapid population growth puts immense pressure on limited resources and infrastructure, leading to overcrowded cities, inadequate housing, and strained public services. Urbanization presents both opportunities and challenges, as it can drive economic growth and innovation but also exacerbate income inequality and social disparities if not properly managed. Effective urban planning, investment in sustainable urban infrastructure, and social welfare programs are crucial for creating inclusive and livable cities. Another critical aspect in the development of third world countries is the empowerment and inclusion of women. Gender inequality remains a significant obstacle, limiting womenâ€™s access to education, healthcare, and economic opportunities. By ensuring equal rights, addressing cultural norms, and providing support for womenâ€™s empowerment, third world countries can unlock the full potential of their human capital and foster inclusive growth. Womenâ€™s participation in decision-making processes, entrepreneurship, and leadership roles is key to driving sustainable development and social progress. The way forward for third world countries also necessitates a focus on cultural preservation and promotion. Indigenous knowledge, traditions, and cultural heritage play a vital role in identity formation and community cohesion. Integrating cultural preservation efforts into development strategies can enhance social cohesion, promote cultural diversity, and foster a sense of pride and belonging. Embracing cultural tourism, supporting local artisans and craftsmen, and preserving historical sites contribute to sustainable development while safeguarding cultural heritage for future generations. Moreover, international cooperation and fair global trade are essential for the progress of third world countries. Addressing trade imbalances, promoting fair trade practices, and reducing barriers to market access can create opportunities for economic growth and poverty reduction. Access to affordable finance and technology transfer are crucial for developing industries and fostering innovation. Multilateral institutions and global partnerships should strive to create a level playing field, providing support and resources to ensure the equitable participation of third world countries in the global economy. What are the key factors for the way forward in third world countries?
+     (a) Exploitation of resources and colonial power dynamics
+   * (b) Promoting technological advancements, digital literacy, preservation of cultural and its promotion
+     (c) Inciting a downtrend in governance structures
+     (d) Limited access to education and healthcare
+     (e) Reduction in foreign investments and trade opportunities
+
+Q93  []
+Read the given information and answer the below questions. Third world countries, a term that originated during the Cold War era, refer to the developing nations that faced economic, social, and political challenges in the aftermath of colonialism and globalization. These countries have diverse histories and trajectories, shaped by colonization, post-colonial struggles, and attempts at development. The history of third world countries is marked by the exploitation of resources, cultural suppression, and political subjugation by colonial powers. The aftermath of independence brought hopes of progress and self- determination, but many nations grappled with the daunting task of nation-building and overcoming deep-rooted socio-economic disparities. Despite the challenges, third world countries possess considerable growth prospects. Several nations have made significant strides in areas such as education, healthcare, and infrastructure. Economic reforms, investments in human capital, and advancements in technology have opened doors for innovation, entrepreneurship, and foreign investments. The emergence of regional cooperation and trade blocs has also fostered economic integration and increased market opportunities. However, third world countries continue to face a myriad of challenges. Poverty, income inequality, and lack of access to basic services remain persistent issues. Political instability, corruption, and inadequate governance hinder progress and create hurdles for sustainable development. Environmental degradation, climate change, and natural disasters pose additional threats to these nations, affecting their agricultural productivity, water resources, and overall resilience. To overcome these challenges and pave the way forward, third world countries must prioritize inclusive and sustainable development. Strengthening governance structures, promoting transparency, and combating corruption are essential for creating an enabling environment for growth. Investment in education and skills development can empower the workforce and foster innovation. Enhanced access to healthcare, clean water, and sanitation is critical for improving the quality of life. Furthermore, third world countries must leverage technological advancements to bridge the digital divide and foster digital literacy. Sustainable agricultural practices, renewable energy initiatives, and climate resilience strategies should be prioritized to mitigate environmental risks. Collaboration and partnerships with international organizations, developed countries, and the private sector can provide valuable support in terms of finance, technology transfer, and capacity-building. In summary, the history, growth prospects, challenges, and the way forward for third world countries are complex and multifaceted. Achieving sustainable development requires addressing systemic issues, embracing innovation, and fostering inclusive growth. It necessitates a global commitment to promoting equity, justice, and shared prosperity. In addition to economic and social challenges, third world countries also face issues related to population growth and urbanization. Rapid population growth puts immense pressure on limited resources and infrastructure, leading to overcrowded cities, inadequate housing, and strained public services. Urbanization presents both opportunities and challenges, as it can drive economic growth and innovation but also exacerbate income inequality and social disparities if not properly managed. Effective urban planning, investment in sustainable urban infrastructure, and social welfare programs are crucial for creating inclusive and livable cities. Another critical aspect in the development of third world countries is the empowerment and inclusion of women. Gender inequality remains a significant obstacle, limiting womenâ€™s access to education, healthcare, and economic opportunities. By ensuring equal rights, addressing cultural norms, and providing support for womenâ€™s empowerment, third world countries can unlock the full potential of their human capital and foster inclusive growth. Womenâ€™s participation in decision-making processes, entrepreneurship, and leadership roles is key to driving sustainable development and social progress. The way forward for third world countries also necessitates a focus on cultural preservation and promotion. Indigenous knowledge, traditions, and cultural heritage play a vital role in identity formation and community cohesion. Integrating cultural preservation efforts into development strategies can enhance social cohesion, promote cultural diversity, and foster a sense of pride and belonging. Embracing cultural tourism, supporting local artisans and craftsmen, and preserving historical sites contribute to sustainable development while safeguarding cultural heritage for future generations. Moreover, international cooperation and fair global trade are essential for the progress of third world countries. Addressing trade imbalances, promoting fair trade practices, and reducing barriers to market access can create opportunities for economic growth and poverty reduction. Access to affordable finance and technology transfer are crucial for developing industries and fostering innovation. Multilateral institutions and global partnerships should strive to create a level playing field, providing support and resources to ensure the equitable participation of third world countries in the global economy. What are some of the ways in which the third world countries can address environmental risks and climate change? 1) By investing in sustainable agriculture and renewable energy 2) By exploiting natural resources for economic growth 3) By depending on international aid and funding
+   * (a) Only 1
+     (b) Only 1 and 3
+     (c) Only 2
+     (d) Only 1 and 2
+     (e) Only 1, 2, and 3
+
+Q94  []
+Read the given information and answer the below questions. Third world countries, a term that originated during the Cold War era, refer to the developing nations that faced economic, social, and political challenges in the aftermath of colonialism and globalization. These countries have diverse histories and trajectories, shaped by colonization, post-colonial struggles, and attempts at development. The history of third world countries is marked by the exploitation of resources, cultural suppression, and political subjugation by colonial powers. The aftermath of independence brought hopes of progress and self- determination, but many nations grappled with the daunting task of nation-building and overcoming deep-rooted socio-economic disparities. Despite the challenges, third world countries possess considerable growth prospects. Several nations have made significant strides in areas such as education, healthcare, and infrastructure. Economic reforms, investments in human capital, and advancements in technology have opened doors for innovation, entrepreneurship, and foreign investments. The emergence of regional cooperation and trade blocs has also fostered economic integration and increased market opportunities. However, third world countries continue to face a myriad of challenges. Poverty, income inequality, and lack of access to basic services remain persistent issues. Political instability, corruption, and inadequate governance hinder progress and create hurdles for sustainable development. Environmental degradation, climate change, and natural disasters pose additional threats to these nations, affecting their agricultural productivity, water resources, and overall resilience. To overcome these challenges and pave the way forward, third world countries must prioritize inclusive and sustainable development. Strengthening governance structures, promoting transparency, and combating corruption are essential for creating an enabling environment for growth. Investment in education and skills development can empower the workforce and foster innovation. Enhanced access to healthcare, clean water, and sanitation is critical for improving the quality of life. Furthermore, third world countries must leverage technological advancements to bridge the digital divide and foster digital literacy. Sustainable agricultural practices, renewable energy initiatives, and climate resilience strategies should be prioritized to mitigate environmental risks. Collaboration and partnerships with international organizations, developed countries, and the private sector can provide valuable support in terms of finance, technology transfer, and capacity-building. In summary, the history, growth prospects, challenges, and the way forward for third world countries are complex and multifaceted. Achieving sustainable development requires addressing systemic issues, embracing innovation, and fostering inclusive growth. It necessitates a global commitment to promoting equity, justice, and shared prosperity. In addition to economic and social challenges, third world countries also face issues related to population growth and urbanization. Rapid population growth puts immense pressure on limited resources and infrastructure, leading to overcrowded cities, inadequate housing, and strained public services. Urbanization presents both opportunities and challenges, as it can drive economic growth and innovation but also exacerbate income inequality and social disparities if not properly managed. Effective urban planning, investment in sustainable urban infrastructure, and social welfare programs are crucial for creating inclusive and livable cities. Another critical aspect in the development of third world countries is the empowerment and inclusion of women. Gender inequality remains a significant obstacle, limiting womenâ€™s access to education, healthcare, and economic opportunities. By ensuring equal rights, addressing cultural norms, and providing support for womenâ€™s empowerment, third world countries can unlock the full potential of their human capital and foster inclusive growth. Womenâ€™s participation in decision-making processes, entrepreneurship, and leadership roles is key to driving sustainable development and social progress. The way forward for third world countries also necessitates a focus on cultural preservation and promotion. Indigenous knowledge, traditions, and cultural heritage play a vital role in identity formation and community cohesion. Integrating cultural preservation efforts into development strategies can enhance social cohesion, promote cultural diversity, and foster a sense of pride and belonging. Embracing cultural tourism, supporting local artisans and craftsmen, and preserving historical sites contribute to sustainable development while safeguarding cultural heritage for future generations. Moreover, international cooperation and fair global trade are essential for the progress of third world countries. Addressing trade imbalances, promoting fair trade practices, and reducing barriers to market access can create opportunities for economic growth and poverty reduction. Access to affordable finance and technology transfer are crucial for developing industries and fostering innovation. Multilateral institutions and global partnerships should strive to create a level playing field, providing support and resources to ensure the equitable participation of third world countries in the global economy. Inclusive and sustainable development is a holistic approach that seeks to address social, economic, and environmental challenges while ensuring that no one is left behind. It recognizes that economic growth should be equitable, and progress should be shared by all segments of society. At its core, inclusive and sustainable development aims to foster social cohesion, reduce inequalities, protect the environment, and promote long-term prosperity. In light of this, what is the importance of inclusive and sustainable development for the third world countries? 1) It promotes corruption and political instability 2) It improves governance structures and transparency 3) It hinders economic growth and innovation 4) It exacerbates income inequality and poverty 5) It fosters equitable growth and improves quality of life
+     (a) Only 1, 3, and 5
+   * (b) Only 2 and 5
+     (c) Only 2, 4, and 5
+     (d) Only 1 and 3
+     (e) Only 2 and 4
+
+Q95  []
+Read the given information and answer the below questions. Third world countries, a term that originated during the Cold War era, refer to the developing nations that faced economic, social, and political challenges in the aftermath of colonialism and globalization. These countries have diverse histories and trajectories, shaped by colonization, post-colonial struggles, and attempts at development. The history of third world countries is marked by the exploitation of resources, cultural suppression, and political subjugation by colonial powers. The aftermath of independence brought hopes of progress and self- determination, but many nations grappled with the daunting task of nation-building and overcoming deep-rooted socio-economic disparities. Despite the challenges, third world countries possess considerable growth prospects. Several nations have made significant strides in areas such as education, healthcare, and infrastructure. Economic reforms, investments in human capital, and advancements in technology have opened doors for innovation, entrepreneurship, and foreign investments. The emergence of regional cooperation and trade blocs has also fostered economic integration and increased market opportunities. However, third world countries continue to face a myriad of challenges. Poverty, income inequality, and lack of access to basic services remain persistent issues. Political instability, corruption, and inadequate governance hinder progress and create hurdles for sustainable development. Environmental degradation, climate change, and natural disasters pose additional threats to these nations, affecting their agricultural productivity, water resources, and overall resilience. To overcome these challenges and pave the way forward, third world countries must prioritize inclusive and sustainable development. Strengthening governance structures, promoting transparency, and combating corruption are essential for creating an enabling environment for growth. Investment in education and skills development can empower the workforce and foster innovation. Enhanced access to healthcare, clean water, and sanitation is critical for improving the quality of life. Furthermore, third world countries must leverage technological advancements to bridge the digital divide and foster digital literacy. Sustainable agricultural practices, renewable energy initiatives, and climate resilience strategies should be prioritized to mitigate environmental risks. Collaboration and partnerships with international organizations, developed countries, and the private sector can provide valuable support in terms of finance, technology transfer, and capacity-building. In summary, the history, growth prospects, challenges, and the way forward for third world countries are complex and multifaceted. Achieving sustainable development requires addressing systemic issues, embracing innovation, and fostering inclusive growth. It necessitates a global commitment to promoting equity, justice, and shared prosperity. In addition to economic and social challenges, third world countries also face issues related to population growth and urbanization. Rapid population growth puts immense pressure on limited resources and infrastructure, leading to overcrowded cities, inadequate housing, and strained public services. Urbanization presents both opportunities and challenges, as it can drive economic growth and innovation but also exacerbate income inequality and social disparities if not properly managed. Effective urban planning, investment in sustainable urban infrastructure, and social welfare programs are crucial for creating inclusive and livable cities. Another critical aspect in the development of third world countries is the empowerment and inclusion of women. Gender inequality remains a significant obstacle, limiting womenâ€™s access to education, healthcare, and economic opportunities. By ensuring equal rights, addressing cultural norms, and providing support for womenâ€™s empowerment, third world countries can unlock the full potential of their human capital and foster inclusive growth. Womenâ€™s participation in decision-making processes, entrepreneurship, and leadership roles is key to driving sustainable development and social progress. The way forward for third world countries also necessitates a focus on cultural preservation and promotion. Indigenous knowledge, traditions, and cultural heritage play a vital role in identity formation and community cohesion. Integrating cultural preservation efforts into development strategies can enhance social cohesion, promote cultural diversity, and foster a sense of pride and belonging. Embracing cultural tourism, supporting local artisans and craftsmen, and preserving historical sites contribute to sustainable development while safeguarding cultural heritage for future generations. Moreover, international cooperation and fair global trade are essential for the progress of third world countries. Addressing trade imbalances, promoting fair trade practices, and reducing barriers to market access can create opportunities for economic growth and poverty reduction. Access to affordable finance and technology transfer are crucial for developing industries and fostering innovation. Multilateral institutions and global partnerships should strive to create a level playing field, providing support and resources to ensure the equitable participation of third world countries in the global economy. Which of the following is not a challenge faced by third world countries?
+     (a) Income inequality and poverty
+     (b) Lack of access to basic services
+     (c) Political instability and inadequate governance
+     (d) Climate change and environmental degradation
+   * (e) Strong economic growth and technological advancements
+
+Q96  []
+Read the given information and answer the below questions. Third world countries, a term that originated during the Cold War era, refer to the developing nations that faced economic, social, and political challenges in the aftermath of colonialism and globalization. These countries have diverse histories and trajectories, shaped by colonization, post-colonial struggles, and attempts at development. The history of third world countries is marked by the exploitation of resources, cultural suppression, and political subjugation by colonial powers. The aftermath of independence brought hopes of progress and self- determination, but many nations grappled with the daunting task of nation-building and overcoming deep-rooted socio-economic disparities. Despite the challenges, third world countries possess considerable growth prospects. Several nations have made significant strides in areas such as education, healthcare, and infrastructure. Economic reforms, investments in human capital, and advancements in technology have opened doors for innovation, entrepreneurship, and foreign investments. The emergence of regional cooperation and trade blocs has also fostered economic integration and increased market opportunities. However, third world countries continue to face a myriad of challenges. Poverty, income inequality, and lack of access to basic services remain persistent issues. Political instability, corruption, and inadequate governance hinder progress and create hurdles for sustainable development. Environmental degradation, climate change, and natural disasters pose additional threats to these nations, affecting their agricultural productivity, water resources, and overall resilience. To overcome these challenges and pave the way forward, third world countries must prioritize inclusive and sustainable development. Strengthening governance structures, promoting transparency, and combating corruption are essential for creating an enabling environment for growth. Investment in education and skills development can empower the workforce and foster innovation. Enhanced access to healthcare, clean water, and sanitation is critical for improving the quality of life. Furthermore, third world countries must leverage technological advancements to bridge the digital divide and foster digital literacy. Sustainable agricultural practices, renewable energy initiatives, and climate resilience strategies should be prioritized to mitigate environmental risks. Collaboration and partnerships with international organizations, developed countries, and the private sector can provide valuable support in terms of finance, technology transfer, and capacity-building. In summary, the history, growth prospects, challenges, and the way forward for third world countries are complex and multifaceted. Achieving sustainable development requires addressing systemic issues, embracing innovation, and fostering inclusive growth. It necessitates a global commitment to promoting equity, justice, and shared prosperity. In addition to economic and social challenges, third world countries also face issues related to population growth and urbanization. Rapid population growth puts immense pressure on limited resources and infrastructure, leading to overcrowded cities, inadequate housing, and strained public services. Urbanization presents both opportunities and challenges, as it can drive economic growth and innovation but also exacerbate income inequality and social disparities if not properly managed. Effective urban planning, investment in sustainable urban infrastructure, and social welfare programs are crucial for creating inclusive and livable cities. Another critical aspect in the development of third world countries is the empowerment and inclusion of women. Gender inequality remains a significant obstacle, limiting womenâ€™s access to education, healthcare, and economic opportunities. By ensuring equal rights, addressing cultural norms, and providing support for womenâ€™s empowerment, third world countries can unlock the full potential of their human capital and foster inclusive growth. Womenâ€™s participation in decision-making processes, entrepreneurship, and leadership roles is key to driving sustainable development and social progress. The way forward for third world countries also necessitates a focus on cultural preservation and promotion. Indigenous knowledge, traditions, and cultural heritage play a vital role in identity formation and community cohesion. Integrating cultural preservation efforts into development strategies can enhance social cohesion, promote cultural diversity, and foster a sense of pride and belonging. Embracing cultural tourism, supporting local artisans and craftsmen, and preserving historical sites contribute to sustainable development while safeguarding cultural heritage for future generations. Moreover, international cooperation and fair global trade are essential for the progress of third world countries. Addressing trade imbalances, promoting fair trade practices, and reducing barriers to market access can create opportunities for economic growth and poverty reduction. Access to affordable finance and technology transfer are crucial for developing industries and fostering innovation. Multilateral institutions and global partnerships should strive to create a level playing field, providing support and resources to ensure the equitable participation of third world countries in the global economy. Which of the following best describes the term â€œthird world countriesâ€?
+     (a) Developed nations that faced economic challenges during the Cold War era
+     (b) Nations that emerged after the end of colonial rule
+   * (c) Developing countries that struggled with economic, social, and political issues
+     (d) Countries that were aligned with the Soviet Union during the Cold War
+     (e) Nations that experienced rapid economic growth in the post- colonial period
+
+Q97  []
+In the question below, a phrase has been mentioned. The phrase has been used in following sentences. One of the sentences is using the phrase inappropriately. Identify the sentence with the incorrect usage. â€œGive a big handâ€ 1) As the curtains drew to a close on the awe-inspiring performance, the audience, captivated by the breathtaking display of talent, collectively rose to their feet, unleashing a resounding applause that reverberated through the auditorium, an exultant gesture to give a big hand to the exceptional artists who had left an indelible mark on their hearts and minds with their extraordinary skill and artistry. 2) In the ever-evolving landscape of technological advancements, the field of artificial intelligence has made tremendous strides, progressing by giving a big hand as cutting-edge algorithms, sophisticated machine learning models, and massive datasets enable unprecedented breakthroughs, revolutionizing industries and reshaping the way we live, work, and interact, propelling humanity into a future where the boundaries of possibility continue to expand at an astonishing pace. 3) Amidst the tense atmosphere of the boardroom, the formidable CEO, known for her uncompromising demeanour, unleashed a torrent of scathing criticism, meticulously dissecting each memberâ€™s performance with a meticulously articulated barrage of words, effectively giving them a big hand and leaving no room for doubt about her dissatisfaction, as she sought to instil a sense of accountability and drive for excellence within the team, albeit through a confrontational and no-holds-barred approach.
+   * (a) Only 2 and 3
+     (b) Only 1
+     (c) Only 1 and 3
+     (d) Only 2
+     (e) Only 3
+
+Q98  []
+In the question below, a phrase has been mentioned. The phrase has been used in following sentences. One of the sentences is using the phrase inappropriately. Identify the sentence with the incorrect usage. â€œThrash outâ€ 1) In the midst of competing priorities and resource constraints, the ambitious project that had once held great promise and garnered significant attention found itself thrust into the background, as shifting circumstances and pressing urgencies necessitated a difficult decision to thrash out, temporarily setting it aside in favor of more immediate and critical endeavors, with the hope that it would regain prominence and receive the attention it deserved once the current challenges had been adequately addressed and resources became available. 2) In the crucible of heated debates and intense negotiations, the stakeholders, representing diverse perspectives and conflicting interests, engaged in an arduous process of discourse and deliberation, meticulously analyzing each issue, exploring alternative solutions, and persistently seeking common ground to thrash out a comprehensive agreement that would not only reconcile their differences but also chart a path forward, effectively resolving the complex challenges that had hindered progress and cooperation for far too long 3) As the midnight hour approached and exhaustion settled in, the negotiating parties, driven by a shared determination to find common ground and overcome seemingly insurmountable differences, immersed themselves in an intense marathon of deliberation, engaging in rigorous debates, passionately advocating their positions, and meticulously dissecting each contentious issue, as they endeavored to thrash out a mutually acceptable agreement, recognizing that only through persistent dialogue, compromise, and a genuine commitment to finding middle ground could they transcend the impasse that had stymied progress and forge a path towards a collaborative and sustainable future.
+     (a) Only 2
+   * (b) Only 1
+     (c) Only 3
+     (d) Only 2 and 3
+     (e) Only 1 and 2
+
+Q99  []
+A paragraph has been mentioned below with blanks in each sentence of the paragraph. The blanks have been numbered as (1), (2), (3) etc. Answer the questions that follow the paragraph. The oil dependency of European countries on Russia has emerged as a complex and multifaceted issue, ____(1)___ woven into the geopolitical dynamics and energy landscapes of the region. The vast reserves and strategic geographical positioning of Russia have enabled it to become a major supplier of oil to numerous European nations, creating intricate interdependencies that carry both benefits and risks. At the heart of the matter lies the ____(2)____ fact that several European countries heavily rely on Russian oil imports to meet their energy demands. This heavy dependence exposes them to potential vulnerabilities, as disruptions in the supply chain or ___(3)____ in oil prices can have significant economic and political ramifications. The concentration of oil imports from a single supplier raises concerns about energy security, diversification, and the ability to respond effectively to changing global dynamics. Furthermore, the oil dependency on Russia also creates intricate webs of political and economic ___(4)___. Fill in the blank (2).
+     (a) Contestable
+     (b) Disputable
+   * (c) Undeniable
+     (d) Doubtable
+     (e) Refutable
+
+Q100  []
+A paragraph has been mentioned below with blanks in each sentence of the paragraph. The blanks have been numbered as (1), (2), (3) etc. Answer the questions that follow the paragraph. The oil dependency of European countries on Russia has emerged as a complex and multifaceted issue, ____(1)___ woven into the geopolitical dynamics and energy landscapes of the region. The vast reserves and strategic geographical positioning of Russia have enabled it to become a major supplier of oil to numerous European nations, creating intricate interdependencies that carry both benefits and risks. At the heart of the matter lies the ____(2)____ fact that several European countries heavily rely on Russian oil imports to meet their energy demands. This heavy dependence exposes them to potential vulnerabilities, as disruptions in the supply chain or ___(3)____ in oil prices can have significant economic and political ramifications. The concentration of oil imports from a single supplier raises concerns about energy security, diversification, and the ability to respond effectively to changing global dynamics. Furthermore, the oil dependency on Russia also creates intricate webs of political and economic ___(4)___. Fill in the blank (1).
+   * (a) Intricately
+     (b) Complex
+     (c) Elaborate
+     (d) Deliberately
+     (e) Complicatedly
+
+Q101  []
+A paragraph has been mentioned below with blanks in each sentence of the paragraph. The blanks have been numbered as (1), (2), (3) etc. Answer the questions that follow the paragraph. The oil dependency of European countries on Russia has emerged as a complex and multifaceted issue, ____(1)___ woven into the geopolitical dynamics and energy landscapes of the region. The vast reserves and strategic geographical positioning of Russia have enabled it to become a major supplier of oil to numerous European nations, creating intricate interdependencies that carry both benefits and risks. At the heart of the matter lies the ____(2)____ fact that several European countries heavily rely on Russian oil imports to meet their energy demands. This heavy dependence exposes them to potential vulnerabilities, as disruptions in the supply chain or ___(3)____ in oil prices can have significant economic and political ramifications. The concentration of oil imports from a single supplier raises concerns about energy security, diversification, and the ability to respond effectively to changing global dynamics. Furthermore, the oil dependency on Russia also creates intricate webs of political and economic ___(4)___. Fill in the blank (3).
+     (a) Stability
+   * (b) Fluctuations
+     (c) Consistency
+     (d) Steadiness
+     (e) Sturdiness
+
+Q102  []
+A paragraph has been mentioned below with blanks in each sentence of the paragraph. The blanks have been numbered as (1), (2), (3) etc. Answer the questions that follow the paragraph. The oil dependency of European countries on Russia has emerged as a complex and multifaceted issue, ____(1)___ woven into the geopolitical dynamics and energy landscapes of the region. The vast reserves and strategic geographical positioning of Russia have enabled it to become a major supplier of oil to numerous European nations, creating intricate interdependencies that carry both benefits and risks. At the heart of the matter lies the ____(2)____ fact that several European countries heavily rely on Russian oil imports to meet their energy demands. This heavy dependence exposes them to potential vulnerabilities, as disruptions in the supply chain or ___(3)____ in oil prices can have significant economic and political ramifications. The concentration of oil imports from a single supplier raises concerns about energy security, diversification, and the ability to respond effectively to changing global dynamics. Furthermore, the oil dependency on Russia also creates intricate webs of political and economic ___(4)___. Fill in the blank (4).
+     (a) Disconnection
+     (b) Isolation
+     (c) Separation
+   * (d) Interplay
+     (e) Unrelatedness
+
+Q103  []
+Four statements have been mentioned below. One or more statements may contain an error. It may contain a grammatical and/or a contextual error. Identify the CORRECT statement. In case, all the statements are incorrect, then, mark option E, â€˜None of the aboveâ€™ as the answer.
+     (a) â€œThe Chimney Sweeperâ€ is a poignant poem written by William Blake during the Romantic era, which delves into the harsh realities of child labour and societal indifference.
+     (b) One of the prominent themes in â€œThe Chimney Sweeperâ€ is the exploitation and suffering endured by young chimney sweepers, who were often impoverished children forced into hazardous labour.
+     (c) From a social commentary perspective, Blake critiques the oppressive societal structures and the dehumanization of individuals within industrialized societies
+     (d) The poem serves as a call to action, urging readers to question and challenge the unjust systems that perpetuate such suffering.
+   * (e) None of the above
+
+Q104  []
+Five statements have been mentioned below. One or more statements may contain an error. It may contain a grammatical and/or a contextual error. Identify the CORRECT statement.
+     (a) Coleridge did employed rich and sensory imagery throughout the poem, creating a vivid and immersive experience for the reader. The descriptive language, with its cascading waterfalls, exotic gardens, and sacred rivers, evokes a sense of awe and wonder.
+     (b) The fragmented structure of â€œKubla Khanâ€ is notable. Coleridge famously will claimed that the poem was a result of an opium-induced dream, and that he was unable to complete it due to an interruption.
+     (c) Coleridge will being portrayed the Khanâ€™s pleasure-dome as a symbol of an idealized, utopian world, where nature and human creativity coexist harmoniously. The poem explores the boundaries between reality and the imaginative realm, blurring the lines between the conscious and unconscious mind.
+   * (d) â€œKubla Khanâ€ is a complex and evocative poem that delves into the themes of imagination, nature, creativity, and the boundaries of human experience. Through its mesmerizing imagery, dreamlike structure, and exploration of the power of the mind, Coleridge invites readers to embark on a journey through the realms of imagination, challenging conventional boundaries and opening up new vistas of thought and inspiration.
+     (e) â€œKubla Khanâ€ is an transformative power of imagination and its ability to transport the reader to fantastical realms.
+
+Q105  []
+Which of the following sentences from the options given below is not coherent with the central idea of the other sentences? [Option a: The rewriting of history is a phenomenon that occurs when th...]
+     (a) The rewriting of history is a phenomenon that occurs when the narratives, interpretations, and accounts of past events are revised or altered to align with particular ideologies, political agendas, or societal perspectives.
+     (b) This process involves reevaluating and reinterpreting historical events, figures, and narratives through new lenses, often aiming to highlight previously marginalized voices or challenge dominant narratives.
+     (c) The act of rewriting history can be a contentious and complex endeavor. It raises questions about the subjective nature of historical interpretation and the power dynamics that influence the shaping of historical narratives.
+     (d) Those who engage in rewriting history often seek to challenge existing power structures, rectify historical injustices, or provide a more inclusive representation of diverse experiences. However, it also raises concerns about the potential manipulation of historical facts and the erosion of objective truth.
+   * (e) The Mughal Period witnessed its highest peak during the reign of Akbar â€“ The Great. As far as the most intolerant king is concerned in the history of Mughal Empire, Aurangzeb tops the charts.
+
+Q106  []
+Which of the following sentences from the options given below is not coherent with the central idea of the other sentences? [Option a: Culture repatriation, also known as cultural restitution or...]
+     (a) Culture repatriation, also known as cultural restitution or cultural heritage repatriation, refers to the return of artifacts, artworks, and cultural objects to their countries of origin. It is a complex and often contentious process that involves the reclaiming of cultural treasures that were acquired or removed during colonialism, imperialism, or illicit trade.
+   * (b) The movement of highly-skilled people is called the brain drain. It refers to the migration of highly skilled and talented individuals from their home countries to seek better opportunities abroad. This phenomenon has significant implications for both the source and destination countries.
+     (c) Culture repatriation is driven by the recognition of the cultural and symbolic significance of these objects to their original communities and nations. Many countries and indigenous communities have advocated for the repatriation of cultural artifacts as a means to restore their cultural identity, reconnect with their heritage, and rectify historical injustices.
+     (d) The repatriation process typically involves legal, ethical, and diplomatic considerations. It requires extensive research, documentation, and negotiations between the parties involved, including the governments, museums, collectors, and indigenous communities.
+     (e) Advocates argue that culture repatriation promotes cultural diversity, fosters healing and reconciliation, and supports the self-determination of communities in determining their cultural heritage.
+
+Q107  []
+In the question given below, a sentence has been divided into different segments. Some of these segments contain grammatical errors. Identify the part which contains the errors. Ignore the errors of punctuation, if any. The persisting issue of the gender pay gap, characterizing by the disparity in earnings between men and women in the workforce, (1) / is a complex and multifaceted phenomenon that encompasses a multitude of interconnected factors, including societal norms (2) /, occupational segregation, discrimination, limited access to career advancement opportunities, and the undervaluation (3)/ of traditionally female-dominated industries, all of which contribute to the perpetuation of an unjust (4)/ and inequitable system that undermine gender equality and hinders the realization of true economic and social progress (5).
+   * (a) 1 and 5
+     (b) 2 and 3
+     (c) 3 and 4
+     (d) 2 and 5
+     (e) 1 and 3
+
+Q108  []
+In the question given below, a sentence has been divided into different segments. Some of these segments contain grammatical errors. Identify the part which contains the errors. Ignore the errors of punctuation, if any. Rural development, a multifaceted and intricate process, entails the comprehensive and sustainable improvement of social, economic, and environmental conditions in rural areas, encompassing strategies and interventions (1) / that addressing the unique challenges and opportunities specific to rural contexts, such as agricultural productivity, access to basic services, infrastructure development, employment generation, poverty alleviation, (2) /land and natural resource management, social inclusion, and the empowerment of marginalized communities, all of which necessitating integrated and participatory approaches that engage local stakeholders, leverage local knowledge and resources, foster collaboration between government, (3) / civil society, and the private sector, and prioritize the principles of sustainability, equity, and resilience, with the ultimate goal of enhancing the quality of life, promoting balanced regional development, (4)/ and realizing the full potential of rural areas as vibrant and self- sustaining centers of economic growth, social well-being, and cultural heritage preservation (5).
+     (a) 1 and 2
+     (b) 2 and 4
+   * (c) 2 and 3
+     (d) 4 and 5
+     (e) 1 and 5
+
+Q109  []
+In the question given below, a sentence has been divided into different segments. Some of these segments contain grammatical errors. Identify the part which contains the errors. Ignore the errors of punctuation, if any. Artificial intelligence (AI), a rapidly evolving and complex field at the intersection of computer science, mathematics, and cognitive science, encompasses a diverse range of technologies, algorithms, and methodologies that aim to mimic or simulate human intelligence, (1) / enabling machines to perform tasks traditionally requiring human cognitive capabilities, such as learning, problem-solving, pattern recognition, and decision- making, through the utilizing of advanced machine learning models, neural networks, natural language processing, and data analytics (2) /, with profound implications across numerous domains and sectors, including healthcare, finance, transportation, manufacturing, and entertainment, as it holds the potential to revolutionize (3) / industries, enhance efficiency, accelerate innovation, and being address complex societal challenges, while also posing ethical, privacy, and policy considerations regarding data governance, algorithmic bias, human-machine interactions (4)/, and the future of work, necessitating robust regulations, responsible development, interdisciplinary collaboration, and ongoing dialogue to ensure that AI is deployed for the greater good, amplifying human capabilities, promoting inclusivity, and upholding human values and ethical standards (5).
+   * (a) 2 and 4
+     (b) 1 and 2
+     (c) 1 and 3
+     (d) 2 and 5
+     (e) 4 and 5
+
+Q110  []
+In the question given below, a sentence has been divided into different segments. Some of these segments contain grammatical errors. Identify the part which contains the errors. Ignore the errors of punctuation, if any. Climate change, drived by the accumulation of greenhouse gases in the atmosphere due to human activities, is an intricate and multifaceted global issue that has led to a wide array of consequences, (1)/ including rising global temperatures, altered weather patterns, increased frequency and intensity of extreme events, disruptions (2) / to ecosystems and biodiversity, shifting agricultural landscapes, water scarcity, and threats to human health and livelihoods, necessitating a comprehensive and coordinated response (3) / has encompassing mitigation efforts to reduce emissions, adaptation strategies to address the impacts, international cooperation, sustainable development practices, and the engagement (4) / of diverse stakeholders across sectors and regions to ensure a sustainable and resilient future for generations to come (5).
+     (a) 2 and 3
+   * (b) 1 and 4
+     (c) 1 and 2
+     (d) 3 and 4
+     (e) 2 and 4
+
+Q111  []
+Consider the below information about 200 laptops being sold by five different stores amongst A, B, C, D and E in the month of April 2022. Average number of laptops sold by E, B, C and D is _____ times of average of number of laptops sold by A, D, E and C together.
+     (a) 5/6
+     (b) 4/5
+   * (c) 7/8
+     (d) 8/9
+     (e) canâ€™t be determined
+
+Q112  []
+Consider the below information about 200 laptops being sold by five different stores amongst A, B, C, D and E in the month of April 2022. If total laptops sold by K is 150% of that of E and out of the total laptops sold by K, 33.33% are gaming laptops and rest are non-gaming laptops. Find the number of non-gaming laptops sold by K.
+     (a) 39
+   * (b) 26
+     (c) 21
+     (d) 13
+     (e) 30
+
+Q113  []
+Consider the below information about 200 laptops being sold by five different stores amongst A, B, C, D and E in the month of April 2022. Find the central angle (in degrees) for store A.
+     (a) 120
+     (b) 144
+     (c) 72
+   * (d) 108
+     (e) 54
+
+Q114  []
+Consider the below information about 200 laptops being sold by five different stores amongst A, B, C, D and E in the month of April 2022. Assume the total number of laptops sold by these 5 stores in May 2022 is 400. The percentage share of B and E is interchanged while for the rest it is the same as given. Find the difference between the number of laptops sold by store B and C in May 2022.
+     (a) 32
+     (b) 28
+     (c) 8
+   * (d) 36
+     (e) 40
+
+Q115  []
+Consider the below information about 200 laptops being sold by five different stores amongst A, B, C, D and E in the month of April 2022. In the next month, the number of laptops sold by store C increased by 25% and the number of laptops sold by store D reduced by one-fifth. What is the average of total number of laptops sold by all the five stores together in the next month?
+     (a) 39
+   * (b) 41
+     (c) 42
+     (d) 40
+     (e) 44
+
+Q116  []
+Consider the below series: 12, 21, 46, 95, 176, X, Y What is the sum of X and Y?
+     (a) 737
+     (b) 805
+     (c) 798
+     (d) 712
+   * (e) 763
+
+Q117  []
+Below are given two series which follow certain pattern. There are two missing values X and Y. Series I: 158, 78, 38, 18, 8, X Series II: 9, Y, 46, 84, 135, 199 Which of the following statements is/are true? 1) X = 7Y 2) 3 < X < Y < 21 3) 4(Y + 3.5) = 11(X)2 â€“ 1
+     (a) Both 1 and 2
+     (b) Both 1 and 3
+   * (c) Only 3
+     (d) All 1, 2 and 3
+     (e) None
+
+Q118  []
+Read the given information and answer the below questions. Consider the below two quadratic equations: I. 4x2 â€“ 16x + C = 0 II. 2y2 â€“ 3y + 1 = 0 One of the roots of equation I is 1.5 Find the sum of the largest roots of equation I and II.
+   * (a) 3.5
+     (b) 4.5
+     (c) 3
+     (d) 4
+     (e) 5.5
+
+Q119  []
+Read the given information and answer the below questions. Consider the below two quadratic equations: I. 4x2 â€“ 16x + C = 0 II. 2y2 â€“ 3y + 1 = 0 One of the roots of equation I is 1.5 Find the sum of the digits of C.
+     (a) 5
+     (b) 4
+     (c) 8
+   * (d) 6
+     (e) 7
+
+Q120  []
+Read the given information and answer the below questions. Certain students comprising of boys and girls are studying in an institute which has three sections A, B and C. The ratio of boys and girls is 3 : 5. 50% students are in section A. The number of girls in section B is equal to the number of boys in section C. The number of boys in section A is equal to the number of students in section B. 30% of the girls are in section C. Let P = number of girls in section B and let Q = number of boys in section A. Which of the following statements are correct? I) P is approximately 67% of Q II) 33 1/3% of total number of girls = 20% of total boys = P III) 3P = 2Q
+     (a) Only II and III
+     (b) Only I
+     (c) All I, II and III
+     (d) Only III
+   * (e) Only I and III
+
+Q121  []
+Read the given information and answer the below questions. Certain students comprising of boys and girls are studying in an institute which has three sections A, B and C. The ratio of boys and girls is 3 : 5. 50% students are in section A. The number of girls in section B is equal to the number of boys in section C. The number of boys in section A is equal to the number of students in section B. 30% of the girls are in section C. What percent boys are in section B?
+     (a) 33.33%
+   * (b) 16.67%
+     (c) 25%
+     (d) 15%
+     (e) 20%
+
+Q122  []
+Ansh borrowed 80 books from library A and 120 from library B. Some books are of English language while some are of regional languages. X% of total books were in English language. Number of books in regional language are equal to 1.25 times the books in library B. What is the value of X?
+     (a) 50
+     (b) 33.33
+   * (c) 25
+     (d) 20
+     (e) 40
+
+Q123  []
+Consider the below given two equations. You are given two quantities below the equations namely QI and QII. You are required to calculate both the quantities and then compare them. Y: ax2 â€“ bx + 1 = 0; where 4 < a < b < 8 and â€˜aâ€™ and â€˜bâ€™ are distinct whole numbers Z: d/e + c/f â€“ 1 = 3; where 1 < e, c, f < d < 7 and â€˜dâ€™, â€˜eâ€™, â€˜câ€™ and â€˜fâ€™ are all distinct whole numbers Quantity I: Value of smallest root of Y Quantity II: Value of reciprocal of smallest number among d, c, e and f
+     (a) QI > QII
+   * (b) QI < QII
+     (c) QI â‰¤ QII
+     (d) QI â‰¥ QII
+     (e) QI = QII or no relation can be established
+
+Q124  []
+Below are given two expressions and then two quantities (QI and QII) below it. Compare the two quantities and mark your answer accordingly. Expression 1: 1/a + 1/b + 1 Expression 2: a3 â€“ b2 â€“ 4 3 < a < b < 10 And a and b are integers Quantity I: Maximum value of expression 1 + Minimum value of expression 2 Quantity II: (- 9)
+     (a) QI > QII
+   * (b) QI < QII
+     (c) QI â‰¤ QII
+     (d) QI â‰¥ QII
+     (e) QI = QII or no relation can be established
+
+Q125  []
+Anshu invested Rs. P in scheme X for 3 years at Compound Interest @ 20% per annum and Ronit invested 36 2/5% of P for T years in scheme Y at Simple Interest @ 10% per annum. Interest earned is equal in both the schemes. Which of the following statement(s) is/are correct? I. P is greater than 3000. II. T is greater than 19. III. P is certainly a multiple of 250. IV. T is less than 25.
+     (a) I, II and IV only
+     (b) II, III and IV only
+     (c) II only
+   * (d) II and IV only
+     (e) All I, II, III and IV
+
+Q126  []
+Consider the below statements and then answer the question accordingly: I. X is a two digit number in which the tenth digit is â€˜Bâ€™ and the unit digit is â€˜Aâ€™; where A is greater than 1 and A < B. II. Unit digits of A2, A3, A4 are same, where A is unit digit of given number. III. Multiplication of both â€˜Aâ€™ and â€˜Bâ€™ is a multiple of 7. If Y is the number obtained on interchanging the digits of X, then, Y is closest to,
+     (a) 69
+   * (b) 58
+     (c) 76
+     (d) 64
+     (e) 74
+
+Q127  []
+P litres of mixture contains milk and water, in which water is 25%. Which of the following statements is/are true? 1) If P/4 Iitres of water is added to the mixture, then water becomes 40% of the total mixture. 2) If 9P/44 Iitres of milk is removed from the mixture and replaced with same quantity of water, then the ratio of milk and water becomes 6:5. 3) 20% of the mixture is removed and replaced with water. This process is repeated one more time. The ratio of milk and water now is 24:25.
+     (a) Only 1
+   * (b) Only 1 and 2
+     (c) Only 2 and 3
+     (d) Only 1 and 3
+     (e) None of these
+
+Q128  []
+A circle of radius â€œrâ€ metre is inscribed in a rectangle of length Y metre such that the circle touches both the sides of the rectangle. The cost of fencing the circle and rectangle is Rs 4620 and Rs 8820 respectively. The cost of fencing per metre is the same for both circle and rectangle. Find the perimeter of a square inscribed inside the circle.
+     (a) 2âˆš2Y metres
+     (b) âˆš2Y/3 metres
+     (c) 3Y/âˆš2 metres
+   * (d) âˆš2Y metres
+     (e) 2Y metres
+
+Q129  []
+In which of the following statements, profit percentage are equal? I. An article with cost price of Rs 2200 and marked price of Rs 3162.50 which is offered at a discount of 20%. II. An article is sold for Rs 8400 whose marked price is Rs 10800 which is 150% of the cost price of the article. III. An article is sold at a discount of Rs 1650 which is equal to 20%. The profit earned is Rs 1100. IV. An article whose cost price is Rs 4200 is sold at a discount of 25% on the list price. The discount offered in Rs 1610.
+     (a) II and III only
+     (b) I and II only
+     (c) II and IV only
+     (d) III and IV only
+   * (e) I and IV only
+
+Q130  []
+Consider the below data about 5 watches as follows: Watches Loss Discount % Marked Price A ---- 23 1800 B 140 15 ---- C 228 22 ---- D 142 11 2200 E ---- ---- 1200 Average loss of B, C, D and E is 183.25 If the cost price of watch A is 80% of the cost price of watch D, then what is the loss incurred on selling watch A?
+   * (a) Rs 294
+     (b) Rs 223
+     (c) Rs 284
+     (d) Rs 420
+     (e) Rs
+
+Q131  []
+Consider the below data about 5 watches as follows: Watches Loss Discount % Marked Price A ---- 23 1800 B 140 15 ---- C 228 22 ---- D 142 11 2200 E ---- ---- 1200 Average loss of B, C, D and E is 183.25 Considering the additional information given in the previous question, what is the average loss incurred on all the five watches?
+     (a) Rs 204.4
+     (b) Rs 207.4
+     (c) Rs 203.4
+   * (d) Rs 205.4
+     (e) Rs 206.4
+
+Q132  []
+Consider the below data about 5 watches as follows: Watches Loss Discount % Marked Price A ---- 23 1800 B 140 15 ---- C 228 22 ---- D 142 11 2200 E ---- ---- 1200 Average loss of B, C, D and E is 183.25 If the loss percentage incurred on watch B is 16%, then the marked price of watch B is approximately how much percent of the marked price of watch E?
+     (a) 75%
+     (b) 64%
+   * (c) 72%
+     (d) 61%
+     (e) 84%
+
+Q133  []
+Consider the below data about 5 watches as follows: Watches Loss Discount % Marked Price A ---- 23 1800 B 140 15 ---- C 228 22 ---- D 142 11 2200 E ---- ---- 1200 Average loss of B, C, D and E is 183.25 If the average of the marked price of watches B, C and D is Rs 2400 and the ratio of the marked price of watches B and C is 16 : 9, then find the sum of the cost price of watches B and C?
+     (a) Rs 4352
+     (b) Rs 4264
+     (c) Rs 5000
+     (d) Rs 4124
+   * (e) Rs 4492
+
+Q134  []
+Consider the below data about 5 watches as follows: Watches Loss Discount % Marked Price A ---- 23 1800 B 140 15 ---- C 228 22 ---- D 142 11 2200 E ---- ---- 1200 Average loss of B, C, D and E is 183.25 If the ratio of cost price and marked price for watch B is 6 : 7, then find the selling price of watch B.
+     (a) Rs 16380
+   * (b) Rs 16660
+     (c) Rs 19600
+     (d) Rs 16800
+     (e) Rs 17240
+
+Q135  []
+Read the given information and answer the below questions. A game is being played consisting of three rounds. Only 4 balls are being played in each round. In round I, on each ball either 2 or 4 points are being scored In round II, on each ball either 3 or 6 points are being scored In round III, on each ball either 1 or 5 points are being scored â€¢ Difference between points scored on 1st ball in round I and II is 4. â€¢ Average points scored on 1st, 2nd and 3rd ball in round I is 3 1/3. â€¢ Points scored on 2nd ball in round II is less than points scored on 2nd ball in rounds I and III individually â€¢ Points scored on 3rd ball in rounds II and III together is 11 â€¢ Points scored on 1st and 4th ball in round III is less than that scored on 2nd and 3rd ball â€¢ Runs scored on 4th ball in rounds I, II and III together is 8 â€¢ Runs scored on all balls on round 3 together is not more than 12. What is the difference between the runs scored on Ball 1 in round II and runs scored on ball 4 in round III?
+     (a) 6
+   * (b) 5
+     (c) 4
+     (d) 3
+     (e) 2
+
+Q136  []
+Read the given information and answer the below questions. A game is being played consisting of three rounds. Only 4 balls are being played in each round. In round I, on each ball either 2 or 4 points are being scored In round II, on each ball either 3 or 6 points are being scored In round III, on each ball either 1 or 5 points are being scored â€¢ Difference between points scored on 1st ball in round I and II is 4. â€¢ Average points scored on 1st, 2nd and 3rd ball in round I is 3 1/3. â€¢ Points scored on 2nd ball in round II is less than points scored on 2nd ball in rounds I and III individually â€¢ Points scored on 3rd ball in rounds II and III together is 11 â€¢ Points scored on 1st and 4th ball in round III is less than that scored on 2nd and 3rd ball â€¢ Runs scored on 4th ball in rounds I, II and III together is 8 â€¢ Runs scored on all balls on round 3 together is not more than 12. What is the average of runs scored on all balls in round II?
+     (a) 3
+     (b) 3.75
+     (c) 3.5
+   * (d) 4.5
+     (e) 5
+
+Q137  []
+Read the given information and answer the below questions. A game is being played consisting of three rounds. Only 4 balls are being played in each round. In round I, on each ball either 2 or 4 points are being scored In round II, on each ball either 3 or 6 points are being scored In round III, on each ball either 1 or 5 points are being scored â€¢ Difference between points scored on 1st ball in round I and II is 4. â€¢ Average points scored on 1st, 2nd and 3rd ball in round I is 3 1/3. â€¢ Points scored on 2nd ball in round II is less than points scored on 2nd ball in rounds I and III individually â€¢ Points scored on 3rd ball in rounds II and III together is 11 â€¢ Points scored on 1st and 4th ball in round III is less than that scored on 2nd and 3rd ball â€¢ Runs scored on 4th ball in rounds I, II and III together is 8 â€¢ Runs scored on all balls on round 3 together is not more than 12. On which ball were the highest runs scored taking all the rounds together?
+     (a) Ball 1
+     (b) Ball 2
+   * (c) Ball 3
+     (d) Ball 4
+     (e) There are two balls on which same highest number of runs were scored
+
+Q138  []
+Read the given information and answer the below questions. A game is being played consisting of three rounds. Only 4 balls are being played in each round. In round I, on each ball either 2 or 4 points are being scored In round II, on each ball either 3 or 6 points are being scored In round III, on each ball either 1 or 5 points are being scored â€¢ Difference between points scored on 1st ball in round I and II is 4. â€¢ Average points scored on 1st, 2nd and 3rd ball in round I is 3 1/3. â€¢ Points scored on 2nd ball in round II is less than points scored on 2nd ball in rounds I and III individually â€¢ Points scored on 3rd ball in rounds II and III together is 11 â€¢ Points scored on 1st and 4th ball in round III is less than that scored on 2nd and 3rd ball â€¢ Runs scored on 4th ball in rounds I, II and III together is 8 â€¢ Runs scored on all balls on round 3 together is not more than 12. Which of the following statements is correct?
+     (a) The maximum runs were scored on ball 3 of round III.
+     (b) The runs scored on ball 4 in round II is more than the runs scored on the same ball in round I.
+     (c) The total runs scored in round III is 8.
+   * (d) Average runs scored on ball 3 is 5.
+     (e) The sum of runs scored on ball 3 of round II and ball 2 of round III is 10.
+
+Q139  []
+Find the ratio of age of Rahul after 6 years and age of Tina before 2 years. Statement 1: The sum of present ages of Rahul and Tina is 88 years. Statement 2: Tina is 26 years and 16 years younger than Rahul and Anjali respectively. Statement 3: Ratio of present ages of Rahul and Anjali is 7:6. The answer can be calculated by using I. 1 and 2 together II. 2 and 3 together III. 1 and 3 together
+     (a) Only I
+   * (b) Both I and II
+     (c) Both I and III
+     (d) Both II and III
+     (e) None of these
+
+Q140  []
+A car with speed of x km/hr can cover a distance of 2d km in 8 hrs. Speed of a boat in still water is x km/hr and speed of the current is y km/hr. The boat can travel d km upstream and return to the initial point in 8(1/3) hrs. Time taken by the boat to cover 72 km downstream is 2 hrs more than to cover 24 km upstream. Find the time taken by the boat to cover 108km in still water. i. (2y(x+y))/x ii. {3y(x-y)} / x iii. {2x(x+y)} / y
+     (a) Only i and iii
+     (b) Only ii
+   * (c) Only i and ii
+     (d) All i, ii and iii
+     (e) None of the above
+
+Q141  []
+In the word â€˜GLASTONBURYâ€™, change every vowel after k to the third consonant after it...and every consonant to previous letter and then after changing, delete the letters that appear more than once and vowels if left. Which of the following letter will come in the middle of the newly formed word?
+     (a) X
+     (b) R
+     (c) K
+   * (d) S
+     (e) M
+
+Q142  []
+Consider the following words which have one blank each. You are required to fill the blanks from one of the given options so as to form meaningful English word. K __ F A R B __ L __ L G O E T L __
+     (a) S A T O
+   * (b) L U C W
+     (c) G O E F
+     (d) N E W B
+     (e) E I J M
+
+Q143  []
+Read the given information and answer the below questions. Input: erase 47 92 wound limbo 36 prove 85 28 hasty 63 cards Step 1: woune erase 47 92 limbo 36 prove 85 hasty 63 cards 29 Step 2: provf woune erase 47 92 limbo 85 hasty 63 cards 29 37 Step 3: limbp provf woune erase 92 85 hasty 63 cards 29 37 48 Step 4: hastz limbp provf woune erase 92 85 cards 29 37 48 64 Step 5: erasf hastz limbp provf woune 92 cards 29 37 48 64 86 Step 6: cardt erasf hastz limbp provf woune 29 37 48 64 86 93 Step 6 is the last step. Find the final output and various steps for the below given input: Input: bride 39 master 77 61 nocturnal yatch 25 feel 84 18 train Which of the following is the third element from the right end in step 3 for the above input?
+     (a) 26
+     (b) yatci
+   * (c) 19
+     (d) feel
+     (e) 84
+
+Q144  []
+Read the given information and answer the below questions. Input: erase 47 92 wound limbo 36 prove 85 28 hasty 63 cards Step 1: woune erase 47 92 limbo 36 prove 85 hasty 63 cards 29 Step 2: provf woune erase 47 92 limbo 85 hasty 63 cards 29 37 Step 3: limbp provf woune erase 92 85 hasty 63 cards 29 37 48 Step 4: hastz limbp provf woune erase 92 85 cards 29 37 48 64 Step 5: erasf hastz limbp provf woune 92 cards 29 37 48 64 86 Step 6: cardt erasf hastz limbp provf woune 29 37 48 64 86 93 Step 6 is the last step. Find the final output and various steps for the below given input: Input: bride 39 master 77 61 nocturnal yatch 25 feel 84 18 train The elements â€˜bride 77 feelâ€™ come together in the same order in which of the below steps?
+     (a) Step 2
+   * (b) Step 4
+     (c) Step 5
+     (d) Step 6
+     (e) Step 3
+
+Q145  []
+Read the given information and answer the below questions. Input: erase 47 92 wound limbo 36 prove 85 28 hasty 63 cards Step 1: woune erase 47 92 limbo 36 prove 85 hasty 63 cards 29 Step 2: provf woune erase 47 92 limbo 85 hasty 63 cards 29 37 Step 3: limbp provf woune erase 92 85 hasty 63 cards 29 37 48 Step 4: hastz limbp provf woune erase 92 85 cards 29 37 48 64 Step 5: erasf hastz limbp provf woune 92 cards 29 37 48 64 86 Step 6: cardt erasf hastz limbp provf woune 29 37 48 64 86 93 Step 6 is the last step. Find the final output and various steps for the below given input: Input: bride 39 master 77 61 nocturnal yatch 25 feel 84 18 train Which of the following elements is fourth to the left of element which is seventh from the left end of Step 5?
+     (a) mastes
+     (b) traio
+     (c) 62
+     (d) 40
+   * (e) nocturnam
+
+Q146  []
+Read the given information and answer the below questions. Input: erase 47 92 wound limbo 36 prove 85 28 hasty 63 cards Step 1: woune erase 47 92 limbo 36 prove 85 hasty 63 cards 29 Step 2: provf woune erase 47 92 limbo 85 hasty 63 cards 29 37 Step 3: limbp provf woune erase 92 85 hasty 63 cards 29 37 48 Step 4: hastz limbp provf woune erase 92 85 cards 29 37 48 64 Step 5: erasf hastz limbp provf woune 92 cards 29 37 48 64 86 Step 6: cardt erasf hastz limbp provf woune 29 37 48 64 86 93 Step 6 is the last step. Find the final output and various steps for the below given input: Input: bride 39 master 77 61 nocturnal yatch 25 feel 84 18 train Which of the following elements are placed in the middle in step number 6?
+     (a) bride 84
+     (b) 77 feel
+     (c) traio 26
+   * (d) yatci 19
+     (e) bridf 85
+
+Q147  []
+Read the given information and answer the below questions. Input: erase 47 92 wound limbo 36 prove 85 28 hasty 63 cards Step 1: woune erase 47 92 limbo 36 prove 85 hasty 63 cards 29 Step 2: provf woune erase 47 92 limbo 85 hasty 63 cards 29 37 Step 3: limbp provf woune erase 92 85 hasty 63 cards 29 37 48 Step 4: hastz limbp provf woune erase 92 85 cards 29 37 48 64 Step 5: erasf hastz limbp provf woune 92 cards 29 37 48 64 86 Step 6: cardt erasf hastz limbp provf woune 29 37 48 64 86 93 Step 6 is the last step. Find the final output and various steps for the below given input: Input: bride 39 master 77 61 nocturnal yatch 25 feel 84 18 train What is the sum of the fourth element from the right end in step 3 and eighth element from the left end in step 5?
+   * (a) 103
+     (b) 96
+     (c) 168
+     (d) 38
+     (e) 161
+
+Q148  []
+Read the given information and answer the below questions. Below question consist of some conclusions followed by some statements in the option. Study the following information carefully and decide which of the following statement is true for the given conclusion. Conclusion: I. Some Briefcase are not Umbrella. II. Some Umbrella not being Charger is a possibility. III. Some Truck can never be Charger.
+     (a) Some Umbrella are Truck. All Truck are Briefcase. No Briefcase is Umbrella. Some Umbrella are Charger. All Glass are Charger.
+     (b) All Briefcase is Umbrella. Some Umbrella are Charger. Some Charger are Truck. All Truck are Glass. No Glass is Water.
+     (c) Some Truck are Water. All Water are Umbrella. No Umbrella is Charger. Some Charger are Briefcase. All Briefcase are Glass.
+   * (d) Only Water are Truck. Some Glass are Briefcase. No Umbrella is Glass. Some Water are Umbrella. All Briefcase are Charger.
+     (e) Some Briefcase are Umbrella. All Umbrella are Charger. No Charger is Truck. All Truck are Glass. Some Glass are not Water.
+
+Q149  []
+Read the given information and answer the below questions. Below question consist of some conclusions followed by some statements in the option. Study the following information carefully and decide which of the following statement is true for the given conclusion. Conclusion: I. Some football can never be Chess. II. Some Volleyball not being Boxing is a possibility. III. Some Boxing can be Cricket.
+   * (a) All Cricket are Football. No Football is Volleyball. Some Boxing are Chess. No Chess is Cricket.
+     (b) Some Cricket are Football. All Football are Volleyball. Some Chess are Boxing. No Boxing is Volleyball. No Chess is Cricket.
+     (c) Only Football are Cricket. Some Football are Chess. No chess is Volleyball. All Volleyball are Boxing.
+     (d) Some Cricket are Football. All Football are Chess. Some Chess are Boxing. Some Boxing are Volleyball.
+     (e) No Cricket is Football. Some Football are Volleyball. All Boxing are Chess. No Chess is Cricket.
+
+Q150  []
+Read the given information and answer the below questions. Below question consist of some conclusions followed by some statements in the option. Study the following information carefully and decide which of the following statement is true for the given conclusion. Conclusion: I. Some N are R. II. All O which are N is also S is a possibility. III. Some Z are R.
+     (a) Some M are R. Only a few R are O. No O is N. Some N is S. All S are Z.
+     (b) Some M are O. Only a few O are R. No R is S. Some S is N. All N are Z.
+     (c) Some M are O. Only a few O are R. No N are R. Some N are S. All S are Z.
+   * (d) Some O are R. Some M are O. Some R are N. Some N are S. All N are Z.
+     (e) All Follows.
+
+Q151  []
+Read the given information and answer the below questions. Below question consist of some conclusions followed by some statements in the option. Study the following information carefully and decide which of the following statement is true for the given conclusion. Conclusion: I. Some Red are not Carrot. II. Some Chili being not Garlic is not a possibility. III. Some Green are not Tomato.
+     (a) Some Garlic are not Chili. All Garlic are Red. No Red is Carrot. Some Carrot are Green. All Green are Tomato.
+     (b) All Red are Tomato. Some Tomato are Green. No Green is Chili. All Chili are Carrot. Some Garlic are Carrot.
+   * (c) All Red are Chili. All Tomato are Garlic. Some Garlic are Carrot. No Chili is Carrot. Some Green are Chili. No Green is Garlic.
+     (d) All Carrot are Chili. Some Chili are Tomato. No tomato is Green. Some Green are Garlic. No Garlic is Red.
+     (e) None of these
+
+Q152  []
+Which of the following symbols should be placed in the blank spaces in order to complete the given expression in such a manner that makes the expressions â€˜J ^ Fâ€™ and â€˜K ? Gâ€™ true? K ? J % H ___ G ^ F ! E
+     (a) ^
+     (b) +
+     (c) %
+     (d) ?
+   * (e) Either
+
+Q153  []
+Each of the questions below consists of a question and two/three statements given below it. You have to decide whether the data provided in the statements are sufficient to answer the question: Six boxes namely â€“ P, Q, R, S, T and U are kept one above other. Each box contains different article viz. Watch, Card, Radio, Book, Mobile and Laptop. All the information given are not necessary in same order. Box R is kept second from bottom at a gap of two boxes from one contains Card. Box U, which is neither kept at bottom nor adjacent to one that contains Card, is kept at a gap of one box from one that contains Watch. Box P contains Book is kept at top. Which box is kept just below one that contains Radio? I) Only two boxes are kept between box Q and T, Q which is kept adjacent to box S. Box that contains Radio is kept below one that contains Laptop. Box Q contains Mobile. II) Box Q, which is neither kept adjacent to one contains Book nor at bottom, is kept just above one that contains Laptop. Only one box is kept between one that contains Radio and Mobile.
+   * (a) If the data in Statement I alone is sufficient to answer the question, while the data in Statement II alone is not sufficient to answer the question.
+     (b) If the data in Statement II alone is sufficient to answer the question, while the data in Statement I alone is not sufficient to answer the question.
+     (c) If the data either in Statement I alone or in Statement II alone is sufficient to answer the question.
+     (d) If the data in both the Statements I and II together are not sufficient to answer the question.
+     (e) If the data in both the Statements I and II together are necessary to answer the question.
+
+Q154  []
+Each of the questions below consists of a question and two/three statements given below it. You have to decide whether the data provided in the statements are sufficient to answer the question: Seven friends namely â€“ Amar, Rekha, Pinku, Hetal, Romy, Zoya and Monty are sitting in a row facing north but not necessarily in the same order. How many persons sit left of Monty? I) Amar sits second to the left of Pinku. Only two persons sit between Romy and Pinku. Rekha sits immediate left of Amar. Hetal is not an immediate neighbour of Pinku. II) Zoya sits third to the left of Hetal, who sits immediate left of Romy. Neither Zoya nor Hetal sits at end of the row. Only two persons sit between Rekha and Pinku, who is an immediate neighbour of Zoya. Rekha sits at one end of the row.
+     (a) If the data in Statement I alone is sufficient to answer the question, while the data in Statement II alone is not sufficient to answer the question.
+     (b) If the data in Statement II alone is sufficient to answer the question, while the data in Statement I alone is not sufficient to answer the question.
+     (c) If the data either in Statement I alone or in Statement II alone is sufficient to answer the question.
+     (d) If the data in both the Statements I and II together are not sufficient to answer the question.
+   * (e) If the data in both the Statements I and II together are necessary to answer the question.
+
+Q155  []
+Each of the questions below consists of a question and two/three statements given below it. You have to decide whether the data provided in the statements are sufficient to answer the question: Six persons namely â€“ P, Q, R, S, T and U lives in six floored building marked 1 to 6 in such a way that lowermost floor is marked 1 and topmost floor is marked 6. Each person likes different fruits viz. Orange, Guava, Banana, Mango, Apple and Grapes. All the information are not necessary in same order. P lives on floor marked 4 at gap of two floor from one who likes Guava. U lives on even numbered floor at a gap of two floor from one who likes Grapes. Neither P nor U likes Banana. Q lives on adjacent floor of one who likes Guava. One who lives Banana lives on any floor above Q. How many person lives below one who likes Apple? I) Only two person lives between one who likes Mango and R. Neither U nor Q likes Mango. One who likes Apple and Guava doesnâ€™t lives on adjacent floors. Only two person lives between one who likes Orange and S. II) One who likes Orange lives on even numbered floor but not adjacent floor of one who likes Banana. T lives on adjacent floor of one who likes Orange. S and one who likes Mango lives on adjacent floor. Only two person lives between one who likes Apple and T.
+   * (a) If the data in Statement I alone is sufficient to answer the question, while the data in Statement II alone is not sufficient to answer the question.
+     (b) If the data in Statement II alone is sufficient to answer the question, while the data in Statement I alone is not sufficient to answer the question.
+     (c) If the data either in Statement I alone or in Statement II alone is sufficient to answer the question.
+     (d) If the data in both the Statements I and II together are not sufficient to answer the question.
+     (e) If the data in both the Statements I and II together are necessary to answer the question.
+
+Q156  []
+Each of the questions below consists of a question and two/three statements given below it. You have to decide whether the data provided in the statements are sufficient to answer the question: What is the direction of point O with respect to point I? I) Point A is 5 m to the north of point P. Point D is 4 m to the south of point C. Point P is 6 m to the east of point C. II) Point B is 3 m to the east of point P. Point I is 6 m to the east of point F. Point B is 4 m to the north of point F. III) Point N is 2 m to the north of point M. Point A is 4 m to the west of point M. Point N is 6 m to the east of point O.
+   * (a) All I, II and III
+     (b) Both II and III
+     (c) Only II
+     (d) II and either I or III
+     (e) Both I and II
+
+Q157  []
+Each of the questions below consists of a question and two/three statements given below it. You have to decide whether the data provided in the statements are sufficient to answer the question: Six persons P, Q, R, S, T, U are sitting around a circular table. Some of them are facing the center while some are facing away from the center. How many persons are facing inside? I) P sits third to the right of Q, who is facing outside. Both R and U are immediate neighbour of each other. S is not an immediate neighbour of Q. II) U sits second to the left of Q, who is sitting third to the left of P. R sits second to the right of T.
+     (a) If statements I alone is sufficient to answer the question, but statement II alone is not sufficient to answer the question.
+     (b) If statement II alone is sufficient to answer the question, but statement I alone is not sufficient to answer the question.
+     (c) If statement either I or II is sufficient to answer the question.
+   * (d) If both the statements I and II taken together are not sufficient to answer the question.
+     (e) If both the statements I and II taken together are sufficient to answer the question.
+
+Q158  []
+Below is given a passage followed by certain assump- tions. You have to check which of the given assump- tions is implicit in the passage. Passage: A diversified brick and mortar company recently hired a web designer and created an interesting online clothing catalogue to take its Clothing business online. As a result, the company had a huge uptick in the volume of sales in the Clothing segment. The spurt was caused due to increased orders from digitally literate clients. Now, the company is planning to take another of its business segment, namely electronic goods, online. Which of the following assumptions hold?
+     (a) Other Electronic Goods companies doesnâ€™t have online presence.
+   * (b) Digitally literate clients will be interested in Electronic Goods.
+     (c) The same web designer can be used for designing Electronic goods catalogue too.
+     (d) Other companies do not have quality web designers.
+     (e) The company can wind up its brick and mortar business.
+
+Q159  []
+Statement: Excessive amounts of lead in drinking water, associated with certain types of industrial pollution, have been shown to cause lung cancer. Ajanta Island has an economy based completely on subsistence level agriculture. there are no industries in the island. The inhabitants of Ajanta island have in the last 50 years shown high incidence of lung cancer. Which of the following can be validly inferred from the above statement? Inferences: I) Lead in drinking water is absolutely safe. II) Lung cancer must have causes other than lead in drinking water. III) Lead in drinking water must have sources other than industrial pollution.
+     (a) II only
+     (b) III only
+     (c) II or III
+   * (d) II or III or both
+     (e) none of the above
+
+Q160  []
+Statement: Green marketing is concerned with choosing, developing, and promoting commodities that meet the quality, quantity, and price expectations of consumers without negatively impacting the environment. The demands, wants, and needs of human beings are limitless; however, the sources available to satisfy them are limited. A study found that most consumers of green products are very likely to be educated young people, aware of eco-friendly practices. To put it simply, it is the marketing of eco-friendly products and services. Which of the given options will be the best conclusion as per the paragraph given above?
+     (a) A productâ€™s features and benefits should be communicated to buyers.
+     (b) Bamboo products and products made of corn-starch or those without plastic tend to excite these individuals.
+     (c) Green products should be developed, priced and positioned carefully.
+   * (d) Marketers should use effective communication tools to inform buyers about the benefits of biodegradable products.
+     (e) A productâ€™s eco-friendliness depends on the entire production process that goes into it.
+
+Q161  []
+The ministry of sports has been advised by a committee to take the highest award in the field of sports back from two players who were allegedly involved in match fixing. Which of the following statements would weaken the argument put forward by the committee to the sports ministry?
+   * (a) A good conduct in the past and a lack of evidence against the players make the case against them very weak.
+     (b) The ministry of sports has never declined the recommendations made by the committee earlier.
+     (c) Taking the award back from the players would set a good example to other players for avoiding such actions in the future.
+     (d) There have been past cases where the award had to be taken back from the players owing to some misconduct later on.
+     (e) The committee is constituted of some of the most respected from the fields of sports and politics.
+
+Q162  []
+Statement: In the city, over 75% of the people are living in slums and substandard houses, which is reflection of the housing and Urban Development policy of the government. Substandard houses are often in severe disrepair. Substandard housing isnâ€™t just housing thatâ€™s unattractive or outdated, itâ€™s housing that poses a risk to the health, safety or physical well-being of occupants, neighbours, or visitors. Substandard housing increases risk of disease, crime, social isolation and poor mental health. Course of Action: 1) There should be a separate Department looking after housing and Urban Development. 2) The policies in regard to the urban housing should be reviewed. 3) The policies regarding housing should also be reviewed so that such problem could be avoided in rural areas.
+     (a) Only 1 follows
+   * (b) Only 2 follows
+     (c) Only 2 & 3 follow
+     (d) None follows
+     (e) All follow
+
+Q163  []
+Statement: For-profit colleges serve far fewer students than either public or private non-profit colleges. At the same time, relative to non-profit colleges, for-profit colleges draw a disproportionate share of federal and state financial aid, such as tuition grants and guaranteed loans, for their students. It must be, then, that for-profit colleges enrol a greater proportion of financially disadvantaged students than do non-profit colleges. The statement above depends on which of the following assumptions?
+     (a) Public non-profit colleges and private non-profit colleges enrol a similar proportion of financially disadvantaged students.
+   * (b) For-profit colleges do not engage in fraudulent practices in helping their students obtain unneeded federal and state financial aid.
+     (c) The number of students receiving federal and state financial aid at for-profit colleges is greater than the number of students receiving federal and state financial aid at non-profit colleges.
+     (d) For-profit colleges are of similar educational quality as non- profit colleges.
+     (e) The majority of students at for-profit colleges do not default on repayment of their loans after they complete college.
+
+Q164  []
+Statement: According to the officials, paucity orphaned with organization has led to the pathetic condition of this brilliant architectural structure. An organization is considered orphaned when the organization Owner and all Project Collection Administrators are inactive in Azure Active Directory (Azure AD) or have left the company. This scenario causes the organization to have no administrator and no way of transferring administrator rights to another user. Course of Action: 1) A new architectural structure for the building should be designed. 2) Grant should be given to improve the condition of the structure. 3) The reason for the poor condition of the structure should be found out.
+     (a) Only 1 follows
+   * (b) Only 2 follows
+     (c) Only 2 & 3 follow
+     (d) Only 3 follows
+     (e) All follow
+
+Q165  []
+Statement: The solidity of bridge piers built on pilings depends largely on how deep the pilings are driven. Prior to 1700, pilings were driven to refusal,â€ that is, to the point at which they refused to go any deeper. In a 1588 inquiry into the solidity of piers for Veniceâ€™s Rialto Bridge, it was determined that the bridgeâ€™s builder, Antonio Da Ponte, had met the contemporary standard for refusal: he had caused the pilings to be driven until additional penetration into the ground was no greater than two inches after twenty-four hammer blows. Which one of the following can properly be inferred from the passage?
+     (a) The Rialto Bridge was built on unsafe pilings.
+     (b) The standard of refusal was not sufficient to ensure the safety of a bridge.
+     (c) Da Ponteâ€™s standard of refusal was less strict than that of other bridge builders of his day.
+     (d) After 1588, no bridges were built on pilings that were driven to the point of refusal.
+   * (e) It is possible that the pilings of the Rialto Bridge could have been driven deeper even after the standard of refusal had been met.
+
+Q166  []
+Max is clearly an incompetent detective. This is because, he has solved a smaller percentage of the cases assigned to him in the last 3 years, i.e., only 1 out of 25, than any other detective on the police force. Which one of the following, if true, most seriously weakens the argument above?
+     (a) Max was previously a detective in a police department in another city, and in the 5 years he spent there, he solved only 1 out of 40 crime cases.
+     (b) Many of the officers in the police department in which Max serves were hired or promoted within the last 5 years.
+     (c) Before he became a detective, Max was a neighbourhood police officer and was highly respected by the residents of the neighbourhood he patrolled.
+     (d) Detectives on the police force on which Max serves are provided with extensive resources including the use of a large computer database, to help them solve crimes.
+   * (e) Because the police chief regards Max as the most capable detective, he assigns him only the most difficult cases, ones that others have failed to solve.
+
+Q167  []
+Study the following information carefully and answer the questions given below: Twelve people A, B, C, D, E, F, G, H, I, J, K, and L live on twelve different floors of the same building. The ground floor of the building is numbered 1, the floor immediately above the ground floor is numbered 2, and so on. The twelve people were born in the years 1965, 1967, 1972, 1976, 1987, 1989, 1990, 1997, 1998, 2000, 2003, and 2005 but not necessarily in the same order. Calculate their ages with reference to the year 2020. Their marks in a particular test are 80, 25, 75, 64, 84, 83, 55, 70, 90, 76, 59, and 48. There are exactly four people between A and K. The mark scored by I is equal to his present age and he lives immediately below J. H lives on a prime numbered floor and the mark obtained by him is 10 more than his age. Hâ€™s age is the product of his floor number and the floor number of F. F is the third youngest in the group and he doesnâ€™t live below H. The mark obtained by B is a perfect square and one person lives between B and I. If J had scored one mark more than his present mark, it would have been a perfect square. At least 4 people live between K and D and the age of D is equal to the mark scored by J. The number of people between B and L is one more than the number of people who live between A and K. L lives immediately below K. D lives on the ground floor of the apartment. Exactly two people live between K and I. Two people live between G and L. K and L were born in consecutive years. The difference between the year of birth and the marks for both K and L is 1914. E who scored 80 marks lives immediately above K. The age of J is an odd multiple of 11 and G was born immediately after J. The age of B is the product of the floor numbers of I and H. The person who has scored the maximum number of marks lives on the floor that is immediately above E and H was born immediately after E. The age of C is also a multiple of 11. Mark of A is three times the mark scored by H and D has scored one more than that of A. C has scored more than F. Who lives on the floor immediately above H?
+     (a) A
+     (b) K
+   * (c) C
+     (d) D
+     (e) E
+
+Q168  []
+Study the following information carefully and answer the questions given below: Twelve people A, B, C, D, E, F, G, H, I, J, K, and L live on twelve different floors of the same building. The ground floor of the building is numbered 1, the floor immediately above the ground floor is numbered 2, and so on. The twelve people were born in the years 1965, 1967, 1972, 1976, 1987, 1989, 1990, 1997, 1998, 2000, 2003, and 2005 but not necessarily in the same order. Calculate their ages with reference to the year 2020. Their marks in a particular test are 80, 25, 75, 64, 84, 83, 55, 70, 90, 76, 59, and 48. There are exactly four people between A and K. The mark scored by I is equal to his present age and he lives immediately below J. H lives on a prime numbered floor and the mark obtained by him is 10 more than his age. Hâ€™s age is the product of his floor number and the floor number of F. F is the third youngest in the group and he doesnâ€™t live below H. The mark obtained by B is a perfect square and one person lives between B and I. If J had scored one mark more than his present mark, it would have been a perfect square. At least 4 people live between K and D and the age of D is equal to the mark scored by J. The number of people between B and L is one more than the number of people who live between A and K. L lives immediately below K. D lives on the ground floor of the apartment. Exactly two people live between K and I. Two people live between G and L. K and L were born in consecutive years. The difference between the year of birth and the marks for both K and L is 1914. E who scored 80 marks lives immediately above K. The age of J is an odd multiple of 11 and G was born immediately after J. The age of B is the product of the floor numbers of I and H. The person who has scored the maximum number of marks lives on the floor that is immediately above E and H was born immediately after E. The age of C is also a multiple of 11. Mark of A is three times the mark scored by H and D has scored one more than that of A. C has scored more than F. How much has F scored in the test?
+   * (a) 59
+     (b) 70
+     (c) 80
+     (d) 90
+     (e) 25
+
+Q169  []
+Study the following information carefully and answer the questions given below: Twelve people A, B, C, D, E, F, G, H, I, J, K, and L live on twelve different floors of the same building. The ground floor of the building is numbered 1, the floor immediately above the ground floor is numbered 2, and so on. The twelve people were born in the years 1965, 1967, 1972, 1976, 1987, 1989, 1990, 1997, 1998, 2000, 2003, and 2005 but not necessarily in the same order. Calculate their ages with reference to the year 2020. Their marks in a particular test are 80, 25, 75, 64, 84, 83, 55, 70, 90, 76, 59, and 48. There are exactly four people between A and K. The mark scored by I is equal to his present age and he lives immediately below J. H lives on a prime numbered floor and the mark obtained by him is 10 more than his age. Hâ€™s age is the product of his floor number and the floor number of F. F is the third youngest in the group and he doesnâ€™t live below H. The mark obtained by B is a perfect square and one person lives between B and I. If J had scored one mark more than his present mark, it would have been a perfect square. At least 4 people live between K and D and the age of D is equal to the mark scored by J. The number of people between B and L is one more than the number of people who live between A and K. L lives immediately below K. D lives on the ground floor of the apartment. Exactly two people live between K and I. Two people live between G and L. K and L were born in consecutive years. The difference between the year of birth and the marks for both K and L is 1914. E who scored 80 marks lives immediately above K. The age of J is an odd multiple of 11 and G was born immediately after J. The age of B is the product of the floor numbers of I and H. The person who has scored the maximum number of marks lives on the floor that is immediately above E and H was born immediately after E. The age of C is also a multiple of 11. Mark of A is three times the mark scored by H and D has scored one more than that of A. C has scored more than F. Who is the eldest in the group?
+     (a) A
+     (b) B
+     (c) D
+   * (d) I
+     (e) J
+
+Q170  []
+Study the following information carefully and answer the questions given below: Twelve people A, B, C, D, E, F, G, H, I, J, K, and L live on twelve different floors of the same building. The ground floor of the building is numbered 1, the floor immediately above the ground floor is numbered 2, and so on. The twelve people were born in the years 1965, 1967, 1972, 1976, 1987, 1989, 1990, 1997, 1998, 2000, 2003, and 2005 but not necessarily in the same order. Calculate their ages with reference to the year 2020. Their marks in a particular test are 80, 25, 75, 64, 84, 83, 55, 70, 90, 76, 59, and 48. There are exactly four people between A and K. The mark scored by I is equal to his present age and he lives immediately below J. H lives on a prime numbered floor and the mark obtained by him is 10 more than his age. Hâ€™s age is the product of his floor number and the floor number of F. F is the third youngest in the group and he doesnâ€™t live below H. The mark obtained by B is a perfect square and one person lives between B and I. If J had scored one mark more than his present mark, it would have been a perfect square. At least 4 people live between K and D and the age of D is equal to the mark scored by J. The number of people between B and L is one more than the number of people who live between A and K. L lives immediately below K. D lives on the ground floor of the apartment. Exactly two people live between K and I. Two people live between G and L. K and L were born in consecutive years. The difference between the year of birth and the marks for both K and L is 1914. E who scored 80 marks lives immediately above K. The age of J is an odd multiple of 11 and G was born immediately after J. The age of B is the product of the floor numbers of I and H. The person who has scored the maximum number of marks lives on the floor that is immediately above E and H was born immediately after E. The age of C is also a multiple of 11. Mark of A is three times the mark scored by H and D has scored one more than that of A. C has scored more than F. What is the age of the person who has scored 84?
+     (a) 23
+   * (b) 22
+     (c) 20
+     (d) 15
+     (e) Cannot be determined
+
+Q171  []
+Study the following information carefully and answer the questions given below: Twelve people A, B, C, D, E, F, G, H, I, J, K, and L live on twelve different floors of the same building. The ground floor of the building is numbered 1, the floor immediately above the ground floor is numbered 2, and so on. The twelve people were born in the years 1965, 1967, 1972, 1976, 1987, 1989, 1990, 1997, 1998, 2000, 2003, and 2005 but not necessarily in the same order. Calculate their ages with reference to the year 2020. Their marks in a particular test are 80, 25, 75, 64, 84, 83, 55, 70, 90, 76, 59, and 48. There are exactly four people between A and K. The mark scored by I is equal to his present age and he lives immediately below J. H lives on a prime numbered floor and the mark obtained by him is 10 more than his age. Hâ€™s age is the product of his floor number and the floor number of F. F is the third youngest in the group and he doesnâ€™t live below H. The mark obtained by B is a perfect square and one person lives between B and I. If J had scored one mark more than his present mark, it would have been a perfect square. At least 4 people live between K and D and the age of D is equal to the mark scored by J. The number of people between B and L is one more than the number of people who live between A and K. L lives immediately below K. D lives on the ground floor of the apartment. Exactly two people live between K and I. Two people live between G and L. K and L were born in consecutive years. The difference between the year of birth and the marks for both K and L is 1914. E who scored 80 marks lives immediately above K. The age of J is an odd multiple of 11 and G was born immediately after J. The age of B is the product of the floor numbers of I and H. The person who has scored the maximum number of marks lives on the floor that is immediately above E and H was born immediately after E. The age of C is also a multiple of 11. Mark of A is three times the mark scored by H and D has scored one more than that of A. C has scored more than F. What is the difference between the marks of G and C?
+     (a) 5
+     (b) 10
+     (c) 15
+   * (d) 20
+     (e) 25
+
+Q172  []
+Study the following information carefully and answer the questions given below: Eight persons i.e. A, B, C, D, E, F, G and H are working in three different departments viz. Production, Management and Finance at different posts i.e. manager and general manager. In the finance department, only a manager post is available. They all have different ages. The age of the one who is a general manager is an odd number whereas the age of the one who is a manager is an even number. The age of each person is a whole number less than 90. All the information is not necessarily in the same order. Minimum one person and maximum two persons are working at each post of the given departments. Note: If it is given that the person who is a general manager or manager works with A or the one whose age is 65, then it indicates that both the person works in the same department but not necessarily at the same post. A is a general manager and works along with E. B is 31 years old and doesnâ€™t work along with A. The one whose age is 60 years works along with C. G is 53 years old and works along with A. C neither works in the Management department nor in the Production department. The age of D is equal to the sum of the ages of B and G. The one who works along with D is 2 years older than A. The age of F is less than H. The difference between the ages of D and F is 48. F doesnâ€™t work in the Management department. Both F and D works in different departments. The age of E is twice the age of C. The difference between the ages of C and H is 36. The age of A is less than 50 years. Who among the following person works in the Production department?
+     (a) The one who is 29 years old
+     (b) The one who works along with H
+     (c) The one who works along with F at the same post
+     (d) B
+   * (e) Both
+
+Q173  []
+Study the following information carefully and answer the questions given below: Eight persons i.e. A, B, C, D, E, F, G and H are working in three different departments viz. Production, Management and Finance at different posts i.e. manager and general manager. In the finance department, only a manager post is available. They all have different ages. The age of the one who is a general manager is an odd number whereas the age of the one who is a manager is an even number. The age of each person is a whole number less than 90. All the information is not necessarily in the same order. Minimum one person and maximum two persons are working at each post of the given departments. Note: If it is given that the person who is a general manager or manager works with A or the one whose age is 65, then it indicates that both the person works in the same department but not necessarily at the same post. A is a general manager and works along with E. B is 31 years old and doesnâ€™t work along with A. The one whose age is 60 years works along with C. G is 53 years old and works along with A. C neither works in the Management department nor in the Production department. The age of D is equal to the sum of the ages of B and G. The one who works along with D is 2 years older than A. The age of F is less than H. The difference between the ages of D and F is 48. F doesnâ€™t work in the Management department. Both F and D works in different departments. The age of E is twice the age of C. The difference between the ages of C and H is 36. The age of A is less than 50 years. Four of the following five are alike in a certain way and thus form a group. Which among the following one doesnâ€™t belong to that group?
+     (a) A
+     (b) G
+   * (c) B
+     (d) E
+     (e) F
+
+Q174  []
+Study the following information carefully and answer the questions given below: Eight persons i.e. A, B, C, D, E, F, G and H are working in three different departments viz. Production, Management and Finance at different posts i.e. manager and general manager. In the finance department, only a manager post is available. They all have different ages. The age of the one who is a general manager is an odd number whereas the age of the one who is a manager is an even number. The age of each person is a whole number less than 90. All the information is not necessarily in the same order. Minimum one person and maximum two persons are working at each post of the given departments. Note: If it is given that the person who is a general manager or manager works with A or the one whose age is 65, then it indicates that both the person works in the same department but not necessarily at the same post. A is a general manager and works along with E. B is 31 years old and doesnâ€™t work along with A. The one whose age is 60 years works along with C. G is 53 years old and works along with A. C neither works in the Management department nor in the Production department. The age of D is equal to the sum of the ages of B and G. The one who works along with D is 2 years older than A. The age of F is less than H. The difference between the ages of D and F is 48. F doesnâ€™t work in the Management department. Both F and D works in different departments. The age of E is twice the age of C. The difference between the ages of C and H is 36. The age of A is less than 50 years. Which of the following statement is/are true with respect to the final arrangement?
+   * (a) The one who is 24 years old works in the Finance department
+     (b) A works in the Management department
+     (c) G is a manager
+     (d) Both
+     (e) The sum of the ages of A and C is less than 52
+
+Q175  []
+Study the following information carefully and answer the questions given below: Eight persons i.e. A, B, C, D, E, F, G and H are working in three different departments viz. Production, Management and Finance at different posts i.e. manager and general manager. In the finance department, only a manager post is available. They all have different ages. The age of the one who is a general manager is an odd number whereas the age of the one who is a manager is an even number. The age of each person is a whole number less than 90. All the information is not necessarily in the same order. Minimum one person and maximum two persons are working at each post of the given departments. Note: If it is given that the person who is a general manager or manager works with A or the one whose age is 65, then it indicates that both the person works in the same department but not necessarily at the same post. A is a general manager and works along with E. B is 31 years old and doesnâ€™t work along with A. The one whose age is 60 years works along with C. G is 53 years old and works along with A. C neither works in the Management department nor in the Production department. The age of D is equal to the sum of the ages of B and G. The one who works along with D is 2 years older than A. The age of F is less than H. The difference between the ages of D and F is 48. F doesnâ€™t work in the Management department. Both F and D works in different departments. The age of E is twice the age of C. The difference between the ages of C and H is 36. The age of A is less than 50 years. What is the sum of the ages of the persons who work in the Management department?
+     (a) 120
+     (b) 221
+     (c) 117
+   * (d) 115
+     (e) None of the above
+
+Q176  []
+Study the following information carefully and answer the questions given below: Eight persons i.e. A, B, C, D, E, F, G and H are working in three different departments viz. Production, Management and Finance at different posts i.e. manager and general manager. In the finance department, only a manager post is available. They all have different ages. The age of the one who is a general manager is an odd number whereas the age of the one who is a manager is an even number. The age of each person is a whole number less than 90. All the information is not necessarily in the same order. Minimum one person and maximum two persons are working at each post of the given departments. Note: If it is given that the person who is a general manager or manager works with A or the one whose age is 65, then it indicates that both the person works in the same department but not necessarily at the same post. A is a general manager and works along with E. B is 31 years old and doesnâ€™t work along with A. The one whose age is 60 years works along with C. G is 53 years old and works along with A. C neither works in the Management department nor in the Production department. The age of D is equal to the sum of the ages of B and G. The one who works along with D is 2 years older than A. The age of F is less than H. The difference between the ages of D and F is 48. F doesnâ€™t work in the Management department. Both F and D works in different departments. The age of E is twice the age of C. The difference between the ages of C and H is 36. The age of A is less than 50 years. How many personsâ€™ age is more than H?
+     (a) Four
+   * (b) One
+     (c) Six
+     (d) Two
+     (e) Three
+
+Q177  []
+Study the following information carefully and answer the questions given below: Eight persons i.e. A, B, C, D, E, F, G and H are working in three different departments viz. Production, Management and Finance at different posts i.e. manager and general manager. In the finance department, only a manager post is available. They all have different ages. The age of the one who is a general manager is an odd number whereas the age of the one who is a manager is an even number. The age of each person is a whole number less than 90. All the information is not necessarily in the same order. Minimum one person and maximum two persons are working at each post of the given departments. Note: If it is given that the person who is a general manager or manager works with A or the one whose age is 65, then it indicates that both the person works in the same department but not necessarily at the same post. A is a general manager and works along with E. B is 31 years old and doesnâ€™t work along with A. The one whose age is 60 years works along with C. G is 53 years old and works along with A. C neither works in the Management department nor in the Production department. The age of D is equal to the sum of the ages of B and G. The one who works along with D is 2 years older than A. The age of F is less than H. The difference between the ages of D and F is 48. F doesnâ€™t work in the Management department. Both F and D works in different departments. The age of E is twice the age of C. The difference between the ages of C and H is 36. The age of A is less than 50 years. Which of the following statements is incorrect?
+     (a) Three persons are working as General Managers whereas five persons are working as Managers.
+     (b) F is elder to C but younger to E.
+     (c) There is no General Manager in the Finance department.
+   * (d) The age of D is more than twice the age of E.
+     (e) C is the youngest person whereas D is the eldest person.
+
+Q178  []
+Study the following information carefully and answer the questions given below: Nine persons â€“ B, C, G, K, M, Q, T, W, and Z visited a tourist place during nine different months viz.- January, March, April, July, August, September, October, November, and December in the same year. Each person likes different colours viz. - Pink, Blue, Black, Yellow, Brown, White, Orange, Red, and Green. All the above information is not necessary in the same order. Three persons visited between the one who likes Pink and K, who visits in one of the month having an even number of days. Three persons visited between the one who likes Brown and M, who doesnâ€™t like Red. The one who likes Brown visits in October. The number of persons visited between T and the one who likes Brown is one less than the number of persons visited between C and the one who likes Pink. C neither visited in December nor July. T neither likes Pink nor Red. The one who likes White visited immediately before C, who neither likes Brown nor Orange. The number of persons visited between Z and the one who likes White is one more than the number of persons visited after the one who likes Red. Z visits in any month after the one who likes Blue. Two persons visited between the one who likes Black and W, who visits in one of the month having an odd number of days. W, who doesnâ€™t like Pink, visits immediately after the one who likes Green. Neither G nor Q likes Pink. The number of persons visited between B and the one who likes Blue is one more than the number of persons visited between G and the one who likes Orange. How many persons visited between T and the one who likes Brown?
+     (a) Three
+     (b) As many persons visited before the one who likes Black.
+   * (c) As many persons visited between the one who likes Green and C.
+     (d) Either A or C
+     (e) None of these
+
+Q179  []
+Study the following information carefully and answer the questions given below: Nine persons â€“ B, C, G, K, M, Q, T, W, and Z visited a tourist place during nine different months viz.- January, March, April, July, August, September, October, November, and December in the same year. Each person likes different colours viz. - Pink, Blue, Black, Yellow, Brown, White, Orange, Red, and Green. All the above information is not necessary in the same order. Three persons visited between the one who likes Pink and K, who visits in one of the month having an even number of days. Three persons visited between the one who likes Brown and M, who doesnâ€™t like Red. The one who likes Brown visits in October. The number of persons visited between T and the one who likes Brown is one less than the number of persons visited between C and the one who likes Pink. C neither visited in December nor July. T neither likes Pink nor Red. The one who likes White visited immediately before C, who neither likes Brown nor Orange. The number of persons visited between Z and the one who likes White is one more than the number of persons visited after the one who likes Red. Z visits in any month after the one who likes Blue. Two persons visited between the one who likes Black and W, who visits in one of the month having an odd number of days. W, who doesnâ€™t like Pink, visits immediately after the one who likes Green. Neither G nor Q likes Pink. The number of persons visited between B and the one who likes Blue is one more than the number of persons visited between G and the one who likes Orange. Who among the following person likes Yellow?
+     (a) Z
+     (b) The one who visited immediately after the one who likes Orange
+     (c) K
+     (d) The one who visited immediately before the one who likes Red.
+   * (e) None of these
+
+Q180  []
+Study the following information carefully and answer the questions given below: Nine persons â€“ B, C, G, K, M, Q, T, W, and Z visited a tourist place during nine different months viz.- January, March, April, July, August, September, October, November, and December in the same year. Each person likes different colours viz. - Pink, Blue, Black, Yellow, Brown, White, Orange, Red, and Green. All the above information is not necessary in the same order. Three persons visited between the one who likes Pink and K, who visits in one of the month having an even number of days. Three persons visited between the one who likes Brown and M, who doesnâ€™t like Red. The one who likes Brown visits in October. The number of persons visited between T and the one who likes Brown is one less than the number of persons visited between C and the one who likes Pink. C neither visited in December nor July. T neither likes Pink nor Red. The one who likes White visited immediately before C, who neither likes Brown nor Orange. The number of persons visited between Z and the one who likes White is one more than the number of persons visited after the one who likes Red. Z visits in any month after the one who likes Blue. Two persons visited between the one who likes Black and W, who visits in one of the month having an odd number of days. W, who doesnâ€™t like Pink, visits immediately after the one who likes Green. Neither G nor Q likes Pink. The number of persons visited between B and the one who likes Blue is one more than the number of persons visited between G and the one who likes Orange. Who among the following person likes Green?
+     (a) B
+     (b) The one who visited three persons after Q
+   * (c) The one who visited two persons before C
+     (d) Either B or C
+     (e) G
+
+Q181  []
+Study the following information carefully and answer the questions given below: Nine persons â€“ B, C, G, K, M, Q, T, W, and Z visited a tourist place during nine different months viz.- January, March, April, July, August, September, October, November, and December in the same year. Each person likes different colours viz. - Pink, Blue, Black, Yellow, Brown, White, Orange, Red, and Green. All the above information is not necessary in the same order. Three persons visited between the one who likes Pink and K, who visits in one of the month having an even number of days. Three persons visited between the one who likes Brown and M, who doesnâ€™t like Red. The one who likes Brown visits in October. The number of persons visited between T and the one who likes Brown is one less than the number of persons visited between C and the one who likes Pink. C neither visited in December nor July. T neither likes Pink nor Red. The one who likes White visited immediately before C, who neither likes Brown nor Orange. The number of persons visited between Z and the one who likes White is one more than the number of persons visited after the one who likes Red. Z visits in any month after the one who likes Blue. Two persons visited between the one who likes Black and W, who visits in one of the month having an odd number of days. W, who doesnâ€™t like Pink, visits immediately after the one who likes Green. Neither G nor Q likes Pink. The number of persons visited between B and the one who likes Blue is one more than the number of persons visited between G and the one who likes Orange. Four of the five are related to each other in a certain way and thus form a group, find the odd one out?
+     (a) C
+     (b) The one who likes Black.
+     (c) The one who likes Yellow
+   * (d) M
+     (e) Z
+
+Q182  []
+Study the following information carefully and answer the questions given below: Nine persons â€“ B, C, G, K, M, Q, T, W, and Z visited a tourist place during nine different months viz.- January, March, April, July, August, September, October, November, and December in the same year. Each person likes different colours viz. - Pink, Blue, Black, Yellow, Brown, White, Orange, Red, and Green. All the above information is not necessary in the same order. Three persons visited between the one who likes Pink and K, who visits in one of the month having an even number of days. Three persons visited between the one who likes Brown and M, who doesnâ€™t like Red. The one who likes Brown visits in October. The number of persons visited between T and the one who likes Brown is one less than the number of persons visited between C and the one who likes Pink. C neither visited in December nor July. T neither likes Pink nor Red. The one who likes White visited immediately before C, who neither likes Brown nor Orange. The number of persons visited between Z and the one who likes White is one more than the number of persons visited after the one who likes Red. Z visits in any month after the one who likes Blue. Two persons visited between the one who likes Black and W, who visits in one of the month having an odd number of days. W, who doesnâ€™t like Pink, visits immediately after the one who likes Green. Neither G nor Q likes Pink. The number of persons visited between B and the one who likes Blue is one more than the number of persons visited between G and the one who likes Orange. Which of the following statement is/are not true? I) The one who likes Red visits immediately after Z. II) Three persons visited between M and the one who likes Brown. III) The one who likes Orange visited immediately before G.
+     (a) Both II and III
+   * (b) Only III
+     (c) Only I
+     (d) Both I and II
+     (e) None of these
+
+Q183  []
+Study the following information carefully and answer the questions given below: Nine persons â€“ B, C, G, K, M, Q, T, W, and Z visited a tourist place during nine different months viz.- January, March, April, July, August, September, October, November, and December in the same year. Each person likes different colours viz. - Pink, Blue, Black, Yellow, Brown, White, Orange, Red, and Green. All the above information is not necessary in the same order. Three persons visited between the one who likes Pink and K, who visits in one of the month having an even number of days. Three persons visited between the one who likes Brown and M, who doesnâ€™t like Red. The one who likes Brown visits in October. The number of persons visited between T and the one who likes Brown is one less than the number of persons visited between C and the one who likes Pink. C neither visited in December nor July. T neither likes Pink nor Red. The one who likes White visited immediately before C, who neither likes Brown nor Orange. The number of persons visited between Z and the one who likes White is one more than the number of persons visited after the one who likes Red. Z visits in any month after the one who likes Blue. Two persons visited between the one who likes Black and W, who visits in one of the month having an odd number of days. W, who doesnâ€™t like Pink, visits immediately after the one who likes Green. Neither G nor Q likes Pink. The number of persons visited between B and the one who likes Blue is one more than the number of persons visited between G and the one who likes Orange. Who among the following visited immediately before and after the one who likes Blue?
+     (a) The one who likes Green and the one who likes Orange
+     (b) K and the one who likes Brown
+     (c) The one who likes White and Z
+   * (d) W and the one who likes Orange
+     (e) M and the one who likes White
+
+Q184  []
+Study the following information carefully and answer the questions given below: Twelve people A, B, C, D, E, F, P, Q, R, S, T, and U belong to the same family. They were seated in a concentric circle such that persons sitting in the outer circle, i.e. P, Q, R, S, T, and U face inside whereas the persons sitting in the inner circle, i.e. A, B, C, D, E and F face outside. Also the persons in the two circles were sitting opposite to each other. All the information given are not necessarily in the same order. Note: The persons facing each other are not the same gender except for the one who faces B. Neither A nor B sits adjacent to C who faces her grandchild, who is the only sibling of P. A sits opposite Q, who has three children, and two of the male children got married. The father of S is facing S. A sits second to the left of B and faces his wife. The relation between A and F, and T and P is the same. C is the mother-in-law of T, who sits opposite the one who sits immediate right of the former. The one who sits immediate right of B faces S. D is the unmarried sister-in-law of T and faces her only uncle. B and C belong to the same generation. The son of A is R. Immediate neighbours of C are the opposite genders. Choose the correct option. I) P faces the spouse of R. II) Number of married couples and the number of males are the same. III) Immediate neighbours of F are female.
+     (a) Both I and II follow
+     (b) Only III follows
+     (c) Both II and III follows
+   * (d) Only I follows
+     (e) None follows
+
+Q185  []
+Study the following information carefully and answer the questions given below: Twelve people A, B, C, D, E, F, P, Q, R, S, T, and U belong to the same family. They were seated in a concentric circle such that persons sitting in the outer circle, i.e. P, Q, R, S, T, and U face inside whereas the persons sitting in the inner circle, i.e. A, B, C, D, E and F face outside. Also the persons in the two circles were sitting opposite to each other. All the information given are not necessarily in the same order. Note: The persons facing each other are not the same gender except for the one who faces B. Neither A nor B sits adjacent to C who faces her grandchild, who is the only sibling of P. A sits opposite Q, who has three children, and two of the male children got married. The father of S is facing S. A sits second to the left of B and faces his wife. The relation between A and F, and T and P is the same. C is the mother-in-law of T, who sits opposite the one who sits immediate right of the former. The one who sits immediate right of B faces S. D is the unmarried sister-in-law of T and faces her only uncle. B and C belong to the same generation. The son of A is R. Immediate neighbours of C are the opposite genders. How is P related to the one who faces F?
+     (a) Son-in-law
+     (b) Father
+     (c) Nephew
+   * (d) Daughter
+     (e) Niece
+
+Q186  []
+Study the following information carefully and answer the questions given below: Twelve people A, B, C, D, E, F, P, Q, R, S, T, and U belong to the same family. They were seated in a concentric circle such that persons sitting in the outer circle, i.e. P, Q, R, S, T, and U face inside whereas the persons sitting in the inner circle, i.e. A, B, C, D, E and F face outside. Also the persons in the two circles were sitting opposite to each other. All the information given are not necessarily in the same order. Note: The persons facing each other are not the same gender except for the one who faces B. Neither A nor B sits adjacent to C who faces her grandchild, who is the only sibling of P. A sits opposite Q, who has three children, and two of the male children got married. The father of S is facing S. A sits second to the left of B and faces his wife. The relation between A and F, and T and P is the same. C is the mother-in-law of T, who sits opposite the one who sits immediate right of the former. The one who sits immediate right of B faces S. D is the unmarried sister-in-law of T and faces her only uncle. B and C belong to the same generation. The son of A is R. Immediate neighbours of C are the opposite genders. How many are seated between R and the sibling of P?
+     (a) Three
+     (b) One
+   * (c) As many between B and F
+     (d) Four
+     (e) As many between C and B
+
+Q187  []
+Study the following information carefully and answer the questions given below: Twelve people A, B, C, D, E, F, P, Q, R, S, T, and U belong to the same family. They were seated in a concentric circle such that persons sitting in the outer circle, i.e. P, Q, R, S, T, and U face inside whereas the persons sitting in the inner circle, i.e. A, B, C, D, E and F face outside. Also the persons in the two circles were sitting opposite to each other. All the information given are not necessarily in the same order. Note: The persons facing each other are not the same gender except for the one who faces B. Neither A nor B sits adjacent to C who faces her grandchild, who is the only sibling of P. A sits opposite Q, who has three children, and two of the male children got married. The father of S is facing S. A sits second to the left of B and faces his wife. The relation between A and F, and T and P is the same. C is the mother-in-law of T, who sits opposite the one who sits immediate right of the former. The one who sits immediate right of B faces S. D is the unmarried sister-in-law of T and faces her only uncle. B and C belong to the same generation. The son of A is R. Immediate neighbours of C are the opposite genders. Four of the following five are alike in a certain way and so form a group. Which one does not belong to that group?
+     (a) B
+     (b) R
+     (c) F
+     (d) E
+   * (e) U
+
+Q188  []
+Study the following information carefully and answer the questions given below: Twelve people A, B, C, D, E, F, P, Q, R, S, T, and U belong to the same family. They were seated in a concentric circle such that persons sitting in the outer circle, i.e. P, Q, R, S, T, and U face inside whereas the persons sitting in the inner circle, i.e. A, B, C, D, E and F face outside. Also the persons in the two circles were sitting opposite to each other. All the information given are not necessarily in the same order. Note: The persons facing each other are not the same gender except for the one who faces B. Neither A nor B sits adjacent to C who faces her grandchild, who is the only sibling of P. A sits opposite Q, who has three children, and two of the male children got married. The father of S is facing S. A sits second to the left of B and faces his wife. The relation between A and F, and T and P is the same. C is the mother-in-law of T, who sits opposite the one who sits immediate right of the former. The one who sits immediate right of B faces S. D is the unmarried sister-in-law of T and faces her only uncle. B and C belong to the same generation. The son of A is R. Immediate neighbours of C are the opposite genders. Which of the following statements is incorrect?
+     (a) The number of females is greater than the number of males.
+     (b) B is the sister-in-law of F.
+     (c) T, S and D belong to the same generation.
+   * (d) P is sitting second to the left of U.
+     (e) D and R are facing each other.
+
+Q189  []
+Study the following information carefully and answer the questions given below: There are 10 people who are sitting in two parallel rows. In row 1, A, B, C, D and E are sitting facing north. In row II, P, Q, R, S, T are sitting facing south. They are facing each other. They live in five different cities amongst Singapore, Berlin, Osaka, Helsinki and Mumbai. One person from each row is living in one of these cities so that exactly two people are living in one city. 1. B, who is not from Mumbai or Berlin, is sitting on the immediate right of the person who faces the person from Mumbai. 2. A is not sitting at the extreme end of the row and is sitting third to the left of the person from Mumbai. 3. Q is sitting at one of the extreme ends of the row and is facing C. 4. E is facing the person who sits second to the right of the person from Mumbai. 5. The person who lives in Singapore sits diagonally opposite to the person from Mumbai. 6. S, who does not live in Singapore, is not an immediate neighbour of T or Q. 7. P, who neither lives in Helsinki nor Berlin, sits opposite to the person who sits to the immediate left of C. 8. In row 1, the person from Berlin sits second to the right of the person from Helsinki. 9. No two persons from the same city are facing each other. 10. In row 2, the person from Helsinki is sitting to the right of the person from Berlin. Who among the following are sitting diagonally opposite to each other?
+     (a) S and D
+     (b) C and R
+     (c) T and B
+   * (d) Q and E
+     (e) P and A
+
