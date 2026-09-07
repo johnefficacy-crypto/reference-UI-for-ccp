@@ -51,6 +51,76 @@ performance may be retained historically for reports but **must not affect `user
 (consistent with the domain rule "eligibility/verified-only reads" and the mastery-live gate). Full
 design in the companion contract.
 
+**Amended 2026-09-07 — see §1.1.1.** This blanket exclusion is narrowed for the RBI Grade B
+GA corpus: durable GA questions are eligible for PYQ tagging and projection; perishable ones
+stay excluded exactly as written above.
+
+#### 1.1.1 Amendment — RBI Grade B GA durable carve-out (2026-09-07)
+
+§1.1 excludes General Awareness from PYQ ingestion, projection and permanent topic mastery
+wholesale. That rule was written against GA-as-current-affairs and is too coarse for the RBI
+Grade B GA corpus, which is not one population but **three**.
+
+All 320 RBI Grade B GA questions (Q1–80 across 2023, 2024, 2025 and 2026; 2022 has no GA
+section) were classified in `workbench/rbi-ga-classification.csv`:
+
+| | count | |
+|---|---:|---|
+| **Durable, answer inside an existing finance subject** | 112 | banking 71, economics 24, capital-market 15, financial-awareness 1, pension-sector 1 |
+| **Durable, non-finance** | 90 | static GK — geography, polity, history, science, international relations |
+| **Perishable** | 118 | a dated instance, an as-of figure, or a per-edition datum |
+| **Total** | **320** | |
+
+A question is DURABLE when its answer stays true across years. The boundary rule is that a
+durable *subject* with a dated *instance* is perishable: "which body regulates X" is durable,
+"what did X reach in FY22" is not.
+
+**The carve-out.** RBI Grade B GA questions whose answer is durable are eligible for PYQ tagging
+and projection — the 112 against the existing finance subjects, the 90 against the
+`general-knowledge` subject. The 118 perishable questions **stay excluded** under the existing
+§1.1 rule: they remain current-affairs practice only, contribute no permanent topic mastery, and
+are never projected.
+
+This narrows §1.1's exclusion from "GA" to "perishable GA". It does not reopen GA current-affairs
+for mastery, and it does not extend to any other body's GA section — the classification is per
+corpus, and no other GA corpus has been classified.
+
+**Drift worth watching.** Durable-non-finance is not a static residue; it is growing:
+
+| year | durable, non-finance |
+|---|---:|
+| 2023 | 17 |
+| 2024 | 16 |
+| 2025 | 28 |
+| 2026 | 29 |
+
+RBI GA is moving toward static GK at least as fast as toward banking. If the trend holds, the
+general-knowledge subject carries more of this corpus each cycle than the finance subjects do,
+and sizing decisions that assume GA ≈ banking will be wrong.
+
+**The `general-knowledge` subject.** It exists as a **body-agnostic** subject — no `exams` key in
+its metadata, unlike the exam-scoped subjects seeded in migration 269 — with **7 sections and 55
+microtopics**. It was built **from the corpus, not from a textbook contents page**: every
+microtopic has at least one real question behind it, and
+`workbench/rbi-gk-microtopic-map.csv` carries the question → microtopic mapping.
+Migration `273_general_knowledge_microtopics.sql` adds the 55 microtopics and documents six
+sections; **International Relations was added as a seventh** once Miscellaneous reached 26
+questions and international organisations, agreements and summits proved to be a coherent group
+rather than leftovers.
+
+> **Open provenance gap.** The International Relations section was applied live from a scratch
+> script (`app/add_gk_ir.sql`, deleted in `4a62535`) and is not recorded by any numbered
+> migration, so the live taxonomy is ahead of the migration history. Under the migration
+> discipline in `CLAUDE.md` this needs a forward migration before the carve-out is loaded.
+> `workbench/rbi-gk-microtopic-map.csv` and migration 273's header still describe the
+> six-section shape.
+
+Nothing here tags or projects a question. Tagging remains a separate, reviewed step, and the
+verified-only read rule is unchanged: a carved-out GA question reaches a learner only after it
+passes the same review lifecycle as any other PYQ.
+
+---
+
 ### 1.2 Quantitative Aptitude
 Quant supports normal objective practice, reusable reviewed **solution heuristics**, deterministic
 **Calculation Gym** sessions, **separate accuracy / speed / calculation-efficiency signals**, and
