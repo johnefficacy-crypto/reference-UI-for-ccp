@@ -106,12 +106,14 @@ def _build_app(sb, role="super_admin"):
     return app
 
 
-# Relative to "now" so the fixtures never rot: a hardcoded _RECENT crosses the
-# 14-day STALE_REVIEW_DAYS boundary as wall-clock time advances (it did on
-# 2026-06-30), flipping "fresh" rows to "stale" and breaking these tests.
-from datetime import datetime as _dt, timedelta as _td, timezone as _tz  # noqa: E402
-_RECENT = (_dt.now(_tz.utc) - _td(days=2)).isoformat()    # well within the 14-day window
-_STALE = (_dt.now(_tz.utc) - _td(days=90)).isoformat()    # well past it
+# Derived from _FIXED_NOW, the same clock the code under test is pinned to.
+# These must NOT use the real wall clock: _now() is monkeypatched to _FIXED_NOW,
+# so a real-clock fixture drifts against a frozen stale_cutoff and eventually
+# crosses it (on 2026-09-07, now-90d landed past the 2026-06-09 cutoff and every
+# "stale" row read as fresh).
+from datetime import timedelta as _td  # noqa: E402
+_RECENT = (_FIXED_NOW - _td(days=2)).isoformat()    # well within the 14-day window
+_STALE = (_FIXED_NOW - _td(days=90)).isoformat()    # well past it
 
 
 class _Seed:
