@@ -61,6 +61,14 @@ RE_QMARK_BARE = re.compile(
 # answer-label mismatch instead of a silently option-less question.
 RE_OPTION = re.compile(r"^[ \t]*[(\[]([a-j])[)\]][ \t]*(.*)$")
 RE_OPTION_ALT = re.compile(r"^[ \t]*([A-E])[.)][ \t]+(.*)$")
+# A third option shape: "1) ...", "2) ..." on their own lines, used by parts of
+# the 2020 ESI block. It is a LAST RESORT only -- accepted when neither the paren
+# nor the "A." shape produced a set, and only for a COMPLETE consecutive run
+# starting at 1 (>= 4 members). That guard matters: many stems number their
+# STATEMENTS "1) ... 2) ..." and then print real "(a)-(e)" options underneath
+# (1|ESI|2020 Q.139 does exactly this), and those must keep the paren options.
+RE_OPTION_NUM = re.compile(r"^[ \t]*([1-5])\)[ \t]+(.*)$")
+_NUM_TO_ALPHA = {"1": "a", "2": "b", "3": "c", "4": "d", "5": "e"}
 # "Answer" and "Solution" are both used, with -, –, — or : as the separator.
 RE_ANSWER = re.compile(
     r"^[ \t]*(?:answer|solution)[ \t]*[-–—:.]*[ \t]*\(?\s*([a-e])\s*\)?",
@@ -73,6 +81,31 @@ RE_RANGE = re.compile(
     r"\(?\s*(?:Q\s*\.?\s*)?(\d{1,3})\s*(?:to|To|TO|[-–—])\s*(?:Q\s*\.?\s*)?(\d{1,3})\s*\)?"
 )
 RE_YEAR = re.compile(r"(20[12]\d)")
+
+# --- Anchored source repairs -------------------------------------------------
+# The text layer drops the "Q." prefix on one marker: 1|English|2023 prints its
+# 24th item as a bare "24. Which of the following ..." (verified on PDF page 127).
+# Accepting a bare "^\d+\." marker globally is not safe -- statement numbering
+# and list items would match -- so the marker is restored by an EXACT anchored
+# substitution instead, asserted to hit exactly once so a changed source fails
+# loudly rather than silently no-opping.
+# Each entry is (line-anchored pattern, replacement, expected hit count).
+TEXT_REPAIRS: list[tuple[str, str, int]] = [
+    (
+        r"(?m)^24\. Which of the following statements is incorrect as per the context",
+        "Q.24. Which of the following statements is incorrect as per the context",
+        1,
+    ),
+]
+
+# --- Blocks printed under one heading that hold two shifts -------------------
+# 1|Reasoning|2022 prints a single "(Q.1 to Q.20)" heading but contains two
+# complete 1..20 runs -- every other 2022 subject prints separate Morning/
+# Evening headings. Split on the numbering restart into the same
+# "<key>|morning" / "<key>|evening" shape the rest of the file uses.
+# The shift NAMES are an inference from document order (the source prints no
+# shift label here); 4 of the 5 other 2022 subjects print Morning first.
+SPLIT_ON_RESTART = {"1|Reasoning|2022": ("morning", "evening")}
 
 PHASE1_SUBJECTS = [
     "Reasoning",
@@ -101,7 +134,29 @@ def read_pages() -> list[str]:
     from pypdf import PdfReader
 
     reader = PdfReader(str(PDF))
-    return [(page.extract_text() or "") for page in reader.pages]
+    pages = [(page.extract_text() or "") for page in reader.pages]
+    return apply_text_repairs(pages)
+
+
+def apply_text_repairs(pages: list[str]) -> list[str]:
+    """Apply the anchored TEXT_REPAIRS to the extracted page text.
+
+    Repairs run BEFORE heading location and segmentation so every character
+    offset downstream is computed against the repaired text. Each repair must
+    hit its declared number of times across the whole document -- a miss raises
+    rather than silently leaving the defect in place.
+    """
+    for pattern, replacement, expected in TEXT_REPAIRS:
+        hits = 0
+        for i, text in enumerate(pages):
+            pages[i], n = re.subn(pattern, replacement, text)
+            hits += n
+        if hits != expected:
+            raise SystemExit(
+                f"text repair {pattern!r} hit {hits} time(s), expected {expected} "
+                "-- the source PDF changed; re-verify the repair before extracting"
+            )
+    return pages
 
 
 def parse_toc(pages: list[str]) -> list[dict]:
@@ -224,6 +279,36 @@ def locate_headings(pages: list[str], blocks: list[dict]) -> list[dict]:
     return blocks, full
 
 
+def _is_complete_numeric_run(num: dict[str, str]) -> bool:
+    """True for a complete consecutive "1)".."N)" run with N >= 4.
+
+    The completeness requirement is the guard against statement numbering: a
+    stem that lists two or three numbered statements never satisfies it, and a
+    stem that lists four or five ALSO prints real "(a)-(e)" options, which win
+    because this pass only runs when nothing else produced a set.
+    """
+    keys = sorted(num)
+    return len(keys) >= 4 and keys == [str(i) for i in range(1, len(keys) + 1)]
+
+
+def _relabel_positionally(options: dict[str, str]) -> tuple[dict[str, str], bool]:
+    """Re-letter a contiguous option run that does not start at "a".
+
+    2|ARD|2021 Q.14 prints its five options as (f)-(j) while its answer key
+    still reads (a). The labels are a source typo, the ORDER is intact, so the
+    run is mapped positionally back onto "a".. -- which is what makes the
+    printed answer resolvable. Only a contiguous run is remapped; a gapped set
+    is left alone so a genuine parse defect stays visible.
+    """
+    keys = sorted(options)
+    if not keys or keys[0] == "a":
+        return options, False
+    codes = [ord(k) for k in keys]
+    if codes != list(range(codes[0], codes[0] + len(codes))):
+        return options, False
+    return {chr(ord("a") + i): options[k] for i, k in enumerate(keys)}, True
+
+
 def parse_questions(segment: str) -> list[dict]:
     """Parse one block's text span into questions."""
     marks = [(m.start(), int(m.group(2)), m.group(1)) for m in RE_QMARK.finditer(segment)]
@@ -244,6 +329,7 @@ def parse_questions(segment: str) -> list[dict]:
         chunk = segment[off:end]
         paren: dict[str, str] = {}
         alt: dict[str, str] = {}
+        numeric: dict[str, str] = {}
         answer = None
         stem_lines: list[str] = []
         in_options = False
@@ -265,11 +351,29 @@ def parse_questions(segment: str) -> list[dict]:
                 if len(alt) >= 2:
                     in_options = True
                 continue
+            nm = RE_OPTION_NUM.match(line)
+            if nm:
+                # Recorded but NOT treated as entering the option list: the same
+                # shape numbers statements inside a stem, and a stem must keep
+                # reading until real options appear. Promoted below only if
+                # nothing else produced a set.
+                numeric[nm.group(1)] = nm.group(2).strip()
+                if not in_options:
+                    stem_lines.append(line)
+                continue
             if not in_options:
                 stem_lines.append(line)
         # The alternate "A." shape is only trusted when it produced a real set,
         # so a stray sentence beginning "A. " cannot masquerade as an option.
         options = paren if len(paren) >= len(alt) or len(alt) < 2 else alt
+        relabelled = False
+        if len(options) < 2 and _is_complete_numeric_run(numeric):
+            # Last resort: "1) ... 5)" WAS the option list (1|ESI|2020 Q.134/138).
+            options = {_NUM_TO_ALPHA[k]: v for k, v in sorted(numeric.items())}
+            # Those lines were provisionally kept as stem text; drop them again.
+            stem_lines = [ln for ln in stem_lines if not RE_OPTION_NUM.match(ln)]
+        elif options:
+            options, relabelled = _relabel_positionally(options)
         stem = " ".join(" ".join(stem_lines).split())
         if kind == "I":
             contexts.append({"q_no": num, "text": stem})
@@ -286,6 +390,8 @@ def parse_questions(segment: str) -> list[dict]:
             flags.append("no_options")
         if answer is None:
             flags.append("no_answer")
+        if relabelled:
+            flags.append("options_relabelled_positionally")
         if answer is not None and options and answer not in options:
             flags.append("answer_label_not_in_options")
         if len(stem) < 15:
@@ -297,6 +403,9 @@ def parse_questions(segment: str) -> list[dict]:
                 "options": options,
                 "answer_label": answer,
                 "flags": flags,
+                # Marker offset within the segment; used by the shift split to
+                # give each half a real char_span. Stripped before writing.
+                "_off": off,
             }
         )
     # Attach each context paragraph to the question it introduces.
@@ -333,14 +442,58 @@ def extract() -> dict:
             b["questions"], b["parsed"], b["char_span"] = [], 0, None
             b["context_blocks"] = b["context_unattached"] = 0
 
+    blocks = split_shift_blocks(blocks)
+
     for b in blocks:
         b.pop("_offset", None)
+        for q in b["questions"]:
+            q.pop("_off", None)
 
     return {
         "source_pdf": str(PDF.relative_to(ROOT)),
         "pdf_pages": len(pages),
         "blocks": blocks,
     }
+
+
+def split_shift_blocks(blocks: list[dict]) -> list[dict]:
+    """Split each SPLIT_ON_RESTART block into its two shifts at the numbering
+    restart, producing the "<key>|<shift>" shape the rest of the file uses.
+
+    The restart is the split point: the first question whose number is not
+    greater than its predecessor's. A block that does not restart exactly once
+    raises -- the split is a claim about the source, not a best effort.
+    """
+    out: list[dict] = []
+    for b in blocks:
+        shifts = SPLIT_ON_RESTART.get(b["key"])
+        if not shifts or not b["questions"]:
+            out.append(b)
+            continue
+        qs = b["questions"]
+        restarts = [i for i in range(1, len(qs)) if qs[i]["q_no"] <= qs[i - 1]["q_no"]]
+        if len(restarts) != 1:
+            raise SystemExit(
+                f"{b['key']}: expected exactly one numbering restart to split on, "
+                f"found {len(restarts)}"
+            )
+        cut = restarts[0]
+        halves = (qs[:cut], qs[cut:])
+        span_start, span_end = b["char_span"]
+        boundary = span_start + halves[1][0]["_off"]
+        for shift, half, (lo, hi) in zip(
+            shifts, halves, ((span_start, boundary), (boundary, span_end))
+        ):
+            nb = dict(b)
+            nb["key"] = f"{b['key']}|{shift}"
+            nb["shift"] = shift
+            nb["label"] = f"{b['label']} [{shift.capitalize()} Shift — inferred, "
+            nb["label"] += "source prints one heading for both shifts]"
+            nb["questions"] = half
+            nb["parsed"] = len(half)
+            nb["char_span"] = [lo, hi]
+            out.append(nb)
+    return out
 
 
 def report(data: dict) -> None:

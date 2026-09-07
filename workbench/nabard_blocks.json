@@ -563,12 +563,12 @@
    ]
   },
   {
-   "key": "1|Reasoning|2022",
-   "label": "2022 (Q.1 to Q.20)",
+   "key": "1|Reasoning|2022|morning",
+   "label": "2022 (Q.1 to Q.20) [Morning Shift — inferred, source prints one heading for both shifts]",
    "phase": 1,
    "subject": "Reasoning",
    "year": 2022,
-   "shift": null,
+   "shift": "morning",
    "printed_page": 24,
    "expected_from_heading": 20,
    "heading_pdf_page": 25,
@@ -833,7 +833,27 @@
      },
      "answer_label": "b",
      "flags": []
-    },
+    }
+   ],
+   "context_blocks": 0,
+   "context_unattached": 0,
+   "parsed": 20,
+   "char_span": [
+    28538,
+    40827
+   ]
+  },
+  {
+   "key": "1|Reasoning|2022|evening",
+   "label": "2022 (Q.1 to Q.20) [Evening Shift — inferred, source prints one heading for both shifts]",
+   "phase": 1,
+   "subject": "Reasoning",
+   "year": 2022,
+   "shift": "evening",
+   "printed_page": 24,
+   "expected_from_heading": 20,
+   "heading_pdf_page": 25,
+   "questions": [
     {
      "q_no": 1,
      "stem": "Q.1) The one who likes Civics lives just above to ____ and both live in the same type of flat?",
@@ -1097,9 +1117,9 @@
    ],
    "context_blocks": 0,
    "context_unattached": 0,
-   "parsed": 40,
+   "parsed": 20,
    "char_span": [
-    28538,
+    40827,
     50654
    ]
   },
@@ -3460,6 +3480,19 @@
      "q_no": 23,
      "stem": "Q. 23. On February 14, 2019, Pakistan-based Jaish-e-Mohammed (JeM) terror group had attakced a convoy of the CRPF in Pulwama in Jammu and Kashmir, killing 40 personnel of the force.",
      "options": {
+      "a": "terror",
+      "b": "attakced",
+      "c": "convoy",
+      "d": "personnel",
+      "e": "All are correct"
+     },
+     "answer_label": "b",
+     "flags": []
+    },
+    {
+     "q_no": 24,
+     "stem": "Q.24. Which of the following statements is incorrect as per the context of the passage? I. The initial public offering of the Life Insurance Corporation of India is for 31.6 crore shares. II. The consolidated shareholders value in an insurance company has been estimated at Rs 5.39 lakh crore. III. The initial public offering of the Life Insurance Corporation of India is 5 percent of the government’s borrowing. 127 | P a g e",
+     "options": {
       "a": "Only I",
       "b": "Only III",
       "c": "Both I and II",
@@ -3467,9 +3500,7 @@
       "e": "Both I and III"
      },
      "answer_label": "b",
-     "flags": [
-      "merged_missing_marker"
-     ]
+     "flags": []
     },
     {
      "q_no": 25,
@@ -3550,10 +3581,10 @@
    ],
    "context_blocks": 0,
    "context_unattached": 0,
-   "parsed": 29,
+   "parsed": 30,
    "char_span": [
     194524,
-    207478
+    207480
    ]
   },
   {
@@ -3832,8 +3863,8 @@
    "context_unattached": 0,
    "parsed": 20,
    "char_span": [
-    207478,
-    215477
+    207480,
+    215479
    ]
   },
   {
@@ -4112,8 +4143,8 @@
    "context_unattached": 0,
    "parsed": 20,
    "char_span": [
-    215477,
-    223258
+    215479,
+    223260
    ]
   },
   {
@@ -4392,8 +4423,8 @@
    "context_unattached": 0,
    "parsed": 20,
    "char_span": [
-    223258,
-    232109
+    223260,
+    232111
    ]
   },
   {
@@ -4672,8 +4703,8 @@
    "context_unattached": 0,
    "parsed": 20,
    "char_span": [
-    232109,
-    240299
+    232111,
+    240301
    ]
   },
   {
@@ -4952,8 +4983,8 @@
    "context_unattached": 0,
    "parsed": 20,
    "char_span": [
-    240299,
-    245483
+    240301,
+    245485
    ]
   },
   {
@@ -5232,8 +5263,8 @@
    "context_unattached": 0,
    "parsed": 20,
    "char_span": [
-    245483,
-    255038
+    245485,
+    255040
    ]
   },
   {
@@ -5512,8 +5543,8 @@
    "context_unattached": 0,
    "parsed": 20,
    "char_span": [
-    255038,
-    264776
+    255040,
+    264778
    ]
   },
   {
@@ -5792,8 +5823,8 @@
    "context_unattached": 0,
    "parsed": 20,
    "char_span": [
-    264776,
-    275022
+    264778,
+    275024
    ]
   },
   {
@@ -6072,8 +6103,8 @@
    "context_unattached": 0,
    "parsed": 20,
    "char_span": [
-    275022,
-    284881
+    275024,
+    284883
    ]
   },
   {
@@ -6353,8 +6384,8 @@
    "context_unattached": 0,
    "parsed": 20,
    "char_span": [
-    284881,
-    298531
+    284883,
+    298533
    ]
   },
   {
@@ -6503,8 +6534,8 @@
    "context_unattached": 0,
    "parsed": 10,
    "char_span": [
-    298531,
-    304748
+    298533,
+    304750
    ]
   },
   {
@@ -6653,8 +6684,8 @@
    "context_unattached": 0,
    "parsed": 10,
    "char_span": [
-    304748,
-    310905
+    304750,
+    310907
    ]
   },
   {
@@ -6803,8 +6834,8 @@
    "context_unattached": 0,
    "parsed": 10,
    "char_span": [
-    310905,
-    316553
+    310907,
+    316555
    ]
   },
   {
@@ -6953,8 +6984,8 @@
    "context_unattached": 0,
    "parsed": 10,
    "char_span": [
-    316553,
-    324910
+    316555,
+    324912
    ]
   },
   {
@@ -7233,8 +7264,8 @@
    "context_unattached": 0,
    "parsed": 20,
    "char_span": [
-    324910,
-    333867
+    324912,
+    333869
    ]
   },
   {
@@ -7513,8 +7544,8 @@
    "context_unattached": 0,
    "parsed": 20,
    "char_span": [
-    333867,
-    342302
+    333869,
+    342304
    ]
   },
   {
@@ -7793,8 +7824,8 @@
    "context_unattached": 0,
    "parsed": 20,
    "char_span": [
-    342302,
-    351408
+    342304,
+    351410
    ]
   },
   {
@@ -8073,8 +8104,8 @@
    "context_unattached": 0,
    "parsed": 20,
    "char_span": [
-    351408,
-    359719
+    351410,
+    359721
    ]
   },
   {
@@ -8353,8 +8384,8 @@
    "context_unattached": 0,
    "parsed": 20,
    "char_span": [
-    359719,
-    377167
+    359721,
+    377169
    ]
   },
   {
@@ -8539,12 +8570,16 @@
     },
     {
      "q_no": 134,
-     "stem": "Q.134) NABARD to raise Rs 55000 Cr from the market for the year 2020 through longterm bonds of usually __________ years tenure 1) 4-5 2) 7-10 3) 6-8 4) 10-15 5) 15-20",
-     "options": {},
+     "stem": "Q.134) NABARD to raise Rs 55000 Cr from the market for the year 2020 through longterm bonds of usually __________ years tenure",
+     "options": {
+      "a": "4-5",
+      "b": "7-10",
+      "c": "6-8",
+      "d": "10-15",
+      "e": "15-20"
+     },
      "answer_label": "d",
-     "flags": [
-      "no_options"
-     ]
+     "flags": []
     },
     {
      "q_no": 135,
@@ -8587,12 +8622,16 @@
     },
     {
      "q_no": 138,
-     "stem": "Q.138)As per First Advance Estimates, the estimated production of major crops during Kharif 2019-20, total food grain production is _____ Million Tonnes 1) 140.57 2) 134.4 3) 128.2 4) 112.4 5) None of the above",
-     "options": {},
+     "stem": "Q.138)As per First Advance Estimates, the estimated production of major crops during Kharif 2019-20, total food grain production is _____ Million Tonnes",
+     "options": {
+      "a": "140.57",
+      "b": "134.4",
+      "c": "128.2",
+      "d": "112.4",
+      "e": "None of the above"
+     },
      "answer_label": "a",
-     "flags": [
-      "no_options"
-     ]
+     "flags": []
     },
     {
      "q_no": 139,
@@ -8885,8 +8924,8 @@
    "context_unattached": 0,
    "parsed": 40,
    "char_span": [
-    377167,
-    396471
+    377169,
+    396473
    ]
   },
   {
@@ -9425,8 +9464,8 @@
    "context_unattached": 0,
    "parsed": 40,
    "char_span": [
-    396471,
-    416057
+    396473,
+    416059
    ]
   },
   {
@@ -9965,8 +10004,8 @@
    "context_unattached": 0,
    "parsed": 40,
    "char_span": [
-    416057,
-    427136
+    416059,
+    427138
    ]
   },
   {
@@ -10505,8 +10544,8 @@
    "context_unattached": 0,
    "parsed": 40,
    "char_span": [
-    427136,
-    438582
+    427138,
+    438584
    ]
   },
   {
@@ -11045,8 +11084,8 @@
    "context_unattached": 0,
    "parsed": 40,
    "char_span": [
-    438582,
-    467365
+    438584,
+    467367
    ]
   },
   {
@@ -11585,8 +11624,8 @@
    "context_unattached": 0,
    "parsed": 40,
    "char_span": [
-    467365,
-    481311
+    467367,
+    481313
    ]
   },
   {
@@ -12125,8 +12164,8 @@
    "context_unattached": 0,
    "parsed": 40,
    "char_span": [
-    481311,
-    493730
+    481313,
+    493732
    ]
   },
   {
@@ -12665,8 +12704,8 @@
    "context_unattached": 0,
    "parsed": 40,
    "char_span": [
-    493730,
-    504524
+    493732,
+    504526
    ]
   },
   {
@@ -13205,8 +13244,8 @@
    "context_unattached": 0,
    "parsed": 40,
    "char_span": [
-    504524,
-    516285
+    504526,
+    516287
    ]
   },
   {
@@ -13745,8 +13784,8 @@
    "context_unattached": 0,
    "parsed": 40,
    "char_span": [
-    516285,
-    531652
+    516287,
+    531654
    ]
   },
   {
@@ -14159,8 +14198,8 @@
    "context_unattached": 0,
    "parsed": 30,
    "char_span": [
-    531652,
-    545528
+    531654,
+    545530
    ]
   },
   {
@@ -14350,15 +14389,15 @@
      "q_no": 14,
      "stem": "Q.14) What is the cropping pattern of Sugarcane with a short span crop orop that can be harvested even before Sugarcane reaches maturity?",
      "options": {
-      "f": "Companion cropping",
-      "g": "Intercropping",
-      "h": "Nurse cropping",
-      "i": "Relay cropping",
-      "j": "Alternate cropping"
+      "a": "Companion cropping",
+      "b": "Intercropping",
+      "c": "Nurse cropping",
+      "d": "Relay cropping",
+      "e": "Alternate cropping"
      },
      "answer_label": "a",
      "flags": [
-      "answer_label_not_in_options"
+      "options_relabelled_positionally"
      ]
     },
     {
@@ -14379,8 +14418,8 @@
    "context_unattached": 0,
    "parsed": 15,
    "char_span": [
-    545528,
-    552866
+    545530,
+    552868
    ]
   },
   {
@@ -14597,8 +14636,8 @@
    "context_unattached": 0,
    "parsed": 15,
    "char_span": [
-    552866,
-    559786
+    552868,
+    559788
    ]
   },
   {
@@ -15007,8 +15046,8 @@
    "context_unattached": 0,
    "parsed": 30,
    "char_span": [
-    559786,
-    578055
+    559788,
+    578057
    ]
   },
   {
@@ -15487,8 +15526,8 @@
    "context_unattached": 0,
    "parsed": 35,
    "char_span": [
-    578055,
-    600350
+    578057,
+    600352
    ]
   },
   {
@@ -15708,8 +15747,8 @@
    "context_unattached": 0,
    "parsed": 15,
    "char_span": [
-    600350,
-    611753
+    600352,
+    611755
    ]
   },
   {
@@ -15926,8 +15965,8 @@
    "context_unattached": 0,
    "parsed": 15,
    "char_span": [
-    611753,
-    621035
+    611755,
+    621037
    ]
   },
   {
@@ -16006,8 +16045,8 @@
    "context_unattached": 0,
    "parsed": 6,
    "char_span": [
-    621035,
-    621821
+    621037,
+    621823
    ]
   },
   {
@@ -16086,8 +16125,8 @@
    "context_unattached": 0,
    "parsed": 6,
    "char_span": [
-    621821,
-    622515
+    621823,
+    622517
    ]
   },
   {
@@ -16166,8 +16205,8 @@
    "context_unattached": 0,
    "parsed": 6,
    "char_span": [
-    622515,
-    623729
+    622517,
+    623731
    ]
   }
  ]
