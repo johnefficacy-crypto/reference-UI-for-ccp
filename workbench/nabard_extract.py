@@ -73,6 +73,17 @@ RE_OPTION_NUM = re.compile(r"^[ \t]*([1-5])\)[ \t]+(.*)$")
 # prints three such statements above its real "(a)-(e)" options). Presence of a
 # "(ii)" line in the same chunk is what proves the "(i)" is a roman numeral.
 RE_ROMAN_II = re.compile(r"^[ \t]*[(\[]i{2,3}[)\]]", re.M)
+# Sentence-segmentation questions print their segment markers INLINE and wrap:
+# "... despite (c)/ the government warning that action \n (d)/ would be taken
+# against the organizers (e)." A wrapped line then OPENS with "(d)/", which is
+# the option shape.
+#
+# The slash must be flush against the bracket AND be followed by text: a real
+# option can BE a slash. 1|Computer Knowledge|2022 Q.58 asks which symbol may
+# appear in a filename and prints "(a) / " -- space before the slash, nothing
+# after it. Matching that would delete a real option and shift the answer key
+# by one, which is precisely the silent corruption this guard exists to stop.
+RE_INLINE_SEGMENT = re.compile(r"^[ \t]*[(\[][a-j][)\]]/[ \t]*\S")
 _NUM_TO_ALPHA = {"1": "a", "2": "b", "3": "c", "4": "d", "5": "e"}
 # "Answer" and "Solution" are both used, with -, –, — or : as the separator.
 RE_ANSWER = re.compile(
@@ -388,6 +399,18 @@ def parse_questions(segment: str) -> list[dict]:
         # flips in_options -- otherwise the "(ii)"/"(iii)" lines that follow it
         # are swallowed and the stem loses the statements the options refer to.
         roman_list = bool(RE_ROMAN_II.search(chunk))
+        # A near-complete paren "(a)-(e)" set in this chunk means the real
+        # options are the paren ones, so an "A)"/"A." line here is prose --
+        # 1|English|2022 Q.41 prints the four sentences to REORDER as
+        # "A) B) C) D)" above its real "(a)-(e)" choices. Letting those flip
+        # option mode dropped all four from the stem while the options still
+        # came out a clean a-e, which is invisible downstream.
+        paren_preview = sum(
+            1
+            for ln in chunk.splitlines()
+            if RE_OPTION.match(ln) and not RE_INLINE_SEGMENT.match(ln)
+        )
+        alt_is_prose = paren_preview >= 4
         for line in chunk.splitlines():
             if RE_EXPLANATION.match(line):
                 break
@@ -396,11 +419,19 @@ def parse_questions(segment: str) -> list[dict]:
                 answer = am.group(1).lower()
                 continue
             om = RE_OPTION.match(line)
+            if RE_INLINE_SEGMENT.match(line):
+                om = None  # an inline segment marker, not an option
             if om and not (roman_list and om.group(1) == "i"):
                 in_options = True
                 paren.append((om.group(1), om.group(2).strip()))
                 continue
             am2 = RE_OPTION_ALT.match(line)
+            if am2 and alt_is_prose:
+                # Collected for the chooser, but it must not end the stem.
+                alt.append((am2.group(1).lower(), am2.group(2).strip()))
+                if not in_options:
+                    stem_lines.append(line)
+                continue
             if am2:
                 alt.append((am2.group(1).lower(), am2.group(2).strip()))
                 if len(alt) >= 2:
