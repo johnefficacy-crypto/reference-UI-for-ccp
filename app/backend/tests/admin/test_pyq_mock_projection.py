@@ -931,8 +931,12 @@ class TestSyncPaperProjection:
         # EI-CLEAN-04: sync-result rows carry the readable label, like preview.
         assert result["questions"][0]["label"] == "What is X?"
 
-    def test_rpc_exception_propagates(self):
-        """Internal RPC errors must propagate as exceptions, not silently return outcome='error'."""
+    def test_rpc_exception_blocks_the_row_instead_of_aborting_the_run(self):
+        """A row the RPC rejects is reported, not raised.
+
+        Each RPC call is its own transaction, so raising out of the loop left
+        every earlier row committed and said nothing about which row failed.
+        """
         sb = _seed_sb()
         original_rpc = sb.rpc
 
@@ -945,8 +949,107 @@ class TestSyncPaperProjection:
             return original_rpc(name, params)
 
         sb.rpc = fail_rpc
-        with pytest.raises(RuntimeError):
-            sync_paper_projection(sb, PAPER_ID, ACTOR_ID)
+        out = sync_paper_projection(sb, PAPER_ID, ACTOR_ID)
+        assert out["attempted"] == 1
+        assert out["outcomes"]["blocked"] == 1
+        row = out["questions"][0]
+        assert row["outcome"] == "blocked"
+        assert row["question_id"] == Q_ID
+        assert row["reason"].startswith("rpc_error:")
+        assert "DB error" in row["detail"]["error"]
+
+    def test_a_blocked_row_does_not_stop_the_questions_after_it(self):
+        """The partial-write bug: one bad row aborted the remaining rows."""
+        q_bad = _question(id="11111111-1111-1111-1111-111111111111", question_number=1)
+        q_ok1 = _question(id="22222222-2222-2222-2222-222222222222", question_number=2)
+        q_ok2 = _question(id="33333333-3333-3333-3333-333333333333", question_number=3)
+        sb = _seed_sb(
+            questions=[q_bad, q_ok1, q_ok2],
+            options=[o | {"id": f"{q['id']}-{o['id']}", "question_id": q["id"]}
+                     for q in (q_bad, q_ok1, q_ok2) for o in _options()],
+            tags=[t | {"id": f"{q['id']}-tag", "question_id": q["id"]}
+                  for q in (q_bad, q_ok1, q_ok2) for t in _primary_tag()],
+        )
+        original_rpc = sb.rpc
+
+        def mixed_rpc(name, params=None):
+            if name == "project_pyq_question_to_mock_bank":
+                bad = params and params.get("p_pyq_question_id") == q_bad["id"]
+
+                class _R:
+                    def execute(self):
+                        if bad:
+                            raise RuntimeError(
+                                'invalid input syntax for type bytea')
+
+                        class _E:
+                            data = [{"outcome": "created", "mock_question_id": "m"}]
+                        return _E()
+                return _R()
+            return original_rpc(name, params)
+
+        sb.rpc = mixed_rpc
+        out = sync_paper_projection(sb, PAPER_ID, ACTOR_ID)
+        assert out["attempted"] == 3
+        assert out["outcomes"]["blocked"] == 1
+        assert out["outcomes"]["created"] == 2
+        blocked = [r for r in out["questions"] if r["outcome"] == "blocked"]
+        assert [r["question_id"] for r in blocked] == [q_bad["id"]]
+
+    def test_bytea_cast_failure_gets_a_named_reason(self):
+        """The RBI 2024 Q95 symptom: a backslash the ::bytea cast cannot parse."""
+        sb = _seed_sb()
+        original_rpc = sb.rpc
+
+        def fail_rpc(name, params=None):
+            if name == "project_pyq_question_to_mock_bank":
+                class _R:
+                    def execute(self):
+                        raise RuntimeError(
+                            'invalid input syntax for type bytea')
+                return _R()
+            return original_rpc(name, params)
+
+        sb.rpc = fail_rpc
+        out = sync_paper_projection(sb, PAPER_ID, ACTOR_ID)
+        assert out["questions"][0]["reason"].startswith("content_hash_bytea_cast:")
+
+    def test_sync_reads_questions_in_a_deterministic_order(self):
+        """Without an explicit order the completed set is not a readable prefix."""
+        qs = [_question(id=f"{n:08d}-0000-0000-0000-000000000000", question_number=n)
+              for n in (95, 81, 200)]
+        sb = _seed_sb(
+            questions=qs,
+            options=[o | {"id": f"{q['id']}-{o['id']}", "question_id": q["id"]}
+                     for q in qs for o in _options()],
+            tags=[t | {"id": f"{q['id']}-tag", "question_id": q["id"]}
+                  for q in qs for t in _primary_tag()],
+        )
+        original_rpc = sb.rpc
+        seen: list[str] = []
+
+        def tracking_rpc(name, params=None):
+            if name == "project_pyq_question_to_mock_bank":
+                seen.append(params["p_pyq_question_id"])
+
+                class _R:
+                    def execute(self):
+                        class _E:
+                            data = [{"outcome": "created", "mock_question_id": "m"}]
+                        return _E()
+                return _R()
+            return original_rpc(name, params)
+
+        sb.rpc = tracking_rpc
+        sync_paper_projection(sb, PAPER_ID, ACTOR_ID)
+        numbers = [next(q["question_number"] for q in qs if q["id"] == qid) for qid in seen]
+        assert numbers == sorted(numbers)
+
+    def test_every_result_row_carries_its_question_number(self):
+        """The client could not map a UUID back to a question number."""
+        sb = _seed_sb()
+        out = sync_paper_projection(sb, PAPER_ID, ACTOR_ID)
+        assert all("question_number" in r for r in out["questions"])
 
     def test_unknown_question_id_rejected(self):
         sb = _seed_sb()
@@ -1080,6 +1183,56 @@ class TestProjectionAPIEndpoints:
         assert resp.status_code == 200
         data = resp.json()
         assert data["attempted"] == 1
+
+    def test_sync_blocked_row_returns_422_naming_the_question(self):
+        """The old behaviour was a sanitised 500 that named nothing."""
+        sb = _seed_sb()
+        original_rpc = sb.rpc
+
+        def fail_rpc(name, params=None):
+            if name == "project_pyq_question_to_mock_bank":
+                class _R:
+                    def execute(self):
+                        raise RuntimeError("invalid input syntax for type bytea")
+                return _R()
+            return original_rpc(name, params)
+
+        sb.rpc = fail_rpc
+        client = _make_app(sb, _publisher_actor())
+        resp = client.post(
+            f"/api/admin/mocks/pyq-papers/{PAPER_ID}/projection/sync",
+            json={"audit_reason": "operator_manual_sync"},
+        )
+        assert resp.status_code == 422
+        detail = resp.json()["detail"]
+        assert detail["error"] == "projection_blocked"
+        assert detail["question_id"] == Q_ID
+        assert detail["blocked"][0]["question_id"] == Q_ID
+        assert detail["blocked"][0]["reason"].startswith("content_hash_bytea_cast:")
+        # Progress stays legible: the counts from the completed run come back.
+        assert detail["attempted"] == 1
+        assert detail["outcomes"]["blocked"] == 1
+
+    def test_sync_no_longer_returns_a_sanitised_500_for_a_bad_row(self):
+        sb = _seed_sb()
+        original_rpc = sb.rpc
+
+        def fail_rpc(name, params=None):
+            if name == "project_pyq_question_to_mock_bank":
+                class _R:
+                    def execute(self):
+                        raise RuntimeError("boom")
+                return _R()
+            return original_rpc(name, params)
+
+        sb.rpc = fail_rpc
+        client = _make_app(sb, _publisher_actor())
+        resp = client.post(
+            f"/api/admin/mocks/pyq-papers/{PAPER_ID}/projection/sync",
+            json={"audit_reason": "operator_manual_sync"},
+        )
+        assert resp.status_code != 500
+        assert resp.json()["detail"] != "internal error: projection_sync"
 
     def test_sync_audit_reason_required(self):
         """POST /sync without body must return 422 (audit_reason is required)."""

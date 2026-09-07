@@ -65,6 +65,12 @@ def _fetch_paper_questions(sb: Any, paper_id: str) -> list[dict]:
             "explanation_text, language, section_id"
         )
         .eq("pyq_paper_id", paper_id)
+        # Deterministic order. Without it PostgREST returns heap order, so a
+        # sync that dies partway leaves a set of completed rows that cannot be
+        # read as a prefix of anything — the failing row is then invisible from
+        # the client side. Ordering also makes a re-run resume-comparable.
+        .order("question_number")
+        .order("id")
         .execute()
         .data
     ) or []
@@ -531,6 +537,24 @@ def preview_paper_projection(sb: Any, paper_id: str) -> dict:
     }
 
 
+def _blocked_reason(exc: Exception) -> str:
+    """A short, stable reason string for a row the projection RPC rejected.
+
+    The full text goes to the log and to ``detail.error``; this is the part the
+    operator acts on.
+    """
+    text = str(exc)
+    low = text.lower()
+    if "invalid input syntax for type bytea" in low:
+        return ("content_hash_bytea_cast: projected text contains a backslash "
+                "escape the hash cast cannot parse")
+    if "null character not permitted" in low:
+        return "content_hash_null_byte: projected text contains a NUL byte"
+    if "duplicate key" in low or "unique constraint" in low:
+        return f"unique_violation: {text[:200]}"
+    return f"rpc_error: {text[:200]}"
+
+
 def sync_paper_projection(
     sb: Any,
     paper_id: str,
@@ -576,23 +600,46 @@ def sync_paper_projection(
 
     results: list[dict] = []
     outcome_counts: dict[str, int] = {
-        "unchanged": 0, "updated": 0, "created": 0, "ineligible": 0, "error": 0,
+        "unchanged": 0, "updated": 0, "created": 0, "ineligible": 0,
+        "error": 0, "blocked": 0,
     }
 
     for q in questions:
         qid = q["id"]
-        rpc_result = (
-            sb.rpc(
-                "project_pyq_question_to_mock_bank",
-                {
-                    "p_pyq_question_id": qid,
-                    "p_actor_id": actor_id,
-                    "p_audit_reason": audit_reason,
-                },
+        try:
+            rpc_result = (
+                sb.rpc(
+                    "project_pyq_question_to_mock_bank",
+                    {
+                        "p_pyq_question_id": qid,
+                        "p_actor_id": actor_id,
+                        "p_audit_reason": audit_reason,
+                    },
+                )
+                .execute()
+                .data
             )
-            .execute()
-            .data
-        )
+        except Exception as exc:  # noqa: BLE001
+            # One unprojectable row must not abort the run. Each RPC call is its
+            # own transaction, so raising here would leave every earlier row
+            # committed with nothing recorded about which row failed — the
+            # partial-write bug. Mark the row blocked with the reason and carry
+            # on, matching how the eligibility gate reports `ineligible`.
+            logger.warning(
+                "projection blocked for pyq question %s on paper %s: %s",
+                qid, paper_id, exc,
+            )
+            outcome_counts["blocked"] = outcome_counts.get("blocked", 0) + 1
+            results.append({
+                "question_id": qid,
+                "question_number": q.get("question_number"),
+                "label": _short_label(q.get("question_text")),
+                "outcome": "blocked",
+                "mock_question_id": None,
+                "reason": _blocked_reason(exc),
+                "detail": {"error": str(exc)[:500]},
+            })
+            continue
 
         # RPC returns a JSONB record or list-of-one
         result_data: dict = {}
@@ -605,6 +652,7 @@ def sync_paper_projection(
         outcome_counts[outcome] = outcome_counts.get(outcome, 0) + 1
         results.append({
             "question_id": qid,
+            "question_number": q.get("question_number"),
             # EI-CLEAN-04: same readable label as preview so sync-result rows show
             # the question text, not a truncated UUID.
             "label": _short_label(q.get("question_text")),

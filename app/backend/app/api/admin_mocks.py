@@ -464,7 +464,13 @@ def projection_sync(
     body: ProjectionSyncIn,
     actor: dict = Depends(require_publisher),
 ):
-    """[publisher] Atomically project eligible PYQ questions into mock_question_bank."""
+    """[publisher] Project eligible PYQ questions into mock_question_bank.
+
+    Not atomic: the projection RPC commits per question, so a row that the RPC
+    rejects is reported as ``blocked`` and the run continues rather than
+    aborting and leaving earlier rows committed with nothing said about which
+    row failed. Blocked rows come back as a 422 naming them.
+    """
     paper_id = _validate_uuid_param(paper_id, "paper_id")
     actor_id = actor.get("id")
     try:
@@ -485,6 +491,26 @@ def projection_sync(
             "error": "fingerprint_conflict",
             "question_id": conflicts[0].get("question_id"),
             "detail": conflicts[0].get("detail", {}),
+        })
+
+    # Rows the RPC rejected. The run completed and every other row was
+    # attempted, so the counts are real progress — but the caller must be told
+    # WHICH rows failed, which the old sanitised 500 never did.
+    blocked = [q for q in result.get("questions", []) if q.get("outcome") == "blocked"]
+    if blocked:
+        raise HTTPException(422, detail={
+            "error": "projection_blocked",
+            "question_id": blocked[0].get("question_id"),
+            "blocked": [
+                {
+                    "question_id": b.get("question_id"),
+                    "question_number": b.get("question_number"),
+                    "reason": b.get("reason"),
+                }
+                for b in blocked
+            ],
+            "attempted": result.get("attempted"),
+            "outcomes": result.get("outcomes"),
         })
 
     return result
