@@ -1,4 +1,12 @@
-﻿Q2  []
+﻿Q1  []
+What can be inferred about the economy of the world from the passage?
+     (a) The continuing war in Europe has caused major concerns with respect to foreign investments
+   * (b) High inflation plagues the world due to the many factors of uncert ainty affecting the economy.
+     (c) Recession and unemployment rates are growing due to a fall in economic stability.
+     (d) both (b) and (c)
+     (e) All of these
+
+Q2  []
 Which of the following was/were the objectives of the off -cycle meeting by RBI?
      (a) controlling inflation
      (b) countering global uncertainty
@@ -13,6 +21,62 @@ Which of the following come(s) under the changes introduced by the RBIâ€™s 
      (c) RBI , with its new policies , has shown that it intends to keep its economic stance rigid till some time despite their previous commitments of change .
      (d) RBI is following in the footsteps of other economic authorities to counter disturbances in economic structu re.
      (e) RBI is making changes as it goes along in accordance with factors of ever -present uncertainty which has been helpful in keeping inflation in control.
+
+Q4  []
+Which of the following if correct, most invalidates the arguments in the third passage?
+     (a) WPI inflation rate is projected to come down to single digits in the coming months.
+   * (b) Changes in trends of WPI rate do not depend on changes in trends of CPI rate.
+     (c) The IMF does not need to revise its global growth forecast after every trend change.
+     (d) The changes made by RBI are enough to counteract current trend of inflation.
+     (e) The economy of Western countries is capable of rapidly recovering from inflation.
+
+Q5  []
+Which of the following is true according to the data in the passage?
+     (a) WPI and CPI h ave been staggered for some time now.
+     (b) High levels of inflation are projected in the near future in India.
+     (c) Global forecast has decreased 0.8% from its initial forecast.
+     (d) RBI has raised the SDF, MSF, and the CRR rates in the recent meeting.
+   * (e) RBI intends to adopt an accommodative stance when itâ€™s feasible.
+
+Q6  []
+What is the primary focus of the author in the passage?
+     (a) Pointing out the oversight by RBI in delaying the newly drafted policies
+     (b) Bringing to light the effects of inflation in glo bal economy
+     (c) Suggesting action by pointing out the similarity of inflation trends worldwide
+   * (d) Noting the effects of inflation and emphasising the importance of proper action
+     (e) Connecting the variation of rate of inflation with change in policies
+
+Q7  []
+From among the following given options, choose the word most similar in meaning to the highlighted word â€œgradualâ€, as used in the context of the passage.
+     (a) intermediate
+   * (b) measured
+     (c) restrained
+     (d) uniform
+     (e) calculated
+
+Q8  []
+Which of the following words is most opposite in meaning to the highlighted word â€œdeleteriousâ€?
+   * (a) inimical
+     (b) torpid
+     (c) mortifying
+     (d) sinistral
+     (e) abject
+
+Q9  []
+Which is the fourth sentence after rearrangement?
+     (a) A
+   * (b) D
+     (c) E
+     (d) C
+     (e) B
+
+Q10  []
+What is the correct rearrangement of the given sentences?
+     (a) ABEDC
+     (b) CBADF
+   * (c) EBADC
+     (d) ABDEF
+     (e) ABDCF
 
 Q11  []
 Out of the given statements, only one is grammatically correct. Choose that statement as the answer. If all the sentences are incorrect, then choose option (e) as the answer. [Option a: The Union Cabin et recently approved the auction of airwaves...]
@@ -117,6 +181,38 @@ How is proper planning important for a vegetarian li festyle?
      (c) Make s a vegetarian lifestyle sustainable throughout all life cycles
      (d) Prevent s several deficiencies introduced by not having a balanced diet
    * (e) All of these
+
+Q24  []
+Which of the following ways can help in making vegetarian diets more interesting to adopt according to the passage?
+   * (a) Trying different recipes
+     (b) Limit intake of non -vegetarian foods in your diet
+     (c) Increase intake of fruits and vegetables in your diet
+     (d) both (b) and (c)
+     (e) all of these
+
+Q25  []
+Which of the following words can most appropriately be substituted in the blank in the passage?
+     (a) accelerate
+     (b) subsist
+     (c) catalyse
+   * (d) benefit
+     (e) affect
+
+Q26  []
+Which of the following words is the most similar in its definition as the highlighted word adequate , the definition corresponding to its usage in the passage?
+   * (a) ample
+     (b) restrictive
+     (c) cooperative
+     (d) exuberant
+     (e) vivacious
+
+Q27  []
+Choose the word from the following options which most aptly acts as an antonym to the highlighted word beneficial as it is used in the context of the passage.
+     (a) fragile
+     (b) jittery
+     (c) grotesque
+   * (d) detrimental
+     (e) quaint
 
 Q28  []
 Get a second wind (i) Even after dissatisfactory reports on his work, his manager decided to give him anoth er chanc e. (ii) After reaching a halt in his work, he found himself able to work again after taking a break. (iii) He disinvested from the stocks after he saw another stockâ€™s prices going up at an exciting rate.
@@ -534,6 +630,14 @@ ___ faces to the one who likes ____ colour?
      (d) A, Black
      (e) All of these
 
+Q80  []
+How many persons sit around the table?
+     (a) More than 18
+     (b) 12
+     (c) 13
+   * (d) 10
+     (e) 17
+
 Q81  []
 Four of the following five are alike in a certain way and hence form a group. Which of the following does not belong to that group? [Option a: T-W...]
      (a) T-W
@@ -708,6 +812,22 @@ Find the both roots of equation (p+q)2a2 + (3pq +1) a âˆ’6=0.
      (c) 8 25,âˆ’1
      (d) 3 25,âˆ’1
    * (e) 6 25,âˆ’1
+
+Q108  []
+If X is the correct number which replace the wrong number of the series 229, 256, 320, 441, 661, 1004, then which of following statement/s is or are correct. I. X is completely divisible by 15. II. (X+2) is a prime number.
+     (a) Both I and II correct
+   * (b) Both I and II incorrect
+     (c) I correct and II incorrect
+     (d) I incorrect and II correct
+     (e) Canâ€™t determine
+
+Q109  []
+Series (A): 1332, 612, 492, Y, 462, 460 If Yâˆ’18 5 is a fourth term of series (B) and follow same pattern as of the series (A), then find the first term of series (B).
+   * (a) 954
+     (b) 882
+     (c) 1045
+     (d) 1198
+     (e) 892
 
 Q110  []
 49, ?, 82, 145, 269, 484, 826 If ?=A+6, then find the nearest square of A.
