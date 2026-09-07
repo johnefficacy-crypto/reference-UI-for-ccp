@@ -7,7 +7,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "fdac2b38-fc3f-4fd4-bd39-613421fb029f",
@@ -17,7 +17,7 @@
     "is_correct": true,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "e126b9b2-20ed-42c4-b83b-4b7215bae704",
@@ -27,7 +27,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "c7e751b5-dc99-4b9d-90f3-351e50b39ef3",
@@ -37,7 +37,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "7ed6a7f1-4a09-4977-9445-56186fe708a7",
@@ -47,7 +47,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "e508802b-e681-42c3-a77d-212664236451",
@@ -207,7 +207,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "01169328-c139-48ff-a790-4562b053d58b",
@@ -217,7 +217,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "3373034b-f94b-4b12-8194-4342d4bf2b29",
@@ -227,7 +227,7 @@
     "is_correct": true,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "384999c7-db82-4ac2-ae2a-050733a2c955",
@@ -237,7 +237,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "153fc247-e850-4a17-8aa3-0582e08dab99",
@@ -247,7 +247,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "731652f1-39e4-4655-b30a-2553f47335c4",
@@ -257,7 +257,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "27672b47-c171-482f-826a-a282bebef40a",
@@ -267,7 +267,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "4361abf6-7b49-4bfd-b85a-5a2075307a37",
@@ -277,7 +277,7 @@
     "is_correct": true,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "fccf7f82-7740-4707-afe9-a8bd4bea89cf",
@@ -287,7 +287,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "1dc70b34-3f11-4baf-aa6b-b86c8fd44561",
@@ -297,7 +297,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "52d091ca-cccb-4b54-8d00-7f9d7ce6d57d",
@@ -307,7 +307,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "0f11b4a7-08f9-40ad-a29e-6fb83d2c3283",
@@ -317,7 +317,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "680e3d84-0b27-4535-afbe-be1f9538d702",
@@ -327,7 +327,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "70eb7afb-cc8a-41c2-b339-cd45ab6f6b54",
@@ -337,7 +337,7 @@
     "is_correct": true,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "1abc4a2d-dc11-4397-a5e6-e2dc8a344200",
@@ -347,7 +347,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "2720ad0a-614e-412e-a0ae-9ff801297757",
@@ -407,7 +407,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "7d86c15b-0df4-4b69-b066-d1f07c3f5cb0",
@@ -417,7 +417,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "572c6399-d293-4738-a643-28fde4cf6cab",
@@ -427,7 +427,7 @@
     "is_correct": true,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "15d5bf10-3e55-4d17-befb-171387b92d55",
@@ -437,7 +437,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "2b1c8306-0dee-4232-bbe6-47890d971e77",
@@ -447,7 +447,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "df2427c6-2109-41da-b986-05265f02d2e3",
@@ -457,7 +457,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "7bb8abe6-c4bd-460e-bc56-4f4f3f70329b",
@@ -467,7 +467,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "05b96452-4519-47b8-b25a-f3ffce88e295",
@@ -477,7 +477,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "dcaddc70-9fd9-424a-b477-0df871fffe69",
@@ -487,7 +487,7 @@
     "is_correct": true,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "e09be730-fa40-4422-a3e1-8236c58dc62b",
@@ -497,7 +497,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "c795285b-7ace-4ff6-b408-cafd76059561",
@@ -507,7 +507,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "eb5b257a-7512-4e07-bc56-01a5a0c1e17b",
@@ -517,7 +517,7 @@
     "is_correct": true,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "25382ed1-0be0-47f0-871e-d47d052444e0",
@@ -527,7 +527,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "bde364ee-31b6-4481-821c-610e56bf5b7c",
@@ -537,7 +537,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "0dcb5bed-6123-407b-bb80-b090bbb3564a",
@@ -547,7 +547,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "293ee935-6b2b-4ab0-8695-3c0d6211e8e4",
@@ -557,7 +557,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "0e954aeb-e7ee-482c-a0f3-6ed6d231714f",
@@ -567,7 +567,7 @@
     "is_correct": true,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "a7f69182-4de8-4abf-bef4-10b3b02a19a9",
@@ -577,7 +577,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "959aa613-bdaa-4cf4-b50e-648d0e694c1c",
@@ -587,7 +587,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "64eca55a-b4b9-400b-a447-b32445651cad",
@@ -597,7 +597,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "126e2fed-a044-4886-8589-c3aba0d41ab5",
@@ -607,7 +607,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "6d74ecec-f16e-4e02-8f0d-9f20bcfa7987",
@@ -617,7 +617,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "a0251b1a-8a1f-4ea4-979c-81c14f28697b",
@@ -627,7 +627,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "e776a121-9e58-414e-9b75-cb4799df7f1c",
@@ -637,7 +637,7 @@
     "is_correct": true,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "a0074665-f268-4d7a-9a16-4e4691b423cb",
@@ -647,7 +647,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "83418e3f-8417-4091-b21a-7a49a9d194e8",
@@ -707,7 +707,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "185c0642-0e10-4e7f-b4d4-92002cb164a4",
@@ -717,7 +717,7 @@
     "is_correct": true,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "e9f15658-d73a-4f92-a09d-3f680c570703",
@@ -727,7 +727,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "91d335e6-7909-493b-908b-2d8622de63c4",
@@ -737,7 +737,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "19cce074-5575-4a04-b6a6-5907fc9edc84",
@@ -747,7 +747,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "8558098d-02e9-4f93-bb1e-6edd256e99ff",
@@ -757,7 +757,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "33d76d33-73c3-427a-a04d-e5c50071ef31",
@@ -767,7 +767,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "4ce16118-a27f-4359-b46c-9c1291b8238f",
@@ -777,7 +777,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "eb2debce-7f67-46b0-985e-e392c666a269",
@@ -787,7 +787,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "79826d4d-34b5-4515-85d1-dcca57efb4e5",
@@ -797,7 +797,7 @@
     "is_correct": true,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "d95ef9fc-63e4-4847-8ed6-1b4a377849d6",
@@ -907,7 +907,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "aa4c2ae3-83b1-49a6-89ed-31399fda2278",
@@ -917,7 +917,7 @@
     "is_correct": true,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "da99da1d-f17f-4b00-a90d-cd748105a6e2",
@@ -927,7 +927,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "74ea758e-3315-494e-82cb-b81d5b633097",
@@ -937,7 +937,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "36d9f873-dd10-42c9-b309-04bac477265c",
@@ -947,7 +947,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "602220e6-6ad7-408c-b267-99fd70067672",
@@ -1057,7 +1057,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "6d55b0fb-80c1-4432-afca-835941c936ec",
@@ -1067,7 +1067,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "237edb13-139e-40fd-a3d8-01640c2335cf",
@@ -1077,7 +1077,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "f28c66b1-eaac-4bbe-93d6-df5e9ce2d11c",
@@ -1087,7 +1087,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "0d8f0de8-2ebf-4ac3-917f-d700d4184a98",
@@ -1097,7 +1097,7 @@
     "is_correct": true,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "719bac59-9e85-46ed-8d5d-7bd147b4929b",
@@ -1107,7 +1107,7 @@
     "is_correct": true,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "48fc9282-ee86-4612-994b-894fd119161a",
@@ -1117,7 +1117,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "5ea55bbb-733a-4cb6-aadd-583fd4b204fe",
@@ -1127,7 +1127,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "32b98e61-9313-45c6-abfc-e7529be53b21",
@@ -1137,7 +1137,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "6fb6b55b-cbc0-4feb-b607-9a4e084d1797",
@@ -1147,7 +1147,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "1200c15e-0f52-421d-8a98-b5b6aeef6a2e",
@@ -1157,7 +1157,7 @@
     "is_correct": true,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "827c800d-dd63-47d0-bf1c-27fa4f65de2f",
@@ -1167,7 +1167,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "db506cf0-5e86-4acd-9e41-4dcb2e0f94e5",
@@ -1177,7 +1177,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "77e1fce6-8783-4e13-910f-326f2f4d0c67",
@@ -1187,7 +1187,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "0e4a2189-6197-4e95-bbb2-de0a54f4cc24",
@@ -1197,7 +1197,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "f9bbff4a-fc48-41f7-8175-e22a2c8cfcaf",
@@ -1357,7 +1357,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "709a86f1-dd2e-4105-bb23-a04f551c5172",
@@ -1367,7 +1367,7 @@
     "is_correct": true,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "4a4dcb88-669c-4edb-9694-a083b8e998c5",
@@ -1377,7 +1377,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "ed9d1819-0740-43f0-b95c-8d091592a821",
@@ -1387,7 +1387,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "434ba7fd-e2ce-43cc-b942-0afb9cf2157c",
@@ -1397,7 +1397,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "e9a6a748-032a-4f1c-b023-5087b7d51238",
@@ -1457,7 +1457,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "e10da5d0-db33-4a01-a78d-cd1629a8a99c",
@@ -1467,7 +1467,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "41d13b45-8cd9-4465-b0f1-9ae021feaa3e",
@@ -1477,7 +1477,7 @@
     "is_correct": true,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "bbba1f78-e0b2-47d8-975a-7248abf56498",
@@ -1487,7 +1487,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "2f96f0ad-c06d-4dcc-a9e1-b0025c7ff7a6",
@@ -1497,7 +1497,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "61085f97-3fdb-466e-a38f-e8cd22de60da",
@@ -1507,7 +1507,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "3d3f3e08-d5b9-4309-8dba-b0cb6ec7ab7f",
@@ -1517,7 +1517,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "189ab5e2-baa1-43a8-922e-d8c926f27513",
@@ -1527,7 +1527,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "f9f619f6-9c04-4ecb-be1e-ef4a34cf321c",
@@ -1537,7 +1537,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "841acd16-8a9a-4e2f-8184-ffae70b0afbe",
@@ -1547,7 +1547,7 @@
     "is_correct": true,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "efa425e2-195a-42f6-9142-898713c55322",
@@ -1607,7 +1607,7 @@
     "is_correct": true,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "52d1a41c-f0b5-4339-b2f4-266e194c4a45",
@@ -1617,7 +1617,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "85e6e181-4a57-4ec4-be9c-4360671c14b4",
@@ -1627,7 +1627,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "c43949ab-5147-433c-b48b-95145d2a4d41",
@@ -1637,7 +1637,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "30732bfd-64b8-4fa7-ad76-c9dd1ffeac3a",
@@ -1647,7 +1647,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "cfa548f6-86ee-4750-a603-64a4497df9c7",
@@ -1707,7 +1707,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "15cdfb35-f8db-4d97-8854-b997b7a02152",
@@ -1717,7 +1717,7 @@
     "is_correct": true,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "cfd18161-5d2d-4cb9-b7c6-d970c91a5825",
@@ -1727,7 +1727,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "f63f9b1c-beae-435c-83b5-500ecc7e725a",
@@ -1737,7 +1737,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "8197de2a-0959-4129-82c6-4fd4e6a4533d",
@@ -1747,7 +1747,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "d7ad61cd-04f0-402c-ac77-c5976ab78eff",
@@ -1757,7 +1757,7 @@
     "is_correct": true,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "aaff7982-7246-412d-bc06-39403f78a45e",
@@ -1767,7 +1767,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "7781af5c-8b74-48b7-a23d-bdcd59d6896d",
@@ -1777,7 +1777,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "8559d8a1-8e51-42ab-88a2-d7c0bcf826ac",
@@ -1787,7 +1787,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "8f284406-fa8b-40ff-bfc5-f8cb2e90edde",
@@ -1797,7 +1797,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "8f6b72c8-09c2-4a41-a5d7-00befb24f26a",
@@ -1807,7 +1807,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "7cb86b99-66a7-4f42-be72-2bb7d3edfc9e",
@@ -1817,7 +1817,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "deb27047-e621-4123-a44b-373bdaa4b16a",
@@ -1827,7 +1827,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "a7bdd242-a889-4e9a-b34f-ee389f97bf0d",
@@ -1837,7 +1837,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "1cfad0ff-3982-495f-a2f4-313a2883c181",
@@ -1847,7 +1847,7 @@
     "is_correct": true,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "324325ab-bbc2-48a1-9b58-fad6a8ff3c32",
@@ -2047,7 +2047,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "86ca8749-832a-4138-af4c-f90b23cecdd9",
@@ -2057,7 +2057,7 @@
     "is_correct": true,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "05c45ed1-52dd-4647-9a02-36dd3b453cd6",
@@ -2067,7 +2067,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "c87aad2d-7cfb-46a6-8c9c-837c4b92dd01",
@@ -2077,7 +2077,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "196e1605-d84b-43bb-b86b-99452b9657f5",
@@ -2087,7 +2087,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "6446c768-da39-4d6a-8d26-7ec0dd73be4b",
@@ -2247,7 +2247,7 @@
     "is_correct": true,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "916941bf-7b69-4eab-b89e-90ba22eaba4c",
@@ -2257,7 +2257,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "29bc01e7-5bc9-479e-ba88-8f6b49635a3f",
@@ -2267,7 +2267,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "d660c721-b1d3-439e-b21c-539ed30469f7",
@@ -2277,7 +2277,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "97e5d73b-5df3-4cbb-978a-8b36fc715a7b",
@@ -2287,7 +2287,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "5a5343c6-85ca-45f2-b4ae-8c959a2219db",
@@ -2297,7 +2297,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "d1d99203-5b86-41ed-ad6d-5e9b09eeb458",
@@ -2307,7 +2307,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "a5b8a863-cc02-451c-bbd6-f937b01931d1",
@@ -2317,7 +2317,7 @@
     "is_correct": true,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "0440f285-e6c9-4ef4-8a4e-5c47f68cea8d",
@@ -2327,7 +2327,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "35cc1d27-f094-4ee7-9610-787278a8d236",
@@ -2337,7 +2337,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "db287391-60fc-417b-8d9e-46163bc4d9c1",
@@ -2347,7 +2347,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "7efc74e6-a1b5-4ce9-9f24-9c7278f854aa",
@@ -2357,7 +2357,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "a81ef162-a07b-4176-a921-0d226e20924a",
@@ -2367,7 +2367,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "6134a934-09c6-4d1f-9882-2118de2b75a9",
@@ -2377,7 +2377,7 @@
     "is_correct": true,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "9232bddb-f3ab-454a-b072-d39b7d7545d2",
@@ -2387,7 +2387,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "4e8de497-13d2-4229-9a91-6805ed7f89ab",
@@ -2397,7 +2397,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "6a3df67b-680a-458b-8048-d546e7da8af1",
@@ -2407,7 +2407,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "6922209c-474f-4448-8906-5c5f327cef96",
@@ -2417,7 +2417,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "b0cd4772-00f2-4448-8d0c-e79bab7d0dde",
@@ -2427,7 +2427,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "3597af75-c68c-42b6-b0c7-3de0badc9177",
@@ -2437,7 +2437,7 @@
     "is_correct": true,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "7daf18eb-f8fe-4282-92a8-cda369753a3d",
@@ -2447,7 +2447,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "2026b3c5-88f4-437c-83b5-113175a44f8a",
@@ -2457,7 +2457,7 @@
     "is_correct": true,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "0b96ee16-47e3-4633-b26b-663f7c3fb4b3",
@@ -2467,7 +2467,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "da18d314-cc02-4a7f-b383-bc33468fd492",
@@ -2477,7 +2477,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "1a438455-e092-4f5f-a51c-4092cfc43d7b",
@@ -2487,7 +2487,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "2f7faeba-12bb-49a8-9245-697c6539157a",
@@ -2597,7 +2597,7 @@
     "is_correct": true,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "e740b057-74c4-42c3-adb6-bc7010b9f433",
@@ -2607,7 +2607,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "02aa37a3-1502-4066-8f97-a31f081992c9",
@@ -2617,7 +2617,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "353d57d7-82b5-485a-b4af-ea9d93366fc2",
@@ -2627,7 +2627,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "5c48fd21-c592-4f7f-93c6-1ae7541ae356",
@@ -2637,7 +2637,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "c3db8200-7902-44b3-b351-ec4a607eb1da",
@@ -2647,7 +2647,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "b5a2ef9c-75ae-46ee-a74b-b5369cede8aa",
@@ -2657,7 +2657,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "ae4687c3-0ec9-463d-b081-7af5781b9dfe",
@@ -2667,7 +2667,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "ef97c1dc-baaf-4d2e-8dcc-22f02b328e8e",
@@ -2677,7 +2677,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "07e186ba-ecf8-42af-b2c0-92e1d237e0c1",
@@ -2687,7 +2687,7 @@
     "is_correct": true,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "6212f20f-a0d3-4663-a288-be14e093c6d0",
@@ -2697,7 +2697,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "d1d0d571-9f58-4046-832f-facf3550125c",
@@ -2707,7 +2707,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "3b4ef8db-8d1a-4796-af0e-d5e1aa16ac27",
@@ -2717,7 +2717,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "e7827f33-f96b-41f2-9dbc-3c076522a5f0",
@@ -2727,7 +2727,7 @@
     "is_correct": true,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "a2fb558f-994b-4d7e-bd25-62f184163856",
@@ -2737,7 +2737,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "2c409a32-5362-442e-b79e-c58fbba2323c",
@@ -2747,7 +2747,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "2f23d97a-f9db-4958-851e-7aba815a83c1",
@@ -2757,7 +2757,7 @@
     "is_correct": true,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "ded73765-3d72-46d4-8a50-2a1726cc8e83",
@@ -2767,7 +2767,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "97ca0c53-167e-4e9f-bf01-cf18404bfca0",
@@ -2777,7 +2777,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "93e44068-ed85-4d18-8a6f-b79bee2f6f87",
@@ -2787,7 +2787,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "f4d0c69d-7f21-47cb-b3b4-1834829d86cd",
@@ -2797,7 +2797,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "2424ce00-ea03-4f29-87e3-21a1640c9e93",
@@ -2807,7 +2807,7 @@
     "is_correct": true,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "8aa19f3d-10f5-487f-803d-f3223efe426e",
@@ -2817,7 +2817,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "408b6dd4-be46-4390-9236-db75b963e6e6",
@@ -2827,7 +2827,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "9d6e9c8d-11be-4042-b57d-422041fe084f",
@@ -2837,7 +2837,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "4282aa0a-d5e4-49dd-8864-c8e5e4e3a09c",
@@ -2847,7 +2847,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "46c3e377-612f-40bc-b4b8-21e78018f040",
@@ -2857,7 +2857,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "c2e27487-9f29-4703-ade5-8e818489a51a",
@@ -2867,7 +2867,7 @@
     "is_correct": true,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "81a3e90d-41eb-4644-b723-9f68fb0fd95f",
@@ -2877,7 +2877,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "c4d3f052-b516-4f77-a7f6-a6812b662d03",
@@ -2887,7 +2887,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "9a13296c-c5be-4820-b5d8-5911a036c835",
@@ -2947,7 +2947,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "e14c9af4-c6d1-403c-be8b-2b1dc82fc9e6",
@@ -2957,7 +2957,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "0abcd626-7bc3-4da4-9683-bed2dcd13d50",
@@ -2967,7 +2967,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "4c963351-ab83-433b-b465-d2c26b8c9350",
@@ -2977,7 +2977,7 @@
     "is_correct": true,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "f616ddc4-98cc-401e-a69f-ca7dbaac3cff",
@@ -2987,7 +2987,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "86ba3262-db32-417f-b241-13deb21c531e",
@@ -3197,7 +3197,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "09dc80c7-7c27-43ca-911f-434da861bdee",
@@ -3207,7 +3207,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "f736bc17-8bdc-4acf-9677-cacb23dd5e21",
@@ -3217,7 +3217,7 @@
     "is_correct": true,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "a16ac564-9534-42e6-af36-38d521ae1369",
@@ -3227,7 +3227,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "fff1e4c2-8e21-48b5-a643-15f148e5231b",
@@ -3237,7 +3237,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "11134bdf-4d63-431d-8194-1a68d521fe15",
@@ -3247,7 +3247,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "12c74a19-e69a-4f23-b0f0-aa0781ff692d",
@@ -3257,7 +3257,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "b127fbd9-7250-4428-80c6-3a10c92b9773",
@@ -3267,7 +3267,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "53af87f7-0706-42bd-bc72-38d3a692e008",
@@ -3277,7 +3277,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "16883177-59d8-49e2-97ff-086a0b542399",
@@ -3287,7 +3287,7 @@
     "is_correct": true,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "615838d9-756e-43c2-ac5a-041f15c14684",
@@ -3297,7 +3297,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "e1fc227f-fc8e-4a11-ac48-b5fcb7bd12d2",
@@ -3307,7 +3307,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "a262c07b-c1a5-4488-ab09-41434ea11774",
@@ -3317,7 +3317,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "b3c4570f-4193-4163-8d4a-8f426e4da2f4",
@@ -3327,7 +3327,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "87873db0-4060-4bac-b5f7-4de45146dced",
@@ -3337,7 +3337,7 @@
     "is_correct": true,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "a089d228-7f51-410f-b710-00cb65d64369",
@@ -3347,7 +3347,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "a661184b-0b76-4df7-8240-459421643844",
@@ -3357,7 +3357,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "b097ccb8-6037-4cad-9065-c664a1f68d1c",
@@ -3367,7 +3367,7 @@
     "is_correct": true,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "5eadaa83-fba2-40c7-974a-514dea551bb3",
@@ -3377,7 +3377,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "db0049ef-bf01-4b49-bd05-d30063dac70a",
@@ -3387,7 +3387,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "ef77e5b7-fd40-4eb5-9061-b4cc33f11a70",
@@ -3397,7 +3397,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "4cb32020-4b2c-45e3-a089-dd76ae471ad4",
@@ -3407,7 +3407,7 @@
     "is_correct": true,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "abd259b7-efc2-4410-a0b4-d370b2a7f581",
@@ -3417,7 +3417,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "d7fc60d7-47a8-4412-a04d-f9b2a2569b5f",
@@ -3427,7 +3427,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "a41f447a-548a-4d71-890b-c050f05fd855",
@@ -3437,7 +3437,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "83480a08-f9ff-4b34-8a1a-0a0660f4d7c4",
@@ -3447,7 +3447,7 @@
     "is_correct": true,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "6a3032f9-3ae5-45e8-9ab9-9350f49eece8",
@@ -3457,7 +3457,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "766b3b33-6dbd-484a-b006-3bc7e447d542",
@@ -3467,7 +3467,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "370cc95d-12df-48f8-aa2a-460dd3ac58a7",
@@ -3477,7 +3477,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "95d830c0-b8a3-466f-af90-84127acfb566",
@@ -3487,7 +3487,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "dac32863-6302-46e6-9459-98e8fb8180c9",
@@ -3547,7 +3547,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "7e622ac1-5a03-4387-802b-58a711bd05c7",
@@ -3557,7 +3557,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "0490e8cc-6ac1-423e-af01-aad65b076c98",
@@ -3567,7 +3567,7 @@
     "is_correct": true,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "0cfddc0a-5587-49f3-b6de-d58c7eeae011",
@@ -3577,7 +3577,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "2745d93e-54ec-4d7c-833a-e433ef5e0509",
@@ -3587,7 +3587,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "c34872ed-182d-474d-b333-fc4e222a7b4f",
@@ -3597,7 +3597,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "needs_correction"
   },
   {
     "id": "29690b08-bd64-4675-b47f-10950737fdb6",
@@ -3607,7 +3607,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "needs_correction"
   },
   {
     "id": "8bcb2da0-1fcb-4b77-9602-466d02b99c5f",
@@ -3617,7 +3617,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "needs_correction"
   },
   {
     "id": "f3914754-082c-4cfb-80b2-2a5b747cc42b",
@@ -3627,7 +3627,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "needs_correction"
   },
   {
     "id": "1de344e5-f0a3-4269-a3dd-bb793cd14a76",
@@ -3637,7 +3637,7 @@
     "is_correct": true,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "needs_correction"
   },
   {
     "id": "81385b2c-7df7-484d-9cc6-3ecb8fc69281",
@@ -3747,7 +3747,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "dea2d438-16cf-45e4-9000-73159ef7da92",
@@ -3757,7 +3757,7 @@
     "is_correct": true,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "5187cb33-714a-455b-9402-7ad76a015b0a",
@@ -3767,7 +3767,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "96110787-dd1a-40f0-9e82-fbc5472260ba",
@@ -3777,7 +3777,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "6387c11f-e02b-4d6f-9178-981403fd1bef",
@@ -3787,7 +3787,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "2335d217-5d79-42e9-aea2-c2ae4605a5e9",
@@ -3847,7 +3847,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "3d594278-f425-4cb4-a94e-875ac66660b0",
@@ -3857,7 +3857,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "aeacde08-b29d-42de-bf8c-76f2ad34ee0f",
@@ -3867,7 +3867,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "4ccd9956-d61d-40c5-a97f-3b9aaa6f8a7e",
@@ -3877,7 +3877,7 @@
     "is_correct": true,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "820b6720-3d6b-4637-bbc1-326c67bccb81",
@@ -3887,7 +3887,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "770aef95-bc21-4efb-b998-c89bff9f7981",
@@ -3897,7 +3897,7 @@
     "is_correct": true,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "f683a0e0-66be-4f4c-bdf7-98f9b4f3213f",
@@ -3907,7 +3907,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "56940af0-05ec-482e-a6a0-87b4775eedad",
@@ -3917,7 +3917,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "8a48560d-7693-44e9-b3f6-0ca3f9923558",
@@ -3927,7 +3927,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "20fd0a58-2783-49b6-a568-4cb0c8185bf3",
@@ -3937,7 +3937,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "3a104772-7121-4309-92ca-0d24ee833f23",
@@ -3947,7 +3947,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "36bfe71a-8364-4746-8c27-d40cd0b457b7",
@@ -3957,7 +3957,7 @@
     "is_correct": true,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "54c5f664-3616-4824-81b7-9f6c860a0d81",
@@ -3967,7 +3967,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "f38fe648-4b7f-4610-965f-312f54754294",
@@ -3977,7 +3977,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "001838f5-6c25-4b95-8788-9de2bfb96cd2",
@@ -3987,7 +3987,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "e087afd2-68bb-4ac2-8509-12f2c72a6780",
@@ -4147,7 +4147,7 @@
     "is_correct": true,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "080c128d-6f77-4535-b14a-e4a0af61c4ed",
@@ -4157,7 +4157,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "f2546f64-f990-4a4e-998b-6e755daebc27",
@@ -4167,7 +4167,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "74c4e76c-96f3-4c6f-8bed-4c69c49673a5",
@@ -4177,7 +4177,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "5d07fdd4-4507-4b8a-8d9c-58b0b8131631",
@@ -4187,7 +4187,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "c7d22624-97a0-4aa1-9056-85a0d30c52a8",
@@ -4197,7 +4197,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "c3748651-d907-4c73-a1e2-d7487ad86e60",
@@ -4207,7 +4207,7 @@
     "is_correct": true,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "58eabd36-3562-47d3-b443-428e855a73ef",
@@ -4217,7 +4217,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "3d2a0760-8f51-4d5f-b1b2-0e8a299924c3",
@@ -4227,7 +4227,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "128cf7d1-9c5b-4840-aa9a-76c156ea45ce",
@@ -4237,7 +4237,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "4dfe4f8e-a911-40ab-bd1a-eee9ae8599b1",
@@ -4297,7 +4297,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "20c53e39-dc28-4b3b-aac3-998e59415686",
@@ -4307,7 +4307,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "171a0620-bc62-44f6-a962-32818d9ef905",
@@ -4317,7 +4317,7 @@
     "is_correct": true,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "22749696-2a85-428f-ae71-ba13d56bb824",
@@ -4327,7 +4327,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "90ae844a-f1e9-42ee-a87b-2d2533ea5e7a",
@@ -4337,7 +4337,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "68c54414-340b-4a72-9d55-c54a35e65151",
@@ -4347,7 +4347,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "fd58647c-873d-4830-ac3d-552e9bb93241",
@@ -4357,7 +4357,7 @@
     "is_correct": true,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "295c24c0-b461-4c63-9e2d-6402a5c57721",
@@ -4367,7 +4367,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "1efa3838-7227-477d-8a6b-b7c289e8f5a4",
@@ -4377,7 +4377,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "6239ea48-f851-47af-97a5-da4333ad6855",
@@ -4387,7 +4387,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "4a61be8e-2ac3-4733-8a9d-5e6af9c85465",
@@ -4447,7 +4447,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "b0ae7ccb-ceaa-48ca-b157-380e4dbc0492",
@@ -4457,7 +4457,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "d7a0bafc-52e7-41b0-843e-a2f75b9ef7dc",
@@ -4467,7 +4467,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "e5f9ed39-3c4a-457a-ae06-93ad094bfbb3",
@@ -4477,7 +4477,7 @@
     "is_correct": true,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "c30866a1-23cf-452c-ab26-b34dfc3261b7",
@@ -4487,7 +4487,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "a4628c93-3217-497c-a7b4-b48d87e6f44f",
@@ -4547,7 +4547,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "a7c52606-4408-4040-bb8b-e40a537bc534",
@@ -4557,7 +4557,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "8781d63a-1bfe-4821-9c34-2acd90b37619",
@@ -4567,7 +4567,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "59d4adc2-63b7-491c-8236-23386905de6c",
@@ -4577,7 +4577,7 @@
     "is_correct": true,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "4393423f-de2d-4008-a4a5-b77fdac7bfca",
@@ -4587,7 +4587,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "e4724387-a754-4346-85a4-5f8baf9f9be6",
@@ -4697,7 +4697,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "06f7cea7-f553-4fe8-b8ae-d1c371280056",
@@ -4707,7 +4707,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "bd45c79d-1873-44a1-b62d-157fb3532b32",
@@ -4717,7 +4717,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "346ed730-4095-43bd-b6a8-62d5c11f84af",
@@ -4727,7 +4727,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "a76e624e-a8a9-4bb3-a5f6-e0a70d76632d",
@@ -4737,7 +4737,7 @@
     "is_correct": true,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "61d9293d-a12b-4802-a8f8-a624bf859e37",
@@ -4847,7 +4847,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "6ed88e29-510f-4fd5-a6ac-97a7a936aa2b",
@@ -4857,7 +4857,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "bda22035-a138-46cb-a004-55013350b815",
@@ -4867,7 +4867,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "98001260-71fc-4142-80a9-e0b97723428a",
@@ -4877,7 +4877,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "106f5248-425b-4ca3-9fed-9dcf543ce491",
@@ -4887,7 +4887,7 @@
     "is_correct": true,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "e9c2449c-72c7-4a6d-a0ce-8a706b1922a1",
@@ -4997,7 +4997,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "72fca5d9-292e-4d17-bd5c-615f78ab9c73",
@@ -5007,7 +5007,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "6a8bcee3-ce55-4e84-9890-42e49d2e2792",
@@ -5017,7 +5017,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "ba064c2f-4603-495c-b5a3-a2d36f000351",
@@ -5027,7 +5027,7 @@
     "is_correct": true,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "a7ce4e75-fef3-4337-aa7f-9db6740a9c89",
@@ -5037,7 +5037,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "c9152fcd-3434-488d-a9ed-9d0823edcb67",
@@ -5047,7 +5047,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "467154b6-5fca-4e1f-9636-4e3b01824a17",
@@ -5057,7 +5057,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "3eefb88f-fa09-4357-be95-f8508bba90ae",
@@ -5067,7 +5067,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "4edd8ce7-ddc3-4366-99b4-01958a602bde",
@@ -5077,7 +5077,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "4a5bc1e0-d3d8-4763-a7e2-67ac6b721ed6",
@@ -5087,7 +5087,7 @@
     "is_correct": true,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "ac8596d1-31a2-4bd0-b33c-869e2b934de6",
@@ -5097,7 +5097,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "cb0ca019-7d34-425d-8f27-93984fa8bbdd",
@@ -5107,7 +5107,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "b4e94066-8a33-4fab-9097-16af88bed20f",
@@ -5117,7 +5117,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "0fd40e38-d6d2-48b3-a43d-68556e372e6c",
@@ -5127,7 +5127,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "340c5f7f-3e10-483e-b479-6a1563f81b35",
@@ -5137,7 +5137,7 @@
     "is_correct": true,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "6fcdbb63-2592-4d72-be8b-ee64dcb7d143",
@@ -5147,7 +5147,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "7e700f1c-d89c-437f-8fba-d4d2cd3acf5f",
@@ -5157,7 +5157,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "fdb0cbdf-aa12-454b-8fe6-035d28f0b446",
@@ -5167,7 +5167,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "bd4cce98-8cbd-41b6-b8fe-3dd104fa7588",
@@ -5177,7 +5177,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "87b22d56-8f7a-4def-8ab6-e3de21996b21",
@@ -5187,7 +5187,7 @@
     "is_correct": true,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "16d48dfa-fccb-4f2a-8171-d614a315705b",
@@ -5197,7 +5197,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "c21e2489-1962-495e-b7dd-dfae3896dc96",
@@ -5207,7 +5207,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "32e12511-99fb-4511-9dd3-473b074270db",
@@ -5217,7 +5217,7 @@
     "is_correct": true,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "847b59fb-fc25-407d-b2a1-0b80fd2cb4d7",
@@ -5227,7 +5227,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "e659b036-63f2-418f-9f71-73c89dc1cadc",
@@ -5237,7 +5237,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "e2c6de58-3ca7-4696-b3d8-e4bb1ae5cdf3",
@@ -5247,7 +5247,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "a60a5cc2-dc81-4de6-b6e0-ad75b3f0d407",
@@ -5257,7 +5257,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "a49e8091-559a-4437-bc35-6f9c380ec82c",
@@ -5267,7 +5267,7 @@
     "is_correct": true,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "0a3e1022-8717-4e6c-a3e3-30c150b3dadd",
@@ -5277,7 +5277,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "1ac0ecae-b64a-4671-9b9c-e511166f818b",
@@ -5287,7 +5287,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "a48053ac-c1a9-41a1-aa33-041c452d415c",
@@ -5297,7 +5297,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "5c6b023d-d698-42d2-a7f8-30f520b8b9ae",
@@ -5307,7 +5307,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "101270c3-a8ea-48e7-ac3b-30c7198ae8d9",
@@ -5317,7 +5317,7 @@
     "is_correct": true,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "db6dd96e-704f-4599-9903-014534c5f4ec",
@@ -5327,7 +5327,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "b218645b-aeb8-4ea8-aa04-b078c42ec928",
@@ -5337,7 +5337,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "00439d77-c296-4c14-8ffb-e3ca19da3c95",
@@ -5447,7 +5447,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "e83f53af-b908-4dd8-9d71-53d03ca297b8",
@@ -5457,7 +5457,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "569a973b-4a28-446e-9c28-baaf7a1d4eba",
@@ -5467,7 +5467,7 @@
     "is_correct": true,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "3b429cd3-1288-486c-98e0-ecd73c0dfd2d",
@@ -5477,7 +5477,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "82120399-380c-447b-a8bd-7d5b85ad32ec",
@@ -5487,7 +5487,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "e95d5b73-047f-43e2-93cb-a14f6e49cd95",
@@ -5497,7 +5497,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "321fbc65-7a0e-4fa3-b095-3da18e52c8cb",
@@ -5507,7 +5507,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "d428ee39-07e4-4813-b474-9d4e8cda6cc1",
@@ -5517,7 +5517,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "5c83512a-f14d-4ab5-81ba-77750dafe715",
@@ -5527,7 +5527,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "12c5c682-4400-4541-8c4b-7d68390255fc",
@@ -5537,7 +5537,7 @@
     "is_correct": true,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "587fc717-bf2b-4e45-a7d8-0ea41d7618a1",
@@ -5747,7 +5747,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "97e1c7cc-ab57-452d-a6ae-ff7918b23796",
@@ -5757,7 +5757,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "950fe4f9-f3dc-4fb5-9bf5-87b643e35766",
@@ -5767,7 +5767,7 @@
     "is_correct": true,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "b731827f-504e-42bb-aa10-15fd5e851673",
@@ -5777,7 +5777,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "06701c38-892e-4afe-9238-c2cc73412e4a",
@@ -5787,7 +5787,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "3204e41b-fd7e-4003-ab61-8892ce500687",
@@ -5797,7 +5797,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "228d7a6f-b25e-4a9d-a8bf-522f79860204",
@@ -5807,7 +5807,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "8c4594e3-524c-43ed-b88a-a4cb033e4a88",
@@ -5817,7 +5817,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "dfcb9a67-19f5-41ad-b221-2ef4de3992fb",
@@ -5827,7 +5827,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "69cb02fc-e142-4b91-8815-a043f98d2b05",
@@ -5837,7 +5837,7 @@
     "is_correct": true,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "061d8e01-d89c-4dda-a008-5a95a689a388",
@@ -5897,7 +5897,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "d9d0dc00-8a56-46ea-b226-6be904cde7d1",
@@ -5907,7 +5907,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "9fb9a46e-644d-4222-9706-5ed6ca3d11f9",
@@ -5917,7 +5917,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "2b121a02-62ef-4e24-af8f-38e247cad517",
@@ -5927,7 +5927,7 @@
     "is_correct": true,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "e2653633-98ea-4886-89b7-e77df3d87a58",
@@ -5937,7 +5937,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "165a5185-e87b-4136-b49c-4d59e52ecfbc",
@@ -5947,7 +5947,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "207c4d04-e2f9-410e-af98-61095644d3d0",
@@ -5957,7 +5957,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "bb7bc3fc-b75a-4604-ac3d-7eb148b7604a",
@@ -5967,7 +5967,7 @@
     "is_correct": true,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "357bad52-b439-4675-9c35-18e75bdd93a3",
@@ -5977,7 +5977,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "8413a049-4d71-433a-8786-f2521509ec3c",
@@ -5987,7 +5987,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "d96ab8a5-244a-4752-8a5f-456ccae6c2e9",
@@ -5997,7 +5997,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "0e299c39-8b4a-4516-8611-b4f6d6781090",
@@ -6007,7 +6007,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "3da4c6ae-5ea8-4aea-a469-faeb7479d8bc",
@@ -6017,7 +6017,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "b23898d7-dc56-4e84-8f79-fc4c3cac0bfe",
@@ -6027,7 +6027,7 @@
     "is_correct": true,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "5eaad6e3-3519-43e8-8211-6669843f6084",
@@ -6037,7 +6037,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "baadda00-6292-4911-94f9-830ba911706c",
@@ -6047,7 +6047,7 @@
     "is_correct": true,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "5bacdc61-0451-402a-bb34-4ac503dfb0af",
@@ -6057,7 +6057,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "992b971d-6a35-4541-a5a4-ac5db507215b",
@@ -6067,7 +6067,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "5deac6f2-f342-4f79-873e-3bd85b807a9a",
@@ -6077,7 +6077,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "b36f3630-9e6f-45f8-9fa2-601e7bab874d",
@@ -6087,7 +6087,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "e3394aec-63dd-4801-ad5e-803563a85345",
@@ -6147,7 +6147,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "50c4fe75-cc24-46e8-8d2b-927c2f2d98d0",
@@ -6157,7 +6157,7 @@
     "is_correct": true,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "a23fa582-9b98-4ebe-ab7c-d20c439d099f",
@@ -6167,7 +6167,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "71b9e50a-3641-423b-ae5f-82adede1124a",
@@ -6177,7 +6177,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "0c6857c3-011c-4347-8d5d-76034551f28b",
@@ -6187,7 +6187,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "552ceb2e-5929-4275-b624-cf2837514c9d",
@@ -6297,7 +6297,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "89c74376-7fb7-4854-b81f-158e48226d05",
@@ -6307,7 +6307,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "fef5e7a6-7eab-446b-955b-f1c707baff25",
@@ -6317,7 +6317,7 @@
     "is_correct": true,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "a277f5f2-588c-47ba-8311-955465b9253b",
@@ -6327,7 +6327,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "8b1abce3-4f17-403b-9e49-0db26bc8ee59",
@@ -6337,7 +6337,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "659076ef-72ca-4cd1-a6fa-cf140d225bb7",
@@ -6347,7 +6347,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "06379985-7c32-422a-b46c-7b91eebfa8b9",
@@ -6357,7 +6357,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "a01bc20d-f9e1-4ce4-99b6-7eed27c14918",
@@ -6367,7 +6367,7 @@
     "is_correct": true,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "04e2f3a6-7ae6-4785-900e-7fc464ec9276",
@@ -6377,7 +6377,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "9ee74a7b-00e6-4cfc-8e78-1befdd417b53",
@@ -6387,7 +6387,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "e1e80537-985e-4aa0-97c3-404c8491b237",
@@ -6397,7 +6397,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "7c4c6875-d97c-4966-82da-02eb517771f2",
@@ -6407,7 +6407,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "9e78859e-46bd-488d-886d-cf0d4dc20900",
@@ -6417,7 +6417,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "d9eed73e-21fa-4d95-b7f8-397e648476e5",
@@ -6427,7 +6427,7 @@
     "is_correct": true,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "dbbe3b3f-3a84-45ac-b647-d9bef0f25a4f",
@@ -6437,7 +6437,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "8e949eb9-f4e5-4cac-8a30-744a2b540673",
@@ -6497,7 +6497,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "bc1b4a50-7f6c-4cfa-bc78-9a1774cef4ad",
@@ -6507,7 +6507,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "38b9bf46-ff9d-4660-a3d0-6a1c2aafc7e9",
@@ -6517,7 +6517,7 @@
     "is_correct": true,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "d7407b86-af99-44e3-af5d-b1413391257f",
@@ -6527,7 +6527,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "76ee7b41-88d7-4825-8323-7a2464333cc2",
@@ -6537,7 +6537,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "07db377d-d4f5-4f8a-b644-2322d30a9e35",
@@ -6547,7 +6547,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "94669801-03a4-4a4c-a08e-18398929cb5c",
@@ -6557,7 +6557,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "e8007494-1bda-45fa-a7cc-4fc49ee2c18b",
@@ -6567,7 +6567,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "7fae5144-5bd5-4239-8a6b-53a10653f353",
@@ -6577,7 +6577,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "5b246f59-5a47-4335-9fe9-641aeb405ba2",
@@ -6587,7 +6587,7 @@
     "is_correct": true,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "b5911fd0-4c21-4e6e-8ae3-db21d18d5d97",
@@ -6647,7 +6647,7 @@
     "is_correct": true,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "cab8327a-f30a-4e17-b321-a6c96ff6a16a",
@@ -6657,7 +6657,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "ce70b922-9d36-46c2-92fe-45c3b2295470",
@@ -6667,7 +6667,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "9b877ff5-5be1-4b0a-afa0-00946ee6e5b2",
@@ -6677,7 +6677,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "77e9ee5f-c0fd-4411-bece-bba7d9ea887d",
@@ -6687,7 +6687,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "95161543-55fe-4bb5-af6a-494f672ad5ea",
@@ -6897,7 +6897,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "f5de930a-0da2-4818-9a28-96742a47b88a",
@@ -6907,7 +6907,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "783b2415-2503-4f06-9d88-73aaeb15c28b",
@@ -6917,7 +6917,7 @@
     "is_correct": true,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "c2b8b306-bb1d-4cd3-ad19-22b7914a5434",
@@ -6927,7 +6927,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "fefb8fd3-0f83-40ea-b510-71c70ee41698",
@@ -6937,7 +6937,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "cb720550-7fa5-4982-a01b-20b19d919af7",
@@ -6997,7 +6997,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "88fa5321-eef9-4f4e-92ce-b108a550f869",
@@ -7007,7 +7007,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "dc9b5045-3109-404f-8921-74b716a15722",
@@ -7017,7 +7017,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "442619ff-1fcf-4430-ab9c-3cfea4540ca0",
@@ -7027,7 +7027,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "09d9a621-f5fd-4069-98ab-c9183bcab6e5",
@@ -7037,7 +7037,7 @@
     "is_correct": true,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "1ca28bdd-b91b-4e83-8049-b295016dfc55",
@@ -7047,7 +7047,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "39f047b3-f176-47cf-89a4-6f5a4bb19d96",
@@ -7057,7 +7057,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "9036e6c3-7eed-46de-81c0-b31b6afc6677",
@@ -7067,7 +7067,7 @@
     "is_correct": true,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "80fe5f73-d871-4b20-bc63-29d5fa1bd081",
@@ -7077,7 +7077,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "b4f0da82-f776-435e-b020-7e7aa52f6312",
@@ -7087,7 +7087,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "97abe104-d6bc-46c6-95bb-0de3607dfc59",
@@ -7247,7 +7247,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "552838eb-21d3-4a69-b394-f451b27503f0",
@@ -7257,7 +7257,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "822196e7-64ac-498d-bf2c-8bd2b6b56308",
@@ -7267,7 +7267,7 @@
     "is_correct": true,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "532983b1-e825-41ce-82a4-904406012e98",
@@ -7277,7 +7277,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "56842ac9-f019-4f1c-b0ea-c46710329b73",
@@ -7287,7 +7287,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "9c78d959-b9b6-4304-aedd-b3e52d326835",
@@ -7297,7 +7297,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "e011af4b-849c-4fb5-9d0a-7d543a522918",
@@ -7307,7 +7307,7 @@
     "is_correct": true,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "a3140dbc-3504-4230-9d46-4778ccd981c4",
@@ -7317,7 +7317,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "eb09e262-0d5b-4470-8490-332698f60209",
@@ -7327,7 +7327,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "c4f07737-2781-473c-bfab-28edccae0167",
@@ -7337,7 +7337,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "cdafc97f-2814-43fe-b84f-a3523392568d",
@@ -7347,7 +7347,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "068cd55a-77e4-4eab-8bac-d61905004c57",
@@ -7357,7 +7357,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "a6d9a689-e41a-41f4-a975-c604a76c9c49",
@@ -7367,7 +7367,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "d6201750-d548-4fa0-a142-81ba5a036b18",
@@ -7377,7 +7377,7 @@
     "is_correct": true,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "c49ecc06-ce28-4c6b-8de3-2ff39e7fe3d0",
@@ -7387,7 +7387,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "093e7186-5424-4739-9e03-684f3dc1b33b",
@@ -7397,7 +7397,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "4bf32839-eea6-4bc3-8d0e-42bb09322adc",
@@ -7407,7 +7407,7 @@
     "is_correct": true,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "fc0c377b-67e8-412b-9eb7-4c6795c85eec",
@@ -7417,7 +7417,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "3d3a64fc-9236-42c9-b24f-99f1ebced307",
@@ -7427,7 +7427,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "7aeecd81-77cd-47a6-8fe8-930aa4381d4f",
@@ -7437,7 +7437,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "84f34abf-1b60-437f-ac8c-267bf058f5d9",
@@ -7497,7 +7497,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "9b20c51e-7fbb-477e-96a9-2f83a859cf87",
@@ -7507,7 +7507,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "cc9ed262-66b5-49ec-bbda-63be075d0b01",
@@ -7517,7 +7517,7 @@
     "is_correct": true,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "b460a58e-51f2-439b-ab5d-b7871b769a37",
@@ -7527,7 +7527,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "968fb210-63d1-477f-8216-cd1d5780dfbc",
@@ -7537,7 +7537,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "7a674f25-30f0-4453-a7c2-aa3a00f47043",
@@ -7547,7 +7547,7 @@
     "is_correct": true,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "53b49580-7b03-427e-9501-bc79ae20dd55",
@@ -7557,7 +7557,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "82ef3cb3-51f6-48e1-84c0-51a848f95089",
@@ -7567,7 +7567,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "5eadaab5-ed3f-4929-bf6c-ad4b6a65fbf2",
@@ -7577,7 +7577,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "48d4a866-0666-47c5-854c-a0594ac7edfe",
@@ -7587,7 +7587,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "053f6e80-2fe1-4117-8fb7-2f78ee0b808c",
@@ -7647,7 +7647,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "1795c73c-0ead-4b80-b501-4c46dfc56fd7",
@@ -7657,7 +7657,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "9e8ba23e-4881-49ee-ae0c-caaaa0601a80",
@@ -7667,7 +7667,7 @@
     "is_correct": true,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "f13850fe-2243-42ed-8bb0-6ba36bfbb908",
@@ -7677,7 +7677,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "d6667192-79c0-47ed-b25d-0e9ead13ddb3",
@@ -7687,7 +7687,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "70016114-448e-4c9d-954c-64ae850fcb1a",
@@ -7947,7 +7947,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "6e1906a0-4c1b-454e-a5b9-553e9c72ace1",
@@ -7957,7 +7957,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "0a0e063b-3d5d-4ee5-bec0-5983cebe79f3",
@@ -7967,7 +7967,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "fd825442-f0f7-4ffa-befb-4de2cfb7ae9c",
@@ -7977,7 +7977,7 @@
     "is_correct": true,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "35f3bc53-0d83-4b25-9f6b-a0d848fa3eaa",
@@ -7987,7 +7987,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "a2be65a1-cb19-45a3-bb90-9e7812c21fa7",
@@ -7997,7 +7997,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "74a4d9a7-11e3-4811-adb6-a3e09faa17da",
@@ -8007,7 +8007,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "dc7ddca7-6770-4322-b50b-9d76145c3c2d",
@@ -8017,7 +8017,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "f1b8a565-e1d4-48ad-8a99-482cfa758247",
@@ -8027,7 +8027,7 @@
     "is_correct": true,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "b410aa7a-5b27-43ff-a4d2-89f2234df625",
@@ -8037,7 +8037,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "e11c7a65-f349-4620-970e-50bf12dfafe9",
@@ -8047,7 +8047,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "2710965a-3d8d-4d53-8bf6-3563a8b0d706",
@@ -8057,7 +8057,7 @@
     "is_correct": true,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "554ccd76-2876-4f07-84b0-6695c58450ff",
@@ -8067,7 +8067,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "9f9c7623-7a37-455f-b9c8-4f2f97aa5b91",
@@ -8077,7 +8077,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "27ccd799-ebd9-41ec-b18a-06dbe246a9a7",
@@ -8087,7 +8087,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "93839d59-08b1-448b-8bd2-69627e78769c",
@@ -8097,7 +8097,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "a8659899-6646-46d5-96e1-e6e5b0d1283a",
@@ -8107,7 +8107,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "3604f45b-0a99-4575-9631-47ac6ccbb778",
@@ -8117,7 +8117,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "cbabb180-3463-46db-a6d4-638ffa63a2e8",
@@ -8127,7 +8127,7 @@
     "is_correct": true,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "ac5c41d5-3971-4613-9009-3950d1dbf3e7",
@@ -8137,7 +8137,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "7aa5f17b-3d56-4e41-8294-b5673bbc385a",
@@ -8247,7 +8247,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "1f83770e-0fef-451b-a8c7-619d15b834bc",
@@ -8257,7 +8257,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "7a4c8817-849d-4526-98de-69ae7d486503",
@@ -8267,7 +8267,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "c7190d4c-d165-41dd-8121-60e1351955a4",
@@ -8277,7 +8277,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "bff533f6-3323-4d76-83da-ce955e8c8f5c",
@@ -8287,7 +8287,7 @@
     "is_correct": true,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "5d4c9ee5-5616-42c4-b0b7-367ca7722b0e",
@@ -8347,7 +8347,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "8b454342-c909-4872-9ce9-d067f012d983",
@@ -8357,7 +8357,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "8714b1b6-652c-4691-b8d5-caa59d2565aa",
@@ -8367,7 +8367,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "d6041fb5-9816-4fd4-84f5-0b766bcfb23b",
@@ -8377,7 +8377,7 @@
     "is_correct": true,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "00c75ee3-1c6b-4208-9341-a1574cbb95f9",
@@ -8387,7 +8387,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "4be34c1a-fc22-4067-94f6-2cb4ee7ac407",
@@ -8397,7 +8397,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "1bfe9a91-04f6-49e1-8f40-9d11f89e05b1",
@@ -8407,7 +8407,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "b8fbbe88-bd0a-43e7-8085-6893992704b4",
@@ -8417,7 +8417,7 @@
     "is_correct": true,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "6c2b9ebc-c999-4b9e-9c57-3d5b1ab7e4bc",
@@ -8427,7 +8427,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "b8621e18-4c84-4fa6-8d87-792f6232eef6",
@@ -8437,7 +8437,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "c9ad3d5c-eaf8-4e90-b0b5-5e809f01505b",
@@ -8497,7 +8497,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "a24a0669-f1a5-4a43-9bb6-d66f869d3857",
@@ -8507,7 +8507,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "d6c1def6-db13-4ed5-9ad1-790b772fd5af",
@@ -8517,7 +8517,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "fc01fabc-9036-4464-92ff-4bab5650ca5c",
@@ -8527,7 +8527,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "3e82cc9a-e6d7-49a0-802d-1133ea491f90",
@@ -8537,7 +8537,7 @@
     "is_correct": true,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "b777cfa2-9980-4717-9262-0a6058a46b3a",
@@ -8547,7 +8547,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "25495841-615e-4709-9dcd-b6e802e47b06",
@@ -8557,7 +8557,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "9648fe39-6908-4aa7-bc90-913932783317",
@@ -8567,7 +8567,7 @@
     "is_correct": true,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "2da865a9-716e-40a6-bb86-4e942de6978c",
@@ -8577,7 +8577,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "4dba7024-145c-45b4-9844-8c5669460f85",
@@ -8587,7 +8587,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "b20260f3-8969-4fc8-8f7a-2978474c91aa",
@@ -8647,7 +8647,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "85124eb7-bf5b-4d74-ba94-bbfd386263f3",
@@ -8657,7 +8657,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "c5b0ce7e-fedb-4eff-ad26-68c83a256a7c",
@@ -8667,7 +8667,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "cc20edae-767b-4166-875b-6a64e338923c",
@@ -8677,7 +8677,7 @@
     "is_correct": true,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "35b8242a-7551-4f48-97ed-75ae68339232",
@@ -8687,7 +8687,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "5f8895d4-cd44-43a4-9a83-4266487213e6",
@@ -8697,7 +8697,7 @@
     "is_correct": true,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "19c0313c-8ca7-48c3-9a4f-dcbfaf6c6e9e",
@@ -8707,7 +8707,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "937419b0-13ba-42ef-9976-baaabc6b6a30",
@@ -8717,7 +8717,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "a3480ffe-51d1-4533-a3db-3e25e5a7b10c",
@@ -8727,7 +8727,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "4d61a403-6dd8-44d7-aba6-167243d2cb5a",
@@ -8737,7 +8737,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "5489af5f-45a0-4855-8377-374c24012e2b",
@@ -8747,7 +8747,7 @@
     "is_correct": true,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "c1a18971-af18-4d4a-9ee5-e169554a4403",
@@ -8757,7 +8757,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "93280486-af81-462f-8d92-a3413f9ac6ba",
@@ -8767,7 +8767,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "40d30d32-b006-4ecc-850c-72ceb0af506c",
@@ -8777,7 +8777,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "ee5d61fc-3b51-411f-acb5-2b114b45bbc3",
@@ -8787,7 +8787,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "f318a820-1c1c-49d5-827c-4e9e81b839da",
@@ -8847,7 +8847,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "a62a2f06-5bc2-4833-9987-ed969b0941fa",
@@ -8857,7 +8857,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "9e8ba903-5f31-4f9c-8019-bf2e59a60fef",
@@ -8867,7 +8867,7 @@
     "is_correct": true,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "ed00d725-353b-462c-b315-2e813ab527be",
@@ -8877,7 +8877,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "fc734d8f-4009-4915-951b-34e9ff241c60",
@@ -8887,7 +8887,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "2d42e0ac-e6c5-4b51-9ead-d6e87e0358cd",
@@ -8897,7 +8897,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "61a8f097-f3e1-40ce-9e40-3f14414db16f",
@@ -8907,7 +8907,7 @@
     "is_correct": true,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "3323a3d4-f6d0-4f7d-b39d-6983421064f5",
@@ -8917,7 +8917,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "09016a35-1e70-4d47-9dde-f7a01fa1ecce",
@@ -8927,7 +8927,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "6bc2f523-c65b-4623-9dd0-6d59ebd0df17",
@@ -8937,7 +8937,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "b17ee9a5-9154-4838-9932-f312cda7b141",
@@ -8947,7 +8947,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "74a40c37-39d9-4ec6-8771-ff4cc57867c5",
@@ -8957,7 +8957,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "6209c116-eaa8-4f6c-ba2b-a920e5e15dff",
@@ -8967,7 +8967,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "56e6cad2-f2da-46a0-b5f6-bc256fb5601f",
@@ -8977,7 +8977,7 @@
     "is_correct": true,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "82a3f6ec-a1cc-4928-be33-6b5af6da4519",
@@ -8987,7 +8987,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "b03638c8-ff2b-4d8d-a4eb-3924d1aefcf8",
@@ -8997,7 +8997,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "99cb6c8b-59f2-4e59-83d3-eba0cb503803",
@@ -9007,7 +9007,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "61dc1b62-2c29-4c59-bb3c-445bcc7dda2e",
@@ -9017,7 +9017,7 @@
     "is_correct": true,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "d957e78c-6fc8-4dd5-89c1-5fb94add286b",
@@ -9027,7 +9027,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "bef7fe9b-5ebe-4bd5-9c8b-7e787223cd72",
@@ -9037,7 +9037,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "23fd5801-58b4-46e5-906b-5de66d3d6bee",
@@ -9047,7 +9047,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "7926e734-96e2-4d08-9078-8ca459cb04f3",
@@ -9057,7 +9057,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "2152635e-a6dc-4d70-b033-7ba78162c29e",
@@ -9067,7 +9067,7 @@
     "is_correct": true,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "ff0d5c5c-bde4-4936-808d-304bee08e089",
@@ -9077,7 +9077,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "882cf264-cc33-4acc-b13e-ec430a9ba04c",
@@ -9087,7 +9087,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "1b976587-d4e5-48f0-95f4-9602c04d23e6",
@@ -9147,7 +9147,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "0f1809b8-7df3-4abf-b1f6-99ef0a0f2721",
@@ -9157,7 +9157,7 @@
     "is_correct": true,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "7ddc29f6-c1aa-4154-b58c-97af60b67984",
@@ -9167,7 +9167,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "2616f044-6adb-44b6-92fd-7a99209325d5",
@@ -9177,7 +9177,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "056a25c8-1276-4f7f-a5da-e1ed02d441a2",
@@ -9187,7 +9187,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "bf7f7456-3722-4d73-bb93-2ae59c165f2f",
@@ -9247,7 +9247,7 @@
     "is_correct": true,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "39873e7c-6c0a-4d81-b4aa-cdef561e15cd",
@@ -9257,7 +9257,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "8b2ca8d7-d8d1-4587-8219-b39f06122e28",
@@ -9267,7 +9267,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "1edda94d-00c6-4d6b-9132-374ea9739f49",
@@ -9277,7 +9277,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "1edda571-3325-43d2-bf32-5b1e26820d96",
@@ -9287,7 +9287,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "b477adb9-13df-4531-a1d3-d0856be3f368",
@@ -9297,7 +9297,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "7f87a151-053d-4961-bdfc-d5cbfd08da18",
@@ -9307,7 +9307,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "54095511-58d0-4406-a986-8babae1d8796",
@@ -9317,7 +9317,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "0de260fa-fab4-4117-b1a1-f89bad28612a",
@@ -9327,7 +9327,7 @@
     "is_correct": true,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "b6beff0b-7038-4886-be58-ec495d76aac0",
@@ -9337,7 +9337,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "f25adfcc-d0da-4460-9fc7-3e4816a0ae3f",
@@ -9347,7 +9347,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "fdf6e6ca-5f99-499b-acd2-fa8ea7fad927",
@@ -9357,7 +9357,7 @@
     "is_correct": true,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "4f7e72ca-266a-4460-a808-073e341956c3",
@@ -9367,7 +9367,7 @@
     "is_correct": false,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "ba255fa6-027c-4dd1-a5b8-67a0d2434309",
@@ -9377,7 +9377,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "b651eb5d-c7e7-449e-abd1-4d602394cc00",
@@ -9387,7 +9387,7 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "5d2178aa-9c28-4c78-8af6-991c17ec56da",
@@ -9397,7 +9397,7 @@
     "is_correct": false,
     "display_order": 1,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "5b9dd3da-1103-429e-b540-a2f344bf28fa",
@@ -9407,7 +9407,7 @@
     "is_correct": false,
     "display_order": 2,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "03c55f66-a76f-4c1f-9608-fe55aab64040",
@@ -9417,7 +9417,7 @@
     "is_correct": true,
     "display_order": 3,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "1d15097e-7c53-4989-bdf0-245281abde5d",
@@ -9427,7 +9427,7 @@
     "is_correct": false,
     "display_order": 4,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   },
   {
     "id": "93c4ff16-fac9-4b36-b8f4-ed1dd521d6f8",
@@ -9437,6 +9437,6 @@
     "is_correct": false,
     "display_order": 5,
     "source_label": null,
-    "reviewer_status": "pending"
+    "reviewer_status": "verified"
   }
 ]
