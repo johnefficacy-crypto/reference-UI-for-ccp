@@ -11,9 +11,12 @@ Postgres and proves the two contracts the README/checklist promise:
   - a re-import of the identical files is **idempotent**: every row resolves to
     `unchanged` (0 created / 0 updated), no duplicates, still 270 pending/inactive.
 
-The seed rows bake migration-205's deterministic taxonomy IDs
-(`md5('ewp:topic:<slug>')`), so this applies migration 205 FRESH (which creates
-that taxonomy) → 213 → 214 → 215 against a throwaway DB. Migration 214 DROPS
+The seed rows carry migration-205's taxonomy IDs — deterministic
+`md5('ewp:topic:<slug>')` for every topic except `grammar`, which 205 pins to the
+live c4b8ebe3-... value (see its EDITED AFTER LANDING note). This test is what
+holds those two in agreement: it applies migration 205 FRESH (which creates that
+taxonomy) → 213 → 214 → 215 against a throwaway DB, so a seed file re-mapped
+without 205 fails here with `invalid_scope`. Migration 214 DROPS
 columns (destructive), so — like test_content_studio_ops_pg_behaviour — this
 runs against an isolated database and leaves the shared EWP_PG_DSN DB untouched.
 

@@ -115,8 +115,10 @@ CREATE TABLE IF NOT EXISTS public.topics (id uuid PRIMARY KEY DEFAULT gen_random
 # (needs the still-present exam_id/exam_cycle_id/exam_phase_id columns).
 #
 # NOTE (P0-3 fix): migration 205 ALREADY seeds the `english-language` subject and
-# a top-level `grammar` topic (parent_topic_id=NULL, deterministic
-# md5('ewp:topic:grammar')::uuid). This seed MUST NOT insert a second top-level
+# a top-level `grammar` topic (parent_topic_id=NULL; its id is the live
+# c4b8ebe3-... pinned in 205, not md5('ewp:topic:grammar') — see that migration's
+# EDITED AFTER LANDING note). Nothing here depends on which: the topic is
+# resolved by slug below. This seed MUST NOT insert a second top-level
 # `grammar` — the UNIQUE(subject_id, parent_topic_id, slug) does NOT collide on a
 # NULL parent, so a duplicate insert would slip through and make
 # `SELECT id FROM topics WHERE slug='grammar'` return >1 row (subquery error).
