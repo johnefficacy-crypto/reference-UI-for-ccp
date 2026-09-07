@@ -253,3 +253,137 @@ Nested quotes in `python -c` fail on PS 5.1. Write to a .py file.
 Agent artifacts exist only in the agent's container. "Shipped" in a
 report means written there, not committed. Require the commit before
 the report — the NABARD extraction was lost this way once.
+
+## Counting
+
+**Joining a child table multiplies the parent.** A question with four options
+counted through a join to `pyq_options` reports four times. A CSAT question with
+a primary and a secondary tag counts twice. The symptom looks like corrupt data:
+"194 questions" on a 97-question paper, "160" on an 80-question one.
+
+Use `count(DISTINCT q.id)`, or aggregate before joining.
+
+**Scoping by `exam_phase_id` silently drops papers.** `exam_phases` has no
+unique constraint; five phases named "Prelims" exist for UPSC alone, and the nine
+GS-I papers span two of them. Scope by paper id, or by exam plus an explicit
+phase list.
+
+**Filter out the fixtures.** `mock_question_bank` holds 140 rows under
+`ssc-cgl-legacy-sandbox-do-not-use` and 176 phantom rows on test exam
+`22222222-…`. Any unfiltered `count(*)` is 316 too high.
+
+---
+
+## Conflicted CSVs
+
+**A conflicted CSV does not announce itself.** A failed `git stash pop` leaves
+`<<<<<<< Updated upstream`, `=======` and `>>>>>>> Stashed changes` inside the
+file. `Import-Csv` then reads the marker line as the header and returns twice the
+rows under one nonsense column — no error, no warning.
+
+Check any worksheet that has been through a stash or merge:
+
+```powershell
+Select-String -Path file.csv -Pattern '^(<<<<<<<|=======|>>>>>>>)' | Select-Object LineNumber
+```
+
+Three hits means two versions concatenated: the real header is the line after the
+first marker, and the second copy starts after `=======`.
+
+---
+
+## API specifics
+
+**The summary endpoint takes a slug, not an exam id.** Passing a UUID returns
+zero papers with no error — which reads as "this exam has nothing" rather than
+"wrong argument":
+
+```powershell
+Invoke-RestMethod -Uri "$env:CCP_API_BASE/api/exam-intelligence/exams/upsc-cse/pyq-summary" -Headers $hdr
+```
+
+**Each paper in that response carries `paper_id`, not `id`.** Using `.id` yields
+`$null`, the URL resolves to `.../pyq-papers//preview`, and you get a 404.
+
+**Read the error body on a 4xx.** `$_.ErrorDetails.Message` is empty on
+PowerShell 5.1:
+
+```powershell
+try { Invoke-RestMethod ... } catch {
+  $r = $_.Exception.Response.GetResponseStream()
+  (New-Object IO.StreamReader($r)).ReadToEnd()
+}
+```
+
+That is how a bare 422 became *"Field required: body"*.
+
+**Interpolation inside a loop needs `$($x.prop)`.** `"$s -> ..."` works where
+`$s` is a loop variable over strings; `"$p.paper_id"` does not.
+
+---
+
+## Projections
+
+**Tagging a projected paper takes it offline.** Changing a tag or a difficulty
+value changes the content hash, which marks the projection stale, which demotes
+the bank row to `draft`
+(`183_pyq_mock_projection_bridge.sql:855-898`). Practice availability drops until
+you re-sync.
+
+**So `reviewer_status='draft'` on a bank row may mean "was invalidated", not
+"unreviewed".** 872 of 906 regulatory rows were in that state on 2026-09-05 with
+every paper and every question verified. **The fix is a re-sync, never a
+promotion** — bulk-promoting draft bank rows publishes stale content.
+
+Preview first; it makes no writes and reports what would change.
+
+```powershell
+Invoke-RestMethod -Uri "$env:CCP_API_BASE/api/admin/mocks/pyq-papers/$paper/projection/preview" -Headers $hdr |
+  Select-Object total, eligible_count, ineligible_count, would_update_count
+
+$body = @{ audit_reason = "<why>" } | ConvertTo-Json
+Invoke-RestMethod -Method Post -Uri "$env:CCP_API_BASE/api/admin/mocks/pyq-papers/$paper/projection/sync" -Headers $hdr2 -Body $body
+```
+
+---
+
+## Where a review reason can actually live
+
+**`reviewer_notes` is dropped server-side.** The review RPC takes no notes
+parameter and `pyq_question_topic_tag` is `supports_notes=False`. The tool sends
+it anyway and says so at line 127. The worksheet CSV is the only place it
+survives — which is why 101 regulatory corrections carry a status and no recorded
+cause.
+
+**The review endpoint writes no audit row at all.** It calls
+`update_pyq_question_review_atomic` and returns; there is no `_audit()` on that
+branch. So a zero count on `new_value->'patch'->>'reviewer_status'` is expected
+whether the status was set through the API or by SQL — **it is not evidence of a
+direct SQL write.**
+
+For a durable per-question cause, patch `pyq_questions.metadata` through the CMS
+route, which does audit:
+
+```
+PATCH /api/admin/exam-intelligence-cms/pyq-questions/{id}
+{"reason": "<why>", "payload": {"metadata": {...existing..., "review_cause": "<cause>"}}}
+```
+
+**`metadata` is a whole-column replace.** Read the row, merge, then write — or
+the patch silently drops every other key.
+
+---
+
+## One habit worth more than any item above
+
+**An absence is not evidence until you know what would produce it.**
+
+Zero audit rows for the 101 regulatory corrections looked like proof they were
+written by direct SQL. They were not: the review endpoint does not audit, so zero
+is what you get either way. The query could not distinguish the two cases, and was
+read as though it could.
+
+Every defect in this corpus has that shape. A validator that reads what is
+present will never report what is missing; a query that cannot fail will never
+tell you it failed. Before concluding from an empty result, establish what a
+non-empty one would have required.
