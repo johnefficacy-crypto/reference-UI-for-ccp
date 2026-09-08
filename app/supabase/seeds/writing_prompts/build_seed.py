@@ -36,8 +36,18 @@ def _uuid(seed: str) -> str:
     h = hashlib.md5(seed.encode()).hexdigest()
     return f"{h[0:8]}-{h[8:12]}-{h[12:16]}-{h[16:20]}-{h[20:32]}"
 
+# The live `grammar` topic predates migration 205. 205 seeds taxonomy
+# insert-if-absent (ON CONFLICT DO NOTHING / WHERE NOT EXISTS on the slug), so on
+# this database the baked md5 id was never inserted and the row that exists
+# carries c4b8ebe3-3173-4864-9e04-16ab99470c6e. The live id is the source of
+# truth: `cms_bulk_upsert_writing_prompts` resolves scope against the live row
+# and fails `invalid_scope` on the baked one. Keep this map, the generator, the
+# committed JSON and migration 205 in agreement — f93c32b changed the JSON alone
+# and turned main red.
+LIVE_TOPIC_ID = {"grammar": "c4b8ebe3-3173-4864-9e04-16ab99470c6e"}
+
 SUBJECT_ID = _uuid("ewp:subject:english-language")
-TOPIC = {s: _uuid(f"ewp:topic:{s}") for s in (
+TOPIC = {s: LIVE_TOPIC_ID.get(s, _uuid(f"ewp:topic:{s}")) for s in (
     "sentence-construction", "grammar", "vocabulary-in-context", "paragraph-writing",
 )}
 MICRO = lambda s: _uuid(f"ewp:microtopic:{s}")

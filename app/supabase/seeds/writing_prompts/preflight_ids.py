@@ -17,20 +17,15 @@ wrong level, mis-parented, or carries a different id than the seed baked in. If
 it fails, resolve the live IDs (re-map the JSON `topic_id`/`microtopic_id` and the
 form `subject_id` to the live values) before importing.
 
-A REPORTED MISMATCH IS NOT A BUG IN THIS SCRIPT, AND IT IS NOT FIXED BY EDITING
-THE COMMITTED SEED. The check compares the baked ID (recomputed from the slug)
-against the live row, so on a database whose English taxonomy predates 205 it
-will keep reporting the `english-language` subject and the `grammar` topic as
-divergent no matter what the JSON says — it is reporting TAXONOMY divergence,
-not file state. That is the design.
-
-The re-map above belongs to the IMPORT STEP, on the operator's copy of the rows,
-not to the repository. Commit `f93c32b` re-mapped `03_grammar.json`'s `topic_id`
-to the live value in the repo and broke CI for everyone: the committed seed is
-the canonical baked artifact, and every test plus every migration-built database
-(CI included) resolves `grammar` to `md5('ewp:topic:grammar')`. Editing the
-canonical file to match one environment cannot be right for all of them. Re-map
-at import; leave the committed file baked.
+Expected mismatches are not a bug in this script. It recomputes the baked
+`md5('ewp:...')` id from each slug and compares it to the live row, so on this
+database it reports `english-language` (the subject predates 205) and `grammar`
+(re-mapped to c4b8ebe3-3173-4864-9e04-16ab99470c6e) every run, whatever the seed
+files currently say. That is the check working: it reports divergence between the
+deterministic scheme and the live taxonomy, not the state of the JSON. Reading
+the live id out of the database instead of recomputing it would make the script
+agree with itself and prove nothing. Read a report of those two as "known
+divergence, already resolved in the seed files" and act only on a third.
 
 Usage:
   EWP_PG_DSN=postgres://... python3 preflight_ids.py
