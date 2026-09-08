@@ -58,7 +58,7 @@ REASON = "NABARD Grade A PYQ frontload from the reconciled compendium extraction
 
 
 def load_blocks() -> list[dict]:
-    return json.loads(BLOCKS.read_text())["blocks"]
+    return json.loads(BLOCKS.read_text(encoding="utf-8"))["blocks"]
 
 
 def in_scope(b: dict) -> bool:
