@@ -1,0 +1,1010 @@
+{
+  "exam_id": "4aee0b67-4374-46e1-a35a-f3bb200efcaa",
+  "papers": [
+    {
+      "paper_id": "239abffb-cf63-4b7d-ad34-21841ec94076",
+      "year": 2020,
+      "paper_code": "SEBI-GA-2020-P1-ECO",
+      "exam_phase_id": "e567fd8b-0ecf-4c81-a4f3-bbbf3f45f33c",
+      "question_count": 5,
+      "counts": {
+        "question": {
+          "clean": 5,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 25,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "2b4ec76c-7b8b-43b1-80ad-edc807f20f35",
+      "year": 2020,
+      "paper_code": "SEBI-GA-2020-P1-CA",
+      "exam_phase_id": "e567fd8b-0ecf-4c81-a4f3-bbbf3f45f33c",
+      "question_count": 3,
+      "counts": {
+        "question": {
+          "clean": 3,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 15,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "2c15a657-88f5-4400-be04-f527436969ca",
+      "year": 2020,
+      "paper_code": "SEBI-GA-2020-P2-COST",
+      "exam_phase_id": "c435f496-5f66-42ff-85ec-5fd8e91eb99e",
+      "question_count": 8,
+      "counts": {
+        "question": {
+          "clean": 8,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 40,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "3fe6604a-43c7-4937-8171-829f1afe4fa8",
+      "year": 2020,
+      "paper_code": "SEBI-GA-2020-P2-COMM",
+      "exam_phase_id": "c435f496-5f66-42ff-85ec-5fd8e91eb99e",
+      "question_count": 0,
+      "counts": {},
+      "rows": []
+    },
+    {
+      "paper_id": "6186bcfd-e309-4089-a544-9cb8eb5bbf96",
+      "year": 2020,
+      "paper_code": "SEBI-GA-2020-P2-FIN",
+      "exam_phase_id": "c435f496-5f66-42ff-85ec-5fd8e91eb99e",
+      "question_count": 10,
+      "counts": {
+        "question": {
+          "clean": 10,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 50,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "812e119a-fc4c-4465-9d92-5f6d3a8e8c20",
+      "year": 2020,
+      "paper_code": "SEBI-GA-2020-P1-COST",
+      "exam_phase_id": "e567fd8b-0ecf-4c81-a4f3-bbbf3f45f33c",
+      "question_count": 3,
+      "counts": {
+        "question": {
+          "clean": 3,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 15,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "95234438-a85a-4015-bc05-c4816e7b264a",
+      "year": 2020,
+      "paper_code": "SEBI-GA-2020-P2-MGMT",
+      "exam_phase_id": "c435f496-5f66-42ff-85ec-5fd8e91eb99e",
+      "question_count": 9,
+      "counts": {
+        "question": {
+          "clean": 9,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 44,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "9fb417f2-9a3f-4902-8c58-00611b8b9d54",
+      "year": 2020,
+      "paper_code": "SEBI-GA-2020-P1-COMM",
+      "exam_phase_id": "e567fd8b-0ecf-4c81-a4f3-bbbf3f45f33c",
+      "question_count": 10,
+      "counts": {
+        "question": {
+          "clean": 9,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 1
+        },
+        "option": {
+          "clean": 50,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "c894089c-2ff2-452c-8391-cd5907a2eadc",
+      "year": 2020,
+      "paper_code": "SEBI-GA-2020-P2-CA",
+      "exam_phase_id": "c435f496-5f66-42ff-85ec-5fd8e91eb99e",
+      "question_count": 6,
+      "counts": {
+        "question": {
+          "clean": 6,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 30,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "e78677be-fbf5-48c0-8854-d58c0a34f1ea",
+      "year": 2020,
+      "paper_code": "SEBI-GA-2020-P1-MGMT",
+      "exam_phase_id": "e567fd8b-0ecf-4c81-a4f3-bbbf3f45f33c",
+      "question_count": 4,
+      "counts": {
+        "question": {
+          "clean": 4,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 19,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "f7a7cbb0-4a97-43fc-a56b-07673835939e",
+      "year": 2020,
+      "paper_code": "SEBI-GA-2020-P2-ECO",
+      "exam_phase_id": "c435f496-5f66-42ff-85ec-5fd8e91eb99e",
+      "question_count": 8,
+      "counts": {
+        "question": {
+          "clean": 8,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 40,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "fc7655a5-fe89-41e4-8a50-ae5eb3898ec9",
+      "year": 2020,
+      "paper_code": "SEBI-GA-2020-P1-FIN",
+      "exam_phase_id": "e567fd8b-0ecf-4c81-a4f3-bbbf3f45f33c",
+      "question_count": 19,
+      "counts": {
+        "question": {
+          "clean": 19,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 95,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "02c19be8-ec9b-4989-a24a-b109b67ecaf7",
+      "year": 2022,
+      "paper_code": "SEBI-GA-2022-P1-FIN",
+      "exam_phase_id": "e1cea0f4-08ff-471d-bed5-437287ea5d1e",
+      "question_count": 7,
+      "counts": {
+        "question": {
+          "clean": 7,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 35,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "2e9ccdde-3938-45ad-9580-63070146f300",
+      "year": 2022,
+      "paper_code": "SEBI-GA-2022-P2-MGMT",
+      "exam_phase_id": "304d8f84-c096-4f3f-80e8-90edff5194c3",
+      "question_count": 5,
+      "counts": {
+        "question": {
+          "clean": 5,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 25,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "37b5eb81-546e-48c0-9a31-985e07123d92",
+      "year": 2022,
+      "paper_code": "SEBI-GA-2022-P1-MGMT",
+      "exam_phase_id": "e1cea0f4-08ff-471d-bed5-437287ea5d1e",
+      "question_count": 0,
+      "counts": {},
+      "rows": []
+    },
+    {
+      "paper_id": "3addb7ba-05b7-4f90-9e89-8ab9beda9c13",
+      "year": 2022,
+      "paper_code": "SEBI-GA-2022-P2-COMM",
+      "exam_phase_id": "304d8f84-c096-4f3f-80e8-90edff5194c3",
+      "question_count": 9,
+      "counts": {
+        "question": {
+          "clean": 9,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 45,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "45053404-e149-4c98-8433-9d02f6085bec",
+      "year": 2022,
+      "paper_code": "SEBI-GA-2022-P1-COMM",
+      "exam_phase_id": "e1cea0f4-08ff-471d-bed5-437287ea5d1e",
+      "question_count": 10,
+      "counts": {
+        "question": {
+          "clean": 10,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 50,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "53593c54-5bcd-4f5b-9470-2f30caec2c8e",
+      "year": 2022,
+      "paper_code": "SEBI-GA-2022-P2-COST",
+      "exam_phase_id": "304d8f84-c096-4f3f-80e8-90edff5194c3",
+      "question_count": 9,
+      "counts": {
+        "question": {
+          "clean": 8,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 1
+        },
+        "option": {
+          "clean": 43,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 2
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "6373b021-91b8-46cc-af34-62d552ea0bcc",
+      "year": 2022,
+      "paper_code": "SEBI-GA-2022-P1-COST",
+      "exam_phase_id": "e1cea0f4-08ff-471d-bed5-437287ea5d1e",
+      "question_count": 9,
+      "counts": {
+        "question": {
+          "clean": 9,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 45,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "69a4f0a6-c988-43be-9d79-63e1da2d8050",
+      "year": 2022,
+      "paper_code": "SEBI-GA-2022-P2-FIN",
+      "exam_phase_id": "304d8f84-c096-4f3f-80e8-90edff5194c3",
+      "question_count": 6,
+      "counts": {
+        "question": {
+          "clean": 6,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 30,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "710abe5b-3a85-49eb-9d47-2942669ea0aa",
+      "year": 2022,
+      "paper_code": "SEBI-GA-2022-P2-ECO",
+      "exam_phase_id": "304d8f84-c096-4f3f-80e8-90edff5194c3",
+      "question_count": 11,
+      "counts": {
+        "question": {
+          "clean": 11,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 51,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 4
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "7f9bca84-6a8d-4dbe-857f-d6d6e79b9af8",
+      "year": 2022,
+      "paper_code": "SEBI-GA-2022-P1-ECO",
+      "exam_phase_id": "e1cea0f4-08ff-471d-bed5-437287ea5d1e",
+      "question_count": 8,
+      "counts": {
+        "question": {
+          "clean": 8,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 40,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "c8d41d16-3e84-486b-b0d5-422bf4c28075",
+      "year": 2022,
+      "paper_code": "SEBI-GA-2022-P2-CA",
+      "exam_phase_id": "304d8f84-c096-4f3f-80e8-90edff5194c3",
+      "question_count": 9,
+      "counts": {
+        "question": {
+          "clean": 8,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 1
+        },
+        "option": {
+          "clean": 45,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "d3973d44-c1ca-41f1-9735-68d0b24757b2",
+      "year": 2022,
+      "paper_code": "SEBI-GA-2022-P1-CA",
+      "exam_phase_id": "e1cea0f4-08ff-471d-bed5-437287ea5d1e",
+      "question_count": 0,
+      "counts": {},
+      "rows": []
+    },
+    {
+      "paper_id": "0f00f9cd-fa2e-4d80-8878-41d8de72331b",
+      "year": 2024,
+      "paper_code": "SEBI-GA-2024-P2-COST",
+      "exam_phase_id": "9859b404-0de9-460c-9eef-82dd5ef0b366",
+      "question_count": 12,
+      "counts": {
+        "question": {
+          "clean": 12,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 60,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "343cc34a-5c39-421e-8093-aa6f904a08e3",
+      "year": 2024,
+      "paper_code": "SEBI-GA-2024-P1-ECO",
+      "exam_phase_id": "adebb1be-be1c-411a-b80b-c863ca5374ee",
+      "question_count": 7,
+      "counts": {
+        "question": {
+          "clean": 7,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 35,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "57270142-a621-40e1-a71a-e8d8d3b85850",
+      "year": 2024,
+      "paper_code": "SEBI-GA-2024-P1-MGMT",
+      "exam_phase_id": "adebb1be-be1c-411a-b80b-c863ca5374ee",
+      "question_count": 9,
+      "counts": {
+        "question": {
+          "clean": 9,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 45,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "581a7818-535d-4550-b725-81d6e6bccf6b",
+      "year": 2024,
+      "paper_code": "SEBI-GA-2024-P1-COST",
+      "exam_phase_id": "adebb1be-be1c-411a-b80b-c863ca5374ee",
+      "question_count": 7,
+      "counts": {
+        "question": {
+          "clean": 7,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 35,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "5b250286-fd2e-4590-ad15-db25713c170d",
+      "year": 2024,
+      "paper_code": "SEBI-GA-2024-P2-ECO",
+      "exam_phase_id": "9859b404-0de9-460c-9eef-82dd5ef0b366",
+      "question_count": 16,
+      "counts": {
+        "question": {
+          "clean": 16,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 80,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "5e5467cb-4bc4-4a54-b194-c195bb112c79",
+      "year": 2024,
+      "paper_code": "SEBI-GA-2024-P2-FIN",
+      "exam_phase_id": "9859b404-0de9-460c-9eef-82dd5ef0b366",
+      "question_count": 18,
+      "counts": {
+        "question": {
+          "clean": 18,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 70,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 20
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "a3a73a7a-0391-4609-8ea4-1fa3ad2b129c",
+      "year": 2024,
+      "paper_code": "SEBI-GA-2024-P1-FIN",
+      "exam_phase_id": "adebb1be-be1c-411a-b80b-c863ca5374ee",
+      "question_count": 11,
+      "counts": {
+        "question": {
+          "clean": 11,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 55,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "aaeddb98-401d-4d36-88ea-dac735000451",
+      "year": 2024,
+      "paper_code": "SEBI-GA-2024-P2-COMM",
+      "exam_phase_id": "9859b404-0de9-460c-9eef-82dd5ef0b366",
+      "question_count": 17,
+      "counts": {
+        "question": {
+          "clean": 17,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 85,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "abad43cd-8e3e-4ca1-a2f3-359c6b254380",
+      "year": 2024,
+      "paper_code": "SEBI-GA-2024-P2-MGMT",
+      "exam_phase_id": "9859b404-0de9-460c-9eef-82dd5ef0b366",
+      "question_count": 0,
+      "counts": {},
+      "rows": []
+    },
+    {
+      "paper_id": "c9d78904-3414-49b6-bffc-1313498a28ad",
+      "year": 2024,
+      "paper_code": "SEBI-GA-2024-P2-CA",
+      "exam_phase_id": "9859b404-0de9-460c-9eef-82dd5ef0b366",
+      "question_count": 19,
+      "counts": {
+        "question": {
+          "clean": 19,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 95,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "ca9839e5-c5ce-44f8-b7c9-3a6e3123c388",
+      "year": 2024,
+      "paper_code": "SEBI-GA-2024-P1-COMM",
+      "exam_phase_id": "adebb1be-be1c-411a-b80b-c863ca5374ee",
+      "question_count": 7,
+      "counts": {
+        "question": {
+          "clean": 7,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 35,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "cf9baea4-0932-4718-bc1f-9d56810c0b77",
+      "year": 2024,
+      "paper_code": "SEBI-GA-2024-P1-CA",
+      "exam_phase_id": "adebb1be-be1c-411a-b80b-c863ca5374ee",
+      "question_count": 9,
+      "counts": {
+        "question": {
+          "clean": 9,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 45,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "20db96fc-1c6f-4551-891f-aa56b31ca656",
+      "year": 2025,
+      "paper_code": "SEBI-GA-2025-P1-COMM",
+      "exam_phase_id": "cf1506ac-98d9-4d7f-a439-29388f683143",
+      "question_count": 10,
+      "counts": {
+        "question": {
+          "clean": 10,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 50,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "2bb6ceb7-ced5-4768-8211-2f1df7176911",
+      "year": 2025,
+      "paper_code": "SEBI-GA-2025-P2-CA",
+      "exam_phase_id": "05e30996-da0b-4693-b870-47da6a8e024d",
+      "question_count": 11,
+      "counts": {
+        "question": {
+          "clean": 11,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 55,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "3169708d-e49b-4dfa-a1d3-2b84186b8ebb",
+      "year": 2025,
+      "paper_code": "SEBI-GA-2025-P2-COMM",
+      "exam_phase_id": "05e30996-da0b-4693-b870-47da6a8e024d",
+      "question_count": 12,
+      "counts": {
+        "question": {
+          "clean": 12,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 60,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "42da6046-44df-4d13-a521-cb5afb4f6970",
+      "year": 2025,
+      "paper_code": "SEBI-GA-2025-P1-COST",
+      "exam_phase_id": "cf1506ac-98d9-4d7f-a439-29388f683143",
+      "question_count": 8,
+      "counts": {
+        "question": {
+          "clean": 8,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 40,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "4a633407-7734-47e7-bfe4-030bec9cd8e5",
+      "year": 2025,
+      "paper_code": "SEBI-GA-2025-P1-ECO",
+      "exam_phase_id": "cf1506ac-98d9-4d7f-a439-29388f683143",
+      "question_count": 5,
+      "counts": {
+        "question": {
+          "clean": 5,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 25,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "553301ee-7276-4f91-ac9e-18e01fd9edb5",
+      "year": 2025,
+      "paper_code": "SEBI-GA-2025-P1-FIN",
+      "exam_phase_id": "cf1506ac-98d9-4d7f-a439-29388f683143",
+      "question_count": 0,
+      "counts": {},
+      "rows": []
+    },
+    {
+      "paper_id": "6971b764-8632-4c1f-8838-8e700545c480",
+      "year": 2025,
+      "paper_code": "SEBI-GA-2025-P2-FIN",
+      "exam_phase_id": "05e30996-da0b-4693-b870-47da6a8e024d",
+      "question_count": 31,
+      "counts": {
+        "question": {
+          "clean": 28,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 3
+        },
+        "option": {
+          "clean": 131,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 24
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "6e853f18-f405-4462-b8e7-be6541afb4b3",
+      "year": 2025,
+      "paper_code": "SEBI-GA-2025-P2-MGMT",
+      "exam_phase_id": "05e30996-da0b-4693-b870-47da6a8e024d",
+      "question_count": 20,
+      "counts": {
+        "question": {
+          "clean": 20,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 100,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "7c7f6e9b-7bc1-4ac1-bb06-aa1b0c9972ca",
+      "year": 2025,
+      "paper_code": "SEBI-GA-2025-P1-MGMT",
+      "exam_phase_id": "cf1506ac-98d9-4d7f-a439-29388f683143",
+      "question_count": 8,
+      "counts": {
+        "question": {
+          "clean": 8,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 40,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "7f858749-aeb1-47ba-8bef-a4bbff63d29a",
+      "year": 2025,
+      "paper_code": "SEBI-GA-2025-P1-CA",
+      "exam_phase_id": "cf1506ac-98d9-4d7f-a439-29388f683143",
+      "question_count": 9,
+      "counts": {
+        "question": {
+          "clean": 8,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 1
+        },
+        "option": {
+          "clean": 45,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "c0e3a0bd-c330-4b7f-8f75-cdb25573264b",
+      "year": 2025,
+      "paper_code": "SEBI-GA-2025-P2-COST",
+      "exam_phase_id": "05e30996-da0b-4693-b870-47da6a8e024d",
+      "question_count": 16,
+      "counts": {
+        "question": {
+          "clean": 16,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 80,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "ffc17ab5-c753-4bb9-95d1-7989f7a7b203",
+      "year": 2025,
+      "paper_code": "SEBI-GA-2025-P2-ECO",
+      "exam_phase_id": "05e30996-da0b-4693-b870-47da6a8e024d",
+      "question_count": 10,
+      "counts": {
+        "question": {
+          "clean": 10,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 50,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    }
+  ],
+  "totals": {
+    "question": {
+      "mangled": 0,
+      "ambiguous": 0,
+      "non_latin": 7,
+      "clean": 433
+    },
+    "option": {
+      "mangled": 0,
+      "ambiguous": 0,
+      "non_latin": 50,
+      "clean": 2148
+    }
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "exam_id": "aded8ee9-e9ec-4287-9015-6db1919fa67e",
+  "papers": [
+    {
+      "paper_id": "06712b2e-5003-4d97-9d77-968c0e5be20d",
+      "year": 2022,
+      "paper_code": null,
+      "exam_phase_id": "852299e6-f081-4346-a580-5d9a88a03913",
+      "question_count": 115,
+      "counts": {
+        "question": {
+          "clean": 110,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 5
+        },
+        "option": {
+          "clean": 565,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 9
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "4f15f17d-542b-421e-81d0-b6280ea7c67b",
+      "year": 2022,
+      "paper_code": null,
+      "exam_phase_id": "3bcce5c0-beb5-40aa-b769-aca7185cbac7",
+      "question_count": 15,
+      "counts": {
+        "question": {
+          "clean": 15,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "b046e6fa-bb3a-46dc-846a-2e791d5f342f",
+      "year": 2023,
+      "paper_code": null,
+      "exam_phase_id": "b382f3ac-3953-435e-bf8c-f9695626f796",
+      "question_count": 15,
+      "counts": {
+        "question": {
+          "clean": 15,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "e6019bda-45f7-43bf-96d8-aac6f91f383f",
+      "year": 2023,
+      "paper_code": null,
+      "exam_phase_id": "13b09fcd-7f44-49c5-9982-f80cd64c915b",
+      "question_count": 189,
+      "counts": {
+        "question": {
+          "clean": 189,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 937,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 8
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "ba80e989-e6a2-46e2-98da-8da5966e16bf",
+      "year": 2024,
+      "paper_code": null,
+      "exam_phase_id": "ea3afed2-f603-4c48-8e5b-73ce2ba21569",
+      "question_count": 195,
+      "counts": {
+        "question": {
+          "clean": 195,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 967,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 8
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "e0a9e855-085b-4a26-9710-63b295fd40d7",
+      "year": 2024,
+      "paper_code": null,
+      "exam_phase_id": "e161d9ca-788a-41a0-8ec0-5892942042a7",
+      "question_count": 15,
+      "counts": {
+        "question": {
+          "clean": 15,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "4009c3fe-f7ac-4468-bf6f-862d488509e0",
+      "year": 2025,
+      "paper_code": "RBI-GB-2025-P2-ESI",
+      "exam_phase_id": "663c4452-2092-4ca6-b16e-58d66ff19cc0",
+      "question_count": 36,
+      "counts": {
+        "question": {
+          "clean": 31,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 5
+        },
+        "option": {
+          "clean": 145,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 5
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "6b4c47a8-6488-4729-83ec-ae0c2e9e410a",
+      "year": 2025,
+      "paper_code": null,
+      "exam_phase_id": "026841e1-7f0a-4f3a-8ab9-1a38c8e57e82",
+      "question_count": 189,
+      "counts": {
+        "question": {
+          "clean": 180,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 9
+        },
+        "option": {
+          "clean": 900,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 44
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "73c11d0b-9cc3-4b43-b494-d31ca8edbd00",
+      "year": 2025,
+      "paper_code": "RBI-GB-2025-P2-FM",
+      "exam_phase_id": "663c4452-2092-4ca6-b16e-58d66ff19cc0",
+      "question_count": 36,
+      "counts": {
+        "question": {
+          "clean": 36,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 130,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 20
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "9ca02669-5875-4e97-b2bb-5f04ed49e94b",
+      "year": 2025,
+      "paper_code": "RBI-GB-2025-P2-ENG",
+      "exam_phase_id": "663c4452-2092-4ca6-b16e-58d66ff19cc0",
+      "question_count": 3,
+      "counts": {
+        "question": {
+          "clean": 3,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "a2cf30d7-354f-4f88-ac7f-182206519104",
+      "year": 2026,
+      "paper_code": null,
+      "exam_phase_id": "e381788c-d1da-4836-82d1-2f50191def16",
+      "question_count": 191,
+      "counts": {
+        "question": {
+          "clean": 178,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 13
+        },
+        "option": {
+          "clean": 928,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 24
+        }
+      },
+      "rows": []
+    }
+  ],
+  "totals": {
+    "question": {
+      "mangled": 0,
+      "ambiguous": 0,
+      "non_latin": 32,
+      "clean": 967
+    },
+    "option": {
+      "mangled": 0,
+      "ambiguous": 0,
+      "non_latin": 118,
+      "clean": 4572
+    }
+  }
+}
