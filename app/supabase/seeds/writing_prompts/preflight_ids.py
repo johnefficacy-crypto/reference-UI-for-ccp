@@ -17,6 +17,16 @@ wrong level, mis-parented, or carries a different id than the seed baked in. If
 it fails, resolve the live IDs (re-map the JSON `topic_id`/`microtopic_id` and the
 form `subject_id` to the live values) before importing.
 
+Expected mismatches are not a bug in this script. It recomputes the baked
+`md5('ewp:...')` id from each slug and compares it to the live row, so on this
+database it reports `english-language` (the subject predates 205) and `grammar`
+(re-mapped to c4b8ebe3-3173-4864-9e04-16ab99470c6e) every run, whatever the seed
+files currently say. That is the check working: it reports divergence between the
+deterministic scheme and the live taxonomy, not the state of the JSON. Reading
+the live id out of the database instead of recomputing it would make the script
+agree with itself and prove nothing. Read a report of those two as "known
+divergence, already resolved in the seed files" and act only on a third.
+
 Usage:
   EWP_PG_DSN=postgres://... python3 preflight_ids.py
 """
