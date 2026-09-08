@@ -20,33 +20,6 @@
 --   * Locked value domains are CHECK constraints, not comments.
 --   * Deterministic seed UUIDs via md5('ewp:...')::uuid — re-run safe, never gen_random_uuid() (§EWP-1).
 --
--- EDITED AFTER LANDING — a deliberate, documented exception to the
--- migration-immutability rule in AGENTS.md, taken for the same class of reason
--- as migration 269. Read this before assuming the rule was ignored.
---
--- One value changed: the `grammar` topic id. Everything else in this file,
--- including every other deterministic id, is byte-for-byte what it was.
---
--- The topic loop below inserts only when the slug is absent. On the live
--- database `grammar` already existed when 205 ran, so its insert was skipped and
--- the row that stands carries c4b8ebe3-3173-4864-9e04-16ab99470c6e, not the
--- baked md5 value. Production is therefore unaffected by this edit twice over:
--- the row exists, and the guard still skips it.
---
--- A clean `supabase db reset` was affected. There, nothing pre-existed, the
--- baked value was inserted, and the resulting taxonomy disagreed with the live
--- one — so the writing-prompt seed, whose JSON carries the live id, would fail
--- `cms_bulk_upsert_writing_prompts` with `invalid_scope` against a fresh
--- database while succeeding against production. This edit makes a fresh
--- database reproduce production.
---
--- A forward migration cannot do this. Repairing it later means UPDATEing a
--- topic id that child microtopics, writing_prompts and evidence rows already
--- reference; the fix belongs where the id is minted.
---
--- Parentage is resolved by slug, not by id (see the microtopic loop), so no
--- other statement in this file depends on which of the two values is used.
---
 -- Migration number: highest existing migration file is 204; this is 205, which
 -- the repo `migration-numbers` check validates for filesystem contiguity. The
 -- authoritative live value (`select max(version)::int + 1 from schema_migrations`)
@@ -1092,11 +1065,7 @@ BEGIN
 
   FOR i IN 1 .. array_length(topics2, 1) LOOP
     INSERT INTO public.topics (id, subject_id, parent_topic_id, slug, name, level, is_active)
-    SELECT CASE topics2[i][1]
-             -- See the EDITED AFTER LANDING note in the header.
-             WHEN 'grammar' THEN 'c4b8ebe3-3173-4864-9e04-16ab99470c6e'::uuid
-             ELSE md5('ewp:topic:' || topics2[i][1])::uuid
-           END, v_subject, NULL,
+    SELECT md5('ewp:topic:' || topics2[i][1])::uuid, v_subject, NULL,
            topics2[i][1], topics2[i][2], 'topic', true
     WHERE NOT EXISTS (
       SELECT 1 FROM public.topics

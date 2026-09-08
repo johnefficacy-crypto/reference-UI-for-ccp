@@ -11,12 +11,13 @@ Postgres and proves the two contracts the README/checklist promise:
   - a re-import of the identical files is **idempotent**: every row resolves to
     `unchanged` (0 created / 0 updated), no duplicates, still 270 pending/inactive.
 
-The seed rows carry migration-205's taxonomy IDs — deterministic
-`md5('ewp:topic:<slug>')` for every topic except `grammar`, which 205 pins to the
-live c4b8ebe3-... value (see its EDITED AFTER LANDING note). This test is what
-holds those two in agreement: it applies migration 205 FRESH (which creates that
-taxonomy) → 213 → 214 → 215 against a throwaway DB, so a seed file re-mapped
-without 205 fails here with `invalid_scope`. Migration 214 DROPS
+The seed rows carry the taxonomy IDs the migration set produces —
+deterministic `md5('ewp:topic:<slug>')` from 205 for every topic except
+`grammar`, which migration 274 repairs to the live c4b8ebe3-... value. This test
+is what holds the seed and the migration set in agreement: it applies migration
+205 FRESH (which creates that taxonomy) → 213 → 214 → 215 → 274 against a
+throwaway DB, so a seed file re-mapped without a matching migration fails here
+with `invalid_scope`. Migration 214 DROPS
 columns (destructive), so — like test_content_studio_ops_pg_behaviour — this
 runs against an isolated database and leaves the shared EWP_PG_DSN DB untouched.
 
@@ -160,12 +161,16 @@ def _apply():
     _DSN = _swap_dbname(_DSN, _OWN_DB)
     try:
         _psql(_BOOTSTRAP)
-        # 205 creates the English taxonomy FRESH with the deterministic md5 IDs the
-        # seed rows bake, so no ID re-mapping is needed here.
+        # 205 creates the English taxonomy FRESH with the deterministic md5 IDs.
+        # 274 then repairs `grammar` to the live c4b8ebe3-... id the seed rows
+        # carry. Both are required: without 274 this database keeps the md5 id and
+        # every 03_grammar.json row fails `invalid_scope`, which is precisely the
+        # production/fresh-database divergence this suite exists to catch.
         _psql_file(_MIG / "205_english_writing_practice_schema.sql")
         _psql_file(_MIG / "213_english_writing_practice_error_lab_read_model.sql")
         _psql_file(_MIG / "214_writing_prompt_content_scoping.sql")
         _psql_file(_MIG / "215_writing_prompt_content_studio_ops.sql")
+        _psql_file(_MIG / "274_ewp_grammar_topic_id_repair.sql")
         _ENGLISH_ID = _scalar(f"SELECT {_ENGLISH};")
         assert re.fullmatch(r"[0-9a-f-]{36}", _ENGLISH_ID), f"english subject missing: {_ENGLISH_ID!r}"
         yield
