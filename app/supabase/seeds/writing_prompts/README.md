@@ -56,6 +56,17 @@ UUID, the live IDs differ and `cms_bulk_upsert_writing_prompts` fails
 subject/topic/microtopic ID is the live, active, correctly-parented row — and
 fails otherwise. Re-map the IDs to the live values if it fails.
 
+**Re-map at import, never in the repo.** The re-map applies to the operator's
+copy of the rows being POSTed. The committed JSON stays baked, because it is the
+canonical artifact every test and every migration-built database (CI included)
+resolves against — `grammar` there is `md5('ewp:topic:grammar')`
+(`54adbabc-…`), whatever a given live database happens to carry. `f93c32b`
+re-mapped the committed `03_grammar.json` to a live value and turned `main` red
+for everyone: two seed tests plus both PG-gated import tests. A live/baked
+divergence that preflight reports is resolved on the live side — an operator
+re-map now, or a forward migration that aligns the live taxonomy — not by
+editing this file.
+
 ```bash
 EWP_PG_DSN=postgres://... python3 preflight_ids.py
 ```
@@ -66,13 +77,37 @@ Authoring/importing/reviewing is fine, but **activation of the affected types is
 blocked on runtime work that does not exist yet** (tracked as CODE blockers in
 `career-copilot-checklist.md`, not reducible to an operator import/review step):
 
-- **`source_text` is not delivered to the evaluator.** All 50 sentence-correction,
-  100 grammar, and the source-bearing vocabulary rows carry the sentence-to-fix in
-  `source_text`, and correctness depends on meaning-preserving correction. But
-  `ewp_claim_evaluation_job` does not return `prompt_text`/`source_text` and
-  `evaluation_worker` evaluates with only `answer_text` + `exercise_type` — so a
-  clean unrelated sentence can pass. **Blocker:** the claim RPC + worker must
-  surface prompt/source context, with behavior tests, before these activate.
+- **A correct answer cannot be told from an unrelated one.** All 50
+  sentence-correction, 100 grammar, and the source-bearing vocabulary rows carry
+  the sentence-to-fix in `source_text`, and correctness depends on
+  meaning-preserving correction.
+
+  The *delivery* half of this is DONE, and the earlier wording here was stale:
+  `ewp_claim_evaluation_job` returns `prompt_text`/`source_text` from the
+  immutable session snapshot (migration
+  `222_ewp_prompt_snapshot_and_exam_derivation.sql:251-252`), and
+  `evaluation_worker.py:245-252` threads both into `evaluate_language`.
+
+  What remains is the JUDGEMENT half. `compute_source_comparison`
+  (`language_evaluator.py:79-114`) is deterministic by design and returns
+  `source_comparison_uncertain` for *every* non-trivial changed answer — meaning
+  preservation is not deterministically decidable, and the similarity thresholds
+  that would guess at it were rejected as gameable
+  (`docs/architecture/ewp-semantic-evaluator-adapter.md` §2.2). So a
+  meaning-preserving correction and a clean but unrelated sentence reach the
+  identical fail-closed outcome: human review, zero mastery. Nothing wrongly
+  passes — but nothing rightly passes either.
+
+  The semantic adapter is the layer that separates them, and it runs in SHADOW:
+  its verdict reaches telemetry only, never the canonical outcome. Both facts are
+  pinned by
+  `tests/study_os/test_writing_semantic_adapter.py::test_deterministic_layer_cannot_separate_a_correction_from_an_unrelated_sentence`
+  and `::test_shadow_adapter_separates_them_but_cannot_change_the_canonical_outcome`.
+
+  **Blocker:** `FF_WRITING_LLM_EVAL` must reach LIVE — gated on the §5.2
+  promotion evidence — before these types activate. Until then activation stays
+  fail-closed at the gate (`exercise_type_not_runtime_ready` /
+  `semantic_evaluator_not_live`).
 - **No paragraph rubric.** All 20 `paragraph_writing` rows omit `rubric_id` and no
   writing rubric is seeded, so the Stage-3 evaluator persists an empty
   `rubric_dimensions=[]` instead of grammar/cohesion/content/organisation.
