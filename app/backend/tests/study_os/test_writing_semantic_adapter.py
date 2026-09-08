@@ -363,3 +363,91 @@ def test_shadow_flag_builds_real_semantic_adapter(monkeypatch):
     monkeypatch.setenv("FF_WRITING_LLM_EVAL", "shadow")
     ev = lang.get_semantic_shadow_evaluator()
     assert isinstance(ev, se.SemanticLanguageEvaluator)
+
+
+# --- EWP-SP1b: where the correction-vs-unrelated distinction actually lives ---
+#
+# The source-aware runtime threads prompt_text/source_text to the evaluator, but
+# that alone does NOT let the system tell a meaning-preserving CORRECTION from a
+# clean but UNRELATED sentence. Both are non-trivial changes to the source, and
+# the deterministic layer returns `source_comparison_uncertain` for every one of
+# those by design (language_evaluator.compute_source_comparison: meaning
+# preservation is not deterministically decidable, and the similarity thresholds
+# that would guess at it were rejected as gameable).
+#
+# These two tests pin that honestly: the first proves the deterministic layer
+# CANNOT separate the cases, the second proves the semantic adapter is the layer
+# that can — and that in SHADOW its verdict reaches telemetry only, never the
+# canonical outcome. Until FF_WRITING_LLM_EVAL is LIVE (blocked on the §5.2
+# promotion gates), "a correct answer passes" is not a property this system has.
+
+_GAP_SOURCE = "He go to school every day."
+_GAP_CORRECTED = "He goes to school every day."
+_GAP_UNRELATED = "The monsoon arrived early this year."
+
+
+def _canonical_for(answer, *, monkeypatch, adapter=None, responses=None):
+    """Run one answer through the worker; return (completion params, telemetry|None)."""
+    if adapter is None:
+        monkeypatch.delenv("FF_WRITING_LLM_EVAL", raising=False)
+    else:
+        _run_with_adapter(monkeypatch, adapter)
+    resp = {"ewp_claim_evaluation_job": _claim(answer_text=answer,
+                                               source_text=_GAP_SOURCE),
+            "ewp_complete_language_evaluation": {"ok": True}}
+    resp.update(responses or {})
+    sb = FakeSupabase(resp)
+    out = evaluation_worker.run_worker_pass(sb)
+    assert out["status"] == "succeeded"
+    tel = None
+    if adapter is not None:
+        tel = sb.params_for("ewp_record_language_evaluator_run")
+    return sb.params_for("ewp_complete_language_evaluation"), tel
+
+
+def test_deterministic_layer_cannot_separate_a_correction_from_an_unrelated_sentence(monkeypatch):
+    corrected, _ = _canonical_for(_GAP_CORRECTED, monkeypatch=monkeypatch)
+    unrelated, _ = _canonical_for(_GAP_UNRELATED, monkeypatch=monkeypatch)
+
+    # Both land on the same fail-closed verdict...
+    for completion in (corrected, unrelated):
+        assert completion["p_language_result"]["source_comparison"] == "source_comparison_uncertain"
+        assert completion["p_needs_human_review"] is True
+
+    # ...and the canonical payloads are INDISTINGUISHABLE apart from the answer
+    # itself. This is the gap, asserted rather than papered over: threading
+    # source_text in does not make a correct answer pass, and does not make a
+    # wrong one fail any harder.
+    assert corrected["p_language_result"] == unrelated["p_language_result"]
+    assert corrected["p_issues"] == unrelated["p_issues"]
+    assert corrected["p_needs_human_review"] == unrelated["p_needs_human_review"]
+
+
+def test_shadow_adapter_separates_them_but_cannot_change_the_canonical_outcome(monkeypatch):
+    # The adapter sees a meaning-preserving correction as clean...
+    ok = _adapter(_FakeClient(resp=_tool_resp(source_comparison=None, confidence=0.95)))
+    corrected, corrected_tel = _canonical_for(
+        _GAP_CORRECTED, monkeypatch=monkeypatch, adapter=ok,
+        responses={"ewp_record_language_evaluator_run": {"ok": True, "id": "r1"}})
+
+    # ...and an unrelated sentence as not preserving the source's meaning.
+    bad = _adapter(_FakeClient(resp=_tool_resp(source_comparison="meaning_not_preserved",
+                                               confidence=0.95)))
+    unrelated, unrelated_tel = _canonical_for(
+        _GAP_UNRELATED, monkeypatch=monkeypatch, adapter=bad,
+        responses={"ewp_record_language_evaluator_run": {"ok": True, "id": "r2"}})
+
+    # The distinction EXISTS — in telemetry.
+    assert corrected_tel["p_semantic_source_comparison"] is None
+    assert unrelated_tel["p_semantic_source_comparison"] == "meaning_not_preserved"
+    assert corrected_tel["p_semantic_source_comparison"] != unrelated_tel["p_semantic_source_comparison"]
+
+    # The deterministic side of the SAME telemetry rows shows it did not.
+    for tel in (corrected_tel, unrelated_tel):
+        assert tel["p_deterministic_source_comparison"] == "source_comparison_uncertain"
+        assert tel["p_deterministic_needs_human_review"] is True
+
+    # And SHADOW changes nothing canonical: still identical, still human review.
+    assert corrected["p_language_result"] == unrelated["p_language_result"]
+    assert corrected["p_needs_human_review"] is True
+    assert unrelated["p_needs_human_review"] is True
