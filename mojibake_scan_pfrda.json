@@ -1,0 +1,817 @@
+{
+  "exam_id": "85dbbb6c-0665-462c-aaf0-caaf268cc769",
+  "papers": [
+    {
+      "paper_id": "35f5df80-878b-45e8-a4c9-e5970ff5cabe",
+      "year": 2021,
+      "paper_code": "PFRDA-GA-2021-P1P2-COMM",
+      "exam_phase_id": "da0608e6-c29e-4cf8-a641-4a225ab515f5",
+      "question_count": 0,
+      "counts": {},
+      "rows": []
+    },
+    {
+      "paper_id": "68e07ff1-67cf-4c00-b8a1-515599ac4b72",
+      "year": 2021,
+      "paper_code": "PFRDA-GA-2021-P1P2-ECO",
+      "exam_phase_id": "da0608e6-c29e-4cf8-a641-4a225ab515f5",
+      "question_count": 0,
+      "counts": {},
+      "rows": []
+    },
+    {
+      "paper_id": "6f1ca0a1-40a4-4240-afb8-c77a958ecbed",
+      "year": 2021,
+      "paper_code": "PFRDA-GA-2021-P2P2-COMM",
+      "exam_phase_id": "6a41308c-6d3f-4838-986d-c472243d8574",
+      "question_count": 6,
+      "counts": {
+        "question": {
+          "clean": 4,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 2
+        },
+        "option": {
+          "clean": 30,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "84f6f4af-1401-47c2-98d3-e5b3f4340d64",
+      "year": 2021,
+      "paper_code": "PFRDA-GA-2021-P2P2-FIN",
+      "exam_phase_id": "6a41308c-6d3f-4838-986d-c472243d8574",
+      "question_count": 0,
+      "counts": {},
+      "rows": []
+    },
+    {
+      "paper_id": "8d51bf1f-53b1-46bc-9107-cabbbd052cdb",
+      "year": 2021,
+      "paper_code": "PFRDA-GA-2021-P1P2-PENS",
+      "exam_phase_id": "da0608e6-c29e-4cf8-a641-4a225ab515f5",
+      "question_count": 0,
+      "counts": {},
+      "rows": []
+    },
+    {
+      "paper_id": "903f9c8f-887a-45f3-bc8a-6a585d807d28",
+      "year": 2021,
+      "paper_code": "PFRDA-GA-2021-P1P2-CA",
+      "exam_phase_id": "da0608e6-c29e-4cf8-a641-4a225ab515f5",
+      "question_count": 0,
+      "counts": {},
+      "rows": []
+    },
+    {
+      "paper_id": "a6de6bd5-48d9-40f5-a2dc-a12b787ed910",
+      "year": 2021,
+      "paper_code": "PFRDA-GA-2021-P1P2-MGMT",
+      "exam_phase_id": "da0608e6-c29e-4cf8-a641-4a225ab515f5",
+      "question_count": 0,
+      "counts": {},
+      "rows": []
+    },
+    {
+      "paper_id": "b621f041-f7f6-4280-80a6-8ff743c5a75d",
+      "year": 2021,
+      "paper_code": "PFRDA-GA-2021-P2P1-ENG",
+      "exam_phase_id": "6a41308c-6d3f-4838-986d-c472243d8574",
+      "question_count": 3,
+      "counts": {
+        "question": {
+          "clean": 3,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "bf493896-797b-486a-b9f9-74275027f6a8",
+      "year": 2021,
+      "paper_code": "PFRDA-GA-2021-P2P2-PENS",
+      "exam_phase_id": "6a41308c-6d3f-4838-986d-c472243d8574",
+      "question_count": 0,
+      "counts": {},
+      "rows": []
+    },
+    {
+      "paper_id": "d7d2cf5e-8a28-4cac-b9cc-749eaf18f6d5",
+      "year": 2021,
+      "paper_code": "PFRDA-GA-2021-P1P2-FIN",
+      "exam_phase_id": "da0608e6-c29e-4cf8-a641-4a225ab515f5",
+      "question_count": 0,
+      "counts": {},
+      "rows": []
+    },
+    {
+      "paper_id": "fe3cc932-1d67-4a34-ba02-01e21ee89411",
+      "year": 2021,
+      "paper_code": "PFRDA-GA-2021-P2P2-MGMT",
+      "exam_phase_id": "6a41308c-6d3f-4838-986d-c472243d8574",
+      "question_count": 0,
+      "counts": {},
+      "rows": []
+    },
+    {
+      "paper_id": "04cc6305-9cec-459d-85b0-482c844801e2",
+      "year": 2022,
+      "paper_code": "PFRDA-GA-2022-P1P1-REAS",
+      "exam_phase_id": "e182a4cf-ece7-44fa-95bf-1948089f11a1",
+      "question_count": 0,
+      "counts": {},
+      "rows": []
+    },
+    {
+      "paper_id": "075aafca-8327-44be-903a-67a382a5e2df",
+      "year": 2022,
+      "paper_code": "PFRDA-GA-2022-P1P2-MGMT",
+      "exam_phase_id": "e182a4cf-ece7-44fa-95bf-1948089f11a1",
+      "question_count": 6,
+      "counts": {
+        "question": {
+          "clean": 6,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 30,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "16b63000-b9fc-4708-ad48-20f8fb7c1008",
+      "year": 2022,
+      "paper_code": "PFRDA-GA-2022-P2P2-FIN",
+      "exam_phase_id": "d027844a-acc3-4298-8387-31238d1a1c24",
+      "question_count": 7,
+      "counts": {
+        "question": {
+          "clean": 7,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 35,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "2a5b4451-202b-44f0-bdca-d72dcfbc25d1",
+      "year": 2022,
+      "paper_code": "PFRDA-GA-2022-P1P2-COMM",
+      "exam_phase_id": "e182a4cf-ece7-44fa-95bf-1948089f11a1",
+      "question_count": 0,
+      "counts": {},
+      "rows": []
+    },
+    {
+      "paper_id": "3738e6fa-9e72-4619-adeb-d879d570806e",
+      "year": 2022,
+      "paper_code": "PFRDA-GA-2022-P2P2-CA",
+      "exam_phase_id": "d027844a-acc3-4298-8387-31238d1a1c24",
+      "question_count": 7,
+      "counts": {
+        "question": {
+          "clean": 7,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 35,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "4926638a-c007-4248-a4d3-0317b5a19b8f",
+      "year": 2022,
+      "paper_code": "PFRDA-GA-2022-P1P2-FIN",
+      "exam_phase_id": "e182a4cf-ece7-44fa-95bf-1948089f11a1",
+      "question_count": 7,
+      "counts": {
+        "question": {
+          "clean": 7,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 35,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "4f09f02f-3224-45d1-96fb-99cb1c539fa5",
+      "year": 2022,
+      "paper_code": "PFRDA-GA-2022-P1P1-GA",
+      "exam_phase_id": "e182a4cf-ece7-44fa-95bf-1948089f11a1",
+      "question_count": 0,
+      "counts": {},
+      "rows": []
+    },
+    {
+      "paper_id": "620e7969-4298-4722-a3fc-f0a23ae1bcad",
+      "year": 2022,
+      "paper_code": "PFRDA-GA-2022-P1P1-ENG",
+      "exam_phase_id": "e182a4cf-ece7-44fa-95bf-1948089f11a1",
+      "question_count": 0,
+      "counts": {},
+      "rows": []
+    },
+    {
+      "paper_id": "64e2fe83-2ac1-4259-baad-5df43475a14f",
+      "year": 2022,
+      "paper_code": "PFRDA-GA-2022-P2P2-COST",
+      "exam_phase_id": "d027844a-acc3-4298-8387-31238d1a1c24",
+      "question_count": 7,
+      "counts": {
+        "question": {
+          "clean": 7,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 35,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "7ffe0941-79b6-42a4-82a2-d329cc469be0",
+      "year": 2022,
+      "paper_code": "PFRDA-GA-2022-P1P1-QUANT",
+      "exam_phase_id": "e182a4cf-ece7-44fa-95bf-1948089f11a1",
+      "question_count": 0,
+      "counts": {},
+      "rows": []
+    },
+    {
+      "paper_id": "81563088-d555-4889-8e7c-a641db72cce6",
+      "year": 2022,
+      "paper_code": "PFRDA-GA-2022-P1P2-PENS",
+      "exam_phase_id": "e182a4cf-ece7-44fa-95bf-1948089f11a1",
+      "question_count": 7,
+      "counts": {
+        "question": {
+          "clean": 7,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 35,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "88a3ee8c-8738-49f9-875a-d9f5949f9162",
+      "year": 2022,
+      "paper_code": "PFRDA-GA-2022-P2P1-ENG",
+      "exam_phase_id": "d027844a-acc3-4298-8387-31238d1a1c24",
+      "question_count": 3,
+      "counts": {
+        "question": {
+          "clean": 2,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 1
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "8a84b943-f102-4415-a24e-6a4b7a349dad",
+      "year": 2022,
+      "paper_code": "PFRDA-GA-2022-P2P2-COMM",
+      "exam_phase_id": "d027844a-acc3-4298-8387-31238d1a1c24",
+      "question_count": 6,
+      "counts": {
+        "question": {
+          "clean": 6,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 30,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "93764f87-dbbb-40b0-addf-5c782368116f",
+      "year": 2022,
+      "paper_code": "PFRDA-GA-2022-P1P2-CA",
+      "exam_phase_id": "e182a4cf-ece7-44fa-95bf-1948089f11a1",
+      "question_count": 7,
+      "counts": {
+        "question": {
+          "clean": 7,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 35,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "c9f26d8f-1728-4917-9ace-ad121ea0750f",
+      "year": 2022,
+      "paper_code": "PFRDA-GA-2022-P2P2-ECO",
+      "exam_phase_id": "d027844a-acc3-4298-8387-31238d1a1c24",
+      "question_count": 6,
+      "counts": {
+        "question": {
+          "clean": 6,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 30,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "d35aefc3-73eb-4c19-9e34-d66127644477",
+      "year": 2022,
+      "paper_code": "PFRDA-GA-2022-P2P2-PENS",
+      "exam_phase_id": "d027844a-acc3-4298-8387-31238d1a1c24",
+      "question_count": 7,
+      "counts": {
+        "question": {
+          "clean": 7,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 35,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "f39673ac-2720-4412-b7f8-99506541a49d",
+      "year": 2022,
+      "paper_code": "PFRDA-GA-2022-P2P2-MGMT",
+      "exam_phase_id": "d027844a-acc3-4298-8387-31238d1a1c24",
+      "question_count": 8,
+      "counts": {
+        "question": {
+          "clean": 8,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 40,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "fd9d592e-6d60-40b1-8fe8-648dc5a186f4",
+      "year": 2022,
+      "paper_code": "PFRDA-GA-2022-P1P2-ECO",
+      "exam_phase_id": "e182a4cf-ece7-44fa-95bf-1948089f11a1",
+      "question_count": 7,
+      "counts": {
+        "question": {
+          "clean": 7,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 35,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "324856e3-f575-4741-b7fb-f5879f304cdb",
+      "year": 2025,
+      "paper_code": "PFRDA-GA-2025-P1P1-REAS",
+      "exam_phase_id": "8d1a3184-a797-41bb-b951-e95c542329f6",
+      "question_count": 19,
+      "counts": {
+        "question": {
+          "clean": 19,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 95,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "41b3bfbd-55b6-4275-a308-1c8bd25f10da",
+      "year": 2025,
+      "paper_code": "PFRDA-GA-2025-P1P2-FIN",
+      "exam_phase_id": "8d1a3184-a797-41bb-b951-e95c542329f6",
+      "question_count": 9,
+      "counts": {
+        "question": {
+          "clean": 9,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 45,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "46a0f8eb-fd50-4fd0-8a81-0f2449f902cb",
+      "year": 2025,
+      "paper_code": "PFRDA-GA-2025-P1P2-MGMT",
+      "exam_phase_id": "8d1a3184-a797-41bb-b951-e95c542329f6",
+      "question_count": 4,
+      "counts": {
+        "question": {
+          "clean": 4,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 20,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "47867f6f-afbe-4268-930a-a562c8fd81e7",
+      "year": 2025,
+      "paper_code": "PFRDA-GA-2025-P1P2-CA",
+      "exam_phase_id": "8d1a3184-a797-41bb-b951-e95c542329f6",
+      "question_count": 0,
+      "counts": {},
+      "rows": []
+    },
+    {
+      "paper_id": "4c7a267a-dd09-4254-a963-b401b61ddd49",
+      "year": 2025,
+      "paper_code": "PFRDA-GA-2025-P2P2-PENS",
+      "exam_phase_id": "dda7365e-4c72-4f42-87c9-f0e4b35f2ee1",
+      "question_count": 8,
+      "counts": {
+        "question": {
+          "clean": 8,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 40,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "64fbd90b-b897-4be3-a38c-49d8ef31166c",
+      "year": 2025,
+      "paper_code": "PFRDA-GA-2025-P2P2-FIN",
+      "exam_phase_id": "dda7365e-4c72-4f42-87c9-f0e4b35f2ee1",
+      "question_count": 0,
+      "counts": {},
+      "rows": []
+    },
+    {
+      "paper_id": "69dc2dfa-e70e-4fc5-b08c-d29573b041f2",
+      "year": 2025,
+      "paper_code": "PFRDA-GA-2025-P1P2-ECO",
+      "exam_phase_id": "8d1a3184-a797-41bb-b951-e95c542329f6",
+      "question_count": 5,
+      "counts": {
+        "question": {
+          "clean": 4,
+          "mangled": 1,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 25,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": [
+        {
+          "kind": "question",
+          "id": "18bc9d24-7b4d-4ef9-9c02-9dd01c07a1cb",
+          "question_id": "18bc9d24-7b4d-4ef9-9c02-9dd01c07a1cb",
+          "question_number": 4,
+          "classification": "mangled",
+          "old": "What distinguishes Keynesâ€™ Consumption Function from Friedmanâ€™s Permanent Income\nHypothesis?",
+          "new": "What distinguishes Keynes’ Consumption Function from Friedman’s Permanent Income\nHypothesis?"
+        }
+      ]
+    },
+    {
+      "paper_id": "6a9b5744-1680-45d6-bb7b-2358a2f94421",
+      "year": 2025,
+      "paper_code": "PFRDA-GA-2025-P2P1-ENG",
+      "exam_phase_id": "dda7365e-4c72-4f42-87c9-f0e4b35f2ee1",
+      "question_count": 3,
+      "counts": {
+        "question": {
+          "clean": 3,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "71776c36-b3c0-4712-bc3c-711056b92ade",
+      "year": 2025,
+      "paper_code": "PFRDA-GA-2025-P2P2-MGMT",
+      "exam_phase_id": "dda7365e-4c72-4f42-87c9-f0e4b35f2ee1",
+      "question_count": 7,
+      "counts": {
+        "question": {
+          "clean": 7,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 35,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "95ac38ec-d1f9-415c-ac4e-68e318706d56",
+      "year": 2025,
+      "paper_code": "PFRDA-GA-2025-P2P2-COMM",
+      "exam_phase_id": "dda7365e-4c72-4f42-87c9-f0e4b35f2ee1",
+      "question_count": 6,
+      "counts": {
+        "question": {
+          "clean": 6,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 30,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "99b416b4-c352-4669-a219-e054648ddf92",
+      "year": 2025,
+      "paper_code": "PFRDA-GA-2025-P1P2-PENS",
+      "exam_phase_id": "8d1a3184-a797-41bb-b951-e95c542329f6",
+      "question_count": 0,
+      "counts": {},
+      "rows": []
+    },
+    {
+      "paper_id": "a15442b4-f2fb-43a3-b00f-20510a5e30fb",
+      "year": 2025,
+      "paper_code": "PFRDA-GA-2025-P1P1-QUANT",
+      "exam_phase_id": "8d1a3184-a797-41bb-b951-e95c542329f6",
+      "question_count": 10,
+      "counts": {
+        "question": {
+          "clean": 10,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 40,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 10
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "a8476f1b-1422-4c9c-9279-74661254b791",
+      "year": 2025,
+      "paper_code": "PFRDA-GA-2025-P1P1-ENG",
+      "exam_phase_id": "8d1a3184-a797-41bb-b951-e95c542329f6",
+      "question_count": 15,
+      "counts": {
+        "question": {
+          "clean": 13,
+          "mangled": 2,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 75,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": [
+        {
+          "kind": "question",
+          "id": "b195d4bd-bc6a-45ba-94f1-20ed30b08740",
+          "question_id": "b195d4bd-bc6a-45ba-94f1-20ed30b08740",
+          "question_number": 5,
+          "classification": "mangled",
+          "old": "The authorâ€™s discussion of â€œscreen-free retreatsâ€ and â€œbranded challengesâ€ primarily\nserves to highlight:",
+          "new": "The author’s discussion of “screen-free retreats” and “branded challenges” primarily\nserves to highlight:"
+        },
+        {
+          "kind": "question",
+          "id": "18d31323-09a7-4095-a663-6d6153bde0c0",
+          "question_id": "18d31323-09a7-4095-a663-6d6153bde0c0",
+          "question_number": 14,
+          "classification": "mangled",
+          "old": "The playwrightâ€™s allegory (A) was lauded for its subversion (B) of tradition, but critics\nclaimed the narrativeâ€™s authenticity (C) collapsed under contrived symbolism (D).",
+          "new": "The playwright’s allegory (A) was lauded for its subversion (B) of tradition, but critics\nclaimed the narrative’s authenticity (C) collapsed under contrived symbolism (D)."
+        }
+      ]
+    },
+    {
+      "paper_id": "bf187158-d721-40c8-a9dc-0ef82f7389ea",
+      "year": 2025,
+      "paper_code": "PFRDA-GA-2025-P2P2-ECO",
+      "exam_phase_id": "dda7365e-4c72-4f42-87c9-f0e4b35f2ee1",
+      "question_count": 0,
+      "counts": {},
+      "rows": []
+    },
+    {
+      "paper_id": "c1f899c3-3acf-493c-9847-530897d36383",
+      "year": 2025,
+      "paper_code": "PFRDA-GA-2025-P1P2-COST",
+      "exam_phase_id": "8d1a3184-a797-41bb-b951-e95c542329f6",
+      "question_count": 9,
+      "counts": {
+        "question": {
+          "clean": 9,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 45,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "d2764d8a-c5f3-4415-a7ad-4ee0f21b5134",
+      "year": 2025,
+      "paper_code": "PFRDA-GA-2025-P1P2-COMM",
+      "exam_phase_id": "8d1a3184-a797-41bb-b951-e95c542329f6",
+      "question_count": 5,
+      "counts": {
+        "question": {
+          "clean": 5,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 25,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "d37e4d9a-289f-411a-bcaa-122a2b94276e",
+      "year": 2025,
+      "paper_code": "PFRDA-GA-2025-P2P2-COST",
+      "exam_phase_id": "dda7365e-4c72-4f42-87c9-f0e4b35f2ee1",
+      "question_count": 0,
+      "counts": {},
+      "rows": []
+    },
+    {
+      "paper_id": "ee1fc87c-d546-40f0-8da8-d510e4bc1456",
+      "year": 2025,
+      "paper_code": "PFRDA-GA-2025-P2P2-CA",
+      "exam_phase_id": "dda7365e-4c72-4f42-87c9-f0e4b35f2ee1",
+      "question_count": 7,
+      "counts": {
+        "question": {
+          "clean": 7,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 35,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    }
+  ],
+  "totals": {
+    "question": {
+      "mangled": 3,
+      "ambiguous": 0,
+      "non_latin": 3,
+      "clean": 195
+    },
+    "option": {
+      "mangled": 0,
+      "ambiguous": 0,
+      "non_latin": 10,
+      "clean": 950
+    }
+  }
+}

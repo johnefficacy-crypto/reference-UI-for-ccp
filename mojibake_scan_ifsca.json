@@ -1,0 +1,814 @@
+{
+  "exam_id": "1bab02bb-009c-48e3-ab00-6fd25ac5dfb0",
+  "papers": [
+    {
+      "paper_id": "0f40e06d-a035-4cbf-a75a-e85aae2e37ae",
+      "year": 2023,
+      "paper_code": "IFSCA-GA-2023-P1P2-COMM",
+      "exam_phase_id": "6eb11820-9d18-4ca3-ae5a-9d1addf9772c",
+      "question_count": 0,
+      "counts": {},
+      "rows": []
+    },
+    {
+      "paper_id": "161d2177-f176-4676-bc1d-53805ade6e82",
+      "year": 2023,
+      "paper_code": "IFSCA-GA-2023-P1P1-ENG",
+      "exam_phase_id": "6eb11820-9d18-4ca3-ae5a-9d1addf9772c",
+      "question_count": 0,
+      "counts": {},
+      "rows": []
+    },
+    {
+      "paper_id": "2d00193a-ed47-44be-8e74-d60adb942cba",
+      "year": 2023,
+      "paper_code": "IFSCA-GA-2023-P1P2-ECO",
+      "exam_phase_id": "6eb11820-9d18-4ca3-ae5a-9d1addf9772c",
+      "question_count": 0,
+      "counts": {},
+      "rows": []
+    },
+    {
+      "paper_id": "31562973-3b2e-469f-9acc-9b4ea3ff8fd8",
+      "year": 2023,
+      "paper_code": "IFSCA-GA-2023-P1P1-QUANT",
+      "exam_phase_id": "6eb11820-9d18-4ca3-ae5a-9d1addf9772c",
+      "question_count": 25,
+      "counts": {
+        "question": {
+          "clean": 23,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 2
+        },
+        "option": {
+          "clean": 115,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 10
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "449107af-f54b-4bff-9cb5-c0716bf0d89e",
+      "year": 2023,
+      "paper_code": "IFSCA-GA-2023-P2P2-BUDGET",
+      "exam_phase_id": "ef3975c8-e98e-46b3-983b-681eb06cbc24",
+      "question_count": 9,
+      "counts": {
+        "question": {
+          "clean": 8,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 1
+        },
+        "option": {
+          "clean": 40,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 5
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "47084234-8096-45b0-b71f-53d5e682a31f",
+      "year": 2023,
+      "paper_code": "IFSCA-GA-2023-P1P2-GA",
+      "exam_phase_id": "6eb11820-9d18-4ca3-ae5a-9d1addf9772c",
+      "question_count": 0,
+      "counts": {},
+      "rows": []
+    },
+    {
+      "paper_id": "51c43de4-c6ee-4c5b-89e9-15c5a4f2ea77",
+      "year": 2023,
+      "paper_code": "IFSCA-GA-2023-P1P1-REAS",
+      "exam_phase_id": "6eb11820-9d18-4ca3-ae5a-9d1addf9772c",
+      "question_count": 25,
+      "counts": {
+        "question": {
+          "clean": 25,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 125,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "8eaeee4f-b7a9-4f05-abe7-b1f7a4498568",
+      "year": 2023,
+      "paper_code": "IFSCA-GA-2023-P2P1-ENG",
+      "exam_phase_id": "ef3975c8-e98e-46b3-983b-681eb06cbc24",
+      "question_count": 3,
+      "counts": {
+        "question": {
+          "clean": 2,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 1
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "93a201ca-483b-484d-ab31-9b9b80a64a52",
+      "year": 2023,
+      "paper_code": "IFSCA-GA-2023-P2P2-FIN",
+      "exam_phase_id": "ef3975c8-e98e-46b3-983b-681eb06cbc24",
+      "question_count": 13,
+      "counts": {
+        "question": {
+          "clean": 13,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 65,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "af828216-0c21-4040-9aa6-02b1714081cb",
+      "year": 2023,
+      "paper_code": "IFSCA-GA-2023-P1P1-GA",
+      "exam_phase_id": "6eb11820-9d18-4ca3-ae5a-9d1addf9772c",
+      "question_count": 25,
+      "counts": {
+        "question": {
+          "clean": 22,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 3
+        },
+        "option": {
+          "clean": 121,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 4
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "b755e833-ac70-432f-9826-c0263cc0289b",
+      "year": 2023,
+      "paper_code": "IFSCA-GA-2023-P2P2-INSPEN",
+      "exam_phase_id": "ef3975c8-e98e-46b3-983b-681eb06cbc24",
+      "question_count": 4,
+      "counts": {
+        "question": {
+          "clean": 4,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 20,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "cb3e4642-8f39-40df-a970-79b69d5e64fc",
+      "year": 2023,
+      "paper_code": "IFSCA-GA-2023-P2P2-GIFT",
+      "exam_phase_id": "ef3975c8-e98e-46b3-983b-681eb06cbc24",
+      "question_count": 12,
+      "counts": {
+        "question": {
+          "clean": 12,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 60,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "edb92df6-c7c2-4b7a-8593-b0b04321cf48",
+      "year": 2023,
+      "paper_code": "IFSCA-GA-2023-P1P2-COST",
+      "exam_phase_id": "6eb11820-9d18-4ca3-ae5a-9d1addf9772c",
+      "question_count": 0,
+      "counts": {},
+      "rows": []
+    },
+    {
+      "paper_id": "1c43c70c-bfdd-4ddd-aa31-edf2660a2bec",
+      "year": 2024,
+      "paper_code": "IFSCA-GA-2024-P2P1-ENG",
+      "exam_phase_id": "07ed69d9-0eb2-4a0e-a115-78e906d1ee95",
+      "question_count": 3,
+      "counts": {
+        "question": {
+          "clean": 3,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "21e07569-d370-4bd5-a89c-f46cab25ff69",
+      "year": 2024,
+      "paper_code": "IFSCA-GA-2024-P2P2-INSPEN",
+      "exam_phase_id": "07ed69d9-0eb2-4a0e-a115-78e906d1ee95",
+      "question_count": 19,
+      "counts": {
+        "question": {
+          "clean": 19,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 75,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 20
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "23365954-5406-4542-bc91-a4763175c2f4",
+      "year": 2024,
+      "paper_code": "IFSCA-GA-2024-P1P1-ENG",
+      "exam_phase_id": "7a2abbb3-ab2e-4277-b5ea-d4670d54b610",
+      "question_count": 25,
+      "counts": {
+        "question": {
+          "clean": 25,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 125,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "2874387f-1d5d-4bd1-a62d-4971dfb608dd",
+      "year": 2024,
+      "paper_code": "IFSCA-GA-2024-P1P2-COST",
+      "exam_phase_id": "7a2abbb3-ab2e-4277-b5ea-d4670d54b610",
+      "question_count": 5,
+      "counts": {
+        "question": {
+          "clean": 4,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 1
+        },
+        "option": {
+          "clean": 25,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "46e77807-fd42-487b-b40e-4589a1f09199",
+      "year": 2024,
+      "paper_code": "IFSCA-GA-2024-P1P2-COMM",
+      "exam_phase_id": "7a2abbb3-ab2e-4277-b5ea-d4670d54b610",
+      "question_count": 0,
+      "counts": {},
+      "rows": []
+    },
+    {
+      "paper_id": "4eb259f0-8771-48f6-847c-2843a451ed72",
+      "year": 2024,
+      "paper_code": "IFSCA-GA-2024-P2P2-FIN",
+      "exam_phase_id": "07ed69d9-0eb2-4a0e-a115-78e906d1ee95",
+      "question_count": 23,
+      "counts": {
+        "question": {
+          "clean": 22,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 1
+        },
+        "option": {
+          "clean": 105,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 10
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "5987d8c0-b09a-402e-93aa-6fcfc2167c8a",
+      "year": 2024,
+      "paper_code": "IFSCA-GA-2024-P1P2-MGMT-B",
+      "exam_phase_id": "7a2abbb3-ab2e-4277-b5ea-d4670d54b610",
+      "question_count": 0,
+      "counts": {},
+      "rows": []
+    },
+    {
+      "paper_id": "9bd1975c-8822-43d0-bb46-4bbd075c81bd",
+      "year": 2024,
+      "paper_code": "IFSCA-GA-2024-P1P2-ECO",
+      "exam_phase_id": "7a2abbb3-ab2e-4277-b5ea-d4670d54b610",
+      "question_count": 0,
+      "counts": {},
+      "rows": []
+    },
+    {
+      "paper_id": "9c9d165b-52e5-4a81-9239-7777012509e0",
+      "year": 2024,
+      "paper_code": "IFSCA-GA-2024-P1P1-QUANT",
+      "exam_phase_id": "7a2abbb3-ab2e-4277-b5ea-d4670d54b610",
+      "question_count": 25,
+      "counts": {
+        "question": {
+          "clean": 19,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 6
+        },
+        "option": {
+          "clean": 125,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "afde97ed-a07c-4c3c-87b1-b7a184c310e2",
+      "year": 2024,
+      "paper_code": "IFSCA-GA-2024-P1P2-MGMT",
+      "exam_phase_id": "7a2abbb3-ab2e-4277-b5ea-d4670d54b610",
+      "question_count": 4,
+      "counts": {
+        "question": {
+          "clean": 3,
+          "mangled": 1,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 19,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": [
+        {
+          "kind": "question",
+          "id": "38742898-cdc3-4264-8012-19c784f62db1",
+          "question_id": "38742898-cdc3-4264-8012-19c784f62db1",
+          "question_number": 4,
+          "classification": "mangled",
+          "old": "Which organization recognized the name \"Statio Shiv Shakti\" for the landing site of\nChandrayaan-3â€™s Vikram lander?",
+          "new": "Which organization recognized the name \"Statio Shiv Shakti\" for the landing site of\nChandrayaan-3’s Vikram lander?"
+        }
+      ]
+    },
+    {
+      "paper_id": "eaa9cf0d-edc3-46f7-b119-63a9fe632042",
+      "year": 2024,
+      "paper_code": "IFSCA-GA-2024-P1P1-GA",
+      "exam_phase_id": "7a2abbb3-ab2e-4277-b5ea-d4670d54b610",
+      "question_count": 25,
+      "counts": {
+        "question": {
+          "clean": 25,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 120,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 5
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "f26c2d7a-7d3d-4217-b93e-34d9fc1c78b2",
+      "year": 2024,
+      "paper_code": "IFSCA-GA-2024-P2P2-GIFT",
+      "exam_phase_id": "07ed69d9-0eb2-4a0e-a115-78e906d1ee95",
+      "question_count": 4,
+      "counts": {
+        "question": {
+          "clean": 4,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 19,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "f3f92096-553f-40a8-92cb-77a926833587",
+      "year": 2024,
+      "paper_code": "IFSCA-GA-2024-P1P2-FIN",
+      "exam_phase_id": "7a2abbb3-ab2e-4277-b5ea-d4670d54b610",
+      "question_count": 0,
+      "counts": {},
+      "rows": []
+    },
+    {
+      "paper_id": "f409d594-4225-4cb4-a073-de10ebb114cb",
+      "year": 2024,
+      "paper_code": "IFSCA-GA-2024-P2P2-BUDGET",
+      "exam_phase_id": "07ed69d9-0eb2-4a0e-a115-78e906d1ee95",
+      "question_count": 4,
+      "counts": {
+        "question": {
+          "clean": 4,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 15,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 5
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "fe8f3cf8-eb78-4130-ada2-715d9ffd819f",
+      "year": 2024,
+      "paper_code": "IFSCA-GA-2024-P1P1-REAS",
+      "exam_phase_id": "7a2abbb3-ab2e-4277-b5ea-d4670d54b610",
+      "question_count": 24,
+      "counts": {
+        "question": {
+          "clean": 21,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 3
+        },
+        "option": {
+          "clean": 110,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 10
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "0c96e60e-f6fc-47e2-99ea-1c6b2b656e78",
+      "year": 2025,
+      "paper_code": "IFSCA-GA-2025-P1P1-ENG",
+      "exam_phase_id": "2dce8148-21bf-40b1-b05e-89d30ca50471",
+      "question_count": 0,
+      "counts": {},
+      "rows": []
+    },
+    {
+      "paper_id": "1bec4b03-f7a2-48ba-b93e-482baae4c0c1",
+      "year": 2025,
+      "paper_code": "IFSCA-GA-2025-P1P2-ECO",
+      "exam_phase_id": "2dce8148-21bf-40b1-b05e-89d30ca50471",
+      "question_count": 0,
+      "counts": {},
+      "rows": []
+    },
+    {
+      "paper_id": "229172c7-e404-4eb4-9f66-a3f477e05561",
+      "year": 2025,
+      "paper_code": "IFSCA-GA-2025-P2P2-INSPEN",
+      "exam_phase_id": "8b41624a-0c0e-4ea1-9882-42fdd31390d9",
+      "question_count": 14,
+      "counts": {
+        "question": {
+          "clean": 14,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 70,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "366b35e9-0cd9-4cd6-a0da-d11433923f6c",
+      "year": 2025,
+      "paper_code": "IFSCA-GA-2025-P1P1-GA",
+      "exam_phase_id": "2dce8148-21bf-40b1-b05e-89d30ca50471",
+      "question_count": 25,
+      "counts": {
+        "question": {
+          "clean": 23,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 2
+        },
+        "option": {
+          "clean": 110,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 15
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "43273216-26da-41b5-8326-954ac9a9d6f3",
+      "year": 2025,
+      "paper_code": "IFSCA-GA-2025-P1P2-FIN",
+      "exam_phase_id": "2dce8148-21bf-40b1-b05e-89d30ca50471",
+      "question_count": 10,
+      "counts": {
+        "question": {
+          "clean": 10,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 50,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "49af5f89-8ed0-4667-b3c6-b497d8581f32",
+      "year": 2025,
+      "paper_code": "IFSCA-GA-2025-P2P2-BUDGET",
+      "exam_phase_id": "8b41624a-0c0e-4ea1-9882-42fdd31390d9",
+      "question_count": 7,
+      "counts": {
+        "question": {
+          "clean": 7,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 35,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "5fc3f464-ca7e-4e26-9f99-4c230c6dab74",
+      "year": 2025,
+      "paper_code": "IFSCA-GA-2025-P1P1-REAS",
+      "exam_phase_id": "2dce8148-21bf-40b1-b05e-89d30ca50471",
+      "question_count": 21,
+      "counts": {
+        "question": {
+          "clean": 18,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 3
+        },
+        "option": {
+          "clean": 101,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 4
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "66e81f5c-febc-40fe-b835-d0a52ff55858",
+      "year": 2025,
+      "paper_code": "IFSCA-GA-2025-P1P1-QUANT",
+      "exam_phase_id": "2dce8148-21bf-40b1-b05e-89d30ca50471",
+      "question_count": 25,
+      "counts": {
+        "question": {
+          "clean": 24,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 1
+        },
+        "option": {
+          "clean": 113,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 12
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "7e97988f-4e29-46e7-8fd2-5c98f39b2ec0",
+      "year": 2025,
+      "paper_code": "IFSCA-GA-2025-P2P1-ENG",
+      "exam_phase_id": "8b41624a-0c0e-4ea1-9882-42fdd31390d9",
+      "question_count": 3,
+      "counts": {
+        "question": {
+          "clean": 3,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "9fd71ac3-91d0-4231-ad6f-66f44032c805",
+      "year": 2025,
+      "paper_code": "IFSCA-GA-2025-P2P2-FIN",
+      "exam_phase_id": "8b41624a-0c0e-4ea1-9882-42fdd31390d9",
+      "question_count": 26,
+      "counts": {
+        "question": {
+          "clean": 26,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 129,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "b18fec19-702b-40e7-99b1-f962288b5bc7",
+      "year": 2025,
+      "paper_code": "IFSCA-GA-2025-P1P2-MGMT",
+      "exam_phase_id": "2dce8148-21bf-40b1-b05e-89d30ca50471",
+      "question_count": 8,
+      "counts": {
+        "question": {
+          "clean": 8,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 40,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "bc4583b8-cd86-44db-b173-7c2dce746cae",
+      "year": 2025,
+      "paper_code": "IFSCA-GA-2025-P2P2-GIFT",
+      "exam_phase_id": "8b41624a-0c0e-4ea1-9882-42fdd31390d9",
+      "question_count": 3,
+      "counts": {
+        "question": {
+          "clean": 3,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 15,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "c04375e9-3760-4bfa-9bb4-c6cfdd53b0ba",
+      "year": 2025,
+      "paper_code": "IFSCA-GA-2025-P1P2-COMM",
+      "exam_phase_id": "2dce8148-21bf-40b1-b05e-89d30ca50471",
+      "question_count": 8,
+      "counts": {
+        "question": {
+          "clean": 8,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 40,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "d170d00e-e113-4f68-b548-1f211f07e1c7",
+      "year": 2025,
+      "paper_code": "IFSCA-GA-2025-P1P2-GA",
+      "exam_phase_id": "2dce8148-21bf-40b1-b05e-89d30ca50471",
+      "question_count": 10,
+      "counts": {
+        "question": {
+          "clean": 10,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 50,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    },
+    {
+      "paper_id": "d2de1cec-32e3-47e3-8029-de069e108db2",
+      "year": 2025,
+      "paper_code": "IFSCA-GA-2025-P1P2-COST",
+      "exam_phase_id": "2dce8148-21bf-40b1-b05e-89d30ca50471",
+      "question_count": 7,
+      "counts": {
+        "question": {
+          "clean": 7,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        },
+        "option": {
+          "clean": 35,
+          "mangled": 0,
+          "ambiguous": 0,
+          "non_latin": 0
+        }
+      },
+      "rows": []
+    }
+  ],
+  "totals": {
+    "question": {
+      "mangled": 1,
+      "ambiguous": 0,
+      "non_latin": 24,
+      "clean": 419
+    },
+    "option": {
+      "mangled": 0,
+      "ambiguous": 0,
+      "non_latin": 100,
+      "clean": 2072
+    }
+  }
+}

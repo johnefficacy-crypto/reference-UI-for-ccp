@@ -1,0 +1,16 @@
+{
+  "planned": [
+    {
+      "kind": "question",
+      "id": "38742898-cdc3-4264-8012-19c784f62db1",
+      "question_id": "38742898-cdc3-4264-8012-19c784f62db1",
+      "question_number": 4,
+      "classification": "mangled",
+      "old": "Which organization recognized the name \"Statio Shiv Shakti\" for the landing site of\nChandrayaan-3â€™s Vikram lander?",
+      "new": "Which organization recognized the name \"Statio Shiv Shakti\" for the landing site of\nChandrayaan-3’s Vikram lander?",
+      "paper_id": "afde97ed-a07c-4c3c-87b1-b7a184c310e2",
+      "year": 2024
+    }
+  ],
+  "skipped_ambiguous": 0
+}
