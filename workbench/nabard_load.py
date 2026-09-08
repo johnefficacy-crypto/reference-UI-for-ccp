@@ -15,14 +15,21 @@ promotes or projects anything.
 Usage:
     python3 workbench/nabard_load.py                    # dry run + count table
     python3 workbench/nabard_load.py --emit OUTDIR      # also write the payloads
-    python3 workbench/nabard_load.py --apply --confirm \
-        --api-base https://... --token "$JWT"          # actually load
+    python3 workbench/nabard_load.py --apply --confirm ^
+        --api-base https://... --token "%JWT%"          # actually load
+
+Every file read here passes an explicit encoding: this is authored on Linux and
+run on Windows, where the default is cp1252 and the compendium's text raises
+UnicodeDecodeError without it.
 """
 from __future__ import annotations
 
 import argparse
 import json
 import sys
+import time
+import urllib.error
+import urllib.request
 from collections import Counter
 from pathlib import Path
 
@@ -55,6 +62,17 @@ COMBINED_PREFIX = "ARDESI"
 
 SOURCE_TYPE = "coaching"   # a coaching compendium PDF, not an official release
 REASON = "NABARD Grade A PYQ frontload from the reconciled compendium extraction"
+
+BULK_PATH = "/api/admin/exam-intelligence-cms/bulk-import"
+PAPERS_PATH = "/api/admin/exam-intelligence-cms/pyq-papers"
+# Free-tier Render cold-starts; the first call can idle for well over a minute.
+HTTP_TIMEOUT_S = 180
+# Bounded retry, on connect/read timeout ONLY. A 4xx/5xx is never retried here:
+# a bulk-import POST is not idempotent, and a retry after a partial write would
+# duplicate rows. Timeouts are retried because the request may not have landed;
+# the paper_code skip below is what makes that safe.
+MAX_TIMEOUT_RETRIES = 3
+RETRY_BACKOFF_S = (5, 15, 30)
 
 
 def load_blocks() -> list[dict]:
@@ -195,6 +213,137 @@ def report(papers: list[dict], warnings: list[str]) -> int:
     return bad
 
 
+# ── HTTP ─────────────────────────────────────────────────────────────────────
+
+class AuthExpired(RuntimeError):
+    """401/403 mid-run. The JWT is ~1h and this load is 1055 questions."""
+
+
+class ApiError(RuntimeError):
+    def __init__(self, status: int, body: str):
+        super().__init__(f"HTTP {status}: {body[:400]}")
+        self.status = status
+        self.body = body
+
+
+def _request(method: str, url: str, token: str, payload: dict | None = None) -> dict:
+    data = json.dumps(payload).encode("utf-8") if payload is not None else None
+    req = urllib.request.Request(url, data=data, method=method)
+    req.add_header("Authorization", f"Bearer {token}")
+    req.add_header("Accept", "application/json")
+    if data is not None:
+        req.add_header("Content-Type", "application/json")
+
+    last_timeout: Exception | None = None
+    for attempt in range(MAX_TIMEOUT_RETRIES + 1):
+        try:
+            with urllib.request.urlopen(req, timeout=HTTP_TIMEOUT_S) as resp:
+                raw = resp.read().decode("utf-8", errors="replace")
+                return json.loads(raw) if raw else {}
+        except urllib.error.HTTPError as exc:
+            body = exc.read().decode("utf-8", errors="replace")
+            if exc.code in (401, 403):
+                raise AuthExpired(f"HTTP {exc.code}: {body[:200]}") from exc
+            # Never retried: the POST is not idempotent and may have partially
+            # landed. Surface it and let the paper_code skip handle a resume.
+            raise ApiError(exc.code, body) from exc
+        except (urllib.error.URLError, TimeoutError, OSError) as exc:
+            reason = getattr(exc, "reason", exc)
+            if not isinstance(reason, (TimeoutError, OSError)) and not isinstance(exc, TimeoutError):
+                raise
+            last_timeout = exc
+            if attempt == MAX_TIMEOUT_RETRIES:
+                break
+            wait = RETRY_BACKOFF_S[min(attempt, len(RETRY_BACKOFF_S) - 1)]
+            print(f"      timeout ({reason}); retry {attempt + 1}/{MAX_TIMEOUT_RETRIES} in {wait}s",
+                  flush=True)
+            time.sleep(wait)
+    raise RuntimeError(f"{method} {url} timed out after {MAX_TIMEOUT_RETRIES} retries: {last_timeout}")
+
+
+def existing_paper_codes(api_base: str, token: str) -> dict[str, str]:
+    """paper_code -> paper id, for every paper already on this exam."""
+    found: dict[str, str] = {}
+    offset, limit = 0, 200
+    while True:
+        url = f"{api_base}{PAPERS_PATH}?exam_id={EXAM_ID}&limit={limit}&offset={offset}"
+        page = _request("GET", url, token)
+        items = page.get("items") or []
+        for row in items:
+            if row.get("paper_code"):
+                found[row["paper_code"]] = row.get("id")
+        if len(items) < limit:
+            return found
+        offset += limit
+
+
+def apply_load(papers: list[dict], api_base: str, token: str) -> int:
+    api_base = api_base.rstrip("/")
+    bulk = f"{api_base}{BULK_PATH}"
+    print("\nreading existing papers for the skip check …", flush=True)
+    existing = existing_paper_codes(api_base, token)
+    print(f"  {len(existing)} paper(s) already on this exam\n", flush=True)
+
+    created_papers = skipped = failed_papers = 0
+    created_qs = failed_qs = 0
+    reached: tuple[str, int] | None = None
+
+    for p in papers:
+        code = p["paper"]["paper_code"]
+        n = len(p["questions"])
+        if code in existing:
+            skipped += 1
+            print(f"  SKIP    {code:38} already exists ({existing[code]})", flush=True)
+            continue
+        try:
+            res = _request("POST", bulk, token,
+                           {"reason": REASON, "entity": "pyq-papers", "rows": [p["paper"]]})
+            rows = res.get("results") or []
+            first = rows[0] if rows else {}
+            if not first.get("ok"):
+                failed_papers += 1
+                print(f"  FAIL    {code:38} paper: {first.get('error', res)}", flush=True)
+                continue
+            paper_id = (first.get("row") or {}).get("id")
+            if not paper_id:
+                failed_papers += 1
+                print(f"  FAIL    {code:38} paper insert returned no id", flush=True)
+                continue
+            created_papers += 1
+
+            qrows = [dict(q, pyq_paper_id=paper_id) for q in p["questions"]]
+            reached = (code, 0)
+            qres = _request("POST", bulk, token,
+                            {"reason": REASON, "entity": "pyq-questions", "rows": qrows})
+            qresults = qres.get("results") or []
+            ok = [r for r in qresults if r.get("ok")]
+            bad = [r for r in qresults if not r.get("ok")]
+            created_qs += len(ok)
+            failed_qs += len(bad)
+            reached = (code, len(ok))
+            status = "OK  " if not bad else "PART"
+            print(f"  {status}    {code:38} {len(ok):>3}/{n} questions", flush=True)
+            for r in bad[:5]:
+                idx = r.get("index")
+                qn = qrows[idx]["source_question_ref"] if isinstance(idx, int) and idx < len(qrows) else idx
+                print(f"            └ {qn}: {r.get('error')}", flush=True)
+            if len(bad) > 5:
+                print(f"            └ … and {len(bad) - 5} more", flush=True)
+        except AuthExpired as exc:
+            where = f"{reached[0]} after {reached[1]} question(s)" if reached else f"{code} (paper row)"
+            print(f"\nTOKEN EXPIRED at {where}: {exc}", file=sys.stderr)
+            print("Re-run the same command with a fresh --token; papers already "
+                  "created are skipped by paper_code.", file=sys.stderr)
+            return 4
+        except (ApiError, RuntimeError) as exc:
+            failed_papers += 1
+            print(f"  FAIL    {code:38} {exc}", flush=True)
+
+    print(f"\npapers created {created_papers}   skipped {skipped}   failed {failed_papers}")
+    print(f"questions created {created_qs}   failed {failed_qs}")
+    return 0 if (failed_papers == 0 and failed_qs == 0) else 5
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--emit", metavar="DIR", help="write the bulk-import payloads")
@@ -212,11 +361,12 @@ def main() -> int:
         out.mkdir(parents=True, exist_ok=True)
         (out / "papers.json").write_text(json.dumps(
             {"reason": REASON, "entity": "pyq-papers",
-             "rows": [p["paper"] for p in papers]}, ensure_ascii=False, indent=1))
+             "rows": [p["paper"] for p in papers]}, ensure_ascii=False, indent=1),
+            encoding="utf-8")
         for p in papers:
             (out / f"questions__{p['paper']['paper_code']}.json").write_text(json.dumps(
                 {"reason": REASON, "entity": "pyq-questions", "rows": p["questions"]},
-                ensure_ascii=False, indent=1))
+                ensure_ascii=False, indent=1), encoding="utf-8")
         print(f"\nwrote payloads to {out}")
 
     if bad:
@@ -226,9 +376,7 @@ def main() -> int:
         if not (args.confirm and args.api_base and args.token):
             print("--apply needs --confirm, --api-base and --token", file=sys.stderr)
             return 2
-        print("\n--apply is not wired in this container (no DB/API reachable from here).",
-              file=sys.stderr)
-        return 3
+        return apply_load(papers, args.api_base, args.token)
     return 0
 
 
