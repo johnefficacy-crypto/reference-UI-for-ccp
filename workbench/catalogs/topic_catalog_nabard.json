@@ -1,0 +1,2816 @@
+[
+  {
+    "id": "baf763bb-6d36-4a25-b1ba-6419e3b26852",
+    "text": "Main idea and central theme",
+    "slug": "eng-main-idea-and-central-theme-59263450",
+    "subject": "english-language"
+  },
+  {
+    "id": "342ec4bb-5625-4398-9b44-2963d65062a4",
+    "text": "Explicit detail retrieval",
+    "slug": "eng-explicit-detail-retrieval-5825931a",
+    "subject": "english-language"
+  },
+  {
+    "id": "420312ba-2e38-4e16-a836-7e6764a05535",
+    "text": "Inference and implied meaning",
+    "slug": "eng-inference-and-implied-meaning-a005bcd3",
+    "subject": "english-language"
+  },
+  {
+    "id": "ebdd3a2a-f038-4775-9684-647b6cbbdcbb",
+    "text": "Author tone, attitude and purpose",
+    "slug": "eng-author-tone-attitude-and-purpose-87729e1a",
+    "subject": "english-language"
+  },
+  {
+    "id": "dbed7599-7bab-45e3-ab53-cb8cbb8a1c55",
+    "text": "Vocabulary from context within a passage",
+    "slug": "eng-vocabulary-from-context-within-a-passage-b55df114",
+    "subject": "english-language"
+  },
+  {
+    "id": "bf06f202-6d47-497c-a4e2-5f7f377d0fbb",
+    "text": "Passage-based synonym and antonym",
+    "slug": "eng-passage-based-synonym-and-antonym-b6b1d1e6",
+    "subject": "english-language"
+  },
+  {
+    "id": "3f2a57b9-ea87-4d0e-9296-6651b115c149",
+    "text": "Written answers to a passage",
+    "slug": "eng-written-answers-to-a-passage-9e9204f6",
+    "subject": "english-language"
+  },
+  {
+    "id": "4b44f9f1-8d13-4977-be4b-aa5108b10ead",
+    "text": "Single-blank contextual cloze",
+    "slug": "eng-single-blank-contextual-cloze-cd934632",
+    "subject": "english-language"
+  },
+  {
+    "id": "4d511b04-901c-8fb4-06a9-a1efe500e4f6",
+    "text": "Simple Sentences",
+    "slug": "simple-sentences",
+    "subject": "english-language"
+  },
+  {
+    "id": "5f033e03-98a8-9e1e-f503-3d837e169983",
+    "text": "Compound Sentences",
+    "slug": "compound-sentences",
+    "subject": "english-language"
+  },
+  {
+    "id": "5194a509-d374-28d7-24f8-7a49f7a308b8",
+    "text": "Complex Sentences",
+    "slug": "complex-sentences",
+    "subject": "english-language"
+  },
+  {
+    "id": "386a7e56-8043-74cf-4bfb-43aa9a845c9c",
+    "text": "Sentence Transformation",
+    "slug": "sentence-transformation",
+    "subject": "english-language"
+  },
+  {
+    "id": "1ecdc0ab-2bc0-7ea9-2d55-064bd36f0cdc",
+    "text": "Sentence Structure",
+    "slug": "sentence-structure",
+    "subject": "english-language"
+  },
+  {
+    "id": "b9facc82-38d7-f725-7c97-8b5894c157f0",
+    "text": "Subject-Verb Agreement",
+    "slug": "subject-verb-agreement",
+    "subject": "english-language"
+  },
+  {
+    "id": "aa680736-24d9-abb2-d7f2-ad3bcb2acb77",
+    "text": "Tense",
+    "slug": "tense",
+    "subject": "english-language"
+  },
+  {
+    "id": "b790ab2c-17e8-9025-f313-2c44d24dac8d",
+    "text": "Articles",
+    "slug": "articles",
+    "subject": "english-language"
+  },
+  {
+    "id": "5db857e5-5b9d-2f80-0046-1978c199ed85",
+    "text": "Prepositions",
+    "slug": "prepositions",
+    "subject": "english-language"
+  },
+  {
+    "id": "c6beb287-3fef-397f-e204-57f8e4053328",
+    "text": "Pronoun Reference",
+    "slug": "pronoun-reference",
+    "subject": "english-language"
+  },
+  {
+    "id": "aca53761-13fc-65c9-bd3c-9f324e9a589f",
+    "text": "Modifiers",
+    "slug": "modifiers",
+    "subject": "english-language"
+  },
+  {
+    "id": "c777f14a-2058-a3ec-1208-bb4b36e2a19a",
+    "text": "Punctuation",
+    "slug": "punctuation",
+    "subject": "english-language"
+  },
+  {
+    "id": "22591465-673a-c375-3460-2702125f6fc3",
+    "text": "Spelling",
+    "slug": "spelling",
+    "subject": "english-language"
+  },
+  {
+    "id": "d24db813-295b-cb39-e6b3-327409910c6f",
+    "text": "Word Choice",
+    "slug": "word-choice",
+    "subject": "english-language"
+  },
+  {
+    "id": "1ea65bf4-15e7-e99a-3687-b3e324f4b5b9",
+    "text": "Collocations",
+    "slug": "collocations",
+    "subject": "english-language"
+  },
+  {
+    "id": "640b124b-d77a-5052-7d60-c5263b23bbd8",
+    "text": "Formal Vocabulary",
+    "slug": "formal-vocabulary",
+    "subject": "english-language"
+  },
+  {
+    "id": "84fae1ba-f1d4-98da-1c09-45c51ceb2e22",
+    "text": "Redundancy",
+    "slug": "redundancy",
+    "subject": "english-language"
+  },
+  {
+    "id": "42954cdb-5339-b7b2-9424-c0569960244b",
+    "text": "Topic Sentence",
+    "slug": "topic-sentence",
+    "subject": "english-language"
+  },
+  {
+    "id": "f911f68b-418c-d7bb-37e3-00499792e022",
+    "text": "Cohesion",
+    "slug": "cohesion",
+    "subject": "english-language"
+  },
+  {
+    "id": "b2b889f0-5310-23a4-a50c-daa504f0afe7",
+    "text": "Logical Order",
+    "slug": "logical-order",
+    "subject": "english-language"
+  },
+  {
+    "id": "b2d49393-0e86-3521-fc2d-c5ec26e286e9",
+    "text": "Conclusion",
+    "slug": "conclusion",
+    "subject": "english-language"
+  },
+  {
+    "id": "0e4fdd22-0bfe-ee0a-c0bc-d74b9518afeb",
+    "text": "Content Relevance",
+    "slug": "content-relevance",
+    "subject": "english-language"
+  },
+  {
+    "id": "50e8c0d4-60b5-7d43-4c12-33a386b0bbe5",
+    "text": "Word Limit",
+    "slug": "word-limit",
+    "subject": "english-language"
+  },
+  {
+    "id": "8a436650-6e75-79db-904f-e60bd0f7abaf",
+    "text": "Format Rules",
+    "slug": "format-rules",
+    "subject": "english-language"
+  },
+  {
+    "id": "47d00077-5f85-ba3b-fc49-cf7405914aa2",
+    "text": "Pr├⌐cis Writing",
+    "slug": "precis-writing-general",
+    "subject": "english-language"
+  },
+  {
+    "id": "63d9ed95-155f-b31b-acd8-3bb63b0bbb76",
+    "text": "Essay Writing",
+    "slug": "essay-writing-general",
+    "subject": "english-language"
+  },
+  {
+    "id": "eb5019d6-aa0e-23f3-dabd-d507596cf97a",
+    "text": "Letter and Report Writing",
+    "slug": "letter-report-writing-general",
+    "subject": "english-language"
+  },
+  {
+    "id": "70b4fc2f-cf07-d8ef-fb7e-3025342ba94d",
+    "text": "Comprehension and Summary",
+    "slug": "comprehension-summary-general",
+    "subject": "english-language"
+  },
+  {
+    "id": "abf57bec-5615-4320-a666-ff980779a0c2",
+    "text": "Argument evaluation in a passage",
+    "slug": "eng-argument-evaluation-in-a-passage-3f8c21ba",
+    "subject": "english-language"
+  },
+  {
+    "id": "9cc0f630-ab4f-4a0a-b5b2-9212f18af346",
+    "text": "Sentence-level correctness selection",
+    "slug": "eng-sentence-level-correctness-selection-9d4e07c1",
+    "subject": "english-language"
+  },
+  {
+    "id": "e452f72a-bd16-4faa-87c0-ca8608723b7c",
+    "text": "Clock-time scheduling puzzle",
+    "slug": "reas-clock-time-scheduling-puzzle-6b2a94df",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "05f68c0c-9a50-48b6-b713-7393fdf49bfa",
+    "text": "Set-based data interpretation",
+    "slug": "qa-set-based-data-interpretation-8e13c5a7",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "c91ecdcc-7fc9-4d23-b3b7-9122ce81cf9a",
+    "text": "Multi-blank passage cloze",
+    "slug": "eng-multi-blank-passage-cloze-85f89037",
+    "subject": "english-language"
+  },
+  {
+    "id": "53bf9a36-47c0-4473-b677-29a66d1a7bdb",
+    "text": "Double-blank sentence completion",
+    "slug": "eng-double-blank-sentence-completion-86aae4e4",
+    "subject": "english-language"
+  },
+  {
+    "id": "de6aaf4c-db6e-4c5c-b2bd-fc3d1880cc21",
+    "text": "Connector and transition cloze",
+    "slug": "eng-connector-and-transition-cloze-adcb36dd",
+    "subject": "english-language"
+  },
+  {
+    "id": "7c71b869-e50a-4ebd-aea1-fe291dbee5ed",
+    "text": "Subject-verb agreement",
+    "slug": "eng-subject-verb-agreement-07be8ac5",
+    "subject": "english-language"
+  },
+  {
+    "id": "f146f9b5-b13d-47c0-8aca-c80a6566b4fe",
+    "text": "Tense and sequence of tenses",
+    "slug": "eng-tense-and-sequence-of-tenses-7e82f0cb",
+    "subject": "english-language"
+  },
+  {
+    "id": "f9c12eec-a497-4d10-b219-2da6b28a92f7",
+    "text": "Preposition and article errors",
+    "slug": "eng-preposition-and-article-errors-000b76d8",
+    "subject": "english-language"
+  },
+  {
+    "id": "ee103c0c-a9fa-4ae8-98dd-78cdc4378732",
+    "text": "Pronoun reference and agreement",
+    "slug": "eng-pronoun-reference-and-agreement-d6412298",
+    "subject": "english-language"
+  },
+  {
+    "id": "e5efcb86-127f-460d-83fb-9faa38ee400c",
+    "text": "Correlative conjunctions and parallelism",
+    "slug": "eng-correlative-conjunctions-and-parallelism-ff6bd046",
+    "subject": "english-language"
+  },
+  {
+    "id": "10b21db7-8b86-4fa9-a1f6-8cd7d21085da",
+    "text": "Segment-marked error identification",
+    "slug": "eng-segment-marked-error-identification-8879fab9",
+    "subject": "english-language"
+  },
+  {
+    "id": "cbb196b4-3325-4af1-80f9-a4280d592e9f",
+    "text": "Single-word contextual fit",
+    "slug": "eng-single-word-contextual-fit-601cbc5c",
+    "subject": "english-language"
+  },
+  {
+    "id": "0b53297b-0109-4334-b1ee-e56a18137969",
+    "text": "Word-pair fit",
+    "slug": "eng-word-pair-fit-32a9e377",
+    "subject": "english-language"
+  },
+  {
+    "id": "613e6076-97c1-4a2b-b932-8831642cf075",
+    "text": "Preposition and phrasal completion",
+    "slug": "eng-preposition-and-phrasal-completion-5c07ccb9",
+    "subject": "english-language"
+  },
+  {
+    "id": "fd797be4-4857-4885-a456-52d9ce38df94",
+    "text": "Connector-based completion",
+    "slug": "eng-connector-based-completion-cbecd4db",
+    "subject": "english-language"
+  },
+  {
+    "id": "57e9ec9c-c979-437a-b1e8-90580921f096",
+    "text": "Phrase replacement",
+    "slug": "eng-phrase-replacement-623032a6",
+    "subject": "english-language"
+  },
+  {
+    "id": "c18d927f-2eab-49db-b302-a017cf1f2193",
+    "text": "Word interchange within a sentence",
+    "slug": "eng-word-interchange-within-a-sentence-e4c29104",
+    "subject": "english-language"
+  },
+  {
+    "id": "e6e0700f-0130-49e0-961d-89cbe5eab3f8",
+    "text": "Redundancy and wordiness",
+    "slug": "eng-redundancy-and-wordiness-1787d0ac",
+    "subject": "english-language"
+  },
+  {
+    "id": "3ab068c5-397c-4189-913f-0d26569b3899",
+    "text": "Word order and modifier placement",
+    "slug": "eng-word-order-and-modifier-placement-1b73c44c",
+    "subject": "english-language"
+  },
+  {
+    "id": "d5881d53-754a-4f95-a6a2-38d2bbd55162",
+    "text": "No-improvement-required cases",
+    "slug": "eng-no-improvement-required-cases-ede5f5eb",
+    "subject": "english-language"
+  },
+  {
+    "id": "bb17b54f-b233-4c9d-9bad-4526b5ce2f87",
+    "text": "Synonyms",
+    "slug": "eng-synonyms-6113204e",
+    "subject": "english-language"
+  },
+  {
+    "id": "b56cb48c-f85b-4158-8e71-f954f48a8c10",
+    "text": "Antonyms",
+    "slug": "eng-antonyms-af017948",
+    "subject": "english-language"
+  },
+  {
+    "id": "e6f14cb6-df7f-4e3a-9aa4-5efbf45b7946",
+    "text": "One-word substitution",
+    "slug": "eng-one-word-substitution-13964bb4",
+    "subject": "english-language"
+  },
+  {
+    "id": "0df7dc1f-8059-4012-a9a4-59b8bc8b7181",
+    "text": "Commonly confused word pairs",
+    "slug": "eng-commonly-confused-word-pairs-f6bc9a52",
+    "subject": "english-language"
+  },
+  {
+    "id": "eeed4b11-c9a3-4c0d-9f08-e31d6d8bcdac",
+    "text": "Formal and business register",
+    "slug": "eng-formal-and-business-register-f2975b74",
+    "subject": "english-language"
+  },
+  {
+    "id": "f4ab61e2-cadf-4686-a1c5-50554463f230",
+    "text": "Meaning of an idiom in context",
+    "slug": "eng-meaning-of-an-idiom-in-context-afcdf0c3",
+    "subject": "english-language"
+  },
+  {
+    "id": "37a65bc7-1c55-43e7-b59a-c25f3bc3232f",
+    "text": "Phrasal verbs",
+    "slug": "eng-phrasal-verbs-00cf2c93",
+    "subject": "english-language"
+  },
+  {
+    "id": "7c539976-00b4-46cc-9529-2fcd2924c493",
+    "text": "Computer fundamentals and basic terminology",
+    "slug": "ck-computer-fundamentals-and-basic-terminology-d30552ba",
+    "subject": "computer-knowledge"
+  },
+  {
+    "id": "af832e25-cf5b-42a8-9edd-4d5818c1ef8c",
+    "text": "Generations of computers and hardware evolution",
+    "slug": "ck-generations-of-computers-and-hardware-evolution-c0d1c6dd",
+    "subject": "computer-knowledge"
+  },
+  {
+    "id": "62afb17d-a714-489d-a179-bb56f7435b3c",
+    "text": "Pioneers and landmarks in computing history",
+    "slug": "ck-pioneers-and-landmarks-in-computing-history-7da86b59",
+    "subject": "computer-knowledge"
+  },
+  {
+    "id": "a7d6abac-5d55-47fe-be5d-c5d32a43a105",
+    "text": "Programming languages and their generations",
+    "slug": "ck-programming-languages-and-their-generations-82dc1184",
+    "subject": "computer-knowledge"
+  },
+  {
+    "id": "11f3dc6a-8c42-4933-bd54-4ea4fbd411c2",
+    "text": "Emerging computing paradigms",
+    "slug": "ck-emerging-computing-paradigms-7430a4af",
+    "subject": "computer-knowledge"
+  },
+  {
+    "id": "9a74f982-0866-4eba-a6e9-1c8361e0837c",
+    "text": "Input devices and pointing hardware",
+    "slug": "ck-input-devices-and-pointing-hardware-29b27c37",
+    "subject": "computer-knowledge"
+  },
+  {
+    "id": "9f0a4265-4d8f-417c-8cf7-686e86ee2f72",
+    "text": "Printers, printing metrics and display hardware",
+    "slug": "ck-printers-printing-metrics-and-display-hardware-67bde690",
+    "subject": "computer-knowledge"
+  },
+  {
+    "id": "c61a0c4e-425f-4879-aeb4-a6445cab0daa",
+    "text": "Ports, connectors and expansion interfaces",
+    "slug": "ck-ports-connectors-and-expansion-interfaces-2f979e79",
+    "subject": "computer-knowledge"
+  },
+  {
+    "id": "c53b855a-5559-4479-83ea-9901a2d9c9ee",
+    "text": "Microprocessors, registers and digital logic",
+    "slug": "ck-microprocessors-registers-and-digital-logic-abc4b913",
+    "subject": "computer-knowledge"
+  },
+  {
+    "id": "46cbe099-2829-4f3b-accd-366e5beebfde",
+    "text": "Number systems and binary arithmetic",
+    "slug": "ck-number-systems-and-binary-arithmetic-9f34a429",
+    "subject": "computer-knowledge"
+  },
+  {
+    "id": "f34c9bed-217a-4fe7-82d9-c7d8ab5adfb1",
+    "text": "Memory types and the memory hierarchy",
+    "slug": "ck-memory-types-and-the-memory-hierarchy-dbad8600",
+    "subject": "computer-knowledge"
+  },
+  {
+    "id": "4478ba75-c79a-4eaa-aac9-043630438e3b",
+    "text": "Storage media, capacity and compression",
+    "slug": "ck-storage-media-capacity-and-compression-6859be60",
+    "subject": "computer-knowledge"
+  },
+  {
+    "id": "35913209-6eed-4b06-b8cf-e97f7e953d40",
+    "text": "Booting, BIOS and system startup",
+    "slug": "ck-booting-bios-and-system-startup-77819ad1",
+    "subject": "computer-knowledge"
+  },
+  {
+    "id": "4e5250f3-b424-4de9-afa3-fe1a1f614d66",
+    "text": "Operating systems, utilities and system software",
+    "slug": "ck-operating-systems-utilities-and-system-software-97034c9c",
+    "subject": "computer-knowledge"
+  },
+  {
+    "id": "858ee570-f7d8-48c3-8f58-9248f8e4200a",
+    "text": "File and folder management",
+    "slug": "ck-file-and-folder-management-da299b46",
+    "subject": "computer-knowledge"
+  },
+  {
+    "id": "d05341f9-9e76-4d61-8093-3863c80aed6e",
+    "text": "Windows shortcuts and desktop navigation",
+    "slug": "ck-windows-shortcuts-and-desktop-navigation-030741a2",
+    "subject": "computer-knowledge"
+  },
+  {
+    "id": "465e2c9f-9232-42d7-b851-7c3024403720",
+    "text": "MS Word page setup and formatting",
+    "slug": "ck-ms-word-page-setup-and-formatting-d552a60e",
+    "subject": "computer-knowledge"
+  },
+  {
+    "id": "bacb7cab-d3dc-4e4d-85f1-f8a9b2263d20",
+    "text": "MS Word ribbon, tabs and shortcuts",
+    "slug": "ck-ms-word-ribbon-tabs-and-shortcuts-c27848f8",
+    "subject": "computer-knowledge"
+  },
+  {
+    "id": "233b03d8-8fba-4cd2-9376-1cc256cbc3fc",
+    "text": "MS Excel formulas and functions",
+    "slug": "ck-ms-excel-formulas-and-functions-4bfb4eef",
+    "subject": "computer-knowledge"
+  },
+  {
+    "id": "0af84c96-012b-4e72-8f94-03b958789be3",
+    "text": "MS Excel cell references, shortcuts and display behaviour",
+    "slug": "ck-ms-excel-cell-references-shortcuts-and-display-behaviour-125ece4e",
+    "subject": "computer-knowledge"
+  },
+  {
+    "id": "746131c7-4003-4c07-af32-3f189a111c62",
+    "text": "MS Excel charts and macros",
+    "slug": "ck-ms-excel-charts-and-macros-81d631a7",
+    "subject": "computer-knowledge"
+  },
+  {
+    "id": "dac662b7-4adc-428f-acf4-16a33f3741c2",
+    "text": "MS PowerPoint views and slide show controls",
+    "slug": "ck-ms-powerpoint-views-and-slide-show-controls-be71eae2",
+    "subject": "computer-knowledge"
+  },
+  {
+    "id": "aaf95cbb-9b3e-4685-8cf6-4dee4ab48ef2",
+    "text": "Network types and scale",
+    "slug": "ck-network-types-and-scale-dbf6bf7d",
+    "subject": "computer-knowledge"
+  },
+  {
+    "id": "76e93455-6950-4881-9bcb-4552928a42b9",
+    "text": "Network topologies",
+    "slug": "ck-network-topologies-0b6b1ec5",
+    "subject": "computer-knowledge"
+  },
+  {
+    "id": "638f1a41-9d72-4325-8986-dac31e30e02d",
+    "text": "Networking devices",
+    "slug": "ck-networking-devices-3e223e93",
+    "subject": "computer-knowledge"
+  },
+  {
+    "id": "549537a6-0ac0-489e-8e68-72e20d7391f6",
+    "text": "OSI model and IP addressing",
+    "slug": "ck-osi-model-and-ip-addressing-15b04d54",
+    "subject": "computer-knowledge"
+  },
+  {
+    "id": "6886047d-8a37-4358-a794-10776d047ada",
+    "text": "Internet protocols and addressing",
+    "slug": "ck-internet-protocols-and-addressing-d6583563",
+    "subject": "computer-knowledge"
+  },
+  {
+    "id": "7e50d38b-7732-4446-8519-b4089ca994ac",
+    "text": "Web browsers and browsing privacy",
+    "slug": "ck-web-browsers-and-browsing-privacy-dc79e064",
+    "subject": "computer-knowledge"
+  },
+  {
+    "id": "86759eb5-dd49-407c-996c-d74e0b84bc56",
+    "text": "Email fields and conventions",
+    "slug": "ck-email-fields-and-conventions-a8a98e6b",
+    "subject": "computer-knowledge"
+  },
+  {
+    "id": "4168d193-763b-499a-9e67-04c6182feddd",
+    "text": "Malware types and antivirus software",
+    "slug": "ck-malware-types-and-antivirus-software-05eb4896",
+    "subject": "computer-knowledge"
+  },
+  {
+    "id": "9b195905-5d1c-467c-bbc4-c9ab118ecc20",
+    "text": "Firewalls, phishing and safe computing",
+    "slug": "ck-firewalls-phishing-and-safe-computing-624a87e3",
+    "subject": "computer-knowledge"
+  },
+  {
+    "id": "52fca341-f34d-46d1-b4c2-b4e4789e4eaf",
+    "text": "File formats, encoding standards and multimedia",
+    "slug": "ck-file-formats-encoding-standards-and-multimedia-19b41cd1",
+    "subject": "computer-knowledge"
+  },
+  {
+    "id": "2b8462ca-899a-44d6-89d2-832053374d82",
+    "text": "Rational decision-making model and its assumptions",
+    "slug": "dm-rational-decision-making-model-and-its-assumptions-4e7de69b",
+    "subject": "decision-making"
+  },
+  {
+    "id": "80b5ff73-4a0a-4221-86db-18a34839fb80",
+    "text": "Bounded rationality and limits on information processing",
+    "slug": "dm-bounded-rationality-and-limits-on-information-processing-5f6bbc58",
+    "subject": "decision-making"
+  },
+  {
+    "id": "ffae1707-910d-4d42-8bb4-3071192cfa16",
+    "text": "Types of decisions and decision levels",
+    "slug": "dm-types-of-decisions-and-decision-levels-89e1bfd5",
+    "subject": "decision-making"
+  },
+  {
+    "id": "47fc1959-7be5-495b-8809-984a9c542ec0",
+    "text": "Steps in the decision-making process",
+    "slug": "dm-steps-in-the-decision-making-process-0df42d5e",
+    "subject": "decision-making"
+  },
+  {
+    "id": "00489463-d616-4b6a-b5f9-81ab32057126",
+    "text": "Anchoring, framing and presentation effects",
+    "slug": "dm-anchoring-framing-and-presentation-effects-f98cb084",
+    "subject": "decision-making"
+  },
+  {
+    "id": "66a62ed1-fa20-4c88-a023-79730ae3b7cf",
+    "text": "Overconfidence and status-quo bias",
+    "slug": "dm-overconfidence-and-status-quo-bias-05d95d99",
+    "subject": "decision-making"
+  },
+  {
+    "id": "0ffc4710-e0a5-4092-adbf-de5c41cd9c87",
+    "text": "Selective perception and similarity bias",
+    "slug": "dm-selective-perception-and-similarity-bias-e03616b7",
+    "subject": "decision-making"
+  },
+  {
+    "id": "a1f8405a-f6c2-4e3e-bc5a-c69d993f193b",
+    "text": "Confirmation bias and debiasing strategies",
+    "slug": "dm-confirmation-bias-and-debiasing-strategies-0567e8ea",
+    "subject": "decision-making"
+  },
+  {
+    "id": "c0029f13-4ec9-45fe-8077-45d6bf5c3529",
+    "text": "Structured group decision-making techniques",
+    "slug": "dm-structured-group-decision-making-techniques-3008c348",
+    "subject": "decision-making"
+  },
+  {
+    "id": "9176264c-ed27-4bce-95f5-e1743e72c2ca",
+    "text": "Communication, conflict and delay in group decisions",
+    "slug": "dm-communication-conflict-and-delay-in-group-decisions-2de1c775",
+    "subject": "decision-making"
+  },
+  {
+    "id": "f4e6692c-d603-45a0-ad32-b686c1c23d24",
+    "text": "Root cause analysis and problem-solving tools",
+    "slug": "dm-root-cause-analysis-and-problem-solving-tools-a1ae3806",
+    "subject": "decision-making"
+  },
+  {
+    "id": "620192e8-f4a8-4b83-8935-adb5e1cb1426",
+    "text": "Quantitative methods and analytics in decision making",
+    "slug": "dm-quantitative-methods-and-analytics-in-decision-making-701a2eb5",
+    "subject": "decision-making"
+  },
+  {
+    "id": "d9f13db4-9737-4142-9ffe-de6090cb0f2e",
+    "text": "Heuristics and judgemental problems",
+    "slug": "dm-heuristics-and-judgemental-problems-098fa72f",
+    "subject": "decision-making"
+  },
+  {
+    "id": "5415d27f-5900-4225-80ec-96f497e3a012",
+    "text": "Decision-making styles and leadership approaches",
+    "slug": "dm-decision-making-styles-and-leadership-approaches-b2d84bc0",
+    "subject": "decision-making"
+  },
+  {
+    "id": "c886a7de-5a43-4058-b779-d25bd99be0c9",
+    "text": "Decision theories from allied disciplines",
+    "slug": "dm-decision-theories-from-allied-disciplines-2f9e04a5",
+    "subject": "decision-making"
+  },
+  {
+    "id": "b4d02db5-b5b2-4319-9cd3-63157e96f347",
+    "text": "Individual and organisational factors affecting decisions",
+    "slug": "dm-individual-and-organisational-factors-affecting-decisions-8af4dac7",
+    "subject": "decision-making"
+  },
+  {
+    "id": "ec1c423a-d5ab-42aa-b03e-26d3a74e72fb",
+    "text": "Life and accident insurance schemes for the poor",
+    "slug": "esi-life-and-accident-insurance-schemes-for-the-poor-dafd168f",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "75791278-f076-4df9-8099-e6456ff02b77",
+    "text": "Pension schemes for unorganised workers and farmers",
+    "slug": "esi-pension-schemes-for-unorganised-workers-and-farmers-d8bd0eda",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "ad865cb6-a145-45e4-b368-f6aa999f9b6c",
+    "text": "Employees' provident fund, ESI and statutory social security",
+    "slug": "esi-employees-provident-fund-esi-and-statutory-social-security-12456dd6",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "45ebecd1-22f4-4aa9-b682-0893187488cd",
+    "text": "National Social Assistance Programme and family benefits",
+    "slug": "esi-national-social-assistance-programme-and-family-benefits-81ed3eb1",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "f26292d1-d93f-42fa-863a-7049b5a8663c",
+    "text": "Women and child welfare schemes",
+    "slug": "esi-women-and-child-welfare-schemes-b322a19f",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "a9893874-a4ba-4cb8-950f-c570eeb3dfad",
+    "text": "Welfare schemes for senior citizens",
+    "slug": "esi-welfare-schemes-for-senior-citizens-23df6fc0",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "01534867-865e-4720-ae7a-fc57ff1502c8",
+    "text": "Minority welfare schemes",
+    "slug": "esi-minority-welfare-schemes-81953b4a",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "e8cae290-c508-4ad8-a0d5-51f6ad30195e",
+    "text": "Street vendor credit and livelihood schemes",
+    "slug": "esi-street-vendor-credit-and-livelihood-schemes-1f8c2168",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "a2706471-81ca-4d3a-959f-a696fdf4c4f3",
+    "text": "Artisan and traditional-trade schemes",
+    "slug": "esi-artisan-and-traditional-trade-schemes-7f089b75",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "90bce223-116c-4616-9d65-9d73a844ce22",
+    "text": "Sanitation worker welfare and mechanised sanitation",
+    "slug": "esi-sanitation-worker-welfare-and-mechanised-sanitation-3201cd8f",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "d0f1a72a-037f-403c-96a2-f510bdb1c9f4",
+    "text": "Clean cooking fuel and energy access schemes",
+    "slug": "esi-clean-cooking-fuel-and-energy-access-schemes-14bfe216",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "09bc3db4-a4ca-47ab-9172-142c1e7475f8",
+    "text": "Food security, PDS and free foodgrain schemes",
+    "slug": "esi-food-security-pds-and-free-foodgrain-schemes-f4f74cbc",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "5a56b2a1-1651-42b1-bc1c-a9912be980c0",
+    "text": "Pandemic relief packages and worker support",
+    "slug": "esi-pandemic-relief-packages-and-worker-support-fa7351c0",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "9fa06a82-fffa-48e5-8d9c-f712dfed4e93",
+    "text": "Poverty alleviation packages and Garib Kalyan schemes",
+    "slug": "esi-poverty-alleviation-packages-and-garib-kalyan-schemes-edf1c6f8",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "a83152d6-a96e-48f8-acdd-e167db03adb9",
+    "text": "MGNREGA design, entitlements and performance",
+    "slug": "esi-mgnrega-design-entitlements-and-performance-91290406",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "6f182884-0443-48e2-ad72-601b4ad101ab",
+    "text": "DAY-NRLM, self-help groups and rural livelihoods",
+    "slug": "esi-day-nrlm-self-help-groups-and-rural-livelihoods-afd82160",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "60ac26fb-8223-4672-9303-d9bf13382889",
+    "text": "Rural roads and PMGSY",
+    "slug": "esi-rural-roads-and-pmgsy-2cb50665",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "a406cb7b-b61d-4987-8afe-2039eef3133b",
+    "text": "Rural and urban housing schemes",
+    "slug": "esi-rural-and-urban-housing-schemes-92031959",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "08bb405d-9517-4fd2-9841-1412bd5b2f11",
+    "text": "Swachh Bharat and sanitation missions",
+    "slug": "esi-swachh-bharat-and-sanitation-missions-9b655979",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "310e83a2-a013-4231-a509-9290fb95ced9",
+    "text": "Drinking water supply and Jal Jeevan Mission",
+    "slug": "esi-drinking-water-supply-and-jal-jeevan-mission-c4aff951",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "1106691f-e920-413b-a884-59bdd7da3007",
+    "text": "Village and Gram Panchayat development schemes",
+    "slug": "esi-village-and-gram-panchayat-development-schemes-5199e3ce",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "6693626c-4ed5-45f9-ae4a-150f7d7d0489",
+    "text": "Panchayati Raj institutions and rural governance",
+    "slug": "esi-panchayati-raj-institutions-and-rural-governance-96724f0e",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "68fbeaa4-4246-47f0-a9ce-cbd54986c9ba",
+    "text": "Aspirational Districts Programme",
+    "slug": "esi-aspirational-districts-programme-6a7644df",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "9c5607da-8834-4331-9fe3-9b3518a0a493",
+    "text": "Rurban clusters and rural cluster development",
+    "slug": "esi-rurban-clusters-and-rural-cluster-development-fb33f5cb",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "e9bb182f-0be0-4bc0-9d0b-6aaa76bbeb6d",
+    "text": "Rural skilling and livelihood missions",
+    "slug": "esi-rural-skilling-and-livelihood-missions-3289ae30",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "13d98721-2736-444f-82db-ecb3bb0fdddc",
+    "text": "Rural entrepreneurship and business incubation",
+    "slug": "esi-rural-entrepreneurship-and-business-incubation-31c4257a",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "e964c391-e97b-48d3-8321-c140b0a30260",
+    "text": "Rural development outreach campaigns",
+    "slug": "esi-rural-development-outreach-campaigns-943bd6d3",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "a8897de4-e7e9-4db4-9883-f4daba7a9c31",
+    "text": "Rural land records and property rights",
+    "slug": "esi-rural-land-records-and-property-rights-3ca875b7",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "05a332b6-47f0-46fc-ae4d-86f2fc883872",
+    "text": "National Education Policy 2020",
+    "slug": "esi-national-education-policy-2020-fd9f53fb",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "e7ca4271-6ec8-4a73-be40-7e7dd799da28",
+    "text": "School education schemes and curriculum frameworks",
+    "slug": "esi-school-education-schemes-and-curriculum-frameworks-ce15e747",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "3b29fc1a-f888-4188-8f85-a828933d644e",
+    "text": "Higher education, enrolment and AISHE",
+    "slug": "esi-higher-education-enrolment-and-aishe-05a008bf",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "572d0eaa-691a-4172-aa52-98a315b3f558",
+    "text": "Scholarships and student support schemes",
+    "slug": "esi-scholarships-and-student-support-schemes-8b26012c",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "749a4d1c-5502-4cf7-b31e-52fd1b673e2f",
+    "text": "Adult, vocational and non-formal education",
+    "slug": "esi-adult-vocational-and-non-formal-education-e5e53aa8",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "c5dad17a-4e02-4d2e-9dc2-2734e2313497",
+    "text": "Tribal residential education",
+    "slug": "esi-tribal-residential-education-f08200bf",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "de46c277-f402-4137-8f97-aebe2fbe3fa6",
+    "text": "Education sector market and online learning",
+    "slug": "esi-education-sector-market-and-online-learning-de9bb541",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "bd23f639-354b-49e1-a8be-be068316153d",
+    "text": "Ayushman Bharat and health insurance",
+    "slug": "esi-ayushman-bharat-and-health-insurance-0f8290e9",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "a019a036-4990-494f-ba26-4d7d73152c85",
+    "text": "Nutrition missions and POSHAN",
+    "slug": "esi-nutrition-missions-and-poshan-48098655",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "c0a7c245-3fb1-4a85-9f8e-2c3399bf68af",
+    "text": "Food safety and standards",
+    "slug": "esi-food-safety-and-standards-212bf3e8",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "179feef8-e17e-4adc-a782-c7a24a84ead1",
+    "text": "National family health surveys and health indicators",
+    "slug": "esi-national-family-health-surveys-and-health-indicators-534c5545",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "311bedc8-f9af-49ae-bc73-316190ebc302",
+    "text": "Community health workers and maternal-child health programmes",
+    "slug": "esi-community-health-workers-and-maternal-child-health-programmes-367b24d2",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "0b985eb1-ba0f-43d7-9f8c-dc0650a0c91e",
+    "text": "Disease elimination missions",
+    "slug": "esi-disease-elimination-missions-95daea43",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "88076255-4d18-4da2-9791-782e06adf825",
+    "text": "Right to Education Act",
+    "slug": "esi-right-to-education-act-f785667a",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "f0438d84-6f03-45a4-a48e-44336c8e15e7",
+    "text": "National income aggregates and growth estimates",
+    "slug": "esi-national-income-aggregates-and-growth-estimates-10e4a846",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "0df931ef-2b4e-4203-bcd0-f7886f74efe8",
+    "text": "Sectoral composition of the economy",
+    "slug": "esi-sectoral-composition-of-the-economy-68abedde",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "3f10cf99-c7c6-4b9a-b589-e015a8719703",
+    "text": "Inflation measurement and price indices",
+    "slug": "esi-inflation-measurement-and-price-indices-b4ee8a99",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "d5110ca8-291e-4287-a8ff-2cd5093ce271",
+    "text": "Monetary policy framework and inflation targeting",
+    "slug": "esi-monetary-policy-framework-and-inflation-targeting-b6fadc02",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "fa731497-39a6-49f8-b3ff-e0f3bb19cb96",
+    "text": "Union Budget provisions and taxation",
+    "slug": "esi-union-budget-provisions-and-taxation-f43747fa",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "a4b30fb7-a28f-4ae7-aa5c-d44da85fcb83",
+    "text": "Fiscal deficit and public finance",
+    "slug": "esi-fiscal-deficit-and-public-finance-3cbd6dfc",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "b039be16-869c-45c4-8272-17254bd701d7",
+    "text": "Public debt and external liabilities",
+    "slug": "esi-public-debt-and-external-liabilities-c0e148a4",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "a0b3ccef-9ea8-4bce-9a3d-1eacb5cfe165",
+    "text": "Balance of payments and the external sector",
+    "slug": "esi-balance-of-payments-and-the-external-sector-a23a8009",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "1f6ed331-0ac7-4797-aff8-0272fb90b535",
+    "text": "Industrial production and statistical agencies",
+    "slug": "esi-industrial-production-and-statistical-agencies-cb39c8b6",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "af53b54e-1844-450a-b3e2-e16020be4533",
+    "text": "Industrial policy and manufacturing",
+    "slug": "esi-industrial-policy-and-manufacturing-ea8d14cb",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "edfa8f79-7e0a-4f3e-8726-dbd3a97fb1de",
+    "text": "MSME sector and its contribution",
+    "slug": "esi-msme-sector-and-its-contribution-7e42574b",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "95a3bc72-f5d7-41c4-a800-9df6dd3dbeba",
+    "text": "Khadi, coir and village industries",
+    "slug": "esi-khadi-coir-and-village-industries-8966daf6",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "5ea94c26-23cd-446f-b227-d4c886223566",
+    "text": "Ease of doing business and reform rankings",
+    "slug": "esi-ease-of-doing-business-and-reform-rankings-b783fb34",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "c059c12d-9ad3-49fd-a46f-8d5795be868c",
+    "text": "State and regional economic performance",
+    "slug": "esi-state-and-regional-economic-performance-9e62f78b",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "c433edd3-ad2d-408b-bd3e-fbf1828a030d",
+    "text": "Infrastructure, transport and logistics",
+    "slug": "esi-infrastructure-transport-and-logistics-dd054b55",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "fac566e1-1cba-4017-9733-f13cc31b1aa6",
+    "text": "National Infrastructure Pipeline and project dashboards",
+    "slug": "esi-national-infrastructure-pipeline-and-project-dashboards-79cb371c",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "f225f3a4-7ad0-42d8-9ab0-acfbf821f304",
+    "text": "Renewable energy targets and efficiency schemes",
+    "slug": "esi-renewable-energy-targets-and-efficiency-schemes-27352d93",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "9a64933c-c2fa-4db6-aed5-2b87f33c8202",
+    "text": "Economic reforms of 1991 and liberalisation",
+    "slug": "esi-economic-reforms-of-1991-and-liberalisation-94cfbdf0",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "541e84ce-069e-40de-b447-762fc36291f2",
+    "text": "Insolvency and economic legislation",
+    "slug": "esi-insolvency-and-economic-legislation-e23a20e2",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "f7274ac4-dc47-482f-86f6-495e4bc87cae",
+    "text": "Long-term growth strategy and policy vision",
+    "slug": "esi-long-term-growth-strategy-and-policy-vision-c7c157e1",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "a4080599-f494-4ece-9642-8c11fa396d1a",
+    "text": "NABARD, RIDF and development finance",
+    "slug": "esi-nabard-ridf-and-development-finance-6429a74d",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "a9454c10-00ae-4e32-82b2-0b5bca9ca1d4",
+    "text": "Priority sector lending norms",
+    "slug": "esi-priority-sector-lending-norms-05568a2d",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "37a6c1ba-a15d-4d85-baff-09ffe944f42e",
+    "text": "Kisan Credit Card and agricultural credit",
+    "slug": "esi-kisan-credit-card-and-agricultural-credit-507c08b4",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "a2db3cb7-0c21-4406-a745-adc9d09d8e75",
+    "text": "Differentiated banks and rural banking",
+    "slug": "esi-differentiated-banks-and-rural-banking-4d20c619",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "403dd039-d92f-48c0-ad12-a98061fd936b",
+    "text": "Cooperatives and cooperative banks",
+    "slug": "esi-cooperatives-and-cooperative-banks-64438c62",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "2c53a1a0-e2e8-4952-9b7b-d44a297b110b",
+    "text": "Microfinance sector and its regulation",
+    "slug": "esi-microfinance-sector-and-its-regulation-28890afb",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "c07b3f29-e87e-4721-8dfe-257793aae9e3",
+    "text": "MUDRA and micro-enterprise credit",
+    "slug": "esi-mudra-and-micro-enterprise-credit-46158941",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "be073866-6a94-4a6a-8c29-741a50707d66",
+    "text": "Credit schemes for SC, ST and women entrepreneurs",
+    "slug": "esi-credit-schemes-for-sc-st-and-women-entrepreneurs-16e66d55",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "2069e64c-0914-4339-bcf1-8d5582ddc6e1",
+    "text": "Financial inclusion and Jan Dhan",
+    "slug": "esi-financial-inclusion-and-jan-dhan-71aa2972",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "65c6b4bb-b6fc-4351-a9ea-e09a179d12da",
+    "text": "Public sector bank reforms",
+    "slug": "esi-public-sector-bank-reforms-3d69d7d1",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "0893cd2f-eb6e-4259-ab1b-d5e7784f3de8",
+    "text": "Financial stability assessment and reporting",
+    "slug": "esi-financial-stability-assessment-and-reporting-4c5c423c",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "6543f906-3a5b-4e9d-9672-3628cc7a032c",
+    "text": "Capital market instruments and regulation",
+    "slug": "esi-capital-market-instruments-and-regulation-80c7bce4",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "596728b4-72d4-4921-8260-9d6c46fb06ca",
+    "text": "Sovereign and infrastructure funds",
+    "slug": "esi-sovereign-and-infrastructure-funds-e9546148",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "57d7c155-4004-4fc9-9037-a8b4e01d6ca6",
+    "text": "RBI committees and working groups",
+    "slug": "esi-rbi-committees-and-working-groups-c7e79711",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "1bd0a377-4a34-45f9-b7d1-2f39bf0f1b28",
+    "text": "Banking regulation and legislation",
+    "slug": "esi-banking-regulation-and-legislation-ecffbc16",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "5dbf06cd-9975-4aed-b9a2-c480190d381b",
+    "text": "Bank fraud prevention and early warning",
+    "slug": "esi-bank-fraud-prevention-and-early-warning-6579cda4",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "8a64f844-7e04-436c-ab9a-5fa2e9ceb99d",
+    "text": "Housing finance and house price indices",
+    "slug": "esi-housing-finance-and-house-price-indices-56a4f7bc",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "2fd51d77-80f5-48e6-9dd7-a56a0dbdd59c",
+    "text": "Lead Bank Scheme and district credit planning",
+    "slug": "esi-lead-bank-scheme-and-district-credit-planning-595fb697",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "1d690f05-756d-4389-b40d-5bca2d050fdd",
+    "text": "Digital finance and technology in banking",
+    "slug": "esi-digital-finance-and-technology-in-banking-a1a8e123",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "1dc3e5ea-2950-42a3-8c79-8a45ade66003",
+    "text": "Census and demographic profile of India",
+    "slug": "esi-census-and-demographic-profile-of-india-f0423777",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "6676d0d0-39e9-465c-a1ee-e9656b7116b1",
+    "text": "Socio-economic and caste surveys",
+    "slug": "esi-socio-economic-and-caste-surveys-9770ae49",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "d4695b75-6241-4139-84aa-4c38b0fec44e",
+    "text": "Population projections",
+    "slug": "esi-population-projections-d1e88ca6",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "2592bee0-89ec-499a-8ecc-aae6e4006afc",
+    "text": "Population theories and demographic transition",
+    "slug": "esi-population-theories-and-demographic-transition-a323bbe5",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "9d57686e-05d4-4900-92f9-6c795494a8b4",
+    "text": "Poverty measurement and multidimensional poverty",
+    "slug": "esi-poverty-measurement-and-multidimensional-poverty-fccf8721",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "67d73193-b913-40c4-9e29-eb8eeb39653f",
+    "text": "Employment statistics and employment services",
+    "slug": "esi-employment-statistics-and-employment-services-be746d7a",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "7d090fe2-c214-431c-9408-93bdc8693ecc",
+    "text": "Labour laws, wages and maternity benefit",
+    "slug": "esi-labour-laws-wages-and-maternity-benefit-4e442e0b",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "a8e79dbb-62c4-424f-83dd-56dbf319e539",
+    "text": "Skill development and apprenticeship",
+    "slug": "esi-skill-development-and-apprenticeship-b69d40f8",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "f5835ef2-38c9-4e7d-85ac-83cd7b134d7b",
+    "text": "Gender statistics and indicators",
+    "slug": "esi-gender-statistics-and-indicators-0e67ccaa",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "80f0b67d-e0f9-45a6-99b3-429be1e731b5",
+    "text": "Tribal welfare and particularly vulnerable tribal groups",
+    "slug": "esi-tribal-welfare-and-particularly-vulnerable-tribal-groups-8f5bf9f7",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "67198b82-3136-4a92-8f44-676488c348d2",
+    "text": "Social legislation on women, children and the elderly",
+    "slug": "esi-social-legislation-on-women-children-and-the-elderly-320dd084",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "55017e5e-7c55-4ca2-a8a4-9467526ef577",
+    "text": "Social movements and civil society",
+    "slug": "esi-social-movements-and-civil-society-42bade55",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "c215d7bb-a63e-4a06-bcb3-a64fc6184045",
+    "text": "Fundamental Rights articles",
+    "slug": "esi-fundamental-rights-articles-a7516de6",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "658df156-83f0-4af0-8ba3-4ca897740136",
+    "text": "Directive Principles of State Policy",
+    "slug": "esi-directive-principles-of-state-policy-7688b1a7",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "f7deb105-9d9d-49b6-a74a-d4f431e10c0c",
+    "text": "Constitutional amendments and reservation",
+    "slug": "esi-constitutional-amendments-and-reservation-aed5ab8e",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "bec57881-d538-4f40-a08f-c3ef57043803",
+    "text": "Schedules of the Constitution",
+    "slug": "esi-schedules-of-the-constitution-0e22c1f9",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "b39657a7-6206-4b1d-9b39-cf64ff7902a3",
+    "text": "Finance Commission and fiscal federalism",
+    "slug": "esi-finance-commission-and-fiscal-federalism-b65583a6",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "3f0b1528-a75b-45e9-8356-2a2022a10ae4",
+    "text": "Parliamentary committees and oversight",
+    "slug": "esi-parliamentary-committees-and-oversight-99a84f1f",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "5ebbc083-bcd8-490d-96ad-364700dde1f5",
+    "text": "Right to Information",
+    "slug": "esi-right-to-information-c8f2300e",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "86322d71-cd5d-4b53-b444-abb76387cb54",
+    "text": "Consumer protection and regulatory law",
+    "slug": "esi-consumer-protection-and-regulatory-law-e0bf0181",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "817f838b-9908-4dae-811a-8e56b388bf25",
+    "text": "Ministries and organisation of government",
+    "slug": "esi-ministries-and-organisation-of-government-7ea52ef4",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "c862456b-d22b-45b5-9150-d9d1f21eb0c6",
+    "text": "Global indices and India's rank",
+    "slug": "esi-global-indices-and-india-s-rank-c4195427",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "056efd72-c34d-48ae-9c72-931959910d05",
+    "text": "Growth forecasts by international agencies",
+    "slug": "esi-growth-forecasts-by-international-agencies-f9efa8b2",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "a73b4af1-fb46-41dd-9d25-1cbb815f91cb",
+    "text": "Global risk and outlook reports",
+    "slug": "esi-global-risk-and-outlook-reports-4882c2f5",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "8d5f6ccc-0a62-47df-8c75-c1d5240fc43f",
+    "text": "International economic forums and summit declarations",
+    "slug": "esi-international-economic-forums-and-summit-declarations-4cfa2293",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "ba4a8915-89b4-4e26-87de-9573d8c40bc4",
+    "text": "United Nations agencies and campaigns",
+    "slug": "esi-united-nations-agencies-and-campaigns-3b306d64",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "8aed2166-9ae9-4125-8e4b-ca0c82bd3f27",
+    "text": "Multilateral development banks and the IMF",
+    "slug": "esi-multilateral-development-banks-and-the-imf-76ca8ef5",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "dcf342df-0b93-4e2c-91a1-42e0781cd12c",
+    "text": "WTO and global trade bodies",
+    "slug": "esi-wto-and-global-trade-bodies-8a33bd0d",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "163beae2-2624-4605-8851-b6ca21acf6f4",
+    "text": "International groupings and their membership",
+    "slug": "esi-international-groupings-and-their-membership-7b399f83",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "61c4b3c3-5391-41c0-99c5-ee6ba3111979",
+    "text": "Agricultural trade and export policy",
+    "slug": "esi-agricultural-trade-and-export-policy-b0c137b5",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "4d2ef984-313a-468f-87f4-d5027de94736",
+    "text": "Sustainable agriculture missions",
+    "slug": "esi-sustainable-agriculture-missions-75203ccb",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "cb66a58b-08bd-460a-bdef-681731413367",
+    "text": "Irrigation, water resources and river linking",
+    "slug": "esi-irrigation-water-resources-and-river-linking-1923c369",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "f36e118c-31e6-42b2-a5f9-27c3af609569",
+    "text": "Food processing and value-chain schemes",
+    "slug": "esi-food-processing-and-value-chain-schemes-62dad586",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "59d569cb-cb6d-4402-899d-c984effc6b5b",
+    "text": "Agricultural marketing reform and indices",
+    "slug": "esi-agricultural-marketing-reform-and-indices-387d7e72",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "ccb35433-91ab-4bbe-b188-9cc1671add79",
+    "text": "Farming systems and operational land holdings",
+    "slug": "esi-farming-systems-and-operational-land-holdings-dc30542d",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "afe864dd-13da-4bb1-a63e-afceaa14fe6a",
+    "text": "Crop production estimates and agricultural statistics",
+    "slug": "esi-crop-production-estimates-and-agricultural-statistics-cde429a8",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "5059c599-1a0d-4318-baaa-c917b62757b8",
+    "text": "Agriculture's share in income and employment",
+    "slug": "esi-agriculture-s-share-in-income-and-employment-dd773776",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "5264edf2-f868-4749-8bd6-0cf36449317b",
+    "text": "Minimum Support Price and procurement",
+    "slug": "esi-minimum-support-price-and-procurement-08bf1b90",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "4008bcdf-83aa-4c26-a7b2-568b79ef0d11",
+    "text": "Direct income support to farmers",
+    "slug": "esi-direct-income-support-to-farmers-d6af2ca5",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "31fac32f-3fe7-4f1b-ac8f-1f2ce452a046",
+    "text": "e-NAM and electronic agricultural markets",
+    "slug": "esi-e-nam-and-electronic-agricultural-markets-5a469ac2",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "55445373-0670-480b-9789-76cf81fef778",
+    "text": "Solar and renewable energy schemes in agriculture",
+    "slug": "esi-solar-and-renewable-energy-schemes-in-agriculture-29cb0ba0",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "6e297230-1512-4dc6-bb69-926c59273145",
+    "text": "Agriculture infrastructure financing",
+    "slug": "esi-agriculture-infrastructure-financing-4d9c7437",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "7fc989d6-d552-4150-b021-fd564531a3bd",
+    "text": "Foreign investment in agriculture",
+    "slug": "esi-foreign-investment-in-agriculture-4e63b2f8",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "f760738d-0cb4-465f-9aa4-ebef3fc42346",
+    "text": "Watershed development",
+    "slug": "esi-watershed-development-10ea5c65",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "f5707177-c3d8-4262-8468-28edff1a570c",
+    "text": "Regulated and licensed crop cultivation",
+    "slug": "esi-regulated-and-licensed-crop-cultivation-4f48f1aa",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "b142e4cf-993d-4b2d-bbbe-601efdfc7af4",
+    "text": "Biofuel and bioenergy programmes",
+    "slug": "esi-biofuel-and-bioenergy-programmes-2179315b",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "bf4bcb8a-87b2-4d3d-a9ac-8616297436c9",
+    "text": "Doubling farmers' income and its committees",
+    "slug": "esi-doubling-farmers-income-and-its-committees-2c3e3962",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "cc4e608e-7e27-4c7d-b695-9807b8bdc76d",
+    "text": "Crop insurance schemes",
+    "slug": "esi-crop-insurance-schemes-96129bd7",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "9a47e1ff-bf0f-4e89-b7c7-82657dad304e",
+    "text": "Livestock and dairy development programmes",
+    "slug": "esi-livestock-and-dairy-development-programmes-2c0b8e57",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "8bf48843-7b68-4295-9097-6087e269eb01",
+    "text": "Climate change initiatives in agriculture",
+    "slug": "esi-climate-change-initiatives-in-agriculture-3b7a236e",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "b84af26b-d828-4c6b-adcd-3d59f6e7187d",
+    "text": "Contract farming and market reform",
+    "slug": "esi-contract-farming-and-market-reform-c75445a9",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "b89cdc5c-bd1b-413a-b94c-8ac0370a496e",
+    "text": "Agricultural revolutions",
+    "slug": "esi-agricultural-revolutions-f75a3ef4",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "d6ad064e-7580-4640-8593-542a810de46c",
+    "text": "Organic and natural farming schemes",
+    "slug": "esi-organic-and-natural-farming-schemes-739ab5db",
+    "subject": "economic-social-issues"
+  },
+  {
+    "id": "77d11d05-45e8-4a8f-a30c-25d1bb402ecb",
+    "text": "Crop production statistics and leading states",
+    "slug": "ard-crop-production-statistics-and-leading-states-76bd8597",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "10b948c3-61dc-4c89-9d68-fecbc91dd51a",
+    "text": "Field crops: characteristics and composition",
+    "slug": "ard-field-crops-characteristics-and-composition-0ee2fe15",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "b321c194-cd25-4d6a-add2-272ac27075cb",
+    "text": "Commercial and fibre crops",
+    "slug": "ard-commercial-and-fibre-crops-fc1cb796",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "ef0541ee-5cd6-4e67-b125-618fed9e6138",
+    "text": "Millets and coarse cereals",
+    "slug": "ard-millets-and-coarse-cereals-5817dc22",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "77c5282e-d8c6-4881-88fb-965c0efc5891",
+    "text": "Crop physiology and productivity",
+    "slug": "ard-crop-physiology-and-productivity-ec35b2e2",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "64b97845-e4c5-417f-aa81-361801f72b60",
+    "text": "Plant morphology and reproduction",
+    "slug": "ard-plant-morphology-and-reproduction-11c20a19",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "126804dc-0695-4dfb-86b2-4fd6a38dc761",
+    "text": "Cropping systems and cropping patterns",
+    "slug": "ard-cropping-systems-and-cropping-patterns-97da95cc",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "14635d68-7b45-4941-86f5-ef405aac6d43",
+    "text": "Agro-climatic zones and crop regions",
+    "slug": "ard-agro-climatic-zones-and-crop-regions-b02b28dd",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "8c23f210-edce-41da-aa7b-aaf6c9c4d77d",
+    "text": "Rainfed and dryland farming",
+    "slug": "ard-rainfed-and-dryland-farming-774ca52a",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "2fd2d779-63c9-4129-9436-0afbe836c6f9",
+    "text": "Organic and natural farming",
+    "slug": "ard-organic-and-natural-farming-dd64ed70",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "97c43e6e-2a6d-4f0d-8688-b9f715600a61",
+    "text": "Climate-smart and sustainable agriculture",
+    "slug": "ard-climate-smart-and-sustainable-agriculture-3132752a",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "40f86afc-614f-4b8e-b34e-af04598b64ae",
+    "text": "Seed production, classes and certification",
+    "slug": "ard-seed-production-classes-and-certification-3edec708",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "35539a9a-fb89-4447-8941-00367cea042d",
+    "text": "Crop residue and by-products",
+    "slug": "ard-crop-residue-and-by-products-e8e6ca95",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "0ab1ed81-d4c6-42b0-82bf-77f64ab7a0e3",
+    "text": "Soil types and their distribution in India",
+    "slug": "ard-soil-types-and-their-distribution-in-india-f1275c3b",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "644ad60a-a652-4609-870a-5ec437e0b2a0",
+    "text": "Soil classification systems and soil orders",
+    "slug": "ard-soil-classification-systems-and-soil-orders-6d6328e0",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "91eef3ac-470a-4602-81fe-92922a5ec30c",
+    "text": "Soil physical properties and soil moisture",
+    "slug": "ard-soil-physical-properties-and-soil-moisture-6599130c",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "35289561-8879-4e6b-b604-82034480f67b",
+    "text": "Soil chemical properties and salinity",
+    "slug": "ard-soil-chemical-properties-and-salinity-003f2da2",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "eebf5297-0ae0-4f84-bd14-717052c42219",
+    "text": "Rocks, minerals and soil formation",
+    "slug": "ard-rocks-minerals-and-soil-formation-efcf3281",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "843fc8a7-4333-4abb-94ff-fd1368248a46",
+    "text": "Manures, fertilizers and biofertilizers",
+    "slug": "ard-manures-fertilizers-and-biofertilizers-baa7d9d5",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "cd8eba60-75a0-420a-b213-8de420de23e2",
+    "text": "Plant nutrients, their functions and deficiency symptoms",
+    "slug": "ard-plant-nutrients-their-functions-and-deficiency-symptoms-55b74392",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "4a877cc7-abc0-4163-9fb9-7fd2000b6702",
+    "text": "Soil conservation and erosion control",
+    "slug": "ard-soil-conservation-and-erosion-control-b50e6128",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "2ad78959-fd73-4e54-b3c3-b6127b4ffd98",
+    "text": "Soil moisture conservation practices",
+    "slug": "ard-soil-moisture-conservation-practices-bbf02983",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "26fec480-b396-43d1-891d-8bc0b24d5a30",
+    "text": "Soil health management and testing",
+    "slug": "ard-soil-health-management-and-testing-a8f440e2",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "c6f2420b-90f9-4510-9579-fed2249b046b",
+    "text": "Irrigation methods",
+    "slug": "ard-irrigation-methods-d3bd948d",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "877cb0e3-c1c7-4158-a635-690eb035a72c",
+    "text": "Irrigation projects and command area classification",
+    "slug": "ard-irrigation-projects-and-command-area-classification-657dc57b",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "c0d24159-25cd-445d-bbc6-728832228351",
+    "text": "Irrigation coverage and statistics",
+    "slug": "ard-irrigation-coverage-and-statistics-e7ab50cf",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "69c473a2-6bff-4c48-b309-9029f8e745c9",
+    "text": "Irrigation and groundwater schemes",
+    "slug": "ard-irrigation-and-groundwater-schemes-8c00e4e2",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "e67d442a-24ea-4920-87c2-b77af8ec6a2f",
+    "text": "Watershed management",
+    "slug": "ard-watershed-management-f736bee0",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "5b888ec9-1569-4ed0-b723-9e551c5b2989",
+    "text": "Agro-meteorology, rainfall and instruments",
+    "slug": "ard-agro-meteorology-rainfall-and-instruments-1970b919",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "ee02793f-50fe-4ef5-a734-389c7906da0b",
+    "text": "Climate change and emission reports",
+    "slug": "ard-climate-change-and-emission-reports-e3123cf2",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "16cf2f4b-67c1-442c-b92f-badde3dd5f22",
+    "text": "Irrigation engineering and lift irrigation",
+    "slug": "ard-irrigation-engineering-and-lift-irrigation-c3515ee1",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "3f1a7f36-2c18-4145-a3e4-0bac21a5c68b",
+    "text": "Horticulture production statistics",
+    "slug": "ard-horticulture-production-statistics-4130b769",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "d5facd8f-8d07-4922-b776-40d8eee61961",
+    "text": "Branches of horticulture",
+    "slug": "ard-branches-of-horticulture-f05380c6",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "47ed515d-e31c-4996-aea1-f7665a369a2f",
+    "text": "Scientific names of horticultural crops",
+    "slug": "ard-scientific-names-of-horticultural-crops-9e83e592",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "aa8c299f-4a40-4d5c-84f4-7d424c99228c",
+    "text": "Plant propagation methods",
+    "slug": "ard-plant-propagation-methods-51e57982",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "c0907f8c-4101-4509-a958-4b59a572bb3e",
+    "text": "Tissue culture and nursery techniques",
+    "slug": "ard-tissue-culture-and-nursery-techniques-e76e2be1",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "be85d287-69fe-49ff-8607-1dda2bfe4cd8",
+    "text": "Orchard planting systems",
+    "slug": "ard-orchard-planting-systems-764aa89e",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "58e20f14-ad39-486c-87d1-23bcd032f71f",
+    "text": "Training and pruning",
+    "slug": "ard-training-and-pruning-003a99a3",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "6010004a-bf6d-4db6-9487-7f32107d4d1f",
+    "text": "Plantation crop management",
+    "slug": "ard-plantation-crop-management-6adb2d38",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "2f1d3bfa-ddd2-425f-916e-f29913c0eb16",
+    "text": "Floriculture and flower export",
+    "slug": "ard-floriculture-and-flower-export-0064cb7d",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "12569d79-75a5-49c2-9a7e-8c767856094c",
+    "text": "Aromatic and medicinal plants",
+    "slug": "ard-aromatic-and-medicinal-plants-0b96b116",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "c33c0eb6-4a93-43aa-9dfc-571b43f805b8",
+    "text": "Post-harvest physiology, maturity and ripening",
+    "slug": "ard-post-harvest-physiology-maturity-and-ripening-b99c260f",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "c6ebe13d-7510-4c1e-95fa-74ea2b14f4e4",
+    "text": "Mushroom cultivation",
+    "slug": "ard-mushroom-cultivation-cc6618ae",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "eee0196c-9a64-43f1-bc38-b0e77473ff5e",
+    "text": "Horticulture information systems",
+    "slug": "ard-horticulture-information-systems-2cd5dc9f",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "ccf5fb0a-73f4-4969-a993-6d7d9bbcd876",
+    "text": "Horticulture development programmes",
+    "slug": "ard-horticulture-development-programmes-afcb6fe0",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "fcf38506-9e51-4dca-bdbe-878b006d780a",
+    "text": "Crop diseases and their causal agents",
+    "slug": "ard-crop-diseases-and-their-causal-agents-b59ad874",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "6840d7ac-777a-4024-ae2e-c53cb53ffc4f",
+    "text": "Crop pests and their management",
+    "slug": "ard-crop-pests-and-their-management-206db1af",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "82ddc866-0fc6-4c1c-9233-b40b3a1b0c58",
+    "text": "Cattle breeds",
+    "slug": "ard-cattle-breeds-c6fbb93e",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "cc9c9016-9240-4d13-956b-830ee380b547",
+    "text": "Sheep and goat breeds",
+    "slug": "ard-sheep-and-goat-breeds-8d8a2774",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "63270eb0-ec5d-4c78-9e7a-b6b7c7e25559",
+    "text": "Poultry breeds",
+    "slug": "ard-poultry-breeds-97ff7bd1",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "dc83f041-e5e3-4adf-89f8-80455cec19f1",
+    "text": "Poultry production and management",
+    "slug": "ard-poultry-production-and-management-23203b34",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "b8d5bb29-9307-4e11-9805-c1f269a3ef65",
+    "text": "Poultry housing systems",
+    "slug": "ard-poultry-housing-systems-b35c4156",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "9e04e1af-c82b-465c-9f5c-2d0d9bf006e9",
+    "text": "Livestock reproduction and gestation",
+    "slug": "ard-livestock-reproduction-and-gestation-af5125a2",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "c1faeb38-3982-4810-a1fb-3c9dedb97cce",
+    "text": "Dairy physiology and milk production",
+    "slug": "ard-dairy-physiology-and-milk-production-67b5201e",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "66d0f2a2-7b86-4c45-91e3-200c09285ff0",
+    "text": "Animal breeding methods",
+    "slug": "ard-animal-breeding-methods-4fd2ac1c",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "9e18528b-a603-4032-834d-6ec9be203f03",
+    "text": "Livestock terminology and management practices",
+    "slug": "ard-livestock-terminology-and-management-practices-8ac22bac",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "99cce517-c7b0-4f01-9ef2-b1c75569bae7",
+    "text": "Livestock and poultry diseases",
+    "slug": "ard-livestock-and-poultry-diseases-53ef1f4f",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "58d62c4e-fa96-4cd9-b858-fc269a89fb85",
+    "text": "Fodder crops and grasses",
+    "slug": "ard-fodder-crops-and-grasses-c1dff30e",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "e86d8867-5a86-49bd-925e-2a1b62dfe3e9",
+    "text": "Livestock sector contribution and statistics",
+    "slug": "ard-livestock-sector-contribution-and-statistics-e5b03188",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "20a9a4fa-564c-48a6-bfc8-4165c754c50b",
+    "text": "Fish species, breeds and migration",
+    "slug": "ard-fish-species-breeds-and-migration-d80fedd9",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "9f59031f-f098-4823-b077-2d65119af3b0",
+    "text": "Aquaculture systems and water quality",
+    "slug": "ard-aquaculture-systems-and-water-quality-8d07f0a7",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "6fc59f8f-06b0-4f72-867a-9d3bd44e5c3a",
+    "text": "Fish processing and post-harvest handling",
+    "slug": "ard-fish-processing-and-post-harvest-handling-563597fb",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "ff8e7327-e6f5-4b63-a6e5-653a200fea23",
+    "text": "Fisheries institutions and marine exports",
+    "slug": "ard-fisheries-institutions-and-marine-exports-48791a80",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "8d51c02d-55c2-456c-9cf3-1fcd1f895496",
+    "text": "Fisheries schemes and sector development",
+    "slug": "ard-fisheries-schemes-and-sector-development-9a439d6d",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "3b991e17-56af-488e-ad5e-b65fb0907df6",
+    "text": "Agroforestry systems",
+    "slug": "ard-agroforestry-systems-ef1aa2d0",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "6a50ceb9-80de-43a0-9f6d-02791f16682c",
+    "text": "Types of forestry and social forestry",
+    "slug": "ard-types-of-forestry-and-social-forestry-d739d142",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "2c6282c0-9d24-4452-82d4-57fe6495bfea",
+    "text": "Forest management and community forestry",
+    "slug": "ard-forest-management-and-community-forestry-39e845dd",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "0cb4578c-d1d6-4ec8-8f82-19fb4cd4b70b",
+    "text": "Forest cover and forest policy",
+    "slug": "ard-forest-cover-and-forest-policy-df1fa06d",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "a5154d87-b77f-45c1-a83d-3182ea0b1eb0",
+    "text": "Forest tree species and taxonomy",
+    "slug": "ard-forest-tree-species-and-taxonomy-4809d8c6",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "7f7fd3ee-56d0-408c-b195-dccb14e2eeb0",
+    "text": "Forest regeneration and nursery practice",
+    "slug": "ard-forest-regeneration-and-nursery-practice-9a601f5b",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "0630aa25-6472-403e-a3a4-fc1d3a0dfe43",
+    "text": "Production economics and factors of production",
+    "slug": "ard-production-economics-and-factors-of-production-fffc9645",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "ef08e350-4262-4608-af88-840b81d33e3c",
+    "text": "Farm management and cost accounting",
+    "slug": "ard-farm-management-and-cost-accounting-315421ce",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "22357aa2-c8bb-4f30-95f2-36a1004236b8",
+    "text": "Operational land holdings and farm size classification",
+    "slug": "ard-operational-land-holdings-and-farm-size-classification-b394fb0e",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "102804b0-13d0-47a0-96ed-de6cc028e08d",
+    "text": "Minimum Support Price and procurement",
+    "slug": "ard-minimum-support-price-and-procurement-08bf1b90",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "d4887bc0-3062-4436-ae79-cacf8c09e0d2",
+    "text": "Kisan Credit Card and agricultural credit targets",
+    "slug": "ard-kisan-credit-card-and-agricultural-credit-targets-1b663009",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "d5196064-f334-4725-803a-7e74e1b425f8",
+    "text": "Priority sector lending and RIDF",
+    "slug": "ard-priority-sector-lending-and-ridf-f05ce94f",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "b5dce0fd-9f1d-40c6-844b-3f3503f68be3",
+    "text": "NABARD and rural finance institutions",
+    "slug": "ard-nabard-and-rural-finance-institutions-2bee848c",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "273ecfb9-e81c-426e-aa8b-4ede2eb67521",
+    "text": "Crop insurance and yield thresholds",
+    "slug": "ard-crop-insurance-and-yield-thresholds-f90cc0f1",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "723d02b4-f442-4530-84e1-f57f15858b93",
+    "text": "e-NAM and agricultural marketing platforms",
+    "slug": "ard-e-nam-and-agricultural-marketing-platforms-3c1c5ff6",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "f6b62626-e91b-40e0-8a6e-a9aa5c8cccee",
+    "text": "Farmer Producer Organisations",
+    "slug": "ard-farmer-producer-organisations-8f479c20",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "1a8f7670-53ba-4b97-8a50-82c9a5cbf68d",
+    "text": "Value-chain and price stabilisation initiatives",
+    "slug": "ard-value-chain-and-price-stabilisation-initiatives-038079c6",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "56f59525-88a2-4951-862d-88bc7d422d5d",
+    "text": "Agriculture's contribution to gross value added",
+    "slug": "ard-agriculture-s-contribution-to-gross-value-added-22099611",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "4ae25a21-8514-427f-855d-9f93db330ab2",
+    "text": "Union Budget and agriculture allocations",
+    "slug": "ard-union-budget-and-agriculture-allocations-168cd03f",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "f70ed015-3c73-47a4-bd11-b2ec35338ff0",
+    "text": "Doubling farmers' income",
+    "slug": "ard-doubling-farmers-income-f022e57a",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "59426b01-cc08-4d8d-85b9-9668f95fbfee",
+    "text": "Agricultural revolutions",
+    "slug": "ard-agricultural-revolutions-f75a3ef4",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "1ef2d87a-8450-4fec-b77f-32e616a9b664",
+    "text": "Agricultural events and industry associations",
+    "slug": "ard-agricultural-events-and-industry-associations-5540f0f2",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "7e24fbed-8ce4-4cf1-946e-4f8e430b8e44",
+    "text": "MGNREGA",
+    "slug": "ard-mgnrega-e34273e0",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "f0597006-e1c9-45ef-983f-3dad314f7f17",
+    "text": "Self-help groups and DAY-NRLM",
+    "slug": "ard-self-help-groups-and-day-nrlm-e87b9d68",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "33e5ac65-b15e-4079-ad4b-e32675e4f168",
+    "text": "Rural roads and PMGSY",
+    "slug": "ard-rural-roads-and-pmgsy-2cb50665",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "eac19987-6d49-463e-9dd2-2821c14526e7",
+    "text": "Rural housing (PMAY-G)",
+    "slug": "ard-rural-housing-pmay-g-d529747c",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "5668bede-9b13-4bd9-92fe-4ef7c8bcee7f",
+    "text": "Sanitation and drinking water missions",
+    "slug": "ard-sanitation-and-drinking-water-missions-1e7dd5d7",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "8ada94bb-b65d-4607-a561-7d91e3e9a95d",
+    "text": "Food security and the public distribution system",
+    "slug": "ard-food-security-and-the-public-distribution-system-da810701",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "ef886720-44b2-4f09-af54-9bcdd10fe69b",
+    "text": "Direct income support to farmers",
+    "slug": "ard-direct-income-support-to-farmers-d6af2ca5",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "164e4a9f-8e9c-4ab4-82c7-cd4dbf6b1ee2",
+    "text": "Farmer welfare schemes and grievance portals",
+    "slug": "ard-farmer-welfare-schemes-and-grievance-portals-987321f6",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "76e7c1f9-6f93-4f8c-ae26-09979acb986f",
+    "text": "Solar energy schemes in agriculture",
+    "slug": "ard-solar-energy-schemes-in-agriculture-db3c8676",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "8e1188ee-6b95-4ef3-889a-02c6a00cde57",
+    "text": "Rural waste management and bioenergy",
+    "slug": "ard-rural-waste-management-and-bioenergy-10b2ffaf",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "e8a7b389-1b01-4024-93a9-e1bf79df8c81",
+    "text": "Panchayati Raj and rural governance",
+    "slug": "ard-panchayati-raj-and-rural-governance-18cc1263",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "e29b907e-bbcb-468e-bd6d-4c0e656db0ee",
+    "text": "Rural employment and training programmes",
+    "slug": "ard-rural-employment-and-training-programmes-45432315",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "6301c46d-2155-4c14-a8e4-25b86de9e301",
+    "text": "Rural artisan and handloom sector",
+    "slug": "ard-rural-artisan-and-handloom-sector-91744e34",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "3ef254ed-95da-4750-9976-ec845eca5cb6",
+    "text": "Rural demography and census",
+    "slug": "ard-rural-demography-and-census-5176c982",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "8a8a6a97-f141-4f6b-aa19-b9c277bba87c",
+    "text": "Farm implements and mechanisation",
+    "slug": "ard-farm-implements-and-mechanisation-635cd7ec",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "a7723c1a-4bd3-4660-a04f-48f45f7c48c6",
+    "text": "Tillage systems and practices",
+    "slug": "ard-tillage-systems-and-practices-14643597",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "69b1932f-2a22-418a-a1c0-eb371101df0d",
+    "text": "Farm power and rural electrification",
+    "slug": "ard-farm-power-and-rural-electrification-27dbf73c",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "efc748fc-956d-4f13-b913-4261e9d701a3",
+    "text": "Precision agriculture and digital tools",
+    "slug": "ard-precision-agriculture-and-digital-tools-67493941",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "691d05b7-bfdf-47d2-ac5e-36b937f2d3f6",
+    "text": "Post-harvest storage, grading and losses",
+    "slug": "ard-post-harvest-storage-grading-and-losses-cb1ee86d",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "db7456bd-c9cd-428e-8993-960a47662b61",
+    "text": "Extension teaching methods",
+    "slug": "ard-extension-teaching-methods-d65b9d96",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "400ce5b9-7934-4bda-bfb3-8501d9b20684",
+    "text": "Agricultural research and extension system",
+    "slug": "ard-agricultural-research-and-extension-system-ef3db2e9",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "f858f233-3a83-4ffa-972e-e02d7ebf56be",
+    "text": "Agricultural education and institutions",
+    "slug": "ard-agricultural-education-and-institutions-24849997",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "a25f874a-bed3-4919-b328-551a9b8ba918",
+    "text": "Scope and definition of agronomy",
+    "slug": "ard-scope-and-definition-of-agronomy-fd1e1c14",
+    "subject": "agriculture-rural-development"
+  },
+  {
+    "id": "3a0004f6-d89a-4f5f-b858-0dca53d6f277",
+    "text": "Communication register by relationship",
+    "slug": "communication-registers",
+    "subject": "english-language"
+  },
+  {
+    "id": "d1b7a3f9-84e1-4832-8d3f-ca851b844ce6",
+    "text": "Approximation with decimals and surds",
+    "slug": "qa-approximation-with-decimals-and-surds-5e910263",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "7e9de247-a854-4388-a44a-597c50de043a",
+    "text": "Missing-term simplification (find ?)",
+    "slug": "qa-missing-term-simplification-find-47d869c3",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "5d6007fc-1b29-498d-bd19-6a50b296f041",
+    "text": "BODMAS and order of operations",
+    "slug": "qa-bodmas-and-order-of-operations-eaf71d19",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "3a54536e-35fe-4c7a-949c-382476120f62",
+    "text": "Square roots, cube roots and powers",
+    "slug": "qa-square-roots-cube-roots-and-powers-f19808cb",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "48ff8201-3db5-4210-98f1-c89b35d5d955",
+    "text": "Fraction and percentage equivalents",
+    "slug": "qa-fraction-and-percentage-equivalents-475121ec",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "b0e8a0b7-df35-4f9e-9bdb-dfa6558e2b7a",
+    "text": "Number series ΓÇö arithmetic and difference patterns",
+    "slug": "qa-number-series-arithmetic-and-difference-patterns-130693e5",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "89b27d9f-7081-4930-9186-c41b93349e1a",
+    "text": "Number series ΓÇö multiplicative and mixed patterns",
+    "slug": "qa-number-series-multiplicative-and-mixed-patterns-340f34bd",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "7571611f-335f-419f-bb07-46408833d294",
+    "text": "Wrong-term series",
+    "slug": "qa-wrong-term-series-af3f2c81",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "14c51cd0-d60f-42bb-a584-89639d2306fa",
+    "text": "LCM, HCF and divisibility",
+    "slug": "qa-lcm-hcf-and-divisibility-bad12219",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "16630438-beb1-473f-b251-baccce8cd86a",
+    "text": "Sets of consecutive and patterned numbers",
+    "slug": "qa-sets-of-consecutive-and-patterned-numbers-57029c73",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "d98cdd8a-6f6a-420a-a477-e5385f96f029",
+    "text": "Remainders and factors",
+    "slug": "qa-remainders-and-factors-0faad1db",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "01f2ee8f-c655-4c2e-912e-e0f18a2d3201",
+    "text": "Quadratic equations ΓÇö root comparison (x vs y)",
+    "slug": "qa-quadratic-equations-root-comparison-x-vs-y-03936368",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "5194061c-a0ed-423e-aa9d-b3c774115dc8",
+    "text": "Linear equations in one and two variables",
+    "slug": "qa-linear-equations-in-one-and-two-variables-dbd6b335",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "a5ece133-4cad-4641-8caa-5e593c34e888",
+    "text": "Simultaneous equations from word conditions",
+    "slug": "qa-simultaneous-equations-from-word-conditions-29e84158",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "0683c41f-da6e-4738-872a-f2cd424de015",
+    "text": "Inequalities and relationship determination",
+    "slug": "qa-inequalities-and-relationship-determination-a6a6a638",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "e1fecd85-fe0d-4594-a851-40691666a7b4",
+    "text": "Algebraic identities and factorisation",
+    "slug": "qa-algebraic-identities-and-factorisation-e8595f7a",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "61f760f9-681d-4ec9-9c5c-bfe750fcf5fe",
+    "text": "Percentage increase and decrease",
+    "slug": "qa-percentage-increase-and-decrease-85f661e1",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "2ab2e850-22d2-4286-8b8e-5e40767657e3",
+    "text": "Successive percentage change",
+    "slug": "qa-successive-percentage-change-8a4031e7",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "ff082708-c649-46b6-980f-4a66363e6eab",
+    "text": "Percentage comparison ΓÇö what percent of / more than",
+    "slug": "qa-percentage-comparison-what-percent-of-more-than-b5ef5d48",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "10d8610d-9dbd-4f47-b301-1ed3c0d2dce6",
+    "text": "Income, expenditure and savings",
+    "slug": "qa-income-expenditure-and-savings-20025343",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "82ebea06-9d87-40af-b539-2a37c6024b12",
+    "text": "Population, strength and quantity change",
+    "slug": "qa-population-strength-and-quantity-change-e737e151",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "716450be-826f-428c-a51e-57101be2e9f9",
+    "text": "Cost price, selling price and margin",
+    "slug": "qa-cost-price-selling-price-and-margin-fa9cf244",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "f6a36919-07e6-46a8-ae43-e3c13d549c98",
+    "text": "Discount and marked price",
+    "slug": "qa-discount-and-marked-price-feadd5c6",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "fa8a4cb7-7670-4f67-b933-9e9e0d4ace77",
+    "text": "Combined transactions and overall gain",
+    "slug": "qa-combined-transactions-and-overall-gain-229905cb",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "aca7c90a-40a6-436a-98f2-92b678f173ba",
+    "text": "Equal profit and loss conditions",
+    "slug": "qa-equal-profit-and-loss-conditions-cdaceb4b",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "9ea559c5-2c7b-49b4-8ab0-98938fd471df",
+    "text": "Simple and compound interest",
+    "slug": "qa-simple-and-compound-interest-ee6f76e4",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "74799854-a84e-4607-844e-afb8c50b7bc0",
+    "text": "Simple and compound ratio",
+    "slug": "qa-simple-and-compound-ratio-ae9a2833",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "7d94ff40-34f9-47fe-9caa-9eae0dc38116",
+    "text": "Mixtures and alligation",
+    "slug": "qa-mixtures-and-alligation-921971ac",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "bb343a30-e26e-474a-9ab7-6ecab8e6931b",
+    "text": "Partnership and profit sharing",
+    "slug": "qa-partnership-and-profit-sharing-055fa70d",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "cd574056-f811-4f7b-8fdd-a4e37d0c9772",
+    "text": "Ages ΓÇö present, past and future",
+    "slug": "qa-ages-present-past-and-future-0a8b95a2",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "528ffbb5-94cb-438d-a875-c854d0f65ec5",
+    "text": "Averages ΓÇö simple and weighted",
+    "slug": "qa-averages-simple-and-weighted-1f479970",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "c2079ba4-41e3-4db0-908b-a6fd4a550cab",
+    "text": "Proportional division of quantities",
+    "slug": "qa-proportional-division-of-quantities-14622c51",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "f5c68108-e718-4a7e-b546-d07e543534b5",
+    "text": "Relative speed and meeting problems",
+    "slug": "qa-relative-speed-and-meeting-problems-4f10cb81",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "d1979e85-7942-4fdd-a5fa-b1d2e29f5977",
+    "text": "Boats and streams",
+    "slug": "qa-boats-and-streams-652dae37",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "9a417628-ca65-4a32-bac1-87c365f40334",
+    "text": "Trains ΓÇö crossing platforms and each other",
+    "slug": "qa-trains-crossing-platforms-and-each-other-fbf3e1f2",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "e2fc8cb4-eb3e-41dc-b14d-70ea45e8ad4d",
+    "text": "Average speed and journey segments",
+    "slug": "qa-average-speed-and-journey-segments-5db28484",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "caab5701-fc1c-40ff-8286-aa93175b0233",
+    "text": "Races and circular tracks",
+    "slug": "qa-races-and-circular-tracks-ee936ee3",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "9da6f0b1-57ff-4a8b-a0e7-40f85cee7b22",
+    "text": "Individual and combined work rates",
+    "slug": "qa-individual-and-combined-work-rates-f1d3f896",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "d8355e58-6c85-48c8-9878-318ba0a41772",
+    "text": "Efficiency comparison and relative capacity",
+    "slug": "qa-efficiency-comparison-and-relative-capacity-7ef5386a",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "21fb2f26-ef41-477c-a8eb-2717f20b6083",
+    "text": "Pipes and cisterns",
+    "slug": "qa-pipes-and-cisterns-567ce8e0",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "c31985e0-3cff-4a90-b5ac-438e656ee509",
+    "text": "Partial work and remaining-work problems",
+    "slug": "qa-partial-work-and-remaining-work-problems-3868d723",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "424d99d5-720f-409e-ba66-8660ac95a486",
+    "text": "Area and perimeter ΓÇö rectangle, square, triangle",
+    "slug": "qa-area-and-perimeter-rectangle-square-triangle-e23db61d",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "a704c46a-26db-43f5-9ece-3e339a15ac3b",
+    "text": "Circle ΓÇö area, circumference and sectors",
+    "slug": "qa-circle-area-circumference-and-sectors-e98b662b",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "c2384cfd-529f-4f48-8d67-33fb2e5ce9fb",
+    "text": "Reshaping and equal-perimeter problems",
+    "slug": "qa-reshaping-and-equal-perimeter-problems-ef477223",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "c5d44e15-072a-4557-ad7d-f61221fe61c7",
+    "text": "Volume and surface area of solids",
+    "slug": "qa-volume-and-surface-area-of-solids-42588cef",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "2677eb4d-bfd9-4bb5-a369-169601b4014c",
+    "text": "Coordinate and line geometry",
+    "slug": "qa-coordinate-and-line-geometry-eb041f58",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "ce23f17b-f621-46b0-bb72-fc926a0be3d4",
+    "text": "Tabular data interpretation",
+    "slug": "qa-tabular-data-interpretation-e6e4b3de",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "598ad90c-f128-40b5-a67b-42de3bbf993d",
+    "text": "Pie chart interpretation",
+    "slug": "qa-pie-chart-interpretation-32cf3346",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "50745fc5-924b-470a-bee7-27cf2f458521",
+    "text": "Bar and line graph interpretation",
+    "slug": "qa-bar-and-line-graph-interpretation-35302e14",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "2fd766ca-2573-4fee-99c2-fa88df93628f",
+    "text": "Caselet data interpretation",
+    "slug": "qa-caselet-data-interpretation-372ea92b",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "1c2f9218-9361-4ee9-84cd-f830a30c648a",
+    "text": "Mixed and combined DI",
+    "slug": "qa-mixed-and-combined-di-4edc5bb5",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "f0e0d76d-38ed-4b29-85db-ae678611b715",
+    "text": "Data sufficiency",
+    "slug": "qa-data-sufficiency-0fd64dd8",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "cd48d660-2fee-415a-8bd5-e6e78324d73c",
+    "text": "Linear row ΓÇö single row, one direction",
+    "slug": "reas-linear-row-single-row-one-direction-3c93ae0f",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "c7ccbff3-da69-4369-90fe-f5f8b13ff7b9",
+    "text": "Linear row ΓÇö facing both directions",
+    "slug": "reas-linear-row-facing-both-directions-08c55ceb",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "49d20336-ad3d-48c7-b172-fdd9c3d17e7f",
+    "text": "Circular arrangement ΓÇö facing centre",
+    "slug": "reas-circular-arrangement-facing-centre-49054cf2",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "b2e396d9-e67b-4242-904e-7424662e7615",
+    "text": "Circular arrangement ΓÇö mixed facing",
+    "slug": "reas-circular-arrangement-mixed-facing-5596b070",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "8f2e1cb0-8b2b-4ffc-a0fb-9cfec07c69c9",
+    "text": "Row with unknown number of persons",
+    "slug": "reas-row-with-unknown-number-of-persons-cb13e578",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "fbcc6e0e-45b8-4e93-88ab-38bb435e0ec8",
+    "text": "Square and rectangular arrangement",
+    "slug": "reas-square-and-rectangular-arrangement-18e7b720",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "de689596-235b-4ead-8ba1-3431e1189e98",
+    "text": "Floor puzzle",
+    "slug": "reas-floor-puzzle-1df93898",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "c26f0386-26ac-4035-96d6-3522f658cb19",
+    "text": "Floor and flat double-variable puzzle",
+    "slug": "reas-floor-and-flat-double-variable-puzzle-fd87d2ea",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "93f445b2-4db4-45b1-acc5-b1bb8c21dc17",
+    "text": "Box and stack puzzle",
+    "slug": "reas-box-and-stack-puzzle-60988bfb",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "6e107aa5-c9e0-4888-a7e9-862e98bea935",
+    "text": "Month and date scheduling puzzle",
+    "slug": "reas-month-and-date-scheduling-puzzle-3404d95a",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "cefdf13b-9b68-489e-b5b2-e3d171d70f2c",
+    "text": "Day and week scheduling puzzle",
+    "slug": "reas-day-and-week-scheduling-puzzle-076b2549",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "da8b77aa-4e53-4876-be17-f8f96e1f2913",
+    "text": "Category and attribute matching puzzle",
+    "slug": "reas-category-and-attribute-matching-puzzle-e5f2f3ac",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "0140aef7-82c3-45de-be0d-e9286820ee7f",
+    "text": "Odd-one-out within an arrangement",
+    "slug": "reas-odd-one-out-within-an-arrangement-8a59afe3",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "e8565eaf-c332-47da-97ab-b50aff00ac13",
+    "text": "Two-statement syllogism",
+    "slug": "reas-two-statement-syllogism-7f65e035",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "ee63d21f-3ff5-4193-975f-7e6c04a59c89",
+    "text": "Three or more statement syllogism",
+    "slug": "reas-three-or-more-statement-syllogism-e8800438",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "993efa09-2f9d-42be-a0b3-b6c912e0f07c",
+    "text": "Possibility conclusions",
+    "slug": "reas-possibility-conclusions-b7cd9da3",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "b46402a0-947a-4fed-a122-1e655785e683",
+    "text": "Only and only-a-few statements",
+    "slug": "reas-only-and-only-a-few-statements-d42e0ef7",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "a75da08f-fca8-421c-85ce-65d1b6e2c3a5",
+    "text": "Either-or and complementary pairs",
+    "slug": "reas-either-or-and-complementary-pairs-52508ad3",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "08bdcee9-fc28-4eb1-a2de-75a99969f042",
+    "text": "Direct coded inequality",
+    "slug": "reas-direct-coded-inequality-4e115de6",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "15e7768f-f126-4030-a227-218a815ea259",
+    "text": "Multi-chain inequality with linked variables",
+    "slug": "reas-multi-chain-inequality-with-linked-variables-26ae9265",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "22d83867-ab62-406d-830c-79336e4e5aeb",
+    "text": "Either-or conclusions in inequality",
+    "slug": "reas-either-or-conclusions-in-inequality-0a9ae6c4",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "ed3eadd3-5574-4043-a2e4-2bfde047b9c1",
+    "text": "Symbol-substitution inequality",
+    "slug": "reas-symbol-substitution-inequality-92327ea2",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "7c2c5a3a-3a83-479b-9814-8f1dab3d5a35",
+    "text": "Direct relation from a description",
+    "slug": "reas-direct-relation-from-a-description-e0847737",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "652eb8c7-a25a-48c1-b51d-ddf64f8ede1b",
+    "text": "Family tree puzzle with generations",
+    "slug": "reas-family-tree-puzzle-with-generations-78d7886d",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "258d7491-2b80-469d-84c9-6f9ee74b1e4d",
+    "text": "Coded blood relation",
+    "slug": "reas-coded-blood-relation-c6693c9c",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "f62fb498-ea86-49f8-8bc3-4f77c9a485d6",
+    "text": "Relation with gender ambiguity",
+    "slug": "reas-relation-with-gender-ambiguity-0d4e3334",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "e7dfdb22-8ee7-445d-9f0a-e27ccf215314",
+    "text": "Letter-to-symbol coding",
+    "slug": "reas-letter-to-symbol-coding-35896380",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "2ba3fb21-1709-4d8b-9059-bbfee5264d8f",
+    "text": "Letter shifting and alphabet position",
+    "slug": "reas-letter-shifting-and-alphabet-position-e476a433",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "a4dddc0f-e194-4eb6-bfc6-078240c8d4f0",
+    "text": "Number and digit coding",
+    "slug": "reas-number-and-digit-coding-722eaafb",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "388d6536-63d3-4012-9f98-4adbf51dbb67",
+    "text": "Conditional coding with rules",
+    "slug": "reas-conditional-coding-with-rules-0b7eaac9",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "479587ab-2cef-4046-9da4-c0ca924e8ef6",
+    "text": "Word formation from given letters",
+    "slug": "reas-word-formation-from-given-letters-3a6e82a0",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "c2de8b3d-f79b-47b4-9b9e-5199a2230dbf",
+    "text": "Path tracing and final position",
+    "slug": "reas-path-tracing-and-final-position-11904573",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "09eef279-390d-4889-a8fb-81c6961bee8a",
+    "text": "Shortest distance by Pythagoras",
+    "slug": "reas-shortest-distance-by-pythagoras-3a8e0d2c",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "55cde475-d4af-4ff7-b347-b51066736cab",
+    "text": "Direction of one point relative to another",
+    "slug": "reas-direction-of-one-point-relative-to-another-783ac0e9",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "86416829-056a-4934-aa07-ef7d78cd9171",
+    "text": "Two-person path problems",
+    "slug": "reas-two-person-path-problems-c50164bd",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "daa9cd63-0fdb-4798-8969-5ce292b31a76",
+    "text": "Position from either end",
+    "slug": "reas-position-from-either-end-8ab86a4c",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "bf9142fc-f9fd-49e5-85ba-1431680791e5",
+    "text": "Comparison and ordering by attribute",
+    "slug": "reas-comparison-and-ordering-by-attribute-d24d90e3",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "d6719f2f-0906-4aab-a3f7-7348c1e4fd5b",
+    "text": "Total-count deduction from positions",
+    "slug": "reas-total-count-deduction-from-positions-8130a2b3",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "beb3ca2b-9796-4686-89bd-e643ebb270b1",
+    "text": "Age and height ordering",
+    "slug": "reas-age-and-height-ordering-9e5c27d9",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "4990ee6f-b419-42e9-8ee0-e52d5630d3a4",
+    "text": "Shifting and rearrangement machine",
+    "slug": "reas-shifting-and-rearrangement-machine-9b0cb8fb",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "dad69132-676d-4a7b-be3d-1da364bd36f9",
+    "text": "Arithmetic operation machine",
+    "slug": "reas-arithmetic-operation-machine-258cf421",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "4ba00176-6b3d-4873-ae98-62b2fb33fecf",
+    "text": "Step count and intermediate-step questions",
+    "slug": "reas-step-count-and-intermediate-step-questions-790ddbf0",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "7d5a08c1-a3ac-4337-8f3e-28b5762b1857",
+    "text": "Alphabet series",
+    "slug": "reas-alphabet-series-b3b70d39",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "ba50fea4-a0f8-4254-9e5c-dbd2046eacdc",
+    "text": "Alphanumeric and mixed series",
+    "slug": "reas-alphanumeric-and-mixed-series-74351adc",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "90a4700b-5c25-481c-a0b0-07b51e1dc28c",
+    "text": "Letter and digit pair counting",
+    "slug": "reas-letter-and-digit-pair-counting-8acc9fe0",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "951e2be1-ea05-4684-8264-3f38ccf9bf97",
+    "text": "Word and meaning analogy",
+    "slug": "reas-word-and-meaning-analogy-101b7b75",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "e380c325-7879-4dca-9efc-a587a9499da0",
+    "text": "Number and letter analogy",
+    "slug": "reas-number-and-letter-analogy-2d75e3a9",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "ebb5aad8-4088-4f4f-b2a9-0506b1a55072",
+    "text": "Odd one out from a list",
+    "slug": "reas-odd-one-out-from-a-list-f44030fa",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "71faffff-a24e-49ae-918e-1216b65553d8",
+    "text": "Statement and argument ΓÇö strong or weak",
+    "slug": "reas-statement-and-argument-strong-or-weak-c34d0b36",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "fc3e9289-0478-4a6c-a0e8-1f6f3f79f82a",
+    "text": "Statement and assumption",
+    "slug": "reas-statement-and-assumption-f8aa8582",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "7a2c2e52-c0f0-4a62-bb28-69fe43fbd971",
+    "text": "Cause and effect",
+    "slug": "reas-cause-and-effect-645e5e25",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "eccadce1-2c9a-4672-9eef-65ee4bfaeb84",
+    "text": "Course of action",
+    "slug": "reas-course-of-action-3f7e5981",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "75d64ae7-691e-4226-9c46-05d217805e7d",
+    "text": "Statement and inference",
+    "slug": "reas-statement-and-inference-65cdc759",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "3b2102a2-bd53-42bb-82c5-a617816fa09b",
+    "text": "Strengthening and weakening an argument",
+    "slug": "reas-strengthening-and-weakening-an-argument-d884876b",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "6a36422b-68e6-409f-863a-bb3812a9ff7c",
+    "text": "Figure series and pattern completion",
+    "slug": "reas-figure-series-and-pattern-completion-f9140d07",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "dbcd498e-6fc8-4e93-a950-c3309a430a27",
+    "text": "Mirror, water image and paper folding",
+    "slug": "reas-mirror-water-image-and-paper-folding-a18a0c58",
+    "subject": "general-intelligence-reasoning"
+  },
+  {
+    "id": "2416c0e0-a68f-45a9-9d66-9b8910ac3e9e",
+    "text": "Tools of communication and their purpose",
+    "slug": "communication-tools",
+    "subject": "english-language"
+  },
+  {
+    "id": "fa2ead71-59b9-4417-b71f-1f623d2c02c9",
+    "text": "Barriers to communication",
+    "slug": "communication-barriers",
+    "subject": "english-language"
+  },
+  {
+    "id": "de0e24eb-5c25-4e0f-8eeb-325b8732f9cc",
+    "text": "Permutations, combinations and counting",
+    "slug": "permutations-and-combinations",
+    "subject": "quantitative-aptitude"
+  },
+  {
+    "id": "484fbb39-85bd-4c88-88b3-9426befa6b49",
+    "text": "Clocks and calendars",
+    "slug": "clocks-and-calendars",
+    "subject": "quantitative-aptitude"
+  }
+]
