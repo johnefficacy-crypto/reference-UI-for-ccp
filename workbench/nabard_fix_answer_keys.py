@@ -197,6 +197,85 @@ def verify(api_base: str, token: str, code: str) -> int:
     return 0 if not bad else 5
 
 
+def emit_sql(api_base: str, token: str, only: str | None, out: Path) -> int:
+    """Write the repair as a migration in the shape of 268_answer_key_migration.sql.
+
+    Two UPDATEs in one transaction: pyq_options.is_correct, then
+    pyq_questions.correct_option_id. That is the only way correct_option_id can
+    be set -- no API path writes it -- and it is what the UPSC corpus already
+    did, so NABARD ends up matching rather than half-keyed.
+    """
+    api_base = api_base.rstrip("/")
+    expected = expected_keys()
+    live = existing_paper_codes(api_base, token)
+    codes = [only] if only else sorted(c for c in expected if c in live)
+    pairs: list[tuple[str, str, str, str]] = []   # (question_id, option_id, code, ref)
+    unmatched: list[str] = []
+
+    for code in codes:
+        if code not in live:
+            unmatched.append(f"{code}: not loaded")
+            continue
+        want = expected[code]
+        for q in fetch_questions(api_base, token, live[code]):
+            ref = q.get("source_question_ref")
+            target = want.get(ref)
+            if not target:
+                unmatched.append(f"{code} {ref}: no expected key")
+                continue
+            keyed = [o for o in fetch_options(api_base, token, q["id"])
+                     if (o.get("option_label") or "").upper() == target]
+            if len(keyed) != 1:
+                unmatched.append(f"{code} {ref}: no unique option labelled {target}")
+                continue
+            pairs.append((q["id"], keyed[0]["id"], code, ref))
+
+    if not pairs:
+        print("nothing to emit", file=sys.stderr)
+        return 5
+
+    body = [
+        "-- Answer keys for NABARD Grade A, Phase I and Phase II, 2020-2023.",
+        "--",
+        "-- Source: the answer key printed against each question in the compendium",
+        "-- (docs/reference/pyq/NABARD-Grade-A-PYQ.pdf), carried through",
+        "-- workbench/nabard_blocks.json as answer_label and matched here to the",
+        "-- loaded option by (source_question_ref, option_label).",
+        "--",
+        "-- The load went through the generic CMS bulk import, which writes neither",
+        "-- is_correct reliably nor correct_option_id at all, so every NABARD question",
+        "-- landed keyless. Same shape as 268_answer_key_migration.sql, which repaired",
+        "-- the UPSC corpus after the identical gap.",
+        "--",
+        f"-- {len(pairs)} questions keyed."
+        + (f" {len(unmatched)} unmatched and deliberately absent." if unmatched else ""),
+        "",
+        "BEGIN;",
+        "",
+        "UPDATE public.pyq_options o",
+        "SET is_correct = true",
+        "FROM (VALUES",
+        ",\n".join(f"  ('{oid}'::uuid)" for _, oid, _, _ in pairs),
+        ") AS v(option_id)",
+        "WHERE o.id = v.option_id;",
+        "",
+        "UPDATE public.pyq_questions q",
+        "SET correct_option_id = v.option_id",
+        "FROM (VALUES",
+        ",\n".join(f"  ('{qid}'::uuid, '{oid}'::uuid)" for qid, oid, _, _ in pairs),
+        ") AS v(question_id, option_id)",
+        "WHERE q.id = v.question_id;",
+        "",
+        "COMMIT;",
+        "",
+    ]
+    out.write_text("\n".join(body), encoding="utf-8")
+    print(f"wrote {out}: {len(pairs)} question(s) keyed, {len(unmatched)} unmatched")
+    for u in unmatched[:10]:
+        print("  ⚠", u)
+    return 0
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--api-base", required=True)
@@ -205,10 +284,14 @@ def main() -> int:
     ap.add_argument("--apply", action="store_true")
     ap.add_argument("--confirm", action="store_true")
     ap.add_argument("--verify", metavar="PAPER_CODE", help="post-repair proof for one paper")
+    ap.add_argument("--emit-sql", metavar="FILE",
+                    help="write a migration-268-shaped repair (is_correct + correct_option_id)")
     args = ap.parse_args()
 
     if args.verify:
         return verify(args.api_base, args.token, args.verify)
+    if args.emit_sql:
+        return emit_sql(args.api_base, args.token, args.paper, Path(args.emit_sql))
     if args.apply and not args.confirm:
         print("--apply needs --confirm", file=sys.stderr)
         return 2
